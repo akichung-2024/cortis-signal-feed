@@ -1,4 +1,1210 @@
 {
-  "updatedAt": "2026-10-19T08:17:42.127633+00:00",
-  "items": []
+  "updatedAt": "2026-10-19T09:48:08.206436+00:00",
+  "status": "ok",
+  "count": 80,
+  "items": [
+    {
+      "id": "d9b83876ebec47db02fa",
+      "title": "[2026 차세대 리더-문화예술] 코르티스 가수 - 시사저널",
+      "description": "[2026 차세대 리더-문화예술] 코르티스 가수 시사저널",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tN3ltWEZpZVo1cVo0bWpnalA2QXFnZ1p3WGlmeUlsM2hZdjZJRGp0RTY5dTlVenFLMWhxZVZsRWtlMlczNEpNaGl2UW5oRWZxN1YwNEZjNlhfVVdmWW5CRHpvRGk4RGg5TF8ycFJWa9IBc0FVX3lxTE9wS3RfMWFNSE1SR2gzdWgzd0Zkc2RtZUlGTWNBZE1nbmJ3THo4X2x1enRmc2VJaHJsRE02bmlNQ1NYeU9IeWd2T0JVX3hVSVFlX3Y2X0RpcEpMTExGVEZiSXNyelRnYzBnLVhWUkdTdmhtRFk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tN3ltWEZpZVo1cVo0bWpnalA2QXFnZ1p3WGlmeUlsM2hZdjZJRGp0RTY5dTlVenFLMWhxZVZsRWtlMlczNEpNaGl2UW5oRWZxN1YwNEZjNlhfVVdmWW5CRHpvRGk4RGg5TF8ycFJWa9IBc0FVX3lxTE9wS3RfMWFNSE1SR2gzdWgzd0Zkc2RtZUlGTWNBZE1nbmJ3THo4X2x1enRmc2VJaHJsRE02bmlNQ1NYeU9IeWd2T0JVX3hVSVFlX3Y2X0RpcEpMTExGVEZiSXNyelRnYzBnLVhWUkdTdmhtRFk?oc=5",
+      "source": "시사저널",
+      "publishedAt": "2026-10-19T06:00:00+00:00",
+      "date": "2026-10-19T06:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b3adc1cf5d7921a1f8dd",
+      "title": "NCT DREAM·라이즈·에스파·아이브·코르티스 총출동…MMA2026, 오늘 오후 8시 예매 시작 - 스포츠서울",
+      "description": "NCT DREAM·라이즈·에스파·아이브·코르티스 총출동…MMA2026, 오늘 오후 8시 예매 시작 스포츠서울",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ObHpMWlBqTmJaTE9rbFZidVRxaF9NX2N1cnF2NERkSzJnN3ZLb2hELUdObnhsUVBxNWM0NUZEeTdzMXlVZzB5ZGUwWTdnLU5vVWxxSEI2NUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ObHpMWlBqTmJaTE9rbFZidVRxaF9NX2N1cnF2NERkSzJnN3ZLb2hELUdObnhsUVBxNWM0NUZEeTdzMXlVZzB5ZGUwWTdnLU5vVWxxSEI2NUQ?oc=5",
+      "source": "스포츠서울",
+      "publishedAt": "2026-10-19T01:35:25+00:00",
+      "date": "2026-10-19T01:35:25+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "0e7d05935e236205636f",
+      "title": "코르티스 커뮤니티 포스트 - 재밌게 Nol았다 - 성현 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - 재밌게 Nol았다 - 성현 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44Y0RHRXVmbDBfdnBrSC14ZnlrUWZPVEJDdHZKQl90NFgtWDloMV93U3BYSnZLUGE3THZYZW01dXJNVVRVenZKSUxsQ1hCQzJ0SW9UVnhyQ1JvemZBRW84?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44Y0RHRXVmbDBfdnBrSC14ZnlrUWZPVEJDdHZKQl90NFgtWDloMV93U3BYSnZLUGE3THZYZW01dXJNVVRVenZKSUxsQ1hCQzJ0SW9UVnhyQ1JvemZBRW84?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-10-19T01:14:28+00:00",
+      "date": "2026-10-19T01:14:28+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "0c34f880d52a4806effa",
+      "title": "지오디·코르티스 떼창에 밤샘 EDM…제대로 '놀'았다 - 아시아경제",
+      "description": "지오디·코르티스 떼창에 밤샘 EDM…제대로 '놀'았다 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tRzRLWEpTczN6QnYyTkFwMWpvbWtVN0NlYUJGRUJMemxLRExrX25QeW5sdnIwWVJiUG1nZkt0djMyUWpYWUo2MVF1VjB0N3NsVVBGYXZ5eUJLQjR2VDVpeQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tRzRLWEpTczN6QnYyTkFwMWpvbWtVN0NlYUJGRUJMemxLRExrX25QeW5sdnIwWVJiUG1nZkt0djMyUWpYWUo2MVF1VjB0N3NsVVBGYXZ5eUJLQjR2VDVpeQ?oc=5",
+      "source": "아시아경제",
+      "publishedAt": "2026-10-19T00:33:26+00:00",
+      "date": "2026-10-19T00:33:26+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "13d1d0f2457f302666a3",
+      "title": "코르티스 '미국 일정도 파이팅!'[★영상] - 스타뉴스",
+      "description": "코르티스 '미국 일정도 파이팅!'[★영상] 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2amlkZXRBenRxcWMzSkdReGZ6azlaMk5WOWR1R3h1M1V0VDR4NzNIdXdBdWtlcWFtT0pHc3pNdm9zVzZWM2VybmFUUVp1WjhzMlA3eDBnNVliRE95bTB1M1lNa1VQeURneldhRkYwSERlUGtS?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2amlkZXRBenRxcWMzSkdReGZ6azlaMk5WOWR1R3h1M1V0VDR4NzNIdXdBdWtlcWFtT0pHc3pNdm9zVzZWM2VybmFUUVp1WjhzMlA3eDBnNVliRE95bTB1M1lNa1VQeURneldhRkYwSERlUGtS?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-18T09:20:10+00:00",
+      "date": "2026-10-18T09:20:10+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "bf2523f70e34453c21d9",
+      "title": "코르티스 '미국 일정도 파이팅!' [STARPIC] CORTIS Departure at Incheon Airport 20261018 - 스타뉴스",
+      "description": "코르티스 '미국 일정도 파이팅!' [STARPIC] CORTIS Departure at Incheon Airport 20261018 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oR1BiS3JvamtaMzN0Vi1xWFRKZm5KMWhhbEtOYXJDN0JCUGw5cldNU1FQVzEwOWRBVDFTUnlKWE5kZC1tckdPWnVIa0tUZHpvVGlBLWhzTnBETDRH?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oR1BiS3JvamtaMzN0Vi1xWFRKZm5KMWhhbEtOYXJDN0JCUGw5cldNU1FQVzEwOWRBVDFTUnlKWE5kZC1tckdPWnVIa0tUZHpvVGlBLWhzTnBETDRH?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-18T00:15:12+00:00",
+      "date": "2026-10-18T00:15:12+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "fde803f4c63bb513fbe1",
+      "title": "261017 CORTIS(코르티스) Full Ver. @ NOL FESTIVAL(놀 페스티벌) K-POP STAGE - YouTube",
+      "description": "261017 CORTIS(코르티스) Full Ver. @ NOL FESTIVAL(놀 페스티벌) K-POP STAGE YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3b1JON0NrakEtQUQ2NWZJLXZ5Qks5R1ItaXlyeTlocTBLNm5jRFRyWHJKcGoxRVpUNy1JNW96R0c4LUdvbmZDN20xQlp6MlFWWUxzcFZ3REZBUGdr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3b1JON0NrakEtQUQ2NWZJLXZ5Qks5R1ItaXlyeTlocTBLNm5jRFRyWHJKcGoxRVpUNy1JNW96R0c4LUdvbmZDN20xQlp6MlFWWUxzcFZ3REZBUGdr?oc=5",
+      "source": "YouTube",
+      "publishedAt": "2026-10-17T17:50:45+00:00",
+      "date": "2026-10-17T17:50:45+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "485874140fb67fecae56",
+      "title": "“넵 확인했습니다” 코르티스 마틴, 위버스에 직원 메시지 복붙 실수… “귀엽다”vs”깬다” 엇갈려 - 일간스포츠",
+      "description": "“넵 확인했습니다” 코르티스 마틴, 위버스에 직원 메시지 복붙 실수… “귀엽다”vs”깬다” 엇갈려 일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWjZTS1JELXdpcE16cFpwQXBUSl9pY202SmlvYTNaeE8wc281a0RSN2dmN2ZnREU2Nm41aktsZk9GOU53eFpzZ3hOUHNRZmtxdkRUaFNOVmVkQUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWjZTS1JELXdpcE16cFpwQXBUSl9pY202SmlvYTNaeE8wc281a0RSN2dmN2ZnREU2Nm41aktsZk9GOU53eFpzZ3hOUHNRZmtxdkRUaFNOVmVkQUE?oc=5",
+      "source": "일간스포츠",
+      "publishedAt": "2026-10-17T08:42:00+00:00",
+      "date": "2026-10-17T08:42:00+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "945794a86aa2485ff9ca",
+      "title": "‘하이브 신인’ 코르티스, SNS에 업무 지시문 박제 참사…“영혼 없는 복사” 일파만파 - 스포츠경향",
+      "description": "‘하이브 신인’ 코르티스, SNS에 업무 지시문 박제 참사…“영혼 없는 복사” 일파만파 스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HYzJ2QkF6UmJrcVN6SVByUFBBWXpRYjRSdzMxYVcwZjN5b2ZRbk1vQnBmRGdpdUlCZ3Y5cC1SRlNINmxiMUIyakxocFc0dlFYWUR3dWtZSGJER25zMUHSAWNBVV95cUxNNkZWMjN5UFRYX2ZhVUFhYTFkaWNGU2Z0ZXRMdXIxY0prV3dhcm1zSU02dTBUYVJkbDlEU2JVY0pLV0lMRmVPWUNuR25pdm5yQVUzNXdfSDEzcUU4ZWZvM3FGNzQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HYzJ2QkF6UmJrcVN6SVByUFBBWXpRYjRSdzMxYVcwZjN5b2ZRbk1vQnBmRGdpdUlCZ3Y5cC1SRlNINmxiMUIyakxocFc0dlFYWUR3dWtZSGJER25zMUHSAWNBVV95cUxNNkZWMjN5UFRYX2ZhVUFhYTFkaWNGU2Z0ZXRMdXIxY0prV3dhcm1zSU02dTBUYVJkbDlEU2JVY0pLV0lMRmVPWUNuR25pdm5yQVUzNXdfSDEzcUU4ZWZvM3FGNzQ?oc=5",
+      "source": "스포츠경향",
+      "publishedAt": "2026-10-17T08:30:00+00:00",
+      "date": "2026-10-17T08:30:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "ac5dbff8df10f9043422",
+      "title": "코르티스 성현의 추구미는 마틴? 성현을 둘러싼 소문의 진실 | FAKE NEWS - Vogue korea",
+      "description": "코르티스 성현의 추구미는 마틴? 성현을 둘러싼 소문의 진실 | FAKE NEWS Vogue korea",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPN0VTYUJ1ajB4a1Z2azdteWJwbWY5XzQ5V1RvdGdkakM0eERVYy1TRlR5WXVSc0RYczBxRTBxeTZSR0tJcnZzUkFFQTZabktnWi1JNkhVem5NUDVaYi1XU1EtMkYtWVlwd1BFUEg0b21xdm16NGNyYWk3SHVJNVh2VHZYQ1A4V0lacXAwVnJQMmJNRTlES3NxaW5YSFVLYWFnSVNYM2paTWozT25GYTc1clFxcHEzYXlGUFkxQWcwNXFtdG5RaVIwSDVFbUFIb2lCZ3VyLWRVcFZPZ1hFZHVxZ3NhV25IXzRRai0wTzVGeGxWcmlTWkhjRTh4c1ZUbFdoR1VEdU5peTIzQ2pVRlBqYjJobGtuZUw2dVpmOXljVktmMl9JV2RzLV9PLV9yOG0tY1JveW85YmFIR2tLeTZzRjFFaWY1dXZ0YlU3UFFYWTI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPN0VTYUJ1ajB4a1Z2azdteWJwbWY5XzQ5V1RvdGdkakM0eERVYy1TRlR5WXVSc0RYczBxRTBxeTZSR0tJcnZzUkFFQTZabktnWi1JNkhVem5NUDVaYi1XU1EtMkYtWVlwd1BFUEg0b21xdm16NGNyYWk3SHVJNVh2VHZYQ1A4V0lacXAwVnJQMmJNRTlES3NxaW5YSFVLYWFnSVNYM2paTWozT25GYTc1clFxcHEzYXlGUFkxQWcwNXFtdG5RaVIwSDVFbUFIb2lCZ3VyLWRVcFZPZ1hFZHVxZ3NhV25IXzRRai0wTzVGeGxWcmlTWkhjRTh4c1ZUbFdoR1VEdU5peTIzQ2pVRlBqYjJobGtuZUw2dVpmOXljVktmMl9JV2RzLV9PLV9yOG0tY1JveW85YmFIR2tLeTZzRjFFaWY1dXZ0YlU3UFFYWTI?oc=5",
+      "source": "Vogue korea",
+      "publishedAt": "2026-10-17T05:50:12+00:00",
+      "date": "2026-10-17T05:50:12+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN",
+        "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "61bb4d971978abe59369",
+      "title": "“팬들 사랑해” 진심 맞나?…BTS 동생 그룹 코르티스, SNS 실수에 진정성 논란 - 스포츠서울",
+      "description": "“팬들 사랑해” 진심 맞나?…BTS 동생 그룹 코르티스, SNS 실수에 진정성 논란 스포츠서울",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0ZEV6dEVZLXNDQ3hHcmt6bUlNM0VmRFdEQkpvMUNoOXBnVktCSlM5dHRyaTNIYkM5QmxIa2hlZWRnWTdsZDg4Z0owTXR4aVlFazc0Y0lITnQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0ZEV6dEVZLXNDQ3hHcmt6bUlNM0VmRFdEQkpvMUNoOXBnVktCSlM5dHRyaTNIYkM5QmxIa2hlZWRnWTdsZDg4Z0owTXR4aVlFazc0Y0lITnQ?oc=5",
+      "source": "스포츠서울",
+      "publishedAt": "2026-10-17T05:19:24+00:00",
+      "date": "2026-10-17T05:19:24+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "dbeea8725a21678ac116",
+      "title": "CORTIS Shares Sweet Group Moments and Fan-Favorite Clips - X",
+      "description": "CORTIS Shares Sweet Group Moments and Fan-Favorite Clips X",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aSkFNM1RaQXV3TFBoSHRuOW13dzhCQjZVeko2bmstZ3BMWVIyNHgzNl9mWVQ2YWsyRVdQeXluNGowU3JSeDZmVlBuTzNHZFBteE9SbVVPQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aSkFNM1RaQXV3TFBoSHRuOW13dzhCQjZVeko2bmstZ3BMWVIyNHgzNl9mWVQ2YWsyRVdQeXluNGowU3JSeDZmVlBuTzNHZFBteE9SbVVPQQ?oc=5",
+      "source": "X",
+      "publishedAt": "2026-10-16T20:35:50+00:00",
+      "date": "2026-10-16T20:35:50+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "43cdffdd15210d23db0a",
+      "title": "코르티스, \"팬들 사랑해\"도 회사 지시였나…SNS '복붙' 실수에 진정성 논란 [SC이슈] - 스포츠조선",
+      "description": "코르티스, \"팬들 사랑해\"도 회사 지시였나…SNS '복붙' 실수에 진정성 논란 [SC이슈] 스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzhJbjBvejhhNXhQWms1UlRlenl4cHlxaU1Bb1dEdXQyc25rbW91U1c3elEtYlBjM2lhOE1ORmFoeFdDaGZ4TlpTVHE0X2VNZXltSzlFYnBLa1ROLWp6OU9USEtsQzVuME9aVEt3NktZQ2F3c21XWmNta1VKZUZfMGFFNlo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzhJbjBvejhhNXhQWms1UlRlenl4cHlxaU1Bb1dEdXQyc25rbW91U1c3elEtYlBjM2lhOE1ORmFoeFdDaGZ4TlpTVHE0X2VNZXltSzlFYnBLa1ROLWp6OU9USEtsQzVuME9aVEt3NktZQ2F3c21XWmNta1VKZUZfMGFFNlo?oc=5",
+      "source": "스포츠조선",
+      "publishedAt": "2026-10-16T04:20:01+00:00",
+      "date": "2026-10-16T04:20:01+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a3ac981dca5f4386e5c4",
+      "title": "CORTIS・JAMES、10月14日の誕生日に自ら企画・振り付け・創作・編集などを手掛けたMVをサプライズ公開！ - USENの音楽情報サイト",
+      "description": "CORTIS・JAMES、10月14日の誕生日に自ら企画・振り付け・創作・編集などを手掛けたMVをサプライズ公開！ USENの音楽情報サイト",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZllRb0JqcEEyYWZCZG9aeU5lelY5RE9ZS1ZmWmZZMjFsQkNRZVNLTDlDeUNJa1FFbzBUeWNJZi00OFlPNlpHaXhRdEYyNzQ3UXFyQTI3d2g2THFuV2h2ek53dGFFX2lFSGRN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZllRb0JqcEEyYWZCZG9aeU5lelY5RE9ZS1ZmWmZZMjFsQkNRZVNLTDlDeUNJa1FFbzBUeWNJZi00OFlPNlpHaXhRdEYyNzQ3UXFyQTI3d2g2THFuV2h2ek53dGFFX2lFSGRN?oc=5",
+      "source": "USENの音楽情報サイト",
+      "publishedAt": "2026-10-16T01:16:30+00:00",
+      "date": "2026-10-16T01:16:30+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "4951e8225052b5e8aba0",
+      "title": "BIGBANG, ENHYPEN, CORTIS & More Set to Perform at 2026 MAMA Awards: Full List - Billboard",
+      "description": "BIGBANG, ENHYPEN, CORTIS & More Set to Perform at 2026 MAMA Awards: Full List Billboard",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW5wU0hTbzNGU2x4eFlOb0dqWkd5UVM4VG84ck0xWnVnWFpnTGZiSEcyOGpuMU82QTl0alU1a2tqdENYa3J4WGJ1Q3M2cWVSSmVGWmZ1SkdmaVY4QTVCdnM2Q1o4U1Zib0xsTy1VT0RKRWFCTTRKUVA0aGF3N18zcGZESmFWNlhmVGI0LTBiV2NlZFA1NTk0NUxDNTJXeDFFYnpz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW5wU0hTbzNGU2x4eFlOb0dqWkd5UVM4VG84ck0xWnVnWFpnTGZiSEcyOGpuMU82QTl0alU1a2tqdENYa3J4WGJ1Q3M2cWVSSmVGWmZ1SkdmaVY4QTVCdnM2Q1o4U1Zib0xsTy1VT0RKRWFCTTRKUVA0aGF3N18zcGZESmFWNlhmVGI0LTBiV2NlZFA1NTk0NUxDNTJXeDFFYnpz?oc=5",
+      "source": "Billboard",
+      "publishedAt": "2026-10-16T01:01:25+00:00",
+      "date": "2026-10-16T01:01:25+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c423686abeae4c68b498",
+      "title": "North West Claims CORTIS' Bodyguard Once Stopped Her Taking Picture With K-Pop Group - Complex",
+      "description": "North West Claims CORTIS' Bodyguard Once Stopped Her Taking Picture With K-Pop Group Complex",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDhaUGJOdUdZekdnR2d4amMyU2g1THA3OEtzS2tDZkVNOHh1ZklCS0lQUzB1THRjT1BWUkVOUGRUemlFdnV5bkJHeko1OG9HVUJ5ZWlHZFJHNVNkX3FTUnBVc1Y1aE9JeEY1YzIxY3NCNWhLRTZZYlliT0V5bzZCNUdEOVBhU0lpWTlPSGxTVkdaS1VjOG84ag?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDhaUGJOdUdZekdnR2d4amMyU2g1THA3OEtzS2tDZkVNOHh1ZklCS0lQUzB1THRjT1BWUkVOUGRUemlFdnV5bkJHeko1OG9HVUJ5ZWlHZFJHNVNkX3FTUnBVc1Y1aE9JeEY1YzIxY3NCNWhLRTZZYlliT0V5bzZCNUdEOVBhU0lpWTlPSGxTVkdaS1VjOG84ag?oc=5",
+      "source": "Complex",
+      "publishedAt": "2026-10-15T19:03:41+00:00",
+      "date": "2026-10-15T19:03:41+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "64c787b25c67106cc018",
+      "title": "CORTIS コルティス ペンライト うちわ ショーケース SHOWCASE - アイドルオリジナル - v-shinpo.com",
+      "description": "CORTIS コルティス ペンライト うちわ ショーケース SHOWCASE - アイドルオリジナル v-shinpo.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sdkp3M2hLSDUzc0xyVHlYYS0taDg4dUlhUzBvci1DWHE5RlhTRjh6QTlvZ1ZoOG4wVnVWSG1xRC1KdTRtUXNXdzBNS2VlaXZmcEQ3NE1qUHVjOEk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sdkp3M2hLSDUzc0xyVHlYYS0taDg4dUlhUzBvci1DWHE5RlhTRjh6QTlvZ1ZoOG4wVnVWSG1xRC1KdTRtUXNXdzBNS2VlaXZmcEQ3NE1qUHVjOEk?oc=5",
+      "source": "v-shinpo.com",
+      "publishedAt": "2026-10-15T13:07:28+00:00",
+      "date": "2026-10-15T13:07:28+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "cf5d6ef8436f9705a18f",
+      "title": "BTS·블랙핑크부터 코르티스까지…멜론뮤직어워드 'TOP10' 투표 시작 - 지디넷코리아",
+      "description": "BTS·블랙핑크부터 코르티스까지…멜론뮤직어워드 'TOP10' 투표 시작 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zR3ZsTGc0TDM5REhObmNBTU9vWnl2c2NMRVFTUFBISG5RUGVrNHJOenZfcC04MDQtWVRRRWZXUDFrZENUUl8tSDVlbzREeGpEangwVWFn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zR3ZsTGc0TDM5REhObmNBTU9vWnl2c2NMRVFTUFBISG5RUGVrNHJOenZfcC04MDQtWVRRRWZXUDFrZENUUl8tSDVlbzREeGpEangwVWFn?oc=5",
+      "source": "지디넷코리아",
+      "publishedAt": "2026-10-15T09:13:52+00:00",
+      "date": "2026-10-15T09:13:52+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "d7a30acb295808a3d597",
+      "title": "【韓流】CORTIS・JAMESが誕生日記念MV公開 自ら企画、制作など全工程主導 - 日刊スポーツ",
+      "description": "【韓流】CORTIS・JAMESが誕生日記念MV公開 自ら企画、制作など全工程主導 日刊スポーツ",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kc0R4aF96Ny1HOHQ2cXdWMXNIZmNrcG15bGkyalJTZTVLbm5aMHMyd1FIakowdlRpeFNqc1kwVEgybzFaR1pGZHF1X3JTV0YzS2JsMWRIb2xkNnBaVU5TMTNkYVNITlRJMlRGSkFfVUd2LURjNEVZ0gF_QVVfeXFMUEY0R3ZEZHRrV3BHajVGZ3FMOTN3bnlrRHdCU0diODQtenZJdlFxMWg2Y0pGeHZsZWxPTUx5eTdpeEZuaXZIWTFEcTUxNmw4dTE2NUJtZzBNX3FoS19BOEpYQ0lEU1puOW1OYlRzQnpXcktqdjRhTEpjbU11U1BGUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kc0R4aF96Ny1HOHQ2cXdWMXNIZmNrcG15bGkyalJTZTVLbm5aMHMyd1FIakowdlRpeFNqc1kwVEgybzFaR1pGZHF1X3JTV0YzS2JsMWRIb2xkNnBaVU5TMTNkYVNITlRJMlRGSkFfVUd2LURjNEVZ0gF_QVVfeXFMUEY0R3ZEZHRrV3BHajVGZ3FMOTN3bnlrRHdCU0diODQtenZJdlFxMWg2Y0pGeHZsZWxPTUx5eTdpeEZuaXZIWTFEcTUxNmw4dTE2NUJtZzBNX3FoS19BOEpYQ0lEU1puOW1OYlRzQnpXcktqdjRhTEpjbU11U1BGUQ?oc=5",
+      "source": "日刊スポーツ",
+      "publishedAt": "2026-10-15T07:35:30+00:00",
+      "date": "2026-10-15T07:35:30+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "2d83b1f654438eac4ddd",
+      "title": "코르티스 집안싸움 났네..코르티스 건호, 성현 이어 스타랭킹 男아이돌 2위 - 스타뉴스",
+      "description": "코르티스 집안싸움 났네..코르티스 건호, 성현 이어 스타랭킹 男아이돌 2위 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBb2RrTXBDTkZVTjBzNGZvRUViaE5oMnVGc24xUmNzTnpPUWR6NndfVG1uS1puak5XQzdHNWlpZWJXTjFST1MyckRhaVM0TFY5Rm90YW80SnNVNVFJWGRnd1NjUlRFUHhVY1JYNHM5aEI1M3Js?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBb2RrTXBDTkZVTjBzNGZvRUViaE5oMnVGc24xUmNzTnpPUWR6NndfVG1uS1puak5XQzdHNWlpZWJXTjFST1MyckRhaVM0TFY5Rm90YW80SnNVNVFJWGRnd1NjUlRFUHhVY1JYNHM5aEI1M3Js?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-15T06:52:57+00:00",
+      "date": "2026-10-15T06:52:57+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON",
+        "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "61a6b0d5ff5ba38defec",
+      "title": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 - 스타뉴스",
+      "description": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-15T06:52:57+00:00",
+      "date": "2026-10-15T06:52:57+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON",
+        "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "3c164e03c0b9a8f3796e",
+      "title": "코르티스 성현, 스타랭킹 男아이돌 1위..'엄쁘니' 위엄 - 스타뉴스",
+      "description": "코르티스 성현, 스타랭킹 男아이돌 1위..'엄쁘니' 위엄 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtMFRmN1ZKS2dfUTB1UGJJNmY4NU12NEJ3N3pyeDVNTGQxQzBtaUQ4anJvWXpaZjR4UHpjZkV4TUFJOHg5SURYeHE2MTQ5MTJsTngwbGhiVGMyX2FVeVRRU3BBZ1lfTUtVeFJTZjZ5Zkg5eGEy?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtMFRmN1ZKS2dfUTB1UGJJNmY4NU12NEJ3N3pyeDVNTGQxQzBtaUQ4anJvWXpaZjR4UHpjZkV4TUFJOHg5SURYeHE2MTQ5MTJsTngwbGhiVGMyX2FVeVRRU3BBZ1lfTUtVeFJTZjZ5Zkg5eGEy?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-15T06:48:02+00:00",
+      "date": "2026-10-15T06:48:02+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b35cfe8ba8fed8575413",
+      "title": "CORTIS The 2nd EP [GREENGREEN]、リリースから約5ヵ月でSpotify累計ストリーミング5億回を突破！ - USENの音楽情報サイト",
+      "description": "CORTIS The 2nd EP [GREENGREEN]、リリースから約5ヵ月でSpotify累計ストリーミング5億回を突破！ USENの音楽情報サイト",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3pZUER5N1BGZ21tcGtxenFfMTFTNDlDb2l0TzR4RG02YWhVeVkxeDQxMWttRWFOZmFmM0hjYWl4c0ZVbTY5c3BmcTlQSzJvUy1RV1ZvSUVYbUFXWTJuU0IwRTExTUNoWXRNTmJKeGh6YjhoX0tOOFF4TXpGem9FVVVoYnBRQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3pZUER5N1BGZ21tcGtxenFfMTFTNDlDb2l0TzR4RG02YWhVeVkxeDQxMWttRWFOZmFmM0hjYWl4c0ZVbTY5c3BmcTlQSzJvUy1RV1ZvSUVYbUFXWTJuU0IwRTExTUNoWXRNTmJKeGh6YjhoX0tOOFF4TXpGem9FVVVoYnBRQQ?oc=5",
+      "source": "USENの音楽情報サイト",
+      "publishedAt": "2026-10-15T04:23:59+00:00",
+      "date": "2026-10-15T04:23:59+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "84d026da8a09fafdfa0e",
+      "title": "BTS·블랙핑크→코르티스·하투하…‘2026 멜론뮤직어워드’, TOP10 투표 오픈 - 매일경제",
+      "description": "BTS·블랙핑크→코르티스·하투하…‘2026 멜론뮤직어워드’, TOP10 투표 오픈 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QS1hlZ25Md21SaUVKdUEyMXVvUG9SRnJDcWxBRFIyTWFQa3hZNUx6eUstYzQ4N1Zfa0duakRUYU5JcUNKay1UclpvajNSYUtSdUk4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QS1hlZ25Md21SaUVKdUEyMXVvUG9SRnJDcWxBRFIyTWFQa3hZNUx6eUstYzQ4N1Zfa0duakRUYU5JcUNKay1UclpvajNSYUtSdUk4?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-10-15T02:40:15+00:00",
+      "date": "2026-10-15T02:40:15+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a5be4492a914b730a396",
+      "title": "[단독] 편의점 앱서 아이돌앨범 20억 팔렸다…1등은 코르티스 - 매일경제",
+      "description": "[단독] 편의점 앱서 아이돌앨범 20억 팔렸다…1등은 코르티스 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VS1lFMVViMTVJeXdHUXlvSlFZQ1Q2eHNWcElCRldfcEdNRkZaTkNUWmZnUWNnMUJ1WlIzVU00TjVFMXl2YktTMExfNDlvX2psLU5rU0dR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VS1lFMVViMTVJeXdHUXlvSlFZQ1Q2eHNWcElCRldfcEdNRkZaTkNUWmZnUWNnMUJ1WlIzVU00TjVFMXl2YktTMExfNDlvX2psLU5rU0dR?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-10-15T02:11:20+00:00",
+      "date": "2026-10-15T02:11:20+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "1ce9b467bf583300d020",
+      "title": "CORTIS「GREENGREEN」、5億再生突破…アルバム販売435万枚超 - AFPBB News",
+      "description": "CORTIS「GREENGREEN」、5億再生突破…アルバム販売435万枚超 AFPBB News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBObkF2SWlWTFpnOGJ5V2llRE1XN1JMQlRTTVNfZ0xxX1FnOHpTQm9ETDdEUUpjeWhua1doRjFWakt5SmVZMVl4VHVrYkFFRHBnblHSAVRBVV95cUxNOGRGWXFoNUg4TGE5cjhsblFnRVRFd2dNMUlZQ3lqd3d4NzVfTUtQaTlfNHhHSXQ1OXl6N3hpXzJ3SE84YjQxM09DSUZuTGtTWjh6bWs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBObkF2SWlWTFpnOGJ5V2llRE1XN1JMQlRTTVNfZ0xxX1FnOHpTQm9ETDdEUUpjeWhua1doRjFWakt5SmVZMVl4VHVrYkFFRHBnblHSAVRBVV95cUxNOGRGWXFoNUg4TGE5cjhsblFnRVRFd2dNMUlZQ3lqd3d4NzVfTUtQaTlfNHhHSXQ1OXl6N3hpXzJ3SE84YjQxM09DSUZuTGtTWjh6bWs?oc=5",
+      "source": "AFPBB News",
+      "publishedAt": "2026-10-14T23:48:08+00:00",
+      "date": "2026-10-14T23:48:08+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "e1fb7b0961649354c642",
+      "title": "코르티스 제임스의 시선으로 담은 21번째 생일 선물! - 마리끌레르 코리아",
+      "description": "코르티스 제임스의 시선으로 담은 21번째 생일 선물! 마리끌레르 코리아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkLUYxUTZXNTV1dkxXT2tabTU4WjF0NXRaVl9SeDYxUjdYZnZXajV4dWFqbGNKb2pack1fS2dKNlBkZmFyVTN1emVkMGN2RGwtVVJMS2NpU0Z0SExNUm1YeGs4UHE4R3ZsN3Y5d0o1WHdwdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkLUYxUTZXNTV1dkxXT2tabTU4WjF0NXRaVl9SeDYxUjdYZnZXajV4dWFqbGNKb2pack1fS2dKNlBkZmFyVTN1emVkMGN2RGwtVVJMS2NpU0Z0SExNUm1YeGs4UHE4R3ZsN3Y5d0o1WHdwdw?oc=5",
+      "source": "마리끌레르 코리아",
+      "publishedAt": "2026-10-14T11:00:23+00:00",
+      "date": "2026-10-14T11:00:23+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "d6734d77f1b3207de056",
+      "title": "코르티스 제임스, 생일 맞아 직접 제작한 MV 깜짝 공개 - JTBC",
+      "description": "코르티스 제임스, 생일 맞아 직접 제작한 MV 깜짝 공개 JTBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05M1E2clY1cFFEN0NvajJyNjZlSmUzT2NkQzZ5OFJESzBzWUNRUDc1UTZPaVpNWjgwa2FkU2VjQWtVWnBEZXF2WDFPUXFqMGJWdW4tMg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05M1E2clY1cFFEN0NvajJyNjZlSmUzT2NkQzZ5OFJESzBzWUNRUDc1UTZPaVpNWjgwa2FkU2VjQWtVWnBEZXF2WDFPUXFqMGJWdW4tMg?oc=5",
+      "source": "JTBC",
+      "publishedAt": "2026-10-14T09:38:00+00:00",
+      "date": "2026-10-14T09:38:00+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a6d0905f8353f80c4df1",
+      "title": "코르티스 \"그린그린\", 스포티파이 5억 스트리밍 돌파 - 스포츠월드",
+      "description": "코르티스 \"그린그린\", 스포티파이 5억 스트리밍 돌파 스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zQ3IxTlhmOGc1dTVKR0tSUjlBZktkYldNcGg0djFfWjVRZzBmQlZIMTViZ2FpVGhNQVpSOGk1T0ljUTVPd3dqLUdBbFRLeVZnT1ZRaHBmaVdNRzk1a2llRlB3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zQ3IxTlhmOGc1dTVKR0tSUjlBZktkYldNcGg0djFfWjVRZzBmQlZIMTViZ2FpVGhNQVpSOGk1T0ljUTVPd3dqLUdBbFRLeVZnT1ZRaHBmaVdNRzk1a2llRlB3?oc=5",
+      "source": "스포츠월드",
+      "publishedAt": "2026-10-14T09:06:55+00:00",
+      "date": "2026-10-14T09:06:55+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "cae3c6bcba33ccc9b536",
+      "title": "MMA2026, 아이오아이·에스파·아이브·코르티스 등 ‘황금 라인업’ - 서울경제",
+      "description": "MMA2026, 아이오아이·에스파·아이브·코르티스 등 ‘황금 라인업’ 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZVTZUOTJyZDIwTE0yRC1MOWpwMjZwRTlFMDdkNGZNWHBTQ1JOTHlIVThXaXFLMGQwSHc1cEEwRDduRWw2Vkl4Q19CNjBRLUxuX0HSAVNBVV95cUxOdkRLZXZFZHN6cXQwUEs5UGdpejhuMG9sNnBIRGlVOGc3a3dQclF3N2V0cWltWjVfcldfN1E0MzFlRVBlOENuaWoxQzNNR1dGTFZvWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZVTZUOTJyZDIwTE0yRC1MOWpwMjZwRTlFMDdkNGZNWHBTQ1JOTHlIVThXaXFLMGQwSHc1cEEwRDduRWw2Vkl4Q19CNjBRLUxuX0HSAVNBVV95cUxOdkRLZXZFZHN6cXQwUEs5UGdpejhuMG9sNnBIRGlVOGc3a3dQclF3N2V0cWltWjVfcldfN1E0MzFlRVBlOENuaWoxQzNNR1dGTFZvWQ?oc=5",
+      "source": "서울경제",
+      "publishedAt": "2026-10-14T09:06:51+00:00",
+      "date": "2026-10-14T09:06:51+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b4acca68c1737b0ec518",
+      "title": "에스파·아이브·아이오아이·코르티스, '멜론 뮤직 어워드' 나온다 - 뉴시스",
+      "description": "에스파·아이브·아이오아이·코르티스, '멜론 뮤직 어워드' 나온다 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WemNRMVA0TlYwN3Q3RElSTmhNQTROYUtfcHN4Tm45YS1mMU80YjB2dzlOM3RHQXM1ZmhFdk50aV9xd0R0eFl2cE1EdzdnbmhRTmNuR3dSYzlrNUdveThZd9IBeEFVX3lxTFBlNzZJRHZQd0E5T2phdnpseFpxUTdhTWhlaW84Vy16UHFlLVJJSlg5WnhxV0pnUm9JakNFdjV6UWNsLXN4NDljTTRzZ1lGRkNmQUo5QVZuaDhPam93QWpaT1g1TFRSYTFaX1JQckZjUkVaRi1VNkg4Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WemNRMVA0TlYwN3Q3RElSTmhNQTROYUtfcHN4Tm45YS1mMU80YjB2dzlOM3RHQXM1ZmhFdk50aV9xd0R0eFl2cE1EdzdnbmhRTmNuR3dSYzlrNUdveThZd9IBeEFVX3lxTFBlNzZJRHZQd0E5T2phdnpseFpxUTdhTWhlaW84Vy16UHFlLVJJSlg5WnhxV0pnUm9JakNFdjV6UWNsLXN4NDljTTRzZ1lGRkNmQUo5QVZuaDhPam93QWpaT1g1TFRSYTFaX1JQckZjUkVaRi1VNkg4Zw?oc=5",
+      "source": "뉴시스",
+      "publishedAt": "2026-10-14T09:04:48+00:00",
+      "date": "2026-10-14T09:04:48+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "32ca3296390ae4e94948",
+      "title": "aespa・IVE・I.O.I・Cortis、『メロン・ミュージック・アワード』に登場する - 스포탈코리아",
+      "description": "aespa・IVE・I.O.I・Cortis、『メロン・ミュージック・アワード』に登場する 스포탈코리아",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VcTVkcXl4QU96b2dTVjF4NWdDYWMxd0dOVXRxUGJSY09aWWhRNGZ0TjdubHprdkM5a29ndEVCWmRWZ1dXTDNsS2t3UjhBOXB0bTVpMVNHN0JLVHc0RTFlMWhnVDRPRDAzQXFra3Zn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VcTVkcXl4QU96b2dTVjF4NWdDYWMxd0dOVXRxUGJSY09aWWhRNGZ0TjdubHprdkM5a29ndEVCWmRWZ1dXTDNsS2t3UjhBOXB0bTVpMVNHN0JLVHc0RTFlMWhnVDRPRDAzQXFra3Zn?oc=5",
+      "source": "스포탈코리아",
+      "publishedAt": "2026-10-14T09:04:48+00:00",
+      "date": "2026-10-14T09:04:48+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "fcac14dbbe29e67de8b1",
+      "title": "코르티스 ‘그린그린’ 음원·음반 쌍끌이 흥행 - JTBC",
+      "description": "코르티스 ‘그린그린’ 음원·음반 쌍끌이 흥행 JTBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WZ2FVSUVjVWJ6RGVOelNxSmVuUlhvT2JfUkJ1TW43Sm9GaTVxR2RNZ1hhVW9aMUtSZE1fRHVOa1pieThlWVpIdGRZV2ExLU9WNTNlTA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WZ2FVSUVjVWJ6RGVOelNxSmVuUlhvT2JfUkJ1TW43Sm9GaTVxR2RNZ1hhVW9aMUtSZE1fRHVOa1pieThlWVpIdGRZV2ExLU9WNTNlTA?oc=5",
+      "source": "JTBC",
+      "publishedAt": "2026-10-14T08:10:00+00:00",
+      "date": "2026-10-14T08:10:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "eaca269901bfb4ce6e0d",
+      "title": "'MMA 2026', NCT·에스파에 아이브·코르티스까지…26팀 출연 확정 - 한국경제",
+      "description": "'MMA 2026', NCT·에스파에 아이브·코르티스까지…26팀 출연 확정 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wSUlyS0ZDbnRJUEQyeUJHaFFiN0VYS3ZxYjdUc180bGM4MXBBMXhIeEJTcW1LYlBzZ3FXWHpLRXduLTRzbDBYa2JuYlVKaGJMWGpTTGpfSGtFQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wSUlyS0ZDbnRJUEQyeUJHaFFiN0VYS3ZxYjdUc180bGM4MXBBMXhIeEJTcW1LYlBzZ3FXWHpLRXduLTRzbDBYa2JuYlVKaGJMWGpTTGpfSGtFQQ?oc=5",
+      "source": "한국경제",
+      "publishedAt": "2026-10-14T07:59:58+00:00",
+      "date": "2026-10-14T07:59:58+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "6d57cfd22336523c544a",
+      "title": "국내 톱 시상식답네…MMA, 에스파·아이브·아이오아이·코르티스 등 총출동 - 매일경제",
+      "description": "국내 톱 시상식답네…MMA, 에스파·아이브·아이오아이·코르티스 등 총출동 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Zek5PT0hZQWdNWG9CbmNiUWI5aS1ZTnVXM1FDb0RPdWpxMEhNUS1sNnVqbGZtVDZCMVV3cGtINzBWb040SjVpQ1dkUGFPRUY1SU40?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Zek5PT0hZQWdNWG9CbmNiUWI5aS1ZTnVXM1FDb0RPdWpxMEhNUS1sNnVqbGZtVDZCMVV3cGtINzBWb040SjVpQ1dkUGFPRUY1SU40?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-10-14T07:37:06+00:00",
+      "date": "2026-10-14T07:37:06+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "f578ee59cfe87153f45c",
+      "title": "CORTIS COLLABORATION CAFE in SHIBUYA TSUTAYAの開催が決定！ - SHIBUYA TSUTAYA",
+      "description": "CORTIS COLLABORATION CAFE in SHIBUYA TSUTAYAの開催が決定！ SHIBUYA TSUTAYA",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95b1ZUZ1FfVGhCcVBVc3pxSnI2U282LUE1VFJnLWlhUEt5RG9GbDdsb3FnWk1Cbk9iR0o4MDRrY0syQjlwXzZlRktXWFZSa3NUc290dk1KMUtlMVV6QXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95b1ZUZ1FfVGhCcVBVc3pxSnI2U282LUE1VFJnLWlhUEt5RG9GbDdsb3FnWk1Cbk9iR0o4MDRrY0syQjlwXzZlRktXWFZSa3NUc290dk1KMUtlMVV6QXc?oc=5",
+      "source": "SHIBUYA TSUTAYA",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "date": "2026-10-14T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "e1d1c31789a03bf236ee",
+      "title": "CORTIS大哥James「趙雨凡」是誰？8點帶你認識他：泰國混血、從小在台灣讀書，還曾為這些天團編舞 - ELLE",
+      "description": "CORTIS大哥James「趙雨凡」是誰？8點帶你認識他：泰國混血、從小在台灣讀書，還曾為這些天團編舞 ELLE",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFloN2NGUzhWeEpjYlpSWFBEWnhNMkJYMkxDdVZhNmVWb2wwMVg1cjFoSi1FeEFKQzBHUU0xb25aMFRaSl9RVng5azlTUzQxQUhUbkw5UHdWb1AtNGF1QnUzalE4RGRNcGwxWGJQUlZ1aEpCMUlTS3ZsYXZYbFZVUWQ3YjhMZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFloN2NGUzhWeEpjYlpSWFBEWnhNMkJYMkxDdVZhNmVWb2wwMVg1cjFoSi1FeEFKQzBHUU0xb25aMFRaSl9RVng5azlTUzQxQUhUbkw5UHdWb1AtNGF1QnUzalE4RGRNcGwxWGJQUlZ1aEpCMUlTS3ZsYXZYbFZVUWQ3YjhMZw?oc=5",
+      "source": "ELLE",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "date": "2026-10-14T07:00:00+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "916c656afead1bdbdb6f",
+      "title": "CORTIS James birthday — Member Drops Self-Produced Video - The Korea Daily",
+      "description": "CORTIS James birthday — Member Drops Self-Produced Video The Korea Daily",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96cEE0dlZKM3c0eWlNVjhqUGRMVDBsS2JhRWNVVmVDWnNhR2xUSGtOQlczNUY0RlhYaXREQ0pobU40UHctSk5sZW9wYUNBdXN5alNXUWpLbkJZTkpW?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96cEE0dlZKM3c0eWlNVjhqUGRMVDBsS2JhRWNVVmVDWnNhR2xUSGtOQlczNUY0RlhYaXREQ0pobU40UHctSk5sZW9wYUNBdXN5alNXUWpLbkJZTkpW?oc=5",
+      "source": "The Korea Daily",
+      "publishedAt": "2026-10-14T06:54:50+00:00",
+      "date": "2026-10-14T06:54:50+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "4d33ffa03365718ccb1a",
+      "title": "코르티스 '그린그린' 스포티파이 5억 스트리밍 - 연합뉴스",
+      "description": "코르티스 '그린그린' 스포티파이 5억 스트리밍 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRVh1YVVLck9DSFNYb0tmN2pEZVJSMDFFaFNERThFcWxCV2pGTmlfaGJHYVlzdTNlbFdvZ3E5S0pSZlFtczlsSmVrR2dsSUxsckx6N3p0RnFEemfSAWBBVV95cUxPRTV6V05UTDhtVWx1NXhQb2tPRG8zTEJaNGVYS0xyc0xiZE4zM3J3WlJ5R19nR0xsc3N3UDVvZUdZM0ZVRnhQeFJNd3JLSFp4c3dvc3ZfOFVpaFpXLTU3UzU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRVh1YVVLck9DSFNYb0tmN2pEZVJSMDFFaFNERThFcWxCV2pGTmlfaGJHYVlzdTNlbFdvZ3E5S0pSZlFtczlsSmVrR2dsSUxsckx6N3p0RnFEemfSAWBBVV95cUxPRTV6V05UTDhtVWx1NXhQb2tPRG8zTEJaNGVYS0xyc0xiZE4zM3J3WlJ5R19nR0xsc3N3UDVvZUdZM0ZVRnhQeFJNd3JLSFp4c3dvc3ZfOFVpaFpXLTU3UzU?oc=5",
+      "source": "연합뉴스",
+      "publishedAt": "2026-10-14T05:56:01+00:00",
+      "date": "2026-10-14T05:56:01+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "ec01c2e34eea5e82854d",
+      "title": "코르티스 제임스, 생일 맞아 직접 기획·제작한 MV 공개 ‘영크크’ 입증 - 뉴스엔",
+      "description": "코르티스 제임스, 생일 맞아 직접 기획·제작한 MV 공개 ‘영크크’ 입증 뉴스엔",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JX0JCSlppeWJoeFZjTEhxMklmbUg3aGc2OUJTS2RMV2ZZSms5VVNKN0liN0FhOUZLaWVRUVp6a1diOGhaU29rbFR1NTNKN3BqbGZxd0ZxUFZHUTNQOUcxU0lIQ1RDRVF5?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JX0JCSlppeWJoeFZjTEhxMklmbUg3aGc2OUJTS2RMV2ZZSms5VVNKN0liN0FhOUZLaWVRUVp6a1diOGhaU29rbFR1NTNKN3BqbGZxd0ZxUFZHUTNQOUcxU0lIQ1RDRVF5?oc=5",
+      "source": "뉴스엔",
+      "publishedAt": "2026-10-14T05:49:37+00:00",
+      "date": "2026-10-14T05:49:37+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "79e9b84391305f3c81a2",
+      "title": "CORTIS James Releases Self-Made Video for 14th Birthday - 조선일보",
+      "description": "CORTIS James Releases Self-Made Video for 14th Birthday 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXy1MeDdNblJPNEo0MGJsV2V3WUt0TDZkakxRUkt6RmFjem8wVnpWbEhoZzZGWFY0WmJHWDlaY053LUJxRTZjY0VOM1NqX2dOMnN1UXgtYl9ZVGZSMURVZXBoV2VsRHhlRVVxbGFtOWRsQm1Qa0JCaU5wN0UtNEZwVVJqbF9MU3FZTGJiV3hn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXy1MeDdNblJPNEo0MGJsV2V3WUt0TDZkakxRUkt6RmFjem8wVnpWbEhoZzZGWFY0WmJHWDlaY053LUJxRTZjY0VOM1NqX2dOMnN1UXgtYl9ZVGZSMURVZXBoV2VsRHhlRVVxbGFtOWRsQm1Qa0JCaU5wN0UtNEZwVVJqbF9MU3FZTGJiV3hn?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-10-14T05:37:42+00:00",
+      "date": "2026-10-14T05:37:42+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "068ad91360f576d7f2ed",
+      "title": "CORTIS’ James releases self-produced MV for his birthday, proving his ‘Young Creator Crew’ credentials - 매일경제",
+      "description": "CORTIS’ James releases self-produced MV for his birthday, proving his ‘Young Creator Crew’ credentials 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9STno4MGR3NWVrcmtGZnNUMVUyNDBYRURfdGRZNmJsSTNxOGl4eXcyRkdEUFJQYnFYR2hmZlBoX0NrODd2ZzV1VnpBaEpQbVhy?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9STno4MGR3NWVrcmtGZnNUMVUyNDBYRURfdGRZNmJsSTNxOGl4eXcyRkdEUFJQYnFYR2hmZlBoX0NrODd2ZzV1VnpBaEpQbVhy?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-10-14T05:29:31+00:00",
+      "date": "2026-10-14T05:29:31+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c094b4e54eebd023158f",
+      "title": "CORTIS's James releases self-directed birthday cover video - CHOSUNBIZ - Chosunbiz",
+      "description": "CORTIS's James releases self-directed birthday cover video - CHOSUNBIZ Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFYwa0lhUXlKVzZ4aHh6dlRLZlNCMXVWczhOZm1QazNzOUNpVFlTbE8yZ1pLbzBmbUNvd0pXLWozU3d4Zm9xZV9ocjNBU0RZV1FBa0RwRkVrdk1LLVFqSlUwMzFTamk5eWVQZDBxNG5Yd2dIRnJMM01JVjdMZ0JWeXFZVTdVYzM00gGcAUFVX3lxTE00dUI4ZC1RelpPOHVKRGhNYWlMQW1QdVd5SzB5cEtXYkFHaS1fT3d5YTlsLWFVNExuaEM1c2ZNbEhNbGdDSkFQMVVOcU9pWTc3R0xKVUtsSGRCSjlzbjNKclQxRjRLNEVLMG0tSks4YmhnVUFTdjNNVXRSVzBDNHVtVDNxd0laVUF2SGNJNEZiRVQ2R0xyaU4yRkZsTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFYwa0lhUXlKVzZ4aHh6dlRLZlNCMXVWczhOZm1QazNzOUNpVFlTbE8yZ1pLbzBmbUNvd0pXLWozU3d4Zm9xZV9ocjNBU0RZV1FBa0RwRkVrdk1LLVFqSlUwMzFTamk5eWVQZDBxNG5Yd2dIRnJMM01JVjdMZ0JWeXFZVTdVYzM00gGcAUFVX3lxTE00dUI4ZC1RelpPOHVKRGhNYWlMQW1QdVd5SzB5cEtXYkFHaS1fT3d5YTlsLWFVNExuaEM1c2ZNbEhNbGdDSkFQMVVOcU9pWTc3R0xKVUtsSGRCSjlzbjNKclQxRjRLNEVLMG0tSks4YmhnVUFTdjNNVXRSVzBDNHVtVDNxd0laVUF2SGNJNEZiRVQ2R0xyaU4yRkZsTQ?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-10-14T05:20:00+00:00",
+      "date": "2026-10-14T05:20:00+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "ed0a9d458c509d14f466",
+      "title": "CORTIS's James, on his birthday today (the 14th)… Surprise release of MV he directly planned and produced - 스타뉴스",
+      "description": "CORTIS's James, on his birthday today (the 14th)… Surprise release of MV he directly planned and produced 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mdWpNbXlSY2t6MGNkR1FfY3ZkTERPd1g3SmJjZ05mZlhPX0hzX1Q0Y0FidzNydDMyMTJ4M29TUjFiaHFTWGhSYURGQU9YTko1ek5neHRJM0pIWDJpclM2eE16N3FxSVd3VmxNSjE0UFF0eUVNNXFJ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mdWpNbXlSY2t6MGNkR1FfY3ZkTERPd1g3SmJjZ05mZlhPX0hzX1Q0Y0FidzNydDMyMTJ4M29TUjFiaHFTWGhSYURGQU9YTko1ek5neHRJM0pIWDJpclM2eE16N3FxSVd3VmxNSjE0UFF0eUVNNXFJ?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-14T05:16:25+00:00",
+      "date": "2026-10-14T05:16:25+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "56df4b1e12d95f38b5a2",
+      "title": "코르티스 제임스, 오늘(14일) 생일 맞아 자작 영상 공개..역시 '영크크' - 미주중앙일보",
+      "description": "코르티스 제임스, 오늘(14일) 생일 맞아 자작 영상 공개..역시 '영크크' 미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lVmVNeXpMWVpZUFNPVkp1Rnoxb2toWUFuRF9RU28tdHJZaEduVWkwUDlNRzlxcGlJYk5oRzI3WXVaczBGbTEwLTU5YmZHTE1uM1RVVi0tX1lGS1dHVzI3dHlB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lVmVNeXpMWVpZUFNPVkp1Rnoxb2toWUFuRF9RU28tdHJZaEduVWkwUDlNRzlxcGlJYk5oRzI3WXVaczBGbTEwLTU5YmZHTE1uM1RVVi0tX1lGS1dHVzI3dHlB?oc=5",
+      "source": "미주중앙일보",
+      "publishedAt": "2026-10-14T05:16:00+00:00",
+      "date": "2026-10-14T05:16:00+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "5b38539b5ced1f6d8c34",
+      "title": "コルティス・ジェームス、誕生日に自作映像公開 - 조선일보",
+      "description": "コルティス・ジェームス、誕生日に自作映像公開 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2xWN1YtWWVvSy1JaU9OX1c5M3ZFTG1rNnpPQW5oSl9fRGdDTDI0eDJuWVhlNFV6VmpBUXFsN2F6M1VDdFEwMmRfZjVBY0Uzek5TRG9Sc1p6S3JXZk9hTTJxeDAtMWJGenBwSTJPVC1nV3Z0RzRGWDN4VVFiZ1I4ZGdMYXVlbms?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2xWN1YtWWVvSy1JaU9OX1c5M3ZFTG1rNnpPQW5oSl9fRGdDTDI0eDJuWVhlNFV6VmpBUXFsN2F6M1VDdFEwMmRfZjVBY0Uzek5TRG9Sc1p6S3JXZk9hTTJxeDAtMWJGenBwSTJPVC1nV3Z0RzRGWDN4VVFiZ1I4ZGdMYXVlbms?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-10-14T05:16:00+00:00",
+      "date": "2026-10-14T05:16:00+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "3aa727b613c9ed1db7a4",
+      "title": "코르티스 미니 2집 '그린그린', 발매 5개월 만에 스포티파이 5억 스트리밍 돌파 - 뉴스1",
+      "description": "코르티스 미니 2집 '그린그린', 발매 5개월 만에 스포티파이 5억 스트리밍 돌파 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84cjNfLV9qWjhaR0dGM1kwSG83OU44WmRfQmJqZGRBcGJaUlRlWUJDbFJPMUQ1bURTV1I3WlhlWTg5UjlaVmdlQ0tBQ2RabHZsNDZ5TFB0cw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84cjNfLV9qWjhaR0dGM1kwSG83OU44WmRfQmJqZGRBcGJaUlRlWUJDbFJPMUQ1bURTV1I3WlhlWTg5UjlaVmdlQ0tBQ2RabHZsNDZ5TFB0cw?oc=5",
+      "source": "뉴스1",
+      "publishedAt": "2026-10-14T05:03:52+00:00",
+      "date": "2026-10-14T05:03:52+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "553b09a21491ecaac7f0",
+      "title": "Cortis’ 2nd EP garners 500m plays on Spotify - The Korea Herald",
+      "description": "Cortis’ 2nd EP garners 500m plays on Spotify The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qSDdMS29ENy1UbV9SaDU5dGRfQ19Gd3lRV3RJSEtvajhmU2JUb1p1dW9na3FhOEtUVkNoN3VfdzNHeGpUbTd3QnN2Y2YyVDNJblp2SUZkUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qSDdMS29ENy1UbV9SaDU5dGRfQ19Gd3lRV3RJSEtvajhmU2JUb1p1dW9na3FhOEtUVkNoN3VfdzNHeGpUbTd3QnN2Y2YyVDNJblp2SUZkUQ?oc=5",
+      "source": "The Korea Herald",
+      "publishedAt": "2026-10-14T02:55:37+00:00",
+      "date": "2026-10-14T02:55:37+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "03b97a5f42d4ed96bc3f",
+      "title": "코르티스(CORTIS), 미니 2집 스포티파이서 5억 스트리밍 돌파 - 스포츠경향",
+      "description": "코르티스(CORTIS), 미니 2집 스포티파이서 5억 스트리밍 돌파 스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kRm1UVWxIemJLN09nTHVtUmExRG5MekRIQUR1dklWSXg5VWwxMVhCRVV5U0JMRjcybFJUdDFjbVo4OUdtMmxqZllPSDJtRncxVFhjTC1jamdKNnpORWfSAWNBVV95cUxNd1RMRWRBX1pveEFPVFBHQl9abWNwTnRpUUNCWW4wYTJ1VlVQSlNXVDdCMl9zZHBzVTZnZXlKVHhFUVdiNnQyNFJmOEEweHdMRjNIc1RQWTJwV2M0Zmxjd0N6aTg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kRm1UVWxIemJLN09nTHVtUmExRG5MekRIQUR1dklWSXg5VWwxMVhCRVV5U0JMRjcybFJUdDFjbVo4OUdtMmxqZllPSDJtRncxVFhjTC1jamdKNnpORWfSAWNBVV95cUxNd1RMRWRBX1pveEFPVFBHQl9abWNwTnRpUUNCWW4wYTJ1VlVQSlNXVDdCMl9zZHBzVTZnZXlKVHhFUVdiNnQyNFJmOEEweHdMRjNIc1RQWTJwV2M0Zmxjd0N6aTg?oc=5",
+      "source": "스포츠경향",
+      "publishedAt": "2026-10-14T02:49:00+00:00",
+      "date": "2026-10-14T02:49:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "6e3c170c476b8ece8d22",
+      "title": "코르티스 ‘GREENGREEN’, 스포티파이 5억 스트리밍 돌파 - 매일경제",
+      "description": "코르티스 ‘GREENGREEN’, 스포티파이 5억 스트리밍 돌파 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yd2x0QWNBSFpKN2hHUC1KZTVzY050VGVhbTlBNzdSNUJOR0VFVjc0RE9UNXFPblBoMXg2MFdmQjVNRkV5dk9BY3l4cVNDVDZnUU0w?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yd2x0QWNBSFpKN2hHUC1KZTVzY050VGVhbTlBNzdSNUJOR0VFVjc0RE9UNXFPblBoMXg2MFdmQjVNRkV5dk9BY3l4cVNDVDZnUU0w?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-10-14T02:12:23+00:00",
+      "date": "2026-10-14T02:12:23+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "be13def0de7435abc998",
+      "title": "コルティス「GREENGREEN」、スポティファイで再生5億回突破 - 매일경제",
+      "description": "コルティス「GREENGREEN」、スポティファイで再生5億回突破 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45cGhuNjQ3Nnc5VXAyMTBJaDBvSWRWY1hZVHFPV25zRW01ejlpSG1kM2l2UFRRVGxFMXo0ZUV2TDdxcVN0X0NmeDR1NFFTUEUx?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45cGhuNjQ3Nnc5VXAyMTBJaDBvSWRWY1hZVHFPV25zRW01ejlpSG1kM2l2UFRRVGxFMXo0ZUV2TDdxcVN0X0NmeDR1NFFTUEUx?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-10-14T02:12:23+00:00",
+      "date": "2026-10-14T02:12:23+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b84f9a2f392d5cbddf01",
+      "title": "코르티스 ‘그린그린’, 스포티파이 5억 돌파 - BNT뉴스",
+      "description": "코르티스 ‘그린그린’, 스포티파이 5억 돌파 BNT뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MVFM5RW9hdERTQUwxV1hDT1h1WktONnZZVXFlWWNzOGxjMGVwelBfcTM1bVpUUHJZaHFwbl81b1JpVnV3eGk0WUF2WGlNb1pEdDJLOFJ1TDNIVGVfeUVJbWNtWWs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MVFM5RW9hdERTQUwxV1hDT1h1WktONnZZVXFlWWNzOGxjMGVwelBfcTM1bVpUUHJZaHFwbl81b1JpVnV3eGk0WUF2WGlNb1pEdDJLOFJ1TDNIVGVfeUVJbWNtWWs?oc=5",
+      "source": "BNT뉴스",
+      "publishedAt": "2026-10-14T02:02:59+00:00",
+      "date": "2026-10-14T02:02:59+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "ce1e9f3326e4b8f5b091",
+      "title": "[가요소식] 'MMA 2026'에 아이브·코르티스 등 26팀 출연 - 연합뉴스",
+      "description": "[가요소식] 'MMA 2026'에 아이브·코르티스 등 26팀 출연 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IYjhmYnhmbElZaVRtOUw2UHBGeDA0S2lXZXhKdVgwZVhkUkRmSl9wbVVCWFltZzU2RGhzTGxjdWVROHJ5c3dPV3ZVeFBENmZjM0otWHhiYTVRcGvSAWBBVV95cUxPWHRvNlpQd3V4OXg4MzN5ZE1KdWMyMzFLWEltMjloYUVoZVdOajQyeE5ZRFZxS01Sc2p5aTVUZ2NUU3d5U0pGMHdVSWNOZ1hNOXVYVmZpak5RVk13cEk0QmM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IYjhmYnhmbElZaVRtOUw2UHBGeDA0S2lXZXhKdVgwZVhkUkRmSl9wbVVCWFltZzU2RGhzTGxjdWVROHJ5c3dPV3ZVeFBENmZjM0otWHhiYTVRcGvSAWBBVV95cUxPWHRvNlpQd3V4OXg4MzN5ZE1KdWMyMzFLWEltMjloYUVoZVdOajQyeE5ZRFZxS01Sc2p5aTVUZ2NUU3d5U0pGMHdVSWNOZ1hNOXVYVmZpak5RVk13cEk0QmM?oc=5",
+      "source": "연합뉴스",
+      "publishedAt": "2026-10-14T01:46:03+00:00",
+      "date": "2026-10-14T01:46:03+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "bac2e653181d9fd97631",
+      "title": "コルティス『GREENGREEN』、Spotifyで5億再生突破..アルバム累計435万枚↑ - 스타뉴스",
+      "description": "コルティス『GREENGREEN』、Spotifyで5億再生突破..アルバム累計435万枚↑ 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mRnZnSjBwNGpyaU53dDBLMXVZTVhpd1ZkSE5LVGZkWW9ETDlQRnYtZ3hxWlRHbXB0cTFFOUo5WmFhZi1TNndOTDBxZ1NNSHdJdWUxX2V5elZNanFMNVQzQ3RrSlJWZW9nVDhaQXRtYXZqeldQc0R0OQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mRnZnSjBwNGpyaU53dDBLMXVZTVhpd1ZkSE5LVGZkWW9ETDlQRnYtZ3hxWlRHbXB0cTFFOUo5WmFhZi1TNndOTDBxZ1NNSHdJdWUxX2V5elZNanFMNVQzQ3RrSlJWZW9nVDhaQXRtYXZqeldQc0R0OQ?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-14T01:37:57+00:00",
+      "date": "2026-10-14T01:37:57+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "60fec51477033605956a",
+      "title": "코르티스 ‘GREENGREEN’, 방탄소년단 이어 ‘쿼드러플 밀리언셀러’ - OSEN",
+      "description": "코르티스 ‘GREENGREEN’, 방탄소년단 이어 ‘쿼드러플 밀리언셀러’ OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFV09oMFFJNVFWc0hBak1fSG14NHktbmlqdGY1M215WmVEV0ttdGZPZkVHX3ZZZzZmbGtvbS0xVU9sZ1U4TWkzTnNIUUR1dlVXeFZTaQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFV09oMFFJNVFWc0hBak1fSG14NHktbmlqdGY1M215WmVEV0ttdGZPZkVHX3ZZZzZmbGtvbS0xVU9sZ1U4TWkzTnNIUUR1dlVXeFZTaQ?oc=5",
+      "source": "OSEN",
+      "publishedAt": "2026-10-14T01:37:00+00:00",
+      "date": "2026-10-14T01:37:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "2619aac602ea28d24800",
+      "title": "NCT·에스파 14일, 아이브·코르티스 15일···‘MMA’ 출격 - 스포츠경향",
+      "description": "NCT·에스파 14일, 아이브·코르티스 15일···‘MMA’ 출격 스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vX3h0aFVyQjV1SThHZHBWc1BCemdsWG1mUHVhUDhEX0lwRk8yOG41X3lPc0tUTkpSYld0OXFVZGR3TlVneElYLWZNdHFILWdqODJqa2tjOVR5QUFGSnfSAWNBVV95cUxQQjljbjgtSHZjWW9nTkFIUmRTYXY4RFhtZnRoVmxFTloxakQ2d1l1ZFRXREIzc3ozTW94Rlpha2JyVjFGUThfS3JsYndPNGduemV3ak9xelhkOGZ0cjMxSjZoYkk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vX3h0aFVyQjV1SThHZHBWc1BCemdsWG1mUHVhUDhEX0lwRk8yOG41X3lPc0tUTkpSYld0OXFVZGR3TlVneElYLWZNdHFILWdqODJqa2tjOVR5QUFGSnfSAWNBVV95cUxQQjljbjgtSHZjWW9nTkFIUmRTYXY4RFhtZnRoVmxFTloxakQ2d1l1ZFRXREIzc3ozTW94Rlpha2JyVjFGUThfS3JsYndPNGduemV3ak9xelhkOGZ0cjMxSjZoYkk?oc=5",
+      "source": "스포츠경향",
+      "publishedAt": "2026-10-14T00:53:00+00:00",
+      "date": "2026-10-14T00:53:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "5dc74cae0f67481d5b53",
+      "title": "아이오아이·에스파·아이브·코르티스, MMA2026 출격 확정(공식) - 조이뉴스24",
+      "description": "아이오아이·에스파·아이브·코르티스, MMA2026 출격 확정(공식) 조이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ER3RWdDU3dHVudFhLaWFPZGJ2Y3lvNzFma0w0cFRNaUUzejIydTVjM1N2M0hFeGx5UzZmUDNyVlRBRDBXMUkyc0dSNVFFS1k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ER3RWdDU3dHVudFhLaWFPZGJ2Y3lvNzFma0w0cFRNaUUzejIydTVjM1N2M0hFeGx5UzZmUDNyVlRBRDBXMUkyc0dSNVFFS1k?oc=5",
+      "source": "조이뉴스24",
+      "publishedAt": "2026-10-13T23:59:15+00:00",
+      "date": "2026-10-13T23:59:15+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "01d97dd21f76e8313427",
+      "title": "아이오아이·에스파·코르티스…'MMA2026' 최종 라인업 합류 - 싱글리스트",
+      "description": "아이오아이·에스파·코르티스…'MMA2026' 최종 라인업 합류 싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JVmFjLXlMeDVoekEwVDZaT2VXUGljUzYzOWJCMU1KYXktc3VpbjVrRmlqODlCZ2JsV1FqZDJLRWdIclNxUVlHbFdBSmFNakczZV9LdzFsaTMzNUIyamUzbmxXUnVrdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JVmFjLXlMeDVoekEwVDZaT2VXUGljUzYzOWJCMU1KYXktc3VpbjVrRmlqODlCZ2JsV1FqZDJLRWdIclNxUVlHbFdBSmFNakczZV9LdzFsaTMzNUIyamUzbmxXUnVrdw?oc=5",
+      "source": "싱글리스트",
+      "publishedAt": "2026-10-13T23:33:31+00:00",
+      "date": "2026-10-13T23:33:31+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c08cfd8427475d2fb93f",
+      "title": "[TOP이슈] 방탄소년단·스트레이 키즈 이어…에이티즈-에스파→코르티스, 그래미 어워드 보이콧 - 톱스타뉴스",
+      "description": "[TOP이슈] 방탄소년단·스트레이 키즈 이어…에이티즈-에스파→코르티스, 그래미 어워드 보이콧 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKdWI2Tkx4bkxoUTZSbTlkbW1aaXdhVnpZZE1jdmo5UWJlblhJUGNhdVlNVFhsaUZ6YnpYSjhYSkVWYm85akpmOWVLMTZGUU41R1Fxd3VDUVF2UnhUTUE4WkV3UkdtU3JseGI1VjFsOTB2Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKdWI2Tkx4bkxoUTZSbTlkbW1aaXdhVnpZZE1jdmo5UWJlblhJUGNhdVlNVFhsaUZ6YnpYSjhYSkVWYm85akpmOWVLMTZGUU41R1Fxd3VDUVF2UnhUTUE4WkV3UkdtU3JseGI1VjFsOTB2Zw?oc=5",
+      "source": "톱스타뉴스",
+      "publishedAt": "2026-10-13T11:45:58+00:00",
+      "date": "2026-10-13T11:45:58+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c33d92946109eb56201a",
+      "title": "［韓流］大阪で来月開催の音楽授賞式「MAMA」 CORTISなど出演へ - 聯合ニュース",
+      "description": "［韓流］大阪で来月開催の音楽授賞式「MAMA」 CORTISなど出演へ 聯合ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55eXVVNzREMWI1QVhnSFVVOTM2RDg0RGdlQzJZSWZVZTVYQzFFMWNyYktkSFpDZ3VVX21jc0w1REgydGhTd25XcmdmNm1BVmhPUXdSa053dWhLUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55eXVVNzREMWI1QVhnSFVVOTM2RDg0RGdlQzJZSWZVZTVYQzFFMWNyYktkSFpDZ3VVX21jc0w1REgydGhTd25XcmdmNm1BVmhPUXdSa053dWhLUQ?oc=5",
+      "source": "聯合ニュース",
+      "publishedAt": "2026-10-13T08:10:19+00:00",
+      "date": "2026-10-13T08:10:19+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "86c6d7208f3d6fc87978",
+      "title": "[방송소식] 코르티스·NCT 위시, '2026 마마 어워즈' 출연 - 연합뉴스",
+      "description": "[방송소식] 코르티스·NCT 위시, '2026 마마 어워즈' 출연 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUQWVRQ2ljaV9SQlNfdzR2UGhXM1pFWXVIWHNaLTF2bkN5THJGWGx0bm1IdG9pc244dXl6eTJqcXBTb1BVWkw0S3Vha00yd3h2VjNyNWxPbWhJTlnSAWBBVV95cUxNLWNzUm9DTGwzeFFFT3lfVUFsdl9zNk11X1JPamFSZUVGWjNCcG1IR2RMOXV5b0xBQ29wdjNsd2FPT1ZJeXl6OTBxbHZjZlJoRVRUSWZQZmsta0E1TG9jcnk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUQWVRQ2ljaV9SQlNfdzR2UGhXM1pFWXVIWHNaLTF2bkN5THJGWGx0bm1IdG9pc244dXl6eTJqcXBTb1BVWkw0S3Vha00yd3h2VjNyNWxPbWhJTlnSAWBBVV95cUxNLWNzUm9DTGwzeFFFT3lfVUFsdl9zNk11X1JPamFSZUVGWjNCcG1IR2RMOXV5b0xBQ29wdjNsd2FPT1ZJeXl6OTBxbHZjZlJoRVRUSWZQZmsta0E1TG9jcnk?oc=5",
+      "source": "연합뉴스",
+      "publishedAt": "2026-10-13T01:53:31+00:00",
+      "date": "2026-10-13T01:53:31+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "d301f1e86e030f6d3811",
+      "title": "코르티스부터 리센느까지…‘2026 MAMA’ 1차 라인업 공개 - 문화일보",
+      "description": "코르티스부터 리센느까지…‘2026 MAMA’ 1차 라인업 공개 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85ZjZfN2tkZlJRNUE3VnNqREVhZENMaEt0ajFlZVZJaGVyRE4wNTlEQm9ET05HcWl5YzN3ZkFieTNLbjMwS05WY2M5d3ZFS1lN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85ZjZfN2tkZlJRNUE3VnNqREVhZENMaEt0ajFlZVZJaGVyRE4wNTlEQm9ET05HcWl5YzN3ZkFieTNLbjMwS05WY2M5d3ZFS1lN?oc=5",
+      "source": "문화일보",
+      "publishedAt": "2026-10-13T01:39:18+00:00",
+      "date": "2026-10-13T01:39:18+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "6fe5b3b7b9d6221d5acf",
+      "title": "르세라핌·코르티스·리센느 등 12팀 출격…‘2026 MAMA’, 1차 라인업 전격 공개 - 서울경제",
+      "description": "르세라핌·코르티스·리센느 등 12팀 출격…‘2026 MAMA’, 1차 라인업 전격 공개 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CaTBPbks1VHowazJVTXlXWkhCWUJpaV9uWkcyMnNkWUlpRFRGMmRDRWxneGVNVGdzYmoxWWkyRzBGTEx5UUlEdGdFV2s5RVVwVGfSAVNBVV95cUxOQjJYRHVwM21lTm54WDlPZ1I0ZDRhM3JLMzZSaDQ3aW5zSU5yMW93WmlmQzlOSGNGakw4Yk5oWmtOWUVVRFZPaWlWZHFOLUZTUXRDZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CaTBPbks1VHowazJVTXlXWkhCWUJpaV9uWkcyMnNkWUlpRFRGMmRDRWxneGVNVGdzYmoxWWkyRzBGTEx5UUlEdGdFV2s5RVVwVGfSAVNBVV95cUxOQjJYRHVwM21lTm54WDlPZ1I0ZDRhM3JLMzZSaDQ3aW5zSU5yMW93WmlmQzlOSGNGakw4Yk5oWmtOWUVVRFZPaWlWZHFOLUZTUXRDZw?oc=5",
+      "source": "서울경제",
+      "publishedAt": "2026-10-13T01:21:33+00:00",
+      "date": "2026-10-13T01:21:33+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "2dca5d9e4dc07429314c",
+      "title": "코르티스, '팬앤스타' 뉴스타 12주 연속 1위…F1 싱가포르 무대 달궜다 - 더팩트",
+      "description": "코르티스, '팬앤스타' 뉴스타 12주 연속 1위…F1 싱가포르 무대 달궜다 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oUEtoaWdYeTdfRE16Nmw1NDBPX1lUTE94eGtadlZLVW1DYmg5Um5HMkxrVjBCOEFCZmREbi04R0xtWUQ4R0RJTjlKcjNqZVZBWFNLVHE4d3MtWXVxTmlzZlYyTdIBXkFVX3lxTFBQR0xGc1dCWGFDeUFFWW4xSVNMMmI0Tl9yTzhkek5meTNKcDZobU9ONjFwWjNjNFZXX1owT2FnLUhpUkgwcHUxcm9fRWxKRW8wQm94ejRkNUpEV1lQOUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oUEtoaWdYeTdfRE16Nmw1NDBPX1lUTE94eGtadlZLVW1DYmg5Um5HMkxrVjBCOEFCZmREbi04R0xtWUQ4R0RJTjlKcjNqZVZBWFNLVHE4d3MtWXVxTmlzZlYyTdIBXkFVX3lxTFBQR0xGc1dCWGFDeUFFWW4xSVNMMmI0Tl9yTzhkek5meTNKcDZobU9ONjFwWjNjNFZXX1owT2FnLUhpUkgwcHUxcm9fRWxKRW8wQm94ejRkNUpEV1lQOUE?oc=5",
+      "source": "더팩트",
+      "publishedAt": "2026-10-13T00:17:20+00:00",
+      "date": "2026-10-13T00:17:20+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "d0355d5c00eaa6085466",
+      "title": "ENHYPEN・CORTISからILLIT・RESCENEまで…「2026 MAMA」、第1弾ラインアップを公開 - 매일경제",
+      "description": "ENHYPEN・CORTISからILLIT・RESCENEまで…「2026 MAMA」、第1弾ラインアップを公開 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGb0Q0a0xXaEtQckxrZi11alJkdUpabTBieTBSZklPX0F3TnZQamdGOTFiOVl2Vl85aV9zaVRfY2VabGtwYm1WV0c2LVIxUnFN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGb0Q0a0xXaEtQckxrZi11alJkdUpabTBieTBSZklPX0F3TnZQamdGOTFiOVl2Vl85aV9zaVRfY2VabGtwYm1WV0c2LVIxUnFN?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-10-12T23:42:14+00:00",
+      "date": "2026-10-12T23:42:14+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "f922c080ffe87ee55377",
+      "title": "엔하이픈·나연→코르티스·리센느, MAMA 무대 오른다(공식) - 조이뉴스24",
+      "description": "엔하이픈·나연→코르티스·리센느, MAMA 무대 오른다(공식) 조이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jQ2hWNXEtYzFtNmZFLWdmOFFPY2lDVWZObDRqWVVMWDREQTBGSmdjRzdHX1NqZ3hvN09KN2UtZVd2NUR1ZkhBeWl4WWxzQmM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jQ2hWNXEtYzFtNmZFLWdmOFFPY2lDVWZObDRqWVVMWDREQTBGSmdjRzdHX1NqZ3hvN09KN2UtZVd2NUR1ZkhBeWl4WWxzQmM?oc=5",
+      "source": "조이뉴스24",
+      "publishedAt": "2026-10-12T23:06:52+00:00",
+      "date": "2026-10-12T23:06:52+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "dc28e85ea0b010eba59b",
+      "title": "코르티스부터 필릭스까지, F1 싱가포르 그랑프리와 함께한 스타들 - Vogue korea",
+      "description": "코르티스부터 필릭스까지, F1 싱가포르 그랑프리와 함께한 스타들 Vogue korea",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNdC12YndDOExybFFQODBka3pxOFNTcXQ2MXVnYUJfSktKUjFmNE1sQlg0dTdoSlEwUmREMTJyTG9uOGpNMkl4bDRuNVhrbnBkSXJyUlJqNkh6cXMwbmhRbnMwbS1Nby1IaklYZ2NGczBDVEc3MmJuZ25WdHdGdm1QazIyajFkY21tSTY4bDl2bmtXTlJUbkd3V1lyZ0pEU0hGTHZWOER5clFRb29peVlzS3VnTjkxbkhyLTF2X2ZrLW8xSUlGMVFNZ2RTZ1NCcEFIUkdhc3ZYWmx3QmFtRjV2VnVaSHJqZ2owYlIxcnVtcFhXeXAxVU55RXBzWFM0QTVRXzFjM1BGNXdtNXJLdUdjenRoSEVzcnFjT2t2RDU4UTVDMUFXTWpXck9EaFpCamtvLW9xa3ozRTZhTHhPVnp3TURrT0VBa0J1a0p0bkpCNExDQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNdC12YndDOExybFFQODBka3pxOFNTcXQ2MXVnYUJfSktKUjFmNE1sQlg0dTdoSlEwUmREMTJyTG9uOGpNMkl4bDRuNVhrbnBkSXJyUlJqNkh6cXMwbmhRbnMwbS1Nby1IaklYZ2NGczBDVEc3MmJuZ25WdHdGdm1QazIyajFkY21tSTY4bDl2bmtXTlJUbkd3V1lyZ0pEU0hGTHZWOER5clFRb29peVlzS3VnTjkxbkhyLTF2X2ZrLW8xSUlGMVFNZ2RTZ1NCcEFIUkdhc3ZYWmx3QmFtRjV2VnVaSHJqZ2owYlIxcnVtcFhXeXAxVU55RXBzWFM0QTVRXzFjM1BGNXdtNXJLdUdjenRoSEVzcnFjT2t2RDU4UTVDMUFXTWpXck9EaFpCamtvLW9xa3ozRTZhTHhPVnp3TURrT0VBa0J1a0p0bkpCNExDQQ?oc=5",
+      "source": "Vogue korea",
+      "publishedAt": "2026-10-12T08:37:06+00:00",
+      "date": "2026-10-12T08:37:06+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "23f471cb907216e75f4e",
+      "title": "‘F1 싱가포르’ 접수한 코르티스…6만 관객 운집 - 문화일보",
+      "description": "‘F1 싱가포르’ 접수한 코르티스…6만 관객 운집 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wSlJzM2EyNmgzVEVPZTUyLVBJQVFpOXowUF9LMnZLamRRNEZrd1F5SXJoYlpKbEdqUXlHWGVydVEtM18xYmd3RmRsdEFaTDB6?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wSlJzM2EyNmgzVEVPZTUyLVBJQVFpOXowUF9LMnZLamRRNEZrd1F5SXJoYlpKbEdqUXlHWGVydVEtM18xYmd3RmRsdEFaTDB6?oc=5",
+      "source": "문화일보",
+      "publishedAt": "2026-10-10T23:28:55+00:00",
+      "date": "2026-10-10T23:28:55+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "53d16349e450d16ff39b",
+      "title": "코르티스, F1 싱가포르서 6만 관객 열광… K팝 대표로 무대 올라 - 이데일리",
+      "description": "코르티스, F1 싱가포르서 6만 관객 열광… K팝 대표로 무대 올라 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMG1mcFZpN2lHa05GOWJ0YW90eEVUWXFzcnJXR1dCVjE3NXZ0N3IyRVBtZUR6RDk0UXlibTF4d2VTSUlCR29nSGl5WDRsRVFVWXFaZDRIVlk4dWhkMzhxYWdFOUxvcFV5cGpYS2luUVdlVGVXcjNtblZwTy1iRzNXSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMG1mcFZpN2lHa05GOWJ0YW90eEVUWXFzcnJXR1dCVjE3NXZ0N3IyRVBtZUR6RDk0UXlibTF4d2VTSUlCR29nSGl5WDRsRVFVWXFaZDRIVlk4dWhkMzhxYWdFOUxvcFV5cGpYS2luUVdlVGVXcjNtblZwTy1iRzNXSQ?oc=5",
+      "source": "이데일리",
+      "publishedAt": "2026-10-10T07:00:00+00:00",
+      "date": "2026-10-10T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "6e5cf2a487f1216722d9",
+      "title": "‘코르티스·베몬·NCT 위시’, 5세대만 믿는다…엔터주, 내년이 승부처 [투자360] - 헤럴드경제",
+      "description": "‘코르티스·베몬·NCT 위시’, 5세대만 믿는다…엔터주, 내년이 승부처 [투자360] 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvZTNFM1ExTjNvdF9HR1hyb1BaT0xVNlZxLV95cXdZdnZyZ2hNV2hjbVIya1dBMWd2UmFLM3NiX0ZBUWNvdGk4ek9ONmJzdHR1QmFZMzJn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvZTNFM1ExTjNvdF9HR1hyb1BaT0xVNlZxLV95cXdZdnZyZ2hNV2hjbVIya1dBMWd2UmFLM3NiX0ZBUWNvdGk4ek9ONmJzdHR1QmFZMzJn?oc=5",
+      "source": "헤럴드경제",
+      "publishedAt": "2026-10-10T07:00:00+00:00",
+      "date": "2026-10-10T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "f1b6411586f5d73645df",
+      "title": "ファンは、F1レースの混雑がコルティスの成績に影響を与えないことを願っている。 - Vietnam.vn",
+      "description": "ファンは、F1レースの混雑がコルティスの成績に影響を与えないことを願っている。 Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjFReFVOMmYtdjVNcFFrdnQzZ3Q3RTlkZFlQUnE4SVI5Zlp4TmZ4Q1NmemN1SHJQRl9RZjV2T2hwMVB1WS1Xa0g3dmRxdEM0M0tuSUtESjdCVkZ1dVQ2R2ZjVVNuanVWemlXdVdWSjlyb1EzRVhPTW9jOXhiTU9LeVdMZkc2Z3BtNjNvLVRZSFN0TWNIODRsLU9PUlVrWHc0NkJmRg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjFReFVOMmYtdjVNcFFrdnQzZ3Q3RTlkZFlQUnE4SVI5Zlp4TmZ4Q1NmemN1SHJQRl9RZjV2T2hwMVB1WS1Xa0g3dmRxdEM0M0tuSUtESjdCVkZ1dVQ2R2ZjVVNuanVWemlXdVdWSjlyb1EzRVhPTW9jOXhiTU9LeVdMZkc2Z3BtNjNvLVRZSFN0TWNIODRsLU9PUlVrWHc0NkJmRg?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-10T07:00:00+00:00",
+      "date": "2026-10-10T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b71c9ff94c2b753de66c",
+      "title": "ファンは、F1レースの混雑がコルティスに悪影響を与えないことを願っている。 - Vietnam.vn",
+      "description": "ファンは、F1レースの混雑がコルティスに悪影響を与えないことを願っている。 Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUG96U2dYODFqUjZVXzAxWU4ySVlHQ3Y1YVdMaHQ5TzlXUElUVHh4WjFfRHNvbE5FLVZ5NWxnVlRnNm1reGJzclNHaXZvbWI1ZHNYWDBNa1M4YjhWRDVzSWhFSUZpUS00ckNCeFRkRmZWUlFjdm1qc3Y0b2hVcnowcDM0bllRZEkxR0hRT3NYUDNxeVkwSndITzRKOVZsMnl6ZmRxZVF6NlFvUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUG96U2dYODFqUjZVXzAxWU4ySVlHQ3Y1YVdMaHQ5TzlXUElUVHh4WjFfRHNvbE5FLVZ5NWxnVlRnNm1reGJzclNHaXZvbWI1ZHNYWDBNa1M4YjhWRDVzSWhFSUZpUS00ckNCeFRkRmZWUlFjdm1qc3Y0b2hVcnowcDM0bllRZEkxR0hRT3NYUDNxeVkwSndITzRKOVZsMnl6ZmRxZVF6NlFvUQ?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-10T07:00:00+00:00",
+      "date": "2026-10-10T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "4e5e0817b70c0ba5f632",
+      "title": "역시 코르티스! F1 싱가포르 그랑프리 '압도' - 전자신문",
+      "description": "역시 코르티스! F1 싱가포르 그랑프리 '압도' 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fQ2hjNU5JVDhVdmhQODE3alQ4dGdjZ3dLbnFLWXVxLVR3T29ZNU96UHpIVy1fcFBNcUMxTWVnanpzQkJHZHQwRnh6N1l1UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fQ2hjNU5JVDhVdmhQODE3alQ4dGdjZ3dLbnFLWXVxLVR3T29ZNU96UHpIVy1fcFBNcUMxTWVnanpzQkJHZHQwRnh6N1l1UQ?oc=5",
+      "source": "전자신문",
+      "publishedAt": "2026-10-10T06:37:16+00:00",
+      "date": "2026-10-10T06:37:16+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "0858f11a1827baa40f9b",
+      "title": "Cortis Singapore F1 — K-pop Group Rocks 60,000 Fans at Grand Prix - The Korea Daily",
+      "description": "Cortis Singapore F1 — K-pop Group Rocks 60,000 Fans at Grand Prix The Korea Daily",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpOWUxU1NiZlZmLTQxbmg1bmNYbnA2WWh5UTgxNDNya1hHVUZ6NzJQcWFkMW93ZDl1aEhUQkx6MnBvQ0twT2hHOTQ3TGs0aW9OY1lCRy11bk9DZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpOWUxU1NiZlZmLTQxbmg1bmNYbnA2WWh5UTgxNDNya1hHVUZ6NzJQcWFkMW93ZDl1aEhUQkx6MnBvQ0twT2hHOTQ3TGs0aW9OY1lCRy11bk9DZw?oc=5",
+      "source": "The Korea Daily",
+      "publishedAt": "2026-10-10T06:30:41+00:00",
+      "date": "2026-10-10T06:30:41+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a888ea72820cbbc43ae1",
+      "title": "코르티스, F1 싱가포르 메인 무대서 공연…6만 관객과 호흡 - 연합뉴스",
+      "description": "코르티스, F1 싱가포르 메인 무대서 공연…6만 관객과 호흡 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbXpkQXJQNlRTYVNrMzI5NmpSUnd2ck9YY3dndWd0R2pELWdWNUczSEpPQ1F3VWp6NWdSSVJwall0ckJscmRrVGFhbW14aGp3Q2VUUUNMUEJMaGvSAWBBVV95cUxPRlktNlc0S2ZURDR5U1o3SFR2LWZSLUIxZGl2M0VseGNXNnpLNjZsMW9JalZJU0dBTnIxR2NJSktuRlRuVDVtcVFTS0VRSXRZUm9JQXoyYU9uTXJjYjd0ekM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbXpkQXJQNlRTYVNrMzI5NmpSUnd2ck9YY3dndWd0R2pELWdWNUczSEpPQ1F3VWp6NWdSSVJwall0ckJscmRrVGFhbW14aGp3Q2VUUUNMUEJMaGvSAWBBVV95cUxPRlktNlc0S2ZURDR5U1o3SFR2LWZSLUIxZGl2M0VseGNXNnpLNjZsMW9JalZJU0dBTnIxR2NJSktuRlRuVDVtcVFTS0VRSXRZUm9JQXoyYU9uTXJjYjd0ekM?oc=5",
+      "source": "연합뉴스",
+      "publishedAt": "2026-10-10T06:30:22+00:00",
+      "date": "2026-10-10T06:30:22+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "e158320785aa0481dbf3",
+      "title": "コルティス、F1シンガポールGPのメインステージを制覇..6万人の観客「ドーパミン」 - 스타뉴스",
+      "description": "コルティス、F1シンガポールGPのメインステージを制覇..6万人の観客「ドーパミン」 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uR0JCcnBaRDhmclpoQzdRVy05V3VGdHJmS1BhYXhwSFhWM0ZJZkFXRzJBZ1pQc3FJeVU0ZDlCTmhFYm1KbHpTd3ZHaVREVHh3TUNBN0k0QzEyd0xtSF9CMDlTdEZCNDFCVmhVZnBhSzNhQjhMMFFtaw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uR0JCcnBaRDhmclpoQzdRVy05V3VGdHJmS1BhYXhwSFhWM0ZJZkFXRzJBZ1pQc3FJeVU0ZDlCTmhFYm1KbHpTd3ZHaVREVHh3TUNBN0k0QzEyd0xtSF9CMDlTdEZCNDFCVmhVZnBhSzNhQjhMMFFtaw?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-10T05:45:55+00:00",
+      "date": "2026-10-10T05:45:55+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "ee275170bc300b8f3674",
+      "title": "코르티스 '빛나는 CORTIS!' [★영상] - 스타뉴스",
+      "description": "코르티스 '빛나는 CORTIS!' [★영상] 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MTUJhaW1DYzJVTGlObmI0QjV2bllXLU8zOW1FeTk0RS01QmNsVFowcndzcmtmNHotLUtqZ0Y1MEhJcGVfakFxVzJua3NFaWM0QnZ6R0RHakc4VTJDc3YtMFRodnRfZjJ6ajIwRnFQR2JPSldL?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MTUJhaW1DYzJVTGlObmI0QjV2bllXLU8zOW1FeTk0RS01QmNsVFowcndzcmtmNHotLUtqZ0Y1MEhJcGVfakFxVzJua3NFaWM0QnZ6R0RHakc4VTJDc3YtMFRodnRfZjJ6ajIwRnFQR2JPSldL?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-10T00:47:14+00:00",
+      "date": "2026-10-10T00:47:14+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "8bc81f8a8b7f46ec7858",
+      "title": "コルティス「輝くCORTIS！」' [★動画] - 스타뉴스",
+      "description": "コルティス「輝くCORTIS！」' [★動画] 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yVjNueS1tamZWcUZYSE5FeTBUYVJBZ1RQT2ZFWmsyVWxZT0NPeEx5NlpWeTRWNk1qMkJiTUxVb2twcFJ5TENPdjUtcnhMSGFFcmg1VF9CandrNnpSb1NvWWlLYUZLTmRzWFMyM3ZJSjQ0aHdFSWRFQg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yVjNueS1tamZWcUZYSE5FeTBUYVJBZ1RQT2ZFWmsyVWxZT0NPeEx5NlpWeTRWNk1qMkJiTUxVb2twcFJ5TENPdjUtcnhMSGFFcmg1VF9CandrNnpSb1NvWWlLYUZLTmRzWFMyM3ZJSjQ0aHdFSWRFQg?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-10T00:47:14+00:00",
+      "date": "2026-10-10T00:47:14+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a40d67cd54e66c277942",
+      "title": "[KPOP IN PUBLIC | ONE TAKE] CORTIS (코르티스) - TNT Dance Cover By cococrush From Taiwan - YouTube",
+      "description": "[KPOP IN PUBLIC | ONE TAKE] CORTIS (코르티스) - TNT Dance Cover By cococrush From Taiwan YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UdnZFOGdxRUJ0QXB3cmNReFctM3c3M1E0cV9HWXh1MEExSDVoRjliYXJMNjd3MGd3UVJuTUZ2REZqSVBQZmRZN2h5UGk0ZWowcmJZaVpoa3FaM091?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UdnZFOGdxRUJ0QXB3cmNReFctM3c3M1E0cV9HWXh1MEExSDVoRjliYXJMNjd3MGd3UVJuTUZ2REZqSVBQZmRZN2h5UGk0ZWowcmJZaVpoa3FaM091?oc=5",
+      "source": "YouTube",
+      "publishedAt": "2026-10-09T10:00:10+00:00",
+      "date": "2026-10-09T10:00:10+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "818897cc46df9672d5aa",
+      "title": "【ABCマート】 韓国発の次世代グループ「CORTIS」を起用 「心地よさ」をキーワードにVansの定番モデルOldSkoolやAuthenticを展開 - www.tv-tokyo.co.jp",
+      "description": "【ABCマート】 韓国発の次世代グループ「CORTIS」を起用 「心地よさ」をキーワードにVansの定番モデルOldSkoolやAuthenticを展開 www.tv-tokyo.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yNWtHaEl5RXgtRE41N3ZwXy00X04wZExBVmgzV1F3bDRnT1pkbF9iOEVmazRVbFctZXNSNWJhay1qYmhsbms1TXgyajlBcDV6YlZYdm1oWi1MWmJKOTFISWtXYVUzRWNqNnJ1SmpR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yNWtHaEl5RXgtRE41N3ZwXy00X04wZExBVmgzV1F3bDRnT1pkbF9iOEVmazRVbFctZXNSNWJhay1qYmhsbms1TXgyajlBcDV6YlZYdm1oWi1MWmJKOTFISWtXYVUzRWNqNnJ1SmpR?oc=5",
+      "source": "www.tv-tokyo.co.jp",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "date": "2026-10-09T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    }
+  ]
 }
