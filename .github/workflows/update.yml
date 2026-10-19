@@ -1,10 +1,9 @@
 
 name: Update CORTIS news feed
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 * * * *"
+    - cron: '17 * * * *'
 
 permissions:
   contents: write
@@ -20,7 +19,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Update feed
         run: python update_feed.py
@@ -34,4 +33,3 @@ jobs:
             git commit -m "Update CORTIS feed"
             git push
           fi
-
