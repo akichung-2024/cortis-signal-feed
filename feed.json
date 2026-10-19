@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-10-19T16:29:24.432079+00:00",
+  "updatedAt": "2026-10-19T21:32:58.505360+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "d178ca9c873a920a13f1",
+      "title": "[레오 강의 K팝 댄스] 포스트 K팝 ① – 코르티스, 휴대전화를 내려놓고 함께 뛰어라 - 스포츠경향",
+      "description": "[레오 강의 K팝 댄스] 포스트 K팝 ① – 코르티스, 휴대전화를 내려놓고 함께 뛰어라 스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3bE9STWhPNU5vX0ZIZGV4aDZPc25LQmNzUE9aSnZsV2lKN2V2Y2tvM1RPazlKaHR1NTEtVEZPX2daMEJ4UndoWHM2VTMwNTdEcUxfQkkzSUpHaVdXMVHSAWNBVV95cUxPRnBTemRzamM2SXk1WXR0ODBIX2taa0Zuck45dm00blZOMUItVjNEMmtFVEJmd24wRkZ4MlJSR3E5c0MwZV9mSnlWNE90X3pMT2c4Ql8yMUlGVC1WeWFOLVlNdHM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3bE9STWhPNU5vX0ZIZGV4aDZPc25LQmNzUE9aSnZsV2lKN2V2Y2tvM1RPazlKaHR1NTEtVEZPX2daMEJ4UndoWHM2VTMwNTdEcUxfQkkzSUpHaVdXMVHSAWNBVV95cUxPRnBTemRzamM2SXk1WXR0ODBIX2taa0Zuck45dm00blZOMUItVjNEMmtFVEJmd24wRkZ4MlJSR3E5c0MwZV9mSnlWNE90X3pMT2c4Ql8yMUlGVC1WeWFOLVlNdHM?oc=5",
+      "source": "스포츠경향",
+      "publishedAt": "2026-10-19T21:19:00+00:00",
+      "date": "2026-10-19T21:19:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "720b7dbaad4d392e7e53",
+      "title": "코르티스 커뮤니티 포스트 - NEW STICK TESTING 🏒 - 제 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - NEW STICK TESTING 🏒 - 제 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNV01UNXVvRVl6dGtybFhwNGVyY2JVd3g2bXYzbjRKcVF1U3RoSDFmRWJIS3Yxbm80YzYtQUN0bXNoSmRnWFhJalNHMVdYYzJmTS1ucnlrQ25MMmJxVl9B?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNV01UNXVvRVl6dGtybFhwNGVyY2JVd3g2bXYzbjRKcVF1U3RoSDFmRWJIS3Yxbm80YzYtQUN0bXNoSmRnWFhJalNHMVdYYzJmTS1ucnlrQ25MMmJxVl9B?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-10-19T13:43:10+00:00",
+      "date": "2026-10-19T13:43:10+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "d9b83876ebec47db02fa",
       "title": "[2026 차세대 리더-문화예술] 코르티스 가수 - 시사저널",
@@ -727,6 +757,21 @@
       "category": "NEWS"
     },
     {
+      "id": "e5bd0ca85053714f26dd",
+      "title": "코르티스 '그린그린', 발매 5개월 만에 5억 스트리밍 달성 - 뉴스핌",
+      "description": "코르티스 '그린그린', 발매 5개월 만에 5억 스트리밍 달성 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rYkktU2haX1RtZ3k2b1RFSUVMdm1SWjEyVjFwQXFORjRDdFpQMUc5Nk5Tejh5M2lPNzJ6U3NnZ3o1RDVDOGJvSFU1dWdBWnRtTlZYTkV1YTd4SGdI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rYkktU2haX1RtZ3k2b1RFSUVMdm1SWjEyVjFwQXFORjRDdFpQMUc5Nk5Tejh5M2lPNzJ6U3NnZ3o1RDVDOGJvSFU1dWdBWnRtTlZYTkV1YTd4SGdI?oc=5",
+      "source": "뉴스핌",
+      "publishedAt": "2026-10-14T05:05:00+00:00",
+      "date": "2026-10-14T05:05:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "3aa727b613c9ed1db7a4",
       "title": "코르티스 미니 2집 '그린그린', 발매 5개월 만에 스포티파이 5억 스트리밍 돌파 - 뉴스1",
       "description": "코르티스 미니 2집 '그린그린', 발매 5개월 만에 스포티파이 5억 스트리밍 돌파 뉴스1",
@@ -735,6 +780,21 @@
       "source": "뉴스1",
       "publishedAt": "2026-10-14T05:03:52+00:00",
       "date": "2026-10-14T05:03:52+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "071c9e1875a06f0a16f3",
+      "title": "BTS 이어 유일한 ‘쿼드러플’… 코르티스, 스포티파이 5억 뚫고 음반 450만 장 - 스포츠동아",
+      "description": "BTS 이어 유일한 ‘쿼드러플’… 코르티스, 스포티파이 5억 뚫고 음반 450만 장 스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83eDlwam5SYlRwbUZMZEMyNTRFbWxVekdQblNfQzhIS0cyWUhPYVhCVkM2RERqTWpnNWdHQ2RSWnJmS2ZxNEs0ZEoteEpHTVZSSFZseDlkenlXX2NJU2pRbU1kNDBwVE1lNzlsZ3ln?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83eDlwam5SYlRwbUZMZEMyNTRFbWxVekdQblNfQzhIS0cyWUhPYVhCVkM2RERqTWpnNWdHQ2RSWnJmS2ZxNEs0ZEoteEpHTVZSSFZseDlkenlXX2NJU2pRbU1kNDBwVE1lNzlsZ3ln?oc=5",
+      "source": "스포츠동아",
+      "publishedAt": "2026-10-14T04:53:02+00:00",
+      "date": "2026-10-14T04:53:02+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -1138,66 +1198,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEUzVW5MUl9JWEI2SExnUF9HUjROTWNaUHh6alFmYXlhakY0UGRjVnMxc1I3YzJGd0hJTkoxNGFNWjVoZzcwNXF6TlM2WS1ONFkyMlVXTXNyb1h2RU9TMnY0SW1jU2VQSmVvaERLNW16THI5QXpfNHdEMExzeVd4UlBZUDFCcmFnakJFN21n?oc=5",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEUzVW5MUl9JWEI2SExnUF9HUjROTWNaUHh6alFmYXlhakY0UGRjVnMxc1I3YzJGd0hJTkoxNGFNWjVoZzcwNXF6TlM2WS1ONFkyMlVXTXNyb1h2RU9TMnY0SW1jU2VQSmVvaERLNW16THI5QXpfNHdEMExzeVd4UlBZUDFCcmFnakJFN21n?oc=5",
       "source": "조선일보",
-      "publishedAt": "2026-10-10T07:00:00+00:00",
-      "date": "2026-10-10T07:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "a888ea72820cbbc43ae1",
-      "title": "코르티스, F1 싱가포르 메인 무대서 공연…6만 관객과 호흡 - 연합뉴스",
-      "description": "코르티스, F1 싱가포르 메인 무대서 공연…6만 관객과 호흡 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbXpkQXJQNlRTYVNrMzI5NmpSUnd2ck9YY3dndWd0R2pELWdWNUczSEpPQ1F3VWp6NWdSSVJwall0ckJscmRrVGFhbW14aGp3Q2VUUUNMUEJMaGvSAWBBVV95cUxPRlktNlc0S2ZURDR5U1o3SFR2LWZSLUIxZGl2M0VseGNXNnpLNjZsMW9JalZJU0dBTnIxR2NJSktuRlRuVDVtcVFTS0VRSXRZUm9JQXoyYU9uTXJjYjd0ekM?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbXpkQXJQNlRTYVNrMzI5NmpSUnd2ck9YY3dndWd0R2pELWdWNUczSEpPQ1F3VWp6NWdSSVJwall0ckJscmRrVGFhbW14aGp3Q2VUUUNMUEJMaGvSAWBBVV95cUxPRlktNlc0S2ZURDR5U1o3SFR2LWZSLUIxZGl2M0VseGNXNnpLNjZsMW9JalZJU0dBTnIxR2NJSktuRlRuVDVtcVFTS0VRSXRZUm9JQXoyYU9uTXJjYjd0ekM?oc=5",
-      "source": "연합뉴스",
-      "publishedAt": "2026-10-10T07:00:00+00:00",
-      "date": "2026-10-10T07:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "53d16349e450d16ff39b",
-      "title": "코르티스, F1 싱가포르서 6만 관객 열광… K팝 대표로 무대 올라 - 이데일리",
-      "description": "코르티스, F1 싱가포르서 6만 관객 열광… K팝 대표로 무대 올라 이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMG1mcFZpN2lHa05GOWJ0YW90eEVUWXFzcnJXR1dCVjE3NXZ0N3IyRVBtZUR6RDk0UXlibTF4d2VTSUlCR29nSGl5WDRsRVFVWXFaZDRIVlk4dWhkMzhxYWdFOUxvcFV5cGpYS2luUVdlVGVXcjNtblZwTy1iRzNXSQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMG1mcFZpN2lHa05GOWJ0YW90eEVUWXFzcnJXR1dCVjE3NXZ0N3IyRVBtZUR6RDk0UXlibTF4d2VTSUlCR29nSGl5WDRsRVFVWXFaZDRIVlk4dWhkMzhxYWdFOUxvcFV5cGpYS2luUVdlVGVXcjNtblZwTy1iRzNXSQ?oc=5",
-      "source": "이데일리",
-      "publishedAt": "2026-10-10T07:00:00+00:00",
-      "date": "2026-10-10T07:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "f1b6411586f5d73645df",
-      "title": "ファンは、F1レースの混雑がコルティスの成績に影響を与えないことを願っている。 - Vietnam.vn",
-      "description": "ファンは、F1レースの混雑がコルティスの成績に影響を与えないことを願っている。 Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjFReFVOMmYtdjVNcFFrdnQzZ3Q3RTlkZFlQUnE4SVI5Zlp4TmZ4Q1NmemN1SHJQRl9RZjV2T2hwMVB1WS1Xa0g3dmRxdEM0M0tuSUtESjdCVkZ1dVQ2R2ZjVVNuanVWemlXdVdWSjlyb1EzRVhPTW9jOXhiTU9LeVdMZkc2Z3BtNjNvLVRZSFN0TWNIODRsLU9PUlVrWHc0NkJmRg?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjFReFVOMmYtdjVNcFFrdnQzZ3Q3RTlkZFlQUnE4SVI5Zlp4TmZ4Q1NmemN1SHJQRl9RZjV2T2hwMVB1WS1Xa0g3dmRxdEM0M0tuSUtESjdCVkZ1dVQ2R2ZjVVNuanVWemlXdVdWSjlyb1EzRVhPTW9jOXhiTU9LeVdMZkc2Z3BtNjNvLVRZSFN0TWNIODRsLU9PUlVrWHc0NkJmRg?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-10T07:00:00+00:00",
-      "date": "2026-10-10T07:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "b71c9ff94c2b753de66c",
-      "title": "ファンは、F1レースの混雑がコルティスに悪影響を与えないことを願っている。 - Vietnam.vn",
-      "description": "ファンは、F1レースの混雑がコルティスに悪影響を与えないことを願っている。 Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUG96U2dYODFqUjZVXzAxWU4ySVlHQ3Y1YVdMaHQ5TzlXUElUVHh4WjFfRHNvbE5FLVZ5NWxnVlRnNm1reGJzclNHaXZvbWI1ZHNYWDBNa1M4YjhWRDVzSWhFSUZpUS00ckNCeFRkRmZWUlFjdm1qc3Y0b2hVcnowcDM0bllRZEkxR0hRT3NYUDNxeVkwSndITzRKOVZsMnl6ZmRxZVF6NlFvUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUG96U2dYODFqUjZVXzAxWU4ySVlHQ3Y1YVdMaHQ5TzlXUElUVHh4WjFfRHNvbE5FLVZ5NWxnVlRnNm1reGJzclNHaXZvbWI1ZHNYWDBNa1M4YjhWRDVzSWhFSUZpUS00ckNCeFRkRmZWUlFjdm1qc3Y0b2hVcnowcDM0bllRZEkxR0hRT3NYUDNxeVkwSndITzRKOVZsMnl6ZmRxZVF6NlFvUQ?oc=5",
-      "source": "Vietnam.vn",
       "publishedAt": "2026-10-10T07:00:00+00:00",
       "date": "2026-10-10T07:00:00+00:00",
       "member": "GROUP",
