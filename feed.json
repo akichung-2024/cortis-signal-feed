@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:32:58.505360+00:00",
+  "updatedAt": "2026-10-20T01:06:06.444160+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -997,6 +997,21 @@
       "category": "NEWS"
     },
     {
+      "id": "7e316825b6430f5275ba",
+      "title": "MMA2026, 에스파·아이브·아이오아이·코르티스 등 26팀 출연 확정…고척돔서 이틀간 개최 - 이투데이",
+      "description": "MMA2026, 에스파·아이브·아이오아이·코르티스 등 26팀 출연 확정…고척돔서 이틀간 개최 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWSy02MXBYcUJ3SldwR2ZvOEpabjVfZ0tMbHk2WXFtOXRNcDVnTllBWnBpYjNCQnVjZGI2RFpxZ1d1OE5KT3A2YzF6V1VTb2RuQzJWMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWSy02MXBYcUJ3SldwR2ZvOEpabjVfZ0tMbHk2WXFtOXRNcDVnTllBWnBpYjNCQnVjZGI2RFpxZ1d1OE5KT3A2YzF6V1VTb2RuQzJWMA?oc=5",
+      "source": "이투데이",
+      "publishedAt": "2026-10-13T23:57:00+00:00",
+      "date": "2026-10-13T23:57:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "01d97dd21f76e8313427",
       "title": "아이오아이·에스파·코르티스…'MMA2026' 최종 라인업 합류 - 싱글리스트",
       "description": "아이오아이·에스파·코르티스…'MMA2026' 최종 라인업 합류 싱글리스트",
@@ -1185,21 +1200,6 @@
       "source": "문화일보",
       "publishedAt": "2026-10-11T07:00:00+00:00",
       "date": "2026-10-11T07:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "8c49c593293defbd8bd3",
-      "title": "CORTIS Captivates 60,000 at Singapore F1's Padang Stage - 조선일보",
-      "description": "CORTIS Captivates 60,000 at Singapore F1's Padang Stage 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEUzVW5MUl9JWEI2SExnUF9HUjROTWNaUHh6alFmYXlhakY0UGRjVnMxc1I3YzJGd0hJTkoxNGFNWjVoZzcwNXF6TlM2WS1ONFkyMlVXTXNyb1h2RU9TMnY0SW1jU2VQSmVvaERLNW16THI5QXpfNHdEMExzeVd4UlBZUDFCcmFnakJFN21n?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEUzVW5MUl9JWEI2SExnUF9HUjROTWNaUHh6alFmYXlhakY0UGRjVnMxc1I3YzJGd0hJTkoxNGFNWjVoZzcwNXF6TlM2WS1ONFkyMlVXTXNyb1h2RU9TMnY0SW1jU2VQSmVvaERLNW16THI5QXpfNHdEMExzeVd4UlBZUDFCcmFnakJFN21n?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-10-10T07:00:00+00:00",
-      "date": "2026-10-10T07:00:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
