@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T11:41:05.829760+00:00",
+  "updatedAt": "2026-10-20T17:10:39.458274+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -365,6 +365,22 @@
       "category": "NEWS"
     },
     {
+      "id": "61a6b0d5ff5ba38defec",
+      "title": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 - 스타뉴스",
+      "description": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-15T06:52:57+00:00",
+      "date": "2026-10-15T06:52:57+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON",
+        "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "2d83b1f654438eac4ddd",
       "title": "코르티스 집안싸움 났네..코르티스 건호, 성현 이어 스타랭킹 男아이돌 2위 - 스타뉴스",
       "description": "코르티스 집안싸움 났네..코르티스 건호, 성현 이어 스타랭킹 男아이돌 2위 스타뉴스",
@@ -381,18 +397,17 @@
       "category": "NEWS"
     },
     {
-      "id": "61a6b0d5ff5ba38defec",
-      "title": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 - 스타뉴스",
-      "description": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
+      "id": "406f1f325c5a4bf29b7f",
+      "title": "コルティス聖賢、スターランキング男性アイドル1位..「かわいい」威厳 - 스타뉴스",
+      "description": "コルティス聖賢、スターランキング男性アイドル1位..「かわいい」威厳 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xYWtxZ1RsWWpWNEZDbkFQcTBTYkxwUFlkOFU2cC16aDViZVdWVWxjWDBSMVhUSHlhSDd1aVpQaTZhNHhuUmJFUXdkZExMNF9kVC0wbEQyN1QtbUhjZG9mQUtYamhCV3FBd1F3NnhjVnJyclRYNl9rcw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xYWtxZ1RsWWpWNEZDbkFQcTBTYkxwUFlkOFU2cC16aDViZVdWVWxjWDBSMVhUSHlhSDd1aVpQaTZhNHhuUmJFUXdkZExMNF9kVC0wbEQyN1QtbUhjZG9mQUtYamhCV3FBd1F3NnhjVnJyclRYNl9rcw?oc=5",
       "source": "스타뉴스",
-      "publishedAt": "2026-10-15T06:52:57+00:00",
-      "date": "2026-10-15T06:52:57+00:00",
-      "member": "SEONGHYEON",
+      "publishedAt": "2026-10-15T06:48:02+00:00",
+      "date": "2026-10-15T06:48:02+00:00",
+      "member": "GROUP",
       "members": [
-        "SEONGHYEON",
-        "KEONHO"
+        "GROUP"
       ],
       "category": "NEWS"
     },
@@ -907,11 +922,11 @@
       "category": "NEWS"
     },
     {
-      "id": "6e3c170c476b8ece8d22",
-      "title": "코르티스 ‘GREENGREEN’, 스포티파이 5억 스트리밍 돌파 - 매일경제",
-      "description": "코르티스 ‘GREENGREEN’, 스포티파이 5억 스트리밍 돌파 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yd2x0QWNBSFpKN2hHUC1KZTVzY050VGVhbTlBNzdSNUJOR0VFVjc0RE9UNXFPblBoMXg2MFdmQjVNRkV5dk9BY3l4cVNDVDZnUU0w?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yd2x0QWNBSFpKN2hHUC1KZTVzY050VGVhbTlBNzdSNUJOR0VFVjc0RE9UNXFPblBoMXg2MFdmQjVNRkV5dk9BY3l4cVNDVDZnUU0w?oc=5",
+      "id": "be13def0de7435abc998",
+      "title": "コルティス「GREENGREEN」、スポティファイで再生5億回突破 - 매일경제",
+      "description": "コルティス「GREENGREEN」、スポティファイで再生5億回突破 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45cGhuNjQ3Nnc5VXAyMTBJaDBvSWRWY1hZVHFPV25zRW01ejlpSG1kM2l2UFRRVGxFMXo0ZUV2TDdxcVN0X0NmeDR1NFFTUEUx?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45cGhuNjQ3Nnc5VXAyMTBJaDBvSWRWY1hZVHFPV25zRW01ejlpSG1kM2l2UFRRVGxFMXo0ZUV2TDdxcVN0X0NmeDR1NFFTUEUx?oc=5",
       "source": "매일경제",
       "publishedAt": "2026-10-14T02:12:23+00:00",
       "date": "2026-10-14T02:12:23+00:00",
@@ -922,11 +937,11 @@
       "category": "NEWS"
     },
     {
-      "id": "be13def0de7435abc998",
-      "title": "コルティス「GREENGREEN」、スポティファイで再生5億回突破 - 매일경제",
-      "description": "コルティス「GREENGREEN」、スポティファイで再生5億回突破 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45cGhuNjQ3Nnc5VXAyMTBJaDBvSWRWY1hZVHFPV25zRW01ejlpSG1kM2l2UFRRVGxFMXo0ZUV2TDdxcVN0X0NmeDR1NFFTUEUx?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45cGhuNjQ3Nnc5VXAyMTBJaDBvSWRWY1hZVHFPV25zRW01ejlpSG1kM2l2UFRRVGxFMXo0ZUV2TDdxcVN0X0NmeDR1NFFTUEUx?oc=5",
+      "id": "6e3c170c476b8ece8d22",
+      "title": "코르티스 ‘GREENGREEN’, 스포티파이 5억 스트리밍 돌파 - 매일경제",
+      "description": "코르티스 ‘GREENGREEN’, 스포티파이 5억 스트리밍 돌파 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yd2x0QWNBSFpKN2hHUC1KZTVzY050VGVhbTlBNzdSNUJOR0VFVjc0RE9UNXFPblBoMXg2MFdmQjVNRkV5dk9BY3l4cVNDVDZnUU0w?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yd2x0QWNBSFpKN2hHUC1KZTVzY050VGVhbTlBNzdSNUJOR0VFVjc0RE9UNXFPblBoMXg2MFdmQjVNRkV5dk9BY3l4cVNDVDZnUU0w?oc=5",
       "source": "매일경제",
       "publishedAt": "2026-10-14T02:12:23+00:00",
       "date": "2026-10-14T02:12:23+00:00",
@@ -1185,21 +1200,6 @@
       "source": "더팩트",
       "publishedAt": "2026-10-13T00:17:20+00:00",
       "date": "2026-10-13T00:17:20+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "229220b770a523f6ccc2",
-      "title": "엔하이픈·코르티스→아일릿·리센느…‘2026 MAMA’, 1차 라인업 공개 - 매일경제",
-      "description": "엔하이픈·코르티스→아일릿·리센느…‘2026 MAMA’, 1차 라인업 공개 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PZGw1Z1o3TW5RQnN3U1JjcDB0YjkycHJXNWxwN0ZQSEswWm85SWlBSzRpWDk4WkR0ODRFalVnSEZvNW11VTcyMWswMFRJekp2NURN?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PZGw1Z1o3TW5RQnN3U1JjcDB0YjkycHJXNWxwN0ZQSEswWm85SWlBSzRpWDk4WkR0ODRFalVnSEZvNW11VTcyMWswMFRJekp2NURN?oc=5",
-      "source": "매일경제",
-      "publishedAt": "2026-10-12T23:42:14+00:00",
-      "date": "2026-10-12T23:42:14+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
