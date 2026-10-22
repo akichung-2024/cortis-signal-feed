@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T20:09:03.764179+00:00",
+  "updatedAt": "2026-10-22T23:24:43.425111+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -1136,21 +1136,6 @@
       "category": "NEWS"
     },
     {
-      "id": "27f2e5c044621ef2732a",
-      "title": "코르티스 제임스, 생일 맞아 자체 제작 MV 공개…“과거의 나와 싸움” - 동아일보",
-      "description": "코르티스 제임스, 생일 맞아 자체 제작 MV 공개…“과거의 나와 싸움” 동아일보",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WQ0RnVWxVam9saFNpUnN0YzcxWGdJMk8ya29lTlR3NFEtRU9PbHRSZGVsZDlxYXFMX19BRjVEbnd6RVRpNXQxd2dnTGx4MkJ1anZuZ2o0R1FzdEt2eG4ydWNMX0JIZDJFNU1yN0kwLUprYVZlb1HSAWZBVV95cUxPMVJ1LW9MdDJFenBtWjhpcnRyTURJTWRrYXg2SlN0a2hIWEEyb3h1UjdhdjlQNFFEOGZQNVZOR0MxTVM2MWVWODdINUl4ZjJGNzlqbF8ySjZmNS1TVk5wcTBFbU8xd1E?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WQ0RnVWxVam9saFNpUnN0YzcxWGdJMk8ya29lTlR3NFEtRU9PbHRSZGVsZDlxYXFMX19BRjVEbnd6RVRpNXQxd2dnTGx4MkJ1anZuZ2o0R1FzdEt2eG4ydWNMX0JIZDJFNU1yN0kwLUprYVZlb1HSAWZBVV95cUxPMVJ1LW9MdDJFenBtWjhpcnRyTURJTWRrYXg2SlN0a2hIWEEyb3h1UjdhdjlQNFFEOGZQNVZOR0MxTVM2MWVWODdINUl4ZjJGNzlqbF8ySjZmNS1TVk5wcTBFbU8xd1E?oc=5",
-      "source": "동아일보",
-      "publishedAt": "2026-10-14T07:00:00+00:00",
-      "date": "2026-10-14T07:00:00+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "cae3c6bcba33ccc9b536",
       "title": "MMA2026, 아이오아이·에스파·아이브·코르티스 등 ‘황금 라인업’ - 서울경제",
       "description": "MMA2026, 아이오아이·에스파·아이브·코르티스 등 ‘황금 라인업’ 서울경제",
@@ -1202,6 +1187,21 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFloN2NGUzhWeEpjYlpSWFBEWnhNMkJYMkxDdVZhNmVWb2wwMVg1cjFoSi1FeEFKQzBHUU0xb25aMFRaSl9RVng5azlTUzQxQUhUbkw5UHdWb1AtNGF1QnUzalE4RGRNcGwxWGJQUlZ1aEpCMUlTS3ZsYXZYbFZVUWQ3YjhMZw?oc=5",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFloN2NGUzhWeEpjYlpSWFBEWnhNMkJYMkxDdVZhNmVWb2wwMVg1cjFoSi1FeEFKQzBHUU0xb25aMFRaSl9RVng5azlTUzQxQUhUbkw5UHdWb1AtNGF1QnUzalE4RGRNcGwxWGJQUlZ1aEpCMUlTS3ZsYXZYbFZVUWQ3YjhMZw?oc=5",
       "source": "ELLE",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "date": "2026-10-14T07:00:00+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "79e9b84391305f3c81a2",
+      "title": "CORTIS James Releases Self-Made Video for 14th Birthday - 조선일보",
+      "description": "CORTIS James Releases Self-Made Video for 14th Birthday 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXy1MeDdNblJPNEo0MGJsV2V3WUt0TDZkakxRUkt6RmFjem8wVnpWbEhoZzZGWFY0WmJHWDlaY053LUJxRTZjY0VOM1NqX2dOMnN1UXgtYl9ZVGZSMURVZXBoV2VsRHhlRVVxbGFtOWRsQm1Qa0JCaU5wN0UtNEZwVVJqbF9MU3FZTGJiV3hn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXy1MeDdNblJPNEo0MGJsV2V3WUt0TDZkakxRUkt6RmFjem8wVnpWbEhoZzZGWFY0WmJHWDlaY053LUJxRTZjY0VOM1NqX2dOMnN1UXgtYl9ZVGZSMURVZXBoV2VsRHhlRVVxbGFtOWRsQm1Qa0JCaU5wN0UtNEZwVVJqbF9MU3FZTGJiV3hn?oc=5",
+      "source": "조선일보",
       "publishedAt": "2026-10-14T07:00:00+00:00",
       "date": "2026-10-14T07:00:00+00:00",
       "member": "JAMES",
