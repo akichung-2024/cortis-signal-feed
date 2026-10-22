@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T15:19:59.336002+00:00",
+  "updatedAt": "2026-10-22T20:09:03.764179+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -1016,21 +1016,6 @@
       "category": "NEWS"
     },
     {
-      "id": "cae3c6bcba33ccc9b536",
-      "title": "MMA2026, 아이오아이·에스파·아이브·코르티스 등 ‘황금 라인업’ - 서울경제",
-      "description": "MMA2026, 아이오아이·에스파·아이브·코르티스 등 ‘황금 라인업’ 서울경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZVTZUOTJyZDIwTE0yRC1MOWpwMjZwRTlFMDdkNGZNWHBTQ1JOTHlIVThXaXFLMGQwSHc1cEEwRDduRWw2Vkl4Q19CNjBRLUxuX0HSAVNBVV95cUxOdkRLZXZFZHN6cXQwUEs5UGdpejhuMG9sNnBIRGlVOGc3a3dQclF3N2V0cWltWjVfcldfN1E0MzFlRVBlOENuaWoxQzNNR1dGTFZvWQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZVTZUOTJyZDIwTE0yRC1MOWpwMjZwRTlFMDdkNGZNWHBTQ1JOTHlIVThXaXFLMGQwSHc1cEEwRDduRWw2Vkl4Q19CNjBRLUxuX0HSAVNBVV95cUxOdkRLZXZFZHN6cXQwUEs5UGdpejhuMG9sNnBIRGlVOGc3a3dQclF3N2V0cWltWjVfcldfN1E0MzFlRVBlOENuaWoxQzNNR1dGTFZvWQ?oc=5",
-      "source": "서울경제",
-      "publishedAt": "2026-10-14T09:06:51+00:00",
-      "date": "2026-10-14T09:06:51+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "32ca3296390ae4e94948",
       "title": "aespa・IVE・I.O.I・Cortis、『メロン・ミュージック・アワード』に登場する - 스포탈코리아",
       "description": "aespa・IVE・I.O.I・Cortis、『メロン・ミュージック・アワード』に登場する 스포탈코리아",
@@ -1162,6 +1147,21 @@
       "member": "JAMES",
       "members": [
         "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "cae3c6bcba33ccc9b536",
+      "title": "MMA2026, 아이오아이·에스파·아이브·코르티스 등 ‘황금 라인업’ - 서울경제",
+      "description": "MMA2026, 아이오아이·에스파·아이브·코르티스 등 ‘황금 라인업’ 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZVTZUOTJyZDIwTE0yRC1MOWpwMjZwRTlFMDdkNGZNWHBTQ1JOTHlIVThXaXFLMGQwSHc1cEEwRDduRWw2Vkl4Q19CNjBRLUxuX0HSAVNBVV95cUxOdkRLZXZFZHN6cXQwUEs5UGdpejhuMG9sNnBIRGlVOGc3a3dQclF3N2V0cWltWjVfcldfN1E0MzFlRVBlOENuaWoxQzNNR1dGTFZvWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZVTZUOTJyZDIwTE0yRC1MOWpwMjZwRTlFMDdkNGZNWHBTQ1JOTHlIVThXaXFLMGQwSHc1cEEwRDduRWw2Vkl4Q19CNjBRLUxuX0HSAVNBVV95cUxOdkRLZXZFZHN6cXQwUEs5UGdpejhuMG9sNnBIRGlVOGc3a3dQclF3N2V0cWltWjVfcldfN1E0MzFlRVBlOENuaWoxQzNNR1dGTFZvWQ?oc=5",
+      "source": "서울경제",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "date": "2026-10-14T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     },
