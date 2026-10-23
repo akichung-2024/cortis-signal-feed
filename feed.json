@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T10:06:21.480771+00:00",
+  "updatedAt": "2026-10-23T19:16:01.695337+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -12,6 +12,21 @@
       "source": "에스콰이어 코리아",
       "publishedAt": "2026-10-23T09:00:01+00:00",
       "date": "2026-10-23T09:00:01+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "ff1f2f7dceff0831f6fb",
+      "title": "하이브 | BTS 투어로 역대 최대 매출, 다음 성장은 코르티스·캣츠아이의 몫 - 네이버 프리미엄콘텐츠",
+      "description": "하이브 | BTS 투어로 역대 최대 매출, 다음 성장은 코르티스·캣츠아이의 몫 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1RGZ1JZX2VwOUxEMnp3Z1psZFlObjdUTDdIUWtjVkpBNTFVQUpSckVyQjhrTWo3Y2FCZklESFlYb0ZjcFkwaUl5Tjdna3pvUjRFVlJpUFh0NmVpOHBLZUZWZ2dNWmVqRE9iUzFMT1NJOG1uNlA0aWwzcVFJZUZUMjQ1SExIbGtB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1RGZ1JZX2VwOUxEMnp3Z1psZFlObjdUTDdIUWtjVkpBNTFVQUpSckVyQjhrTWo3Y2FCZklESFlYb0ZjcFkwaUl5Tjdna3pvUjRFVlJpUFh0NmVpOHBLZUZWZ2dNWmVqRE9iUzFMT1NJOG1uNlA0aWwzcVFJZUZUMjQ1SExIbGtB?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "publishedAt": "2026-10-23T06:09:00+00:00",
+      "date": "2026-10-23T06:09:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -894,36 +909,6 @@
       "category": "NEWS"
     },
     {
-      "id": "4951e8225052b5e8aba0",
-      "title": "BIGBANG, ENHYPEN, CORTIS & More Set to Perform at 2026 MAMA Awards: Full List - Billboard",
-      "description": "BIGBANG, ENHYPEN, CORTIS & More Set to Perform at 2026 MAMA Awards: Full List Billboard",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW5wU0hTbzNGU2x4eFlOb0dqWkd5UVM4VG84ck0xWnVnWFpnTGZiSEcyOGpuMU82QTl0alU1a2tqdENYa3J4WGJ1Q3M2cWVSSmVGWmZ1SkdmaVY4QTVCdnM2Q1o4U1Zib0xsTy1VT0RKRWFCTTRKUVA0aGF3N18zcGZESmFWNlhmVGI0LTBiV2NlZFA1NTk0NUxDNTJXeDFFYnpz?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW5wU0hTbzNGU2x4eFlOb0dqWkd5UVM4VG84ck0xWnVnWFpnTGZiSEcyOGpuMU82QTl0alU1a2tqdENYa3J4WGJ1Q3M2cWVSSmVGWmZ1SkdmaVY4QTVCdnM2Q1o4U1Zib0xsTy1VT0RKRWFCTTRKUVA0aGF3N18zcGZESmFWNlhmVGI0LTBiV2NlZFA1NTk0NUxDNTJXeDFFYnpz?oc=5",
-      "source": "Billboard",
-      "publishedAt": "2026-10-16T01:01:25+00:00",
-      "date": "2026-10-16T01:01:25+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "c423686abeae4c68b498",
-      "title": "North West Claims CORTIS' Bodyguard Once Stopped Her Taking Picture With K-Pop Group - Complex",
-      "description": "North West Claims CORTIS' Bodyguard Once Stopped Her Taking Picture With K-Pop Group Complex",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDhaUGJOdUdZekdnR2d4amMyU2g1THA3OEtzS2tDZkVNOHh1ZklCS0lQUzB1THRjT1BWUkVOUGRUemlFdnV5bkJHeko1OG9HVUJ5ZWlHZFJHNVNkX3FTUnBVc1Y1aE9JeEY1YzIxY3NCNWhLRTZZYlliT0V5bzZCNUdEOVBhU0lpWTlPSGxTVkdaS1VjOG84ag?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDhaUGJOdUdZekdnR2d4amMyU2g1THA3OEtzS2tDZkVNOHh1ZklCS0lQUzB1THRjT1BWUkVOUGRUemlFdnV5bkJHeko1OG9HVUJ5ZWlHZFJHNVNkX3FTUnBVc1Y1aE9JeEY1YzIxY3NCNWhLRTZZYlliT0V5bzZCNUdEOVBhU0lpWTlPSGxTVkdaS1VjOG84ag?oc=5",
-      "source": "Complex",
-      "publishedAt": "2026-10-15T19:03:41+00:00",
-      "date": "2026-10-15T19:03:41+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "64c787b25c67106cc018",
       "title": "CORTIS コルティス ペンライト うちわ ショーケース SHOWCASE - アイドルオリジナル - v-shinpo.com",
       "description": "CORTIS コルティス ペンライト うちわ ショーケース SHOWCASE - アイドルオリジナル v-shinpo.com",
@@ -932,21 +917,6 @@
       "source": "v-shinpo.com",
       "publishedAt": "2026-10-15T13:07:28+00:00",
       "date": "2026-10-15T13:07:28+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "cf5d6ef8436f9705a18f",
-      "title": "BTS·블랙핑크부터 코르티스까지…멜론뮤직어워드 'TOP10' 투표 시작 - 지디넷코리아",
-      "description": "BTS·블랙핑크부터 코르티스까지…멜론뮤직어워드 'TOP10' 투표 시작 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zR3ZsTGc0TDM5REhObmNBTU9vWnl2c2NMRVFTUFBISG5RUGVrNHJOenZfcC04MDQtWVRRRWZXUDFrZENUUl8tSDVlbzREeGpEangwVWFn?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zR3ZsTGc0TDM5REhObmNBTU9vWnl2c2NMRVFTUFBISG5RUGVrNHJOenZfcC04MDQtWVRRRWZXUDFrZENUUl8tSDVlbzREeGpEangwVWFn?oc=5",
-      "source": "지디넷코리아",
-      "publishedAt": "2026-10-15T09:13:52+00:00",
-      "date": "2026-10-15T09:13:52+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -969,11 +939,71 @@
       "category": "NEWS"
     },
     {
-      "id": "2d83b1f654438eac4ddd",
-      "title": "코르티스 집안싸움 났네..코르티스 건호, 성현 이어 스타랭킹 男아이돌 2위 - 스타뉴스",
-      "description": "코르티스 집안싸움 났네..코르티스 건호, 성현 이어 스타랭킹 男아이돌 2위 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBb2RrTXBDTkZVTjBzNGZvRUViaE5oMnVGc24xUmNzTnpPUWR6NndfVG1uS1puak5XQzdHNWlpZWJXTjFST1MyckRhaVM0TFY5Rm90YW80SnNVNVFJWGRnd1NjUlRFUHhVY1JYNHM5aEI1M3Js?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBb2RrTXBDTkZVTjBzNGZvRUViaE5oMnVGc24xUmNzTnpPUWR6NndfVG1uS1puak5XQzdHNWlpZWJXTjFST1MyckRhaVM0TFY5Rm90YW80SnNVNVFJWGRnd1NjUlRFUHhVY1JYNHM5aEI1M3Js?oc=5",
+      "id": "4951e8225052b5e8aba0",
+      "title": "BIGBANG, ENHYPEN, CORTIS & More Set to Perform at 2026 MAMA Awards: Full List - Billboard",
+      "description": "BIGBANG, ENHYPEN, CORTIS & More Set to Perform at 2026 MAMA Awards: Full List Billboard",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW5wU0hTbzNGU2x4eFlOb0dqWkd5UVM4VG84ck0xWnVnWFpnTGZiSEcyOGpuMU82QTl0alU1a2tqdENYa3J4WGJ1Q3M2cWVSSmVGWmZ1SkdmaVY4QTVCdnM2Q1o4U1Zib0xsTy1VT0RKRWFCTTRKUVA0aGF3N18zcGZESmFWNlhmVGI0LTBiV2NlZFA1NTk0NUxDNTJXeDFFYnpz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW5wU0hTbzNGU2x4eFlOb0dqWkd5UVM4VG84ck0xWnVnWFpnTGZiSEcyOGpuMU82QTl0alU1a2tqdENYa3J4WGJ1Q3M2cWVSSmVGWmZ1SkdmaVY4QTVCdnM2Q1o4U1Zib0xsTy1VT0RKRWFCTTRKUVA0aGF3N18zcGZESmFWNlhmVGI0LTBiV2NlZFA1NTk0NUxDNTJXeDFFYnpz?oc=5",
+      "source": "Billboard",
+      "publishedAt": "2026-10-15T07:00:00+00:00",
+      "date": "2026-10-15T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c423686abeae4c68b498",
+      "title": "North West Claims CORTIS' Bodyguard Once Stopped Her Taking Picture With K-Pop Group - Complex",
+      "description": "North West Claims CORTIS' Bodyguard Once Stopped Her Taking Picture With K-Pop Group Complex",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDhaUGJOdUdZekdnR2d4amMyU2g1THA3OEtzS2tDZkVNOHh1ZklCS0lQUzB1THRjT1BWUkVOUGRUemlFdnV5bkJHeko1OG9HVUJ5ZWlHZFJHNVNkX3FTUnBVc1Y1aE9JeEY1YzIxY3NCNWhLRTZZYlliT0V5bzZCNUdEOVBhU0lpWTlPSGxTVkdaS1VjOG84ag?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDhaUGJOdUdZekdnR2d4amMyU2g1THA3OEtzS2tDZkVNOHh1ZklCS0lQUzB1THRjT1BWUkVOUGRUemlFdnV5bkJHeko1OG9HVUJ5ZWlHZFJHNVNkX3FTUnBVc1Y1aE9JeEY1YzIxY3NCNWhLRTZZYlliT0V5bzZCNUdEOVBhU0lpWTlPSGxTVkdaS1VjOG84ag?oc=5",
+      "source": "Complex",
+      "publishedAt": "2026-10-15T07:00:00+00:00",
+      "date": "2026-10-15T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "cf5d6ef8436f9705a18f",
+      "title": "BTS·블랙핑크부터 코르티스까지…멜론뮤직어워드 'TOP10' 투표 시작 - 지디넷코리아",
+      "description": "BTS·블랙핑크부터 코르티스까지…멜론뮤직어워드 'TOP10' 투표 시작 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zR3ZsTGc0TDM5REhObmNBTU9vWnl2c2NMRVFTUFBISG5RUGVrNHJOenZfcC04MDQtWVRRRWZXUDFrZENUUl8tSDVlbzREeGpEangwVWFn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zR3ZsTGc0TDM5REhObmNBTU9vWnl2c2NMRVFTUFBISG5RUGVrNHJOenZfcC04MDQtWVRRRWZXUDFrZENUUl8tSDVlbzREeGpEangwVWFn?oc=5",
+      "source": "지디넷코리아",
+      "publishedAt": "2026-10-15T07:00:00+00:00",
+      "date": "2026-10-15T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b35cfe8ba8fed8575413",
+      "title": "CORTIS The 2nd EP [GREENGREEN]、リリースから約5ヵ月でSpotify累計ストリーミング5億回を突破！ - USENの音楽情報サイト",
+      "description": "CORTIS The 2nd EP [GREENGREEN]、リリースから約5ヵ月でSpotify累計ストリーミング5億回を突破！ USENの音楽情報サイト",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3pZUER5N1BGZ21tcGtxenFfMTFTNDlDb2l0TzR4RG02YWhVeVkxeDQxMWttRWFOZmFmM0hjYWl4c0ZVbTY5c3BmcTlQSzJvUy1RV1ZvSUVYbUFXWTJuU0IwRTExTUNoWXRNTmJKeGh6YjhoX0tOOFF4TXpGem9FVVVoYnBRQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3pZUER5N1BGZ21tcGtxenFfMTFTNDlDb2l0TzR4RG02YWhVeVkxeDQxMWttRWFOZmFmM0hjYWl4c0ZVbTY5c3BmcTlQSzJvUy1RV1ZvSUVYbUFXWTJuU0IwRTExTUNoWXRNTmJKeGh6YjhoX0tOOFF4TXpGem9FVVVoYnBRQQ?oc=5",
+      "source": "USENの音楽情報サイト",
+      "publishedAt": "2026-10-15T07:00:00+00:00",
+      "date": "2026-10-15T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "61a6b0d5ff5ba38defec",
+      "title": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 - 스타뉴스",
+      "description": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
       "source": "스타뉴스",
       "publishedAt": "2026-10-15T06:52:57+00:00",
       "date": "2026-10-15T06:52:57+00:00",
@@ -985,11 +1015,11 @@
       "category": "NEWS"
     },
     {
-      "id": "61a6b0d5ff5ba38defec",
-      "title": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 - 스타뉴스",
-      "description": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
+      "id": "2d83b1f654438eac4ddd",
+      "title": "코르티스 집안싸움 났네..코르티스 건호, 성현 이어 스타랭킹 男아이돌 2위 - 스타뉴스",
+      "description": "코르티스 집안싸움 났네..코르티스 건호, 성현 이어 스타랭킹 男아이돌 2위 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBb2RrTXBDTkZVTjBzNGZvRUViaE5oMnVGc24xUmNzTnpPUWR6NndfVG1uS1puak5XQzdHNWlpZWJXTjFST1MyckRhaVM0TFY5Rm90YW80SnNVNVFJWGRnd1NjUlRFUHhVY1JYNHM5aEI1M3Js?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBb2RrTXBDTkZVTjBzNGZvRUViaE5oMnVGc24xUmNzTnpPUWR6NndfVG1uS1puak5XQzdHNWlpZWJXTjFST1MyckRhaVM0TFY5Rm90YW80SnNVNVFJWGRnd1NjUlRFUHhVY1JYNHM5aEI1M3Js?oc=5",
       "source": "스타뉴스",
       "publishedAt": "2026-10-15T06:52:57+00:00",
       "date": "2026-10-15T06:52:57+00:00",
@@ -1024,21 +1054,6 @@
       "source": "스타뉴스",
       "publishedAt": "2026-10-15T06:48:02+00:00",
       "date": "2026-10-15T06:48:02+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "b35cfe8ba8fed8575413",
-      "title": "CORTIS The 2nd EP [GREENGREEN]、リリースから約5ヵ月でSpotify累計ストリーミング5億回を突破！ - USENの音楽情報サイト",
-      "description": "CORTIS The 2nd EP [GREENGREEN]、リリースから約5ヵ月でSpotify累計ストリーミング5億回を突破！ USENの音楽情報サイト",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3pZUER5N1BGZ21tcGtxenFfMTFTNDlDb2l0TzR4RG02YWhVeVkxeDQxMWttRWFOZmFmM0hjYWl4c0ZVbTY5c3BmcTlQSzJvUy1RV1ZvSUVYbUFXWTJuU0IwRTExTUNoWXRNTmJKeGh6YjhoX0tOOFF4TXpGem9FVVVoYnBRQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3pZUER5N1BGZ21tcGtxenFfMTFTNDlDb2l0TzR4RG02YWhVeVkxeDQxMWttRWFOZmFmM0hjYWl4c0ZVbTY5c3BmcTlQSzJvUy1RV1ZvSUVYbUFXWTJuU0IwRTExTUNoWXRNTmJKeGh6YjhoX0tOOFF4TXpGem9FVVVoYnBRQQ?oc=5",
-      "source": "USENの音楽情報サイト",
-      "publishedAt": "2026-10-15T04:23:59+00:00",
-      "date": "2026-10-15T04:23:59+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -1192,21 +1207,6 @@
       "member": "JAMES",
       "members": [
         "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "a6d0905f8353f80c4df1",
-      "title": "코르티스 '그린그린', 스포티파이 5억 스트리밍 돌파 - 파이낸셜뉴스",
-      "description": "코르티스 '그린그린', 스포티파이 5억 스트리밍 돌파 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zVHczNENMenlyS3NRUFRHbjlVQ2pTVnhsWTZ5ZEljNHpTdjEtSmR1TWxwcm1VaXZmYmJBZFp0Y0s4N2xRRlJSZ1RFcGJzQVZaWXFSSG1FaDdZUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zVHczNENMenlyS3NRUFRHbjlVQ2pTVnhsWTZ5ZEljNHpTdjEtSmR1TWxwcm1VaXZmYmJBZFp0Y0s4N2xRRlJSZ1RFcGJzQVZaWXFSSG1FaDdZUQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-10-14T08:33:04+00:00",
-      "date": "2026-10-14T08:33:04+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
       ],
       "category": "NEWS"
     }
