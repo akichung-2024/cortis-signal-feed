@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:16:01.695337+00:00",
+  "updatedAt": "2026-10-23T22:20:24.681639+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -900,8 +900,8 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZllRb0JqcEEyYWZCZG9aeU5lelY5RE9ZS1ZmWmZZMjFsQkNRZVNLTDlDeUNJa1FFbzBUeWNJZi00OFlPNlpHaXhRdEYyNzQ3UXFyQTI3d2g2THFuV2h2ek53dGFFX2lFSGRN?oc=5",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZllRb0JqcEEyYWZCZG9aeU5lelY5RE9ZS1ZmWmZZMjFsQkNRZVNLTDlDeUNJa1FFbzBUeWNJZi00OFlPNlpHaXhRdEYyNzQ3UXFyQTI3d2g2THFuV2h2ek53dGFFX2lFSGRN?oc=5",
       "source": "USENの音楽情報サイト",
-      "publishedAt": "2026-10-16T01:16:30+00:00",
-      "date": "2026-10-16T01:16:30+00:00",
+      "publishedAt": "2026-10-16T01:17:21+00:00",
+      "date": "2026-10-16T01:17:21+00:00",
       "member": "JAMES",
       "members": [
         "JAMES"
@@ -1136,21 +1136,6 @@
       "category": "NEWS"
     },
     {
-      "id": "d6734d77f1b3207de056",
-      "title": "코르티스 제임스, 생일 맞아 직접 제작한 MV 깜짝 공개 - JTBC",
-      "description": "코르티스 제임스, 생일 맞아 직접 제작한 MV 깜짝 공개 JTBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05M1E2clY1cFFEN0NvajJyNjZlSmUzT2NkQzZ5OFJESzBzWUNRUDc1UTZPaVpNWjgwa2FkU2VjQWtVWnBEZXF2WDFPUXFqMGJWdW4tMg?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05M1E2clY1cFFEN0NvajJyNjZlSmUzT2NkQzZ5OFJESzBzWUNRUDc1UTZPaVpNWjgwa2FkU2VjQWtVWnBEZXF2WDFPUXFqMGJWdW4tMg?oc=5",
-      "source": "JTBC",
-      "publishedAt": "2026-10-14T09:38:00+00:00",
-      "date": "2026-10-14T09:38:00+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "b4acca68c1737b0ec518",
       "title": "에스파·아이브·아이오아이·코르티스, ‘멜론 뮤직 어워드’ 나온다 - 동아일보",
       "description": "에스파·아이브·아이오아이·코르티스, ‘멜론 뮤직 어워드’ 나온다 동아일보",
@@ -1207,6 +1192,21 @@
       "member": "JAMES",
       "members": [
         "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "4d33ffa03365718ccb1a",
+      "title": "코르티스 '그린그린' 스포티파이 5억 스트리밍 - 연합뉴스",
+      "description": "코르티스 '그린그린' 스포티파이 5억 스트리밍 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRVh1YVVLck9DSFNYb0tmN2pEZVJSMDFFaFNERThFcWxCV2pGTmlfaGJHYVlzdTNlbFdvZ3E5S0pSZlFtczlsSmVrR2dsSUxsckx6N3p0RnFEemfSAWBBVV95cUxPRTV6V05UTDhtVWx1NXhQb2tPRG8zTEJaNGVYS0xyc0xiZE4zM3J3WlJ5R19nR0xsc3N3UDVvZUdZM0ZVRnhQeFJNd3JLSFp4c3dvc3ZfOFVpaFpXLTU3UzU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRVh1YVVLck9DSFNYb0tmN2pEZVJSMDFFaFNERThFcWxCV2pGTmlfaGJHYVlzdTNlbFdvZ3E5S0pSZlFtczlsSmVrR2dsSUxsckx6N3p0RnFEemfSAWBBVV95cUxPRTV6V05UTDhtVWx1NXhQb2tPRG8zTEJaNGVYS0xyc0xiZE4zM3J3WlJ5R19nR0xsc3N3UDVvZUdZM0ZVRnhQeFJNd3JLSFp4c3dvc3ZfOFVpaFpXLTU3UzU?oc=5",
+      "source": "연합뉴스",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "date": "2026-10-14T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     }
