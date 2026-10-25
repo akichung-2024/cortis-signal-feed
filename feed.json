@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T22:29:45.556817+00:00",
+  "updatedAt": "2026-10-25T01:12:01.433695+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -258,6 +258,21 @@
       "member": "KEONHO",
       "members": [
         "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "f578ee59cfe87153f45c",
+      "title": "CORTIS COLLABORATION CAFE in SHIBUYA TSUTAYAの開催が決定！ - SHIBUYA TSUTAYA",
+      "description": "CORTIS COLLABORATION CAFE in SHIBUYA TSUTAYAの開催が決定！ SHIBUYA TSUTAYA",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95b1ZUZ1FfVGhCcVBVc3pxSnI2U282LUE1VFJnLWlhUEt5RG9GbDdsb3FnWk1Cbk9iR0o4MDRrY0syQjlwXzZlRktXWFZSa3NUc290dk1KMUtlMVV6QXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95b1ZUZ1FfVGhCcVBVc3pxSnI2U282LUE1VFJnLWlhUEt5RG9GbDdsb3FnWk1Cbk9iR0o4MDRrY0syQjlwXzZlRktXWFZSa3NUc290dk1KMUtlMVV6QXc?oc=5",
+      "source": "SHIBUYA TSUTAYA",
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "date": "2026-10-22T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     },
@@ -873,21 +888,6 @@
       "source": "스포츠경향",
       "publishedAt": "2026-10-17T08:30:00+00:00",
       "date": "2026-10-17T08:30:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "f578ee59cfe87153f45c",
-      "title": "CORTIS COLLABORATION CAFE in SHIBUYA TSUTAYAの開催が決定！ - SHIBUYA TSUTAYA",
-      "description": "CORTIS COLLABORATION CAFE in SHIBUYA TSUTAYAの開催が決定！ SHIBUYA TSUTAYA",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95b1ZUZ1FfVGhCcVBVc3pxSnI2U282LUE1VFJnLWlhUEt5RG9GbDdsb3FnWk1Cbk9iR0o4MDRrY0syQjlwXzZlRktXWFZSa3NUc290dk1KMUtlMVV6QXc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95b1ZUZ1FfVGhCcVBVc3pxSnI2U282LUE1VFJnLWlhUEt5RG9GbDdsb3FnWk1Cbk9iR0o4MDRrY0syQjlwXzZlRktXWFZSa3NUc290dk1KMUtlMVV6QXc?oc=5",
-      "source": "SHIBUYA TSUTAYA",
-      "publishedAt": "2026-10-17T07:00:00+00:00",
-      "date": "2026-10-17T07:00:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
