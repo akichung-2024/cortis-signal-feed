@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T22:34:52.902069+00:00",
+  "updatedAt": "2026-10-26T01:12:54.730472+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -15,6 +15,21 @@
       "member": "GROUP",
       "members": [
         "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a19acce62ca57fd4a4bd",
+      "title": "CORTIS’s Martin Receives Scathing Backlash For “Weird” Behavior Toward BTS’s RM - Koreaboo",
+      "description": "CORTIS’s Martin Receives Scathing Backlash For “Weird” Behavior Toward BTS’s RM Koreaboo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkw0N0UtUGFxS1pVcmlxQjFSaWxFTGc4bXF4aHV6ZUJIR0VlWV9GTjNjZk5ESHI5S21sZ1ZnTzNUYnhEd1BqLUE1YWh0ZjZ3akJtaG85b0tTbjR1ODlnTW1YTzhOTEQ4NkxlVXhDRk9NSU1CTkV1elluSUdpajJVOENFZUJzVV9NUkVXWTMwdHdLRGh0MGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkw0N0UtUGFxS1pVcmlxQjFSaWxFTGc4bXF4aHV6ZUJIR0VlWV9GTjNjZk5ESHI5S21sZ1ZnTzNUYnhEd1BqLUE1YWh0ZjZ3akJtaG85b0tTbjR1ODlnTW1YTzhOTEQ4NkxlVXhDRk9NSU1CTkV1elluSUdpajJVOENFZUJzVV9NUkVXWTMwdHdLRGh0MGc?oc=5",
+      "source": "Koreaboo",
+      "publishedAt": "2026-10-25T12:49:19+00:00",
+      "date": "2026-10-25T12:49:19+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN"
       ],
       "category": "NEWS"
     },
@@ -1192,22 +1207,6 @@
       "member": "GROUP",
       "members": [
         "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "61a6b0d5ff5ba38defec",
-      "title": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 - 스타뉴스",
-      "description": "コルティス家で内輪もめが起きたね..コルティス・ゴンホ、ソンヒョンに続きスターランキング男性アイドル2位 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83U2dXbTVMRkJJc0dkUDlLbUxqRkVtZXFRbjYxakpRN2VrZEFYLTJyX2xhdmdnY0NJNG9sYlRsWGdqcVJYd19MZDBfRVhEdXprWFczV3VIelNwRVVYMmtHdWt2ek9hODkzajdaTThoQXJMRndwV3VEWA?oc=5",
-      "source": "스타뉴스",
-      "publishedAt": "2026-10-15T06:52:57+00:00",
-      "date": "2026-10-15T06:52:57+00:00",
-      "member": "SEONGHYEON",
-      "members": [
-        "SEONGHYEON",
-        "KEONHO"
       ],
       "category": "NEWS"
     }
