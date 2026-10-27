@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-10-26T20:30:27.357559+00:00",
+  "updatedAt": "2026-10-27T00:27:17.451732+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "f3adf3f0affc68a9bd86",
+      "title": "준지, GD·BTS·코르티스 등 K-팝 아티스트 48인 조명한 전시 참여 - 패션비즈",
+      "description": "준지, GD·BTS·코르티스 등 K-팝 아티스트 48인 조명한 전시 참여 패션비즈",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZYWlPZjBjMEhfemtjQ2pYODB4bHlYTjNUbVphR0IwTVRlcDE3eWxST3J1Q1hRWExocGtHR2liVTZzeHNaTkQxUV9FV0VJampD?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZYWlPZjBjMEhfemtjQ2pYODB4bHlYTjNUbVphR0IwTVRlcDE3eWxST3J1Q1hRWExocGtHR2liVTZzeHNaTkQxUV9FV0VJampD?oc=5",
+      "source": "패션비즈",
+      "publishedAt": "2026-10-27T00:16:01+00:00",
+      "date": "2026-10-27T00:16:01+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "4a2c7a99c1b2292850e6",
+      "title": "CORTIS’ Martin Faces Backlash Over Alleged Similarities to BTS’s RM - OtakuKart",
+      "description": "CORTIS’ Martin Faces Backlash Over Alleged Similarities to BTS’s RM OtakuKart",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWxoVE9QU0VLOGk4SmVxODJjU3oxUGs2Z2ZZYlNHTDVHWUYteWcxbTFnc0F6N1l1LVJtazMzMkVqZkw4Q0N6V1RvLWZ1OG5mcHlfMDRZWUVFX3RvdHpweWJsM2RVU2JCdWp3MEJzZUFjR2V4M1ZodjRBWFBmdUV2QWE3bzlkcVAwVWZlN3E0RzFPUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWxoVE9QU0VLOGk4SmVxODJjU3oxUGs2Z2ZZYlNHTDVHWUYteWcxbTFnc0F6N1l1LVJtazMzMkVqZkw4Q0N6V1RvLWZ1OG5mcHlfMDRZWUVFX3RvdHpweWJsM2RVU2JCdWp3MEJzZUFjR2V4M1ZodjRBWFBmdUV2QWE3bzlkcVAwVWZlN3E0RzFPUQ?oc=5",
+      "source": "OtakuKart",
+      "publishedAt": "2026-10-26T17:03:22+00:00",
+      "date": "2026-10-26T17:03:22+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "d1456d79b70afe00cc15",
       "title": "'멜론뮤직어워드', 26팀 출연…\"아이오아이→코르티스\" - 디스패치",
@@ -1174,36 +1204,6 @@
       "source": "v-shinpo.com",
       "publishedAt": "2026-10-15T13:07:28+00:00",
       "date": "2026-10-15T13:07:28+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "d7a30acb295808a3d597",
-      "title": "【韓流】CORTIS・JAMESが誕生日記念MV公開 自ら企画、制作など全工程主導 - 日刊スポーツ",
-      "description": "【韓流】CORTIS・JAMESが誕生日記念MV公開 自ら企画、制作など全工程主導 日刊スポーツ",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kc0R4aF96Ny1HOHQ2cXdWMXNIZmNrcG15bGkyalJTZTVLbm5aMHMyd1FIakowdlRpeFNqc1kwVEgybzFaR1pGZHF1X3JTV0YzS2JsMWRIb2xkNnBaVU5TMTNkYVNITlRJMlRGSkFfVUd2LURjNEVZ0gF_QVVfeXFMUEY0R3ZEZHRrV3BHajVGZ3FMOTN3bnlrRHdCU0diODQtenZJdlFxMWg2Y0pGeHZsZWxPTUx5eTdpeEZuaXZIWTFEcTUxNmw4dTE2NUJtZzBNX3FoS19BOEpYQ0lEU1puOW1OYlRzQnpXcktqdjRhTEpjbU11U1BGUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kc0R4aF96Ny1HOHQ2cXdWMXNIZmNrcG15bGkyalJTZTVLbm5aMHMyd1FIakowdlRpeFNqc1kwVEgybzFaR1pGZHF1X3JTV0YzS2JsMWRIb2xkNnBaVU5TMTNkYVNITlRJMlRGSkFfVUd2LURjNEVZ0gF_QVVfeXFMUEY0R3ZEZHRrV3BHajVGZ3FMOTN3bnlrRHdCU0diODQtenZJdlFxMWg2Y0pGeHZsZWxPTUx5eTdpeEZuaXZIWTFEcTUxNmw4dTE2NUJtZzBNX3FoS19BOEpYQ0lEU1puOW1OYlRzQnpXcktqdjRhTEpjbU11U1BGUQ?oc=5",
-      "source": "日刊スポーツ",
-      "publishedAt": "2026-10-15T07:35:30+00:00",
-      "date": "2026-10-15T07:35:30+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "4951e8225052b5e8aba0",
-      "title": "BIGBANG, ENHYPEN, CORTIS & More Set to Perform at 2026 MAMA Awards: Full List - Billboard",
-      "description": "BIGBANG, ENHYPEN, CORTIS & More Set to Perform at 2026 MAMA Awards: Full List Billboard",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW5wU0hTbzNGU2x4eFlOb0dqWkd5UVM4VG84ck0xWnVnWFpnTGZiSEcyOGpuMU82QTl0alU1a2tqdENYa3J4WGJ1Q3M2cWVSSmVGWmZ1SkdmaVY4QTVCdnM2Q1o4U1Zib0xsTy1VT0RKRWFCTTRKUVA0aGF3N18zcGZESmFWNlhmVGI0LTBiV2NlZFA1NTk0NUxDNTJXeDFFYnpz?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW5wU0hTbzNGU2x4eFlOb0dqWkd5UVM4VG84ck0xWnVnWFpnTGZiSEcyOGpuMU82QTl0alU1a2tqdENYa3J4WGJ1Q3M2cWVSSmVGWmZ1SkdmaVY4QTVCdnM2Q1o4U1Zib0xsTy1VT0RKRWFCTTRKUVA0aGF3N18zcGZESmFWNlhmVGI0LTBiV2NlZFA1NTk0NUxDNTJXeDFFYnpz?oc=5",
-      "source": "Billboard",
-      "publishedAt": "2026-10-15T07:00:00+00:00",
-      "date": "2026-10-15T07:00:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
