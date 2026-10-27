@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-10-27T00:27:17.451732+00:00",
+  "updatedAt": "2026-10-27T06:18:37.699432+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "519c0d57439abaaf6190",
+      "title": "코르티스 커뮤니티 포스트 - - 성현 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - - 성현 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8taGZBS2lYbXpkam9aSVdnTk84cXEyVnlCamVDeWxJODZhY3RuT0pKU2N0VmlZMk8xRmc2a2J6a3o5R2VVcHM3bl9hRGdOdV9yV2IwNmIweU5lSDFoOWNr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8taGZBS2lYbXpkam9aSVdnTk84cXEyVnlCamVDeWxJODZhY3RuT0pKU2N0VmlZMk8xRmc2a2J6a3o5R2VVcHM3bl9hRGdOdV9yV2IwNmIweU5lSDFoOWNr?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-10-27T02:14:49+00:00",
+      "date": "2026-10-27T02:14:49+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "f3adf3f0affc68a9bd86",
       "title": "준지, GD·BTS·코르티스 등 K-팝 아티스트 48인 조명한 전시 참여 - 패션비즈",
@@ -150,6 +165,21 @@
       "member": "MARTIN",
       "members": [
         "MARTIN"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "29cc7bed831b8e9a903a",
+      "title": "TXT新曲、超後輩「Cortis」が作曲 →モア複雑な反応「コルティス自作イメージに利用するな」「ビッヒ、腹立つ」 - デバク",
+      "description": "TXT新曲、超後輩「Cortis」が作曲 →モア複雑な反応「コルティス自作イメージに利用するな」「ビッヒ、腹立つ」 デバク",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cWNWb0ZRNlVfQ19uaVBNWmNBQ2l6UWFKSk9EZ2hCTTA4VGhOQ0ZRMHkyNm91YjB4R29YbzBycG56NF9tZXdmWmNxb21tem5xOUY0ZDVUSmpIM2VLanVaR053?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cWNWb0ZRNlVfQ19uaVBNWmNBQ2l6UWFKSk9EZ2hCTTA4VGhOQ0ZRMHkyNm91YjB4R29YbzBycG56NF9tZXdmWmNxb21tem5xOUY0ZDVUSmpIM2VLanVaR053?oc=5",
+      "source": "デバク",
+      "publishedAt": "2026-10-24T10:36:11+00:00",
+      "date": "2026-10-24T10:36:11+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     },
@@ -336,11 +366,11 @@
       "category": "NEWS"
     },
     {
-      "id": "5ebd93a8628661eca2ee",
-      "title": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ - Laodong.vn",
-      "description": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ Laodong.vn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
+      "id": "4a8c88ebce2f41df5523",
+      "title": "CORTIS causes controversy when associating gifts with MAMA votes - Laodong.vn",
+      "description": "CORTIS causes controversy when associating gifts with MAMA votes Laodong.vn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXVjQnpZQkkxOHBveVNYY0xVdGxnZ3d5aEMxdExmSnczS1NRMzBOal9oSE1HR2pSUmlWRWNhMmFjSGNwSExMdkpDWFlMMGRHendzbUJ5VjNmOGUxTS1sVEgwd1pyNmVRRHdVTW15WDVvcnlDSEU1WTIxbGRpLTQ1b25ueThLZ3UtZE5YTDlqWlZfTWZSQldCTUc5Wi00dG5fOS1XSnVscTVCdWcwM3lB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXVjQnpZQkkxOHBveVNYY0xVdGxnZ3d5aEMxdExmSnczS1NRMzBOal9oSE1HR2pSUmlWRWNhMmFjSGNwSExMdkpDWFlMMGRHendzbUJ5VjNmOGUxTS1sVEgwd1pyNmVRRHdVTW15WDVvcnlDSEU1WTIxbGRpLTQ1b25ueThLZ3UtZE5YTDlqWlZfTWZSQldCTUc5Wi00dG5fOS1XSnVscTVCdWcwM3lB?oc=5",
       "source": "Laodong.vn",
       "publishedAt": "2026-10-22T11:50:13+00:00",
       "date": "2026-10-22T11:50:13+00:00",
@@ -351,11 +381,11 @@
       "category": "NEWS"
     },
     {
-      "id": "4a8c88ebce2f41df5523",
-      "title": "CORTIS causes controversy when associating gifts with MAMA votes - Laodong.vn",
-      "description": "CORTIS causes controversy when associating gifts with MAMA votes Laodong.vn",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXVjQnpZQkkxOHBveVNYY0xVdGxnZ3d5aEMxdExmSnczS1NRMzBOal9oSE1HR2pSUmlWRWNhMmFjSGNwSExMdkpDWFlMMGRHendzbUJ5VjNmOGUxTS1sVEgwd1pyNmVRRHdVTW15WDVvcnlDSEU1WTIxbGRpLTQ1b25ueThLZ3UtZE5YTDlqWlZfTWZSQldCTUc5Wi00dG5fOS1XSnVscTVCdWcwM3lB?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXVjQnpZQkkxOHBveVNYY0xVdGxnZ3d5aEMxdExmSnczS1NRMzBOal9oSE1HR2pSUmlWRWNhMmFjSGNwSExMdkpDWFlMMGRHendzbUJ5VjNmOGUxTS1sVEgwd1pyNmVRRHdVTW15WDVvcnlDSEU1WTIxbGRpLTQ1b25ueThLZ3UtZE5YTDlqWlZfTWZSQldCTUc5Wi00dG5fOS1XSnVscTVCdWcwM3lB?oc=5",
+      "id": "5ebd93a8628661eca2ee",
+      "title": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ - Laodong.vn",
+      "description": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ Laodong.vn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
       "source": "Laodong.vn",
       "publishedAt": "2026-10-22T11:50:13+00:00",
       "date": "2026-10-22T11:50:13+00:00",
@@ -472,21 +502,6 @@
       "category": "NEWS"
     },
     {
-      "id": "371ca7dd354e9208a2c2",
-      "title": "11주 연속 정상..코르티스 성현, 스타랭킹 男아이돌 1위 등극 - 스타뉴스",
-      "description": "11주 연속 정상..코르티스 성현, 스타랭킹 男아이돌 1위 등극 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EQm1JdWdOWGRBOXR2VDdOVURUUkxYUWZlaWZiOUhYNUMwOHZGVlA3cWFraUstcm03Wk4xRmNuT0VNcU1hUnBmOHlCRWFycHk2TkNRU1hrbHd1bWJ5bnp6YUQ4VUM2YzI1VlNJSzZhelg4YzRL?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EQm1JdWdOWGRBOXR2VDdOVURUUkxYUWZlaWZiOUhYNUMwOHZGVlA3cWFraUstcm03Wk4xRmNuT0VNcU1hUnBmOHlCRWFycHk2TkNRU1hrbHd1bWJ5bnp6YUQ4VUM2YzI1VlNJSzZhelg4YzRL?oc=5",
-      "source": "스타뉴스",
-      "publishedAt": "2026-10-22T06:31:32+00:00",
-      "date": "2026-10-22T06:31:32+00:00",
-      "member": "SEONGHYEON",
-      "members": [
-        "SEONGHYEON"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "7c7fd4be137e9f1da3b4",
       "title": "11週連続で正常..コルティス聖賢、スターランキング男性アイドル部門で1位に輝く - 스타뉴스",
       "description": "11週連続で正常..コルティス聖賢、スターランキング男性アイドル部門で1位に輝く 스타뉴스",
@@ -498,6 +513,21 @@
       "member": "GROUP",
       "members": [
         "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "371ca7dd354e9208a2c2",
+      "title": "11주 연속 정상..코르티스 성현, 스타랭킹 男아이돌 1위 등극 - 스타뉴스",
+      "description": "11주 연속 정상..코르티스 성현, 스타랭킹 男아이돌 1위 등극 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EQm1JdWdOWGRBOXR2VDdOVURUUkxYUWZlaWZiOUhYNUMwOHZGVlA3cWFraUstcm03Wk4xRmNuT0VNcU1hUnBmOHlCRWFycHk2TkNRU1hrbHd1bWJ5bnp6YUQ4VUM2YzI1VlNJSzZhelg4YzRL?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EQm1JdWdOWGRBOXR2VDdOVURUUkxYUWZlaWZiOUhYNUMwOHZGVlA3cWFraUstcm03Wk4xRmNuT0VNcU1hUnBmOHlCRWFycHk2TkNRU1hrbHd1bWJ5bnp6YUQ4VUM2YzI1VlNJSzZhelg4YzRL?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-22T06:31:32+00:00",
+      "date": "2026-10-22T06:31:32+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON"
       ],
       "category": "NEWS"
     },
@@ -550,11 +580,11 @@
       "id": "dfc3c5aa4bc27305bc02",
       "title": "From G-DRAGON and BTS to Stray Kids and CORTIS... 'D'FESTA' K-Pop Art Exhibition Opens - news.sbs.co.kr",
       "description": "From G-DRAGON and BTS to Stray Kids and CORTIS... 'D'FESTA' K-Pop Art Exhibition Opens news.sbs.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJalNGakJXcVR1U0xvMnJpVmZLaGEzUkZXMkZ0RmI4amRJWkk3NWNBbGRKeUR0Vkg4OGlhS0N3N3NvOURySmJrdWJMaGZfUmtsWW95OXFoVDBMeEM0cWZINWQzMElVZw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJalNGakJXcVR1U0xvMnJpVmZLaGEzUkZXMkZ0RmI4amRJWkk3NWNBbGRKeUR0Vkg4OGlhS0N3N3NvOURySmJrdWJMaGZfUmtsWW95OXFoVDBMeEM0cWZINWQzMElVZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIUU1WRnlnQnJST3VDZk1OcVNWZS1NWFRTbDEzcU0yUEs1X3pIbUlSMUw4YnZxdDlEejVuMmFBVW9BMnh4QU1VTEt2aWx3ZHZRbDF5NHQ3LV9QZ2x3QWdTNlRpMHl1Y2p0U1F3U3N3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIUU1WRnlnQnJST3VDZk1OcVNWZS1NWFRTbDEzcU0yUEs1X3pIbUlSMUw4YnZxdDlEejVuMmFBVW9BMnh4QU1VTEt2aWx3ZHZRbDF5NHQ3LV9QZ2x3QWdTNlRpMHl1Y2p0U1F3U3N3?oc=5",
       "source": "news.sbs.co.kr",
-      "publishedAt": "2026-10-22T04:08:00+00:00",
-      "date": "2026-10-22T04:08:00+00:00",
+      "publishedAt": "2026-10-22T04:08:53+00:00",
+      "date": "2026-10-22T04:08:53+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -593,11 +623,11 @@
     },
     {
       "id": "1f58fa71a17c600231fb",
-      "title": "From G-DRAGON and BTS to Stray Kids and CORTIS: K-Pop Art Exhibition 'D'FESTA' Opens - news.sbs.co.kr",
-      "description": "From G-DRAGON and BTS to Stray Kids and CORTIS: K-Pop Art Exhibition 'D'FESTA' Opens news.sbs.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SSXNJNlNXZC1QaUhmMFRCVTY3ajFjUzBFRHJ0ZnNNTGNPaThybzRQMXExVGRlcXR1QlN3aTdVSnBFbTZ0SVFzRHEtOU96R2ZwYVhVYzE4UEJud1FBalRrRWlDem9KS3Iwb3c?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SSXNJNlNXZC1QaUhmMFRCVTY3ajFjUzBFRHJ0ZnNNTGNPaThybzRQMXExVGRlcXR1QlN3aTdVSnBFbTZ0SVFzRHEtOU96R2ZwYVhVYzE4UEJud1FBalRrRWlDem9KS3Iwb3c?oc=5",
-      "source": "news.sbs.co.kr",
+      "title": "From G-DRAGON and BTS to Stray Kids and CORTIS: K-Pop Art Exhibition 'D'FESTA' Opens - mnews.sbs.co.kr",
+      "description": "From G-DRAGON and BTS to Stray Kids and CORTIS: K-Pop Art Exhibition 'D'FESTA' Opens mnews.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rUE5jeXJ3cVRoSkl5eUFHZERtRWVybl84eTFucWVPdUJGQlk1M1EyNTZaNG9tYzNhR1lISXJWYnpUZmNLNEkzd1RSeVFwRjNRby0xdk83ZTRlc2dLX2lzRTFHUGdqWEVwNmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rUE5jeXJ3cVRoSkl5eUFHZERtRWVybl84eTFucWVPdUJGQlk1M1EyNTZaNG9tYzNhR1lISXJWYnpUZmNLNEkzd1RSeVFwRjNRby0xdk83ZTRlc2dLX2lzRTFHUGdqWEVwNmc?oc=5",
+      "source": "mnews.sbs.co.kr",
       "publishedAt": "2026-10-22T03:17:43+00:00",
       "date": "2026-10-22T03:17:43+00:00",
       "member": "GROUP",
@@ -745,13 +775,13 @@
     },
     {
       "id": "bc8be91d9654709e9ad0",
-      "title": "「公式がこれやっていいの？」MAMA投票をするほどサイン入り賞品の当選確率アップ CORTISの企画に賛否 - 千葉テレビ放送株式会社",
-      "description": "「公式がこれやっていいの？」MAMA投票をするほどサイン入り賞品の当選確率アップ CORTISの企画に賛否 千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BRDN5Q2x0U0dKc3k5LUVKOXJ6Q1N6VnFjQU0xTFA5ZFRRVXVJS21aMkMwd09YMzI5TXI2VXdMZFZrcWM0WWZ5UUc0djc0Rzc4a2t1dGtXWTlYSlhXUWpN?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BRDN5Q2x0U0dKc3k5LUVKOXJ6Q1N6VnFjQU0xTFA5ZFRRVXVJS21aMkMwd09YMzI5TXI2VXdMZFZrcWM0WWZ5UUc0djc0Rzc4a2t1dGtXWTlYSlhXUWpN?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "publishedAt": "2026-10-21T03:54:15+00:00",
-      "date": "2026-10-21T03:54:15+00:00",
+      "title": "「公式がこれやっていいの？」MAMA投票をするほどサイン入り賞品の当選確率アップ CORTISの企画に賛否 - ｄメニューニュース",
+      "description": "「公式がこれやっていいの？」MAMA投票をするほどサイン入り賞品の当選確率アップ CORTISの企画に賛否 ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1o2bjZScHlwNEpXcHN2WjZNY3dTcE51a3cxcmJnSmE5ampkR25MZ21XS3JUanBtVndJMG9JTlpBcHloTWNSaHJQYWRMc1RmX3JSQ3BHXzB4N3hpNmIyMHgtUlh3M2loemNaWDEtUDdoVXJNc09mNVRxSzFRTllOdkZGODdEc0I0S19VcjdKc0FQa0F20gGaAUFVX3lxTFBKbDMxTk1XUk9uejFMSUFVbzB6d1NfVGZkam1Oc2w0X2tnMHN1UTFWckxQV0NvQ2p0ODZGZGFCbFRCeUoxc1pwZ1RVa3BqSUgtVG5FYUphZDR0NjBYTll4VzU1bFBLcDktdFJ6MjlsTmFqbG91cWtfWG1pSkxpSUdjY3dBbDVuTS1STzlNSWxEWHc4QnFJUjVLZ3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1o2bjZScHlwNEpXcHN2WjZNY3dTcE51a3cxcmJnSmE5ampkR25MZ21XS3JUanBtVndJMG9JTlpBcHloTWNSaHJQYWRMc1RmX3JSQ3BHXzB4N3hpNmIyMHgtUlh3M2loemNaWDEtUDdoVXJNc09mNVRxSzFRTllOdkZGODdEc0I0S19VcjdKc0FQa0F20gGaAUFVX3lxTFBKbDMxTk1XUk9uejFMSUFVbzB6d1NfVGZkam1Oc2w0X2tnMHN1UTFWckxQV0NvQ2p0ODZGZGFCbFRCeUoxc1pwZ1RVa3BqSUgtVG5FYUphZDR0NjBYTll4VzU1bFBLcDktdFJ6MjlsTmFqbG91cWtfWG1pSkxpSUdjY3dBbDVuTS1STzlNSWxEWHc4QnFJUjVLZ3c?oc=5",
+      "source": "ｄメニューニュース",
+      "publishedAt": "2026-10-21T03:50:00+00:00",
+      "date": "2026-10-21T03:50:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -1174,36 +1204,6 @@
       "source": "조선일보",
       "publishedAt": "2026-10-16T07:00:00+00:00",
       "date": "2026-10-16T07:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "a3ac981dca5f4386e5c4",
-      "title": "CORTIS・JAMES、10月14日の誕生日に自ら企画・振り付け・創作・編集などを手掛けたMVをサプライズ公開！ - USENの音楽情報サイト",
-      "description": "CORTIS・JAMES、10月14日の誕生日に自ら企画・振り付け・創作・編集などを手掛けたMVをサプライズ公開！ USENの音楽情報サイト",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZllRb0JqcEEyYWZCZG9aeU5lelY5RE9ZS1ZmWmZZMjFsQkNRZVNLTDlDeUNJa1FFbzBUeWNJZi00OFlPNlpHaXhRdEYyNzQ3UXFyQTI3d2g2THFuV2h2ek53dGFFX2lFSGRN?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZllRb0JqcEEyYWZCZG9aeU5lelY5RE9ZS1ZmWmZZMjFsQkNRZVNLTDlDeUNJa1FFbzBUeWNJZi00OFlPNlpHaXhRdEYyNzQ3UXFyQTI3d2g2THFuV2h2ek53dGFFX2lFSGRN?oc=5",
-      "source": "USENの音楽情報サイト",
-      "publishedAt": "2026-10-16T01:16:30+00:00",
-      "date": "2026-10-16T01:16:30+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "64c787b25c67106cc018",
-      "title": "CORTIS コルティス ペンライト うちわ ショーケース SHOWCASE - アイドルオリジナル - v-shinpo.com",
-      "description": "CORTIS コルティス ペンライト うちわ ショーケース SHOWCASE - アイドルオリジナル v-shinpo.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sdkp3M2hLSDUzc0xyVHlYYS0taDg4dUlhUzBvci1DWHE5RlhTRjh6QTlvZ1ZoOG4wVnVWSG1xRC1KdTRtUXNXdzBNS2VlaXZmcEQ3NE1qUHVjOEk?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Sdkp3M2hLSDUzc0xyVHlYYS0taDg4dUlhUzBvci1DWHE5RlhTRjh6QTlvZ1ZoOG4wVnVWSG1xRC1KdTRtUXNXdzBNS2VlaXZmcEQ3NE1qUHVjOEk?oc=5",
-      "source": "v-shinpo.com",
-      "publishedAt": "2026-10-15T13:07:28+00:00",
-      "date": "2026-10-15T13:07:28+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
