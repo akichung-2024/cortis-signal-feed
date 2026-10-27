@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-10-27T18:44:32.095953+00:00",
+  "updatedAt": "2026-10-27T22:57:45.481487+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "1ae76a172c138cb24765",
+      "title": "Did CORTIS' Martin Copy BTS' RM? Leader's Speech on Group Success Sparks Fan Debate [WATCH] - International Business Times, Singapore Edition",
+      "description": "Did CORTIS' Martin Copy BTS' RM? Leader's Speech on Group Success Sparks Fan Debate [WATCH] International Business Times, Singapore Edition",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNU1ucVJZYmpVMFotV216M3cyUTFiOUc5ZlFIRVEwUlpOamRXZEpfUHdVRkM1VWhsajJsSWNLTmV2a0ZJOEtPaTBXVFl4MTNfYW5pZ2p6dllvcVlyVlFsb1RDVnEwUGl0Vi1Wc0t6aDlvcWw3b1JxcC1vNTZ0V3NaUHg5YUVHWi10VkpYc1BhVmZ3TE1jQWZiN196b2FVekQwa2NNMkhUVkRsV0ctS3ZzbQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNU1ucVJZYmpVMFotV216M3cyUTFiOUc5ZlFIRVEwUlpOamRXZEpfUHdVRkM1VWhsajJsSWNLTmV2a0ZJOEtPaTBXVFl4MTNfYW5pZ2p6dllvcVlyVlFsb1RDVnEwUGl0Vi1Wc0t6aDlvcWw3b1JxcC1vNTZ0V3NaUHg5YUVHWi10VkpYc1BhVmZ3TE1jQWZiN196b2FVekQwa2NNMkhUVkRsV0ctS3ZzbQ?oc=5",
+      "source": "International Business Times, Singapore Edition",
+      "publishedAt": "2026-10-27T19:21:53+00:00",
+      "date": "2026-10-27T19:21:53+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "4c061f647934c0f05ed6",
       "title": "코르티스, 일본 록 페스티벌서 빗속 열연…글로벌 팬들 “무대 장악력 놀랍다” - CBC뉴스",
@@ -1189,21 +1204,6 @@
       "source": "X",
       "publishedAt": "2026-10-16T20:35:50+00:00",
       "date": "2026-10-16T20:35:50+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "c329da1debb4ff80d730",
-      "title": "Why are fans upset with India’s Weverse Con Festival lineup? Fans disappointed with TWS and CORTIS missing - Indiatimes",
-      "description": "Why are fans upset with India’s Weverse Con Festival lineup? Fans disappointed with TWS and CORTIS missing Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQnRsMU8xY3RxZUlpOUx5bld2RFl3YjB4REFKQTN3TE95RjhLYUdtYkRHcjgyeEdUXzVBWHB0TE9vNVAtTmJHdVhmYkhrazJIQ3Y4SGc5b1M1Tkk0MTB3elYyWlZybl9uZTFRVXJLdGNrNE1IRzFMcXEycktsWXlhc2N2bm9udTAweGo1RGFoeGtPb05aNl9HdkdsS0Jva0VBYzlYVm84eEdHT2lLNFNSeER4X09qcWNPVU1BTGdpMXZjNkQ3SkFHUkJ4YWFWWGI5QkNHeVI3TFZMSHFzeF9XbHpVNFBGMkJfQ0JVc3pYM3FRQ2xRcHlORkdmZ9IBgAJBVV95cUxOV1VOc0NMamw0R3JnVFBuYTlaSkVzUmpzcWpZbUdSS0RwNVdlQ2xld2IzeHItT25fM0RUZTd4WFl0emlrLXlINGpyTklsRVNUamw5bEdmUW9QbGpKdWlnLW1UanJ2eXV0eklzaWg2NzVPNnpNMHhkV1E1bG1zRGRfeG9EdFhSenN4THpsUEVWX0VGT0g1S0VQZHJWazR1MU5TR2lyYzkyV2RIaTNMNVFOUG9xbHRqR3ZaR3ljZDFpOWNEbDJ0Zk9EY3JURW5paGtnMUgtVGtkMHB1T3ZMZDE1eUpXNkM2VU54dDNvYURIU1hQdG9UTlJBd09ZeEI4Wk82?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQnRsMU8xY3RxZUlpOUx5bld2RFl3YjB4REFKQTN3TE95RjhLYUdtYkRHcjgyeEdUXzVBWHB0TE9vNVAtTmJHdVhmYkhrazJIQ3Y4SGc5b1M1Tkk0MTB3elYyWlZybl9uZTFRVXJLdGNrNE1IRzFMcXEycktsWXlhc2N2bm9udTAweGo1RGFoeGtPb05aNl9HdkdsS0Jva0VBYzlYVm84eEdHT2lLNFNSeER4X09qcWNPVU1BTGdpMXZjNkQ3SkFHUkJ4YWFWWGI5QkNHeVI3TFZMSHFzeF9XbHpVNFBGMkJfQ0JVc3pYM3FRQ2xRcHlORkdmZ9IBgAJBVV95cUxOV1VOc0NMamw0R3JnVFBuYTlaSkVzUmpzcWpZbUdSS0RwNVdlQ2xld2IzeHItT25fM0RUZTd4WFl0emlrLXlINGpyTklsRVNUamw5bEdmUW9QbGpKdWlnLW1UanJ2eXV0eklzaWg2NzVPNnpNMHhkV1E1bG1zRGRfeG9EdFhSenN4THpsUEVWX0VGT0g1S0VQZHJWazR1MU5TR2lyYzkyV2RIaTNMNVFOUG9xbHRqR3ZaR3ljZDFpOWNEbDJ0Zk9EY3JURW5paGtnMUgtVGtkMHB1T3ZMZDE1eUpXNkM2VU54dDNvYURIU1hQdG9UTlJBd09ZeEI4Wk82?oc=5",
-      "source": "Indiatimes",
-      "publishedAt": "2026-10-16T17:17:51+00:00",
-      "date": "2026-10-16T17:17:51+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
