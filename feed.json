@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-10-28T09:42:07.919601+00:00",
+  "updatedAt": "2026-10-28T16:39:19.460139+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "3ae469274c4c2c7e3d20",
+      "title": "코르티스 커뮤니티 포스트 - - 주훈 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - - 주훈 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWWEJFSE40dTFTQ282U2duUWZzeDlXUlFPek5Ec2tNZFBtT2p2eGw3VVhqQ1lFdENRMjBaUm5GOEZkTTZtZmdBSGROSnhleEJhNnZ6ZGtsTER6MU5qN3hj?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWWEJFSE40dTFTQ282U2duUWZzeDlXUlFPek5Ec2tNZFBtT2p2eGw3VVhqQ1lFdENRMjBaUm5GOEZkTTZtZmdBSGROSnhleEJhNnZ6ZGtsTER6MU5qN3hj?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-10-28T08:46:29+00:00",
+      "date": "2026-10-28T08:46:29+00:00",
+      "member": "JUHOON",
+      "members": [
+        "JUHOON"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "20337280576ab6eee6ea",
       "title": "코르티스 위버스 LIVE - 주훈 - 주훈 - Weverse",
@@ -441,11 +456,11 @@
       "category": "NEWS"
     },
     {
-      "id": "4a8c88ebce2f41df5523",
-      "title": "CORTIS causes controversy when associating gifts with MAMA votes - Laodong.vn",
-      "description": "CORTIS causes controversy when associating gifts with MAMA votes Laodong.vn",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXVjQnpZQkkxOHBveVNYY0xVdGxnZ3d5aEMxdExmSnczS1NRMzBOal9oSE1HR2pSUmlWRWNhMmFjSGNwSExMdkpDWFlMMGRHendzbUJ5VjNmOGUxTS1sVEgwd1pyNmVRRHdVTW15WDVvcnlDSEU1WTIxbGRpLTQ1b25ueThLZ3UtZE5YTDlqWlZfTWZSQldCTUc5Wi00dG5fOS1XSnVscTVCdWcwM3lB?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXVjQnpZQkkxOHBveVNYY0xVdGxnZ3d5aEMxdExmSnczS1NRMzBOal9oSE1HR2pSUmlWRWNhMmFjSGNwSExMdkpDWFlMMGRHendzbUJ5VjNmOGUxTS1sVEgwd1pyNmVRRHdVTW15WDVvcnlDSEU1WTIxbGRpLTQ1b25ueThLZ3UtZE5YTDlqWlZfTWZSQldCTUc5Wi00dG5fOS1XSnVscTVCdWcwM3lB?oc=5",
+      "id": "5ebd93a8628661eca2ee",
+      "title": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ - Laodong.vn",
+      "description": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ Laodong.vn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
       "source": "Laodong.vn",
       "publishedAt": "2026-10-22T11:50:13+00:00",
       "date": "2026-10-22T11:50:13+00:00",
@@ -456,11 +471,11 @@
       "category": "NEWS"
     },
     {
-      "id": "5ebd93a8628661eca2ee",
-      "title": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ - Laodong.vn",
-      "description": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ Laodong.vn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
+      "id": "4a8c88ebce2f41df5523",
+      "title": "CORTIS causes controversy when associating gifts with MAMA votes - Laodong.vn",
+      "description": "CORTIS causes controversy when associating gifts with MAMA votes Laodong.vn",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXVjQnpZQkkxOHBveVNYY0xVdGxnZ3d5aEMxdExmSnczS1NRMzBOal9oSE1HR2pSUmlWRWNhMmFjSGNwSExMdkpDWFlMMGRHendzbUJ5VjNmOGUxTS1sVEgwd1pyNmVRRHdVTW15WDVvcnlDSEU1WTIxbGRpLTQ1b25ueThLZ3UtZE5YTDlqWlZfTWZSQldCTUc5Wi00dG5fOS1XSnVscTVCdWcwM3lB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXVjQnpZQkkxOHBveVNYY0xVdGxnZ3d5aEMxdExmSnczS1NRMzBOal9oSE1HR2pSUmlWRWNhMmFjSGNwSExMdkpDWFlMMGRHendzbUJ5VjNmOGUxTS1sVEgwd1pyNmVRRHdVTW15WDVvcnlDSEU1WTIxbGRpLTQ1b25ueThLZ3UtZE5YTDlqWlZfTWZSQldCTUc5Wi00dG5fOS1XSnVscTVCdWcwM3lB?oc=5",
       "source": "Laodong.vn",
       "publishedAt": "2026-10-22T11:50:13+00:00",
       "date": "2026-10-22T11:50:13+00:00",
@@ -850,13 +865,13 @@
     },
     {
       "id": "bc8be91d9654709e9ad0",
-      "title": "「公式がこれやっていいの？」MAMA投票をするほどサイン入り賞品の当選確率アップ CORTISの企画に賛否 - ｄメニューニュース",
-      "description": "「公式がこれやっていいの？」MAMA投票をするほどサイン入り賞品の当選確率アップ CORTISの企画に賛否 ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1o2bjZScHlwNEpXcHN2WjZNY3dTcE51a3cxcmJnSmE5ampkR25MZ21XS3JUanBtVndJMG9JTlpBcHloTWNSaHJQYWRMc1RmX3JSQ3BHXzB4N3hpNmIyMHgtUlh3M2loemNaWDEtUDdoVXJNc09mNVRxSzFRTllOdkZGODdEc0I0S19VcjdKc0FQa0F20gGaAUFVX3lxTFBKbDMxTk1XUk9uejFMSUFVbzB6d1NfVGZkam1Oc2w0X2tnMHN1UTFWckxQV0NvQ2p0ODZGZGFCbFRCeUoxc1pwZ1RVa3BqSUgtVG5FYUphZDR0NjBYTll4VzU1bFBLcDktdFJ6MjlsTmFqbG91cWtfWG1pSkxpSUdjY3dBbDVuTS1STzlNSWxEWHc4QnFJUjVLZ3c?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1o2bjZScHlwNEpXcHN2WjZNY3dTcE51a3cxcmJnSmE5ampkR25MZ21XS3JUanBtVndJMG9JTlpBcHloTWNSaHJQYWRMc1RmX3JSQ3BHXzB4N3hpNmIyMHgtUlh3M2loemNaWDEtUDdoVXJNc09mNVRxSzFRTllOdkZGODdEc0I0S19VcjdKc0FQa0F20gGaAUFVX3lxTFBKbDMxTk1XUk9uejFMSUFVbzB6d1NfVGZkam1Oc2w0X2tnMHN1UTFWckxQV0NvQ2p0ODZGZGFCbFRCeUoxc1pwZ1RVa3BqSUgtVG5FYUphZDR0NjBYTll4VzU1bFBLcDktdFJ6MjlsTmFqbG91cWtfWG1pSkxpSUdjY3dBbDVuTS1STzlNSWxEWHc4QnFJUjVLZ3c?oc=5",
-      "source": "ｄメニューニュース",
-      "publishedAt": "2026-10-21T03:56:08+00:00",
-      "date": "2026-10-21T03:56:08+00:00",
+      "title": "「公式がこれやっていいの？」MAMA投票をするほどサイン入り賞品の当選確率アップ CORTISの企画に賛否 - 千葉テレビ放送株式会社",
+      "description": "「公式がこれやっていいの？」MAMA投票をするほどサイン入り賞品の当選確率アップ CORTISの企画に賛否 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BRDN5Q2x0U0dKc3k5LUVKOXJ6Q1N6VnFjQU0xTFA5ZFRRVXVJS21aMkMwd09YMzI5TXI2VXdMZFZrcWM0WWZ5UUc0djc0Rzc4a2t1dGtXWTlYSlhXUWpN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BRDN5Q2x0U0dKc3k5LUVKOXJ6Q1N6VnFjQU0xTFA5ZFRRVXVJS21aMkMwd09YMzI5TXI2VXdMZFZrcWM0WWZ5UUc0djc0Rzc4a2t1dGtXWTlYSlhXUWpN?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "publishedAt": "2026-10-21T03:54:15+00:00",
+      "date": "2026-10-21T03:54:15+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -1176,21 +1191,6 @@
       "member": "MARTIN",
       "members": [
         "MARTIN"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "945794a86aa2485ff9ca",
-      "title": "‘하이브 신인’ 코르티스, SNS에 업무 지시문 박제 참사…“영혼 없는 복사” 일파만파 - 스포츠경향",
-      "description": "‘하이브 신인’ 코르티스, SNS에 업무 지시문 박제 참사…“영혼 없는 복사” 일파만파 스포츠경향",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HYzJ2QkF6UmJrcVN6SVByUFBBWXpRYjRSdzMxYVcwZjN5b2ZRbk1vQnBmRGdpdUlCZ3Y5cC1SRlNINmxiMUIyakxocFc0dlFYWUR3dWtZSGJER25zMUHSAWNBVV95cUxNNkZWMjN5UFRYX2ZhVUFhYTFkaWNGU2Z0ZXRMdXIxY0prV3dhcm1zSU02dTBUYVJkbDlEU2JVY0pLV0lMRmVPWUNuR25pdm5yQVUzNXdfSDEzcUU4ZWZvM3FGNzQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HYzJ2QkF6UmJrcVN6SVByUFBBWXpRYjRSdzMxYVcwZjN5b2ZRbk1vQnBmRGdpdUlCZ3Y5cC1SRlNINmxiMUIyakxocFc0dlFYWUR3dWtZSGJER25zMUHSAWNBVV95cUxNNkZWMjN5UFRYX2ZhVUFhYTFkaWNGU2Z0ZXRMdXIxY0prV3dhcm1zSU02dTBUYVJkbDlEU2JVY0pLV0lMRmVPWUNuR25pdm5yQVUzNXdfSDEzcUU4ZWZvM3FGNzQ?oc=5",
-      "source": "스포츠경향",
-      "publishedAt": "2026-10-17T08:30:00+00:00",
-      "date": "2026-10-17T08:30:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
       ],
       "category": "NEWS"
     },
