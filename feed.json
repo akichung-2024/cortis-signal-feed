@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:09:31.351998+00:00",
+  "updatedAt": "2026-10-30T14:11:42.222494+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -607,13 +607,13 @@
     },
     {
       "id": "93e2260d2e3e01694564",
-      "title": "TXT, 신보 타이틀곡은 ‘Angel Bite’..코르티스 마틴·주훈·성현 참여 - 조선일보",
-      "description": "TXT, 신보 타이틀곡은 ‘Angel Bite’..코르티스 마틴·주훈·성현 참여 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdkhHTnplRDRCajBLcG56WFpHUHpDeXNsZ1pfTk9yYnlsZGNLSnFWeFBIYzc2QkFqblhRdVJ6ZVBzT1F0V3ZoQTBvNFNKS1JBYTBvZG1XUGdxeHlrWDBweGhKNVRtZ0p1X20zT2J3TXZKZm41MERIVXRyWTFsTlN5bW1sSjJoeTl6WGc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdkhHTnplRDRCajBLcG56WFpHUHpDeXNsZ1pfTk9yYnlsZGNLSnFWeFBIYzc2QkFqblhRdVJ6ZVBzT1F0V3ZoQTBvNFNKS1JBYTBvZG1XUGdxeHlrWDBweGhKNVRtZ0p1X20zT2J3TXZKZm41MERIVXRyWTFsTlN5bW1sSjJoeTl6WGc?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-10-24T00:07:00+00:00",
-      "date": "2026-10-24T00:07:00+00:00",
+      "title": "TXT, 신보 타이틀곡은 ‘Angel Bite’..코르티스 마틴·주훈·성현 참여 - 미주중앙일보",
+      "description": "TXT, 신보 타이틀곡은 ‘Angel Bite’..코르티스 마틴·주훈·성현 참여 미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13SzhFYS1mMXFBLWZ3QUcwZUc2azhQRlNveUJ3WGxWTzIxd0VZOXVMcS02NGg3VVJaNm5hUnhGS1ZHcFMtVjZ3Z0ZpWUd0cDJoZjMtMkpnemRZUVpmLXR6Y1NR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13SzhFYS1mMXFBLWZ3QUcwZUc2azhQRlNveUJ3WGxWTzIxd0VZOXVMcS02NGg3VVJaNm5hUnhGS1ZHcFMtVjZ3Z0ZpWUd0cDJoZjMtMkpnemRZUVpmLXR6Y1NR?oc=5",
+      "source": "미주중앙일보",
+      "publishedAt": "2026-10-24T00:06:00+00:00",
+      "date": "2026-10-24T00:06:00+00:00",
       "member": "MARTIN",
       "members": [
         "MARTIN",
@@ -728,21 +728,6 @@
       "category": "NEWS"
     },
     {
-      "id": "5ebd93a8628661eca2ee",
-      "title": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ - Laodong.vn",
-      "description": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ Laodong.vn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
-      "source": "Laodong.vn",
-      "publishedAt": "2026-10-22T11:50:13+00:00",
-      "date": "2026-10-22T11:50:13+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "4a8c88ebce2f41df5523",
       "title": "CORTIS causes controversy when associating gifts with MAMA votes - Laodong.vn",
       "description": "CORTIS causes controversy when associating gifts with MAMA votes Laodong.vn",
@@ -830,6 +815,21 @@
       "member": "KEONHO",
       "members": [
         "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "5ebd93a8628661eca2ee",
+      "title": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ - Laodong.vn",
+      "description": "CORTISがMAMAの投票にギフトを関連付けて議論を呼ぶ Laodong.vn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRW9UejJ0NnRpTU1PRTItVlN3OTF3Y21iOEszUDVHTUdGcGVGX2pldjI2czkxYXl0eWVOTjllTmgyMW9LWkxnY3Z2SU82ZHQzZDRMY1gtX3g5cEI5ZWlyUW5kRGVjY0l4RTZVd2JWb2wxOUFGdGZFUGRwV3ZjbWxXWHQyQUhqdlplRFFXcEVxak1UaDF0OTYxRk9EWTc4SDQ0WTd0V01BVjVxYzls?oc=5",
+      "source": "Laodong.vn",
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "date": "2026-10-22T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     },
