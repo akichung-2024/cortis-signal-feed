@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:24:37.016263+00:00",
+  "updatedAt": "2026-10-30T23:49:47.457477+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -15,6 +15,21 @@
       "member": "GROUP",
       "members": [
         "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "4a2c7a99c1b2292850e6",
+      "title": "Cortis’ Martin Faces Backlash Over Alleged Similarities to BTS’s Rm - IMDb",
+      "description": "Cortis’ Martin Faces Backlash Over Alleged Similarities to BTS’s Rm IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wOE95cjVUckVwRjlORWkzeVpUc0xXMmNROVRIUkxNcE5uRDljNlh0V1lMR2hveFRoNlRNcFE4MnVvSmpMaTZadzNycGVUVWk4c3JBNHZ1UDdCSGh1SjBwcEx5WXM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wOE95cjVUckVwRjlORWkzeVpUc0xXMmNROVRIUkxNcE5uRDljNlh0V1lMR2hveFRoNlRNcFE4MnVvSmpMaTZadzNycGVUVWk4c3JBNHZ1UDdCSGh1SjBwcEx5WXM?oc=5",
+      "source": "IMDb",
+      "publishedAt": "2026-10-29T21:57:04+00:00",
+      "date": "2026-10-29T21:57:04+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN"
       ],
       "category": "NEWS"
     },
@@ -407,21 +422,6 @@
       "member": "GROUP",
       "members": [
         "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "4a2c7a99c1b2292850e6",
-      "title": "CORTIS’ Martin Faces Backlash Over Alleged Similarities to BTS’s RM - OtakuKart",
-      "description": "CORTIS’ Martin Faces Backlash Over Alleged Similarities to BTS’s RM OtakuKart",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWxoVE9QU0VLOGk4SmVxODJjU3oxUGs2Z2ZZYlNHTDVHWUYteWcxbTFnc0F6N1l1LVJtazMzMkVqZkw4Q0N6V1RvLWZ1OG5mcHlfMDRZWUVFX3RvdHpweWJsM2RVU2JCdWp3MEJzZUFjR2V4M1ZodjRBWFBmdUV2QWE3bzlkcVAwVWZlN3E0RzFPUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWxoVE9QU0VLOGk4SmVxODJjU3oxUGs2Z2ZZYlNHTDVHWUYteWcxbTFnc0F6N1l1LVJtazMzMkVqZkw4Q0N6V1RvLWZ1OG5mcHlfMDRZWUVFX3RvdHpweWJsM2RVU2JCdWp3MEJzZUFjR2V4M1ZodjRBWFBmdUV2QWE3bzlkcVAwVWZlN3E0RzFPUQ?oc=5",
-      "source": "OtakuKart",
-      "publishedAt": "2026-10-26T17:03:22+00:00",
-      "date": "2026-10-26T17:03:22+00:00",
-      "member": "MARTIN",
-      "members": [
-        "MARTIN"
       ],
       "category": "NEWS"
     },
