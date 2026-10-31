@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:35:42.374072+00:00",
+  "updatedAt": "2026-10-31T17:45:33.263202+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -668,21 +668,6 @@
       "category": "NEWS"
     },
     {
-      "id": "c9ff4b3707874bfdf1f7",
-      "title": "변우석부터 코르티스까지 실패 없는 '레이어드' 색 조합 5 - 에스콰이어 코리아",
-      "description": "변우석부터 코르티스까지 실패 없는 '레이어드' 색 조합 5 에스콰이어 코리아",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9URE1ua0UtT19IZ2VwQTg2SFVmNEh5aTF4TUtmb2hYNHB4MGxMMUp3Z0Zqc2s4eVhGMlVtMXdxQUJ3NjhOdWY4TjdWei1ReHNyWXU2bUQzdW1JUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9URE1ua0UtT19IZ2VwQTg2SFVmNEh5aTF4TUtmb2hYNHB4MGxMMUp3Z0Zqc2s4eVhGMlVtMXdxQUJ3NjhOdWY4TjdWei1ReHNyWXU2bUQzdW1JUQ?oc=5",
-      "source": "에스콰이어 코리아",
-      "publishedAt": "2026-10-23T09:00:01+00:00",
-      "date": "2026-10-23T09:00:01+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "172e4085b9cb1843277c",
       "title": "코르티스 커뮤니티 포스트 - 드디어 김치찌개 먹었다 - 건호 - Weverse",
       "description": "코르티스 커뮤니티 포스트 - 드디어 김치찌개 먹었다 - 건호 Weverse",
@@ -694,6 +679,21 @@
       "member": "KEONHO",
       "members": [
         "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c9ff4b3707874bfdf1f7",
+      "title": "변우석부터 코르티스까지 실패 없는 '레이어드' 색 조합 5 - 에스콰이어 코리아",
+      "description": "변우석부터 코르티스까지 실패 없는 '레이어드' 색 조합 5 에스콰이어 코리아",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9URE1ua0UtT19IZ2VwQTg2SFVmNEh5aTF4TUtmb2hYNHB4MGxMMUp3Z0Zqc2s4eVhGMlVtMXdxQUJ3NjhOdWY4TjdWei1ReHNyWXU2bUQzdW1JUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9URE1ua0UtT19IZ2VwQTg2SFVmNEh5aTF4TUtmb2hYNHB4MGxMMUp3Z0Zqc2s4eVhGMlVtMXdxQUJ3NjhOdWY4TjdWei1ReHNyWXU2bUQzdW1JUQ?oc=5",
+      "source": "에스콰이어 코리아",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "date": "2026-10-23T07:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     },
