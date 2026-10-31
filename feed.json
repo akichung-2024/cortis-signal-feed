@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T23:49:47.457477+00:00",
+  "updatedAt": "2026-10-31T05:45:10.095510+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -64,6 +64,21 @@
       "category": "NEWS"
     },
     {
+      "id": "764c3d562a36e55e51f9",
+      "title": "コルティス・ゴンホ、スターランキング男性アイドル2位..聖賢と並んでトップ2 - 스타뉴스",
+      "description": "コルティス・ゴンホ、スターランキング男性アイドル2位..聖賢と並んでトップ2 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVb3RWRnh2MTZ3Q2ZPRGJwWHAzem9ySUs4ZXFTNUkyV2VTV2RyXzF1V3NEWTloeUtZa2M3U3dRcm1xZDZ2SEc3eGZJODRuZi04ajlGNnhYa0VtX3d1OGlXdDk0RFl1UlpUYWJfTlpyMmlGcnZiR0lwWA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVb3RWRnh2MTZ3Q2ZPRGJwWHAzem9ySUs4ZXFTNUkyV2VTV2RyXzF1V3NEWTloeUtZa2M3U3dRcm1xZDZ2SEc3eGZJODRuZi04ajlGNnhYa0VtX3d1OGlXdDk0RFl1UlpUYWJfTlpyMmlGcnZiR0lwWA?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-10-29T07:50:59+00:00",
+      "date": "2026-10-29T07:50:59+00:00",
+      "member": "KEONHO",
+      "members": [
+        "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "12e4dd1d46beb3ec862f",
       "title": "코르티스 건호, 스타랭킹 男아이돌 2위..성현과 나란히 톱2 - 스타뉴스",
       "description": "코르티스 건호, 스타랭킹 男아이돌 2위..성현과 나란히 톱2 스타뉴스",
@@ -75,21 +90,6 @@
       "member": "SEONGHYEON",
       "members": [
         "SEONGHYEON",
-        "KEONHO"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "764c3d562a36e55e51f9",
-      "title": "コルティス・ゴンホ、スターランキング男性アイドル2位..聖賢と並んでトップ2 - 스타뉴스",
-      "description": "コルティス・ゴンホ、スターランキング男性アイドル2位..聖賢と並んでトップ2 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVb3RWRnh2MTZ3Q2ZPRGJwWHAzem9ySUs4ZXFTNUkyV2VTV2RyXzF1V3NEWTloeUtZa2M3U3dRcm1xZDZ2SEc3eGZJODRuZi04ajlGNnhYa0VtX3d1OGlXdDk0RFl1UlpUYWJfTlpyMmlGcnZiR0lwWA?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVb3RWRnh2MTZ3Q2ZPRGJwWHAzem9ySUs4ZXFTNUkyV2VTV2RyXzF1V3NEWTloeUtZa2M3U3dRcm1xZDZ2SEc3eGZJODRuZi04ajlGNnhYa0VtX3d1OGlXdDk0RFl1UlpUYWJfTlpyMmlGcnZiR0lwWA?oc=5",
-      "source": "스타뉴스",
-      "publishedAt": "2026-10-29T07:50:59+00:00",
-      "date": "2026-10-29T07:50:59+00:00",
-      "member": "KEONHO",
-      "members": [
         "KEONHO"
       ],
       "category": "NEWS"
