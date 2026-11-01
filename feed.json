@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T15:12:57.348085+00:00",
+  "updatedAt": "2026-11-01T19:43:28.234797+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -30,6 +30,21 @@
       "member": "JUHOON",
       "members": [
         "JUHOON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "83a89c4b8efa646efa44",
+      "title": "위버스 코르티스 Media - PYPD NA tour 1 - Weverse",
+      "description": "위버스 코르티스 Media - PYPD NA tour 1 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04RWZaLVJIdGVLcGF0VldYZ0ExcEZSNFNrcVFESXY1elVnbmFxVGhrbzRTT2hCTUpKOWI2bnJPYko4OXFLa2tuVUpFQldUcXZwc3g0WG04eEVZT2xoa3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04RWZaLVJIdGVLcGF0VldYZ0ExcEZSNFNrcVFESXY1elVnbmFxVGhrbzRTT2hCTUpKOWI2bnJPYko4OXFLa2tuVUpFQldUcXZwc3g0WG04eEVZT2xoa3c?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-10-31T13:01:26+00:00",
+      "date": "2026-10-31T13:01:26+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     },
@@ -743,6 +758,21 @@
       "category": "NEWS"
     },
     {
+      "id": "fadd5b7a256ed970138e",
+      "title": "코르티스 성현이 포착한 아름다운 순간 - Vogue korea",
+      "description": "코르티스 성현이 포착한 아름다운 순간 Vogue korea",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdjA5UWR2WDRpWnRSLUFGSDRBSHptSGZ5c3RqYVR2WmhyczBXZkt0Zy1GRk5uSjYwY3l5SlNFZGVrY3VjcThFWTFvUEpxMFJGdWtLbFR3a3Q0ZUFsQnp6TGJHWU1vOVpFc0R5eXRKMVd6WmRUSFgyQWVQTEpGcFdpLXUtWl9ZSklCeTdjb2xmX29TaGVvdmk3eGNnOXBESDUtcWQ0NmlWc0N3OHVnM1Q4TEY3bV9BMkJvQ3NzYjhCeHZsWm5OZ3pLODN1NmdvVWFfamtnT24zc2JwaDRiZEc0REdDY2R0NWJVWmZHUFdpOVRheWRzclNTYUhodmh4dnU1SEF1V1VGdUJJWG5kQ3pVMkx3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdjA5UWR2WDRpWnRSLUFGSDRBSHptSGZ5c3RqYVR2WmhyczBXZkt0Zy1GRk5uSjYwY3l5SlNFZGVrY3VjcThFWTFvUEpxMFJGdWtLbFR3a3Q0ZUFsQnp6TGJHWU1vOVpFc0R5eXRKMVd6WmRUSFgyQWVQTEpGcFdpLXUtWl9ZSklCeTdjb2xmX29TaGVvdmk3eGNnOXBESDUtcWQ0NmlWc0N3OHVnM1Q4TEY3bV9BMkJvQ3NzYjhCeHZsWm5OZ3pLODN1NmdvVWFfamtnT24zc2JwaDRiZEc0REdDY2R0NWJVWmZHUFdpOVRheWRzclNTYUhodmh4dnU1SEF1V1VGdUJJWG5kQ3pVMkx3?oc=5",
+      "source": "Vogue korea",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "date": "2026-10-23T07:00:00+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "c9ff4b3707874bfdf1f7",
       "title": "변우석부터 코르티스까지 실패 없는 '레이어드' 색 조합 5 - 에스콰이어 코리아",
       "description": "변우석부터 코르티스까지 실패 없는 '레이어드' 색 조합 5 에스콰이어 코리아",
@@ -769,21 +799,6 @@
       "member": "GROUP",
       "members": [
         "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "fadd5b7a256ed970138e",
-      "title": "코르티스 성현이 포착한 아름다운 순간 - Vogue korea",
-      "description": "코르티스 성현이 포착한 아름다운 순간 Vogue korea",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdjA5UWR2WDRpWnRSLUFGSDRBSHptSGZ5c3RqYVR2WmhyczBXZkt0Zy1GRk5uSjYwY3l5SlNFZGVrY3VjcThFWTFvUEpxMFJGdWtLbFR3a3Q0ZUFsQnp6TGJHWU1vOVpFc0R5eXRKMVd6WmRUSFgyQWVQTEpGcFdpLXUtWl9ZSklCeTdjb2xmX29TaGVvdmk3eGNnOXBESDUtcWQ0NmlWc0N3OHVnM1Q4TEY3bV9BMkJvQ3NzYjhCeHZsWm5OZ3pLODN1NmdvVWFfamtnT24zc2JwaDRiZEc0REdDY2R0NWJVWmZHUFdpOVRheWRzclNTYUhodmh4dnU1SEF1V1VGdUJJWG5kQ3pVMkx3?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdjA5UWR2WDRpWnRSLUFGSDRBSHptSGZ5c3RqYVR2WmhyczBXZkt0Zy1GRk5uSjYwY3l5SlNFZGVrY3VjcThFWTFvUEpxMFJGdWtLbFR3a3Q0ZUFsQnp6TGJHWU1vOVpFc0R5eXRKMVd6WmRUSFgyQWVQTEpGcFdpLXUtWl9ZSklCeTdjb2xmX29TaGVvdmk3eGNnOXBESDUtcWQ0NmlWc0N3OHVnM1Q4TEY3bV9BMkJvQ3NzYjhCeHZsWm5OZ3pLODN1NmdvVWFfamtnT24zc2JwaDRiZEc0REdDY2R0NWJVWmZHUFdpOVRheWRzclNTYUhodmh4dnU1SEF1V1VGdUJJWG5kQ3pVMkx3?oc=5",
-      "source": "Vogue korea",
-      "publishedAt": "2026-10-23T04:00:12+00:00",
-      "date": "2026-10-23T04:00:12+00:00",
-      "member": "SEONGHYEON",
-      "members": [
-        "SEONGHYEON"
       ],
       "category": "NEWS"
     },
@@ -1187,22 +1202,6 @@
       "source": "아시아뉴스통신",
       "publishedAt": "2026-10-22T00:42:57+00:00",
       "date": "2026-10-22T00:42:57+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES",
-        "JUHOON"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "74c6fa8f9d94ec193964",
-      "title": "코르티스 제임스·주훈, 팬덤 투표 ‘최고 케미’ 1위 - TopStarNews",
-      "description": "코르티스 제임스·주훈, 팬덤 투표 ‘최고 케미’ 1위 TopStarNews",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUQndzdXhxcWdlX1lRYWpZcHQzeUJOZ3dRZE0yNDBoQ01nSnItcFhPQXZFNjIyN3Q3eG9kM0hoSWllMEJfcGw2eXI0M2JydUhhOHpKWDFuRnRBbTlveTNWbUFuWGF4ODlYQjdMbTQ2cWhUZw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUQndzdXhxcWdlX1lRYWpZcHQzeUJOZ3dRZE0yNDBoQ01nSnItcFhPQXZFNjIyN3Q3eG9kM0hoSWllMEJfcGw2eXI0M2JydUhhOHpKWDFuRnRBbTlveTNWbUFuWGF4ODlYQjdMbTQ2cWhUZw?oc=5",
-      "source": "TopStarNews",
-      "publishedAt": "2026-10-21T23:11:38+00:00",
-      "date": "2026-10-21T23:11:38+00:00",
       "member": "JAMES",
       "members": [
         "JAMES",
