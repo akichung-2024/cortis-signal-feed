@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T19:43:28.234797+00:00",
+  "updatedAt": "2026-11-01T23:37:49.518424+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -120,6 +120,21 @@
       "member": "GROUP",
       "members": [
         "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "8f5204ad978ab874b8c5",
+      "title": "韓国のスターたちが『ドクターX』を一気見中：ソンヒョン・コルティスはキム・ジウォンの大ファンで、ウェンディは見ていないことを後悔している。 - Vietnam.vn",
+      "description": "韓国のスターたちが『ドクターX』を一気見中：ソンヒョン・コルティスはキム・ジウォンの大ファンで、ウェンディは見ていないことを後悔している。 Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzRXTXhGbVV5NEVGbHBjeFFjeFpRNHdMSHZnbVJZNWJVN1pIN3lKVkJDZTRYMV9aTmN0NllrNmQ2c3lfdnAwMXRZSHZYVENfcVZDbEEzOVBpbGNVMmZxZTI4VGFhQmU2eGdzZXFqR0VpcnJ5RlNaYjVkMWJUNlFGWTU1cFBsWnNpRXhwUFBVeHhnczVweTZCRkUyYTlpZWNZUkpLY1FR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzRXTXhGbVV5NEVGbHBjeFFjeFpRNHdMSHZnbVJZNWJVN1pIN3lKVkJDZTRYMV9aTmN0NllrNmQ2c3lfdnAwMXRZSHZYVENfcVZDbEEzOVBpbGNVMmZxZTI4VGFhQmU2eGdzZXFqR0VpcnJ5RlNaYjVkMWJUNlFGWTU1cFBsWnNpRXhwUFBVeHhnczVweTZCRkUyYTlpZWNZUkpLY1FR?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-30T07:00:00+00:00",
+      "date": "2026-10-30T07:00:00+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON"
       ],
       "category": "NEWS"
     },
@@ -1190,22 +1205,6 @@
       "member": "GROUP",
       "members": [
         "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "b81c01071aef0fd774ac",
-      "title": "코르티스 제임스·주훈, 투바투·라이즈 제쳤다...아이돌 '최고의 케미 맛집' 정상 - 아시아뉴스통신",
-      "description": "코르티스 제임스·주훈, 투바투·라이즈 제쳤다...아이돌 '최고의 케미 맛집' 정상 아시아뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55eU1MWTNKOG5aMUxfZ0pEenk0eXEtODRHM2Q3WTdNUG9WZmU2U3l1OUxqTVdUV2pscGpuR0d1OWxMNDJPbXNESFdCNTFOejdXRnQxUnNGZ0hxb1lhSFJjZUVTQ2x1Y0J3UXZCTFM2aV85VnZh?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55eU1MWTNKOG5aMUxfZ0pEenk0eXEtODRHM2Q3WTdNUG9WZmU2U3l1OUxqTVdUV2pscGpuR0d1OWxMNDJPbXNESFdCNTFOejdXRnQxUnNGZ0hxb1lhSFJjZUVTQ2x1Y0J3UXZCTFM2aV85VnZh?oc=5",
-      "source": "아시아뉴스통신",
-      "publishedAt": "2026-10-22T00:42:57+00:00",
-      "date": "2026-10-22T00:42:57+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES",
-        "JUHOON"
       ],
       "category": "NEWS"
     }
