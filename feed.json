@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-02T15:58:27.008164+00:00",
+  "updatedAt": "2026-11-02T23:33:17.337834+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "adf35cddeb15ec713853",
+      "title": "코르티스 커뮤니티 포스트 - 🐼 - 제임스 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - 🐼 - 제임스 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BMG9PSV9GMXl4ZGpMTlhEeGFzTVVkczFyU1JLZmxYV09uTUIzakFzNnhLeFZMOC1QQzlPdEg3V19XU3liVkF0ZWFsd1pjbkNybnRDT1JWcnpRSG5kQTVB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BMG9PSV9GMXl4ZGpMTlhEeGFzTVVkczFyU1JLZmxYV09uTUIzakFzNnhLeFZMOC1QQzlPdEg3V19XU3liVkF0ZWFsd1pjbkNybnRDT1JWcnpRSG5kQTVB?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-02T17:51:13+00:00",
+      "date": "2026-11-02T17:51:13+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "358093b7de6d90b803e5",
       "title": "코르티스 제임스, ‘2026 KGMA 아티스트 오브 10월' 루키 부문 1위 [일간스포츠X쿠궁] - 일간스포츠",
@@ -711,21 +726,6 @@
       "category": "NEWS"
     },
     {
-      "id": "29cc7bed831b8e9a903a",
-      "title": "TXT新曲、超後輩「Cortis」が作曲 →モア複雑な反応「コルティス自作イメージに利用するな」「ビッヒ、腹立つ」 - デバク",
-      "description": "TXT新曲、超後輩「Cortis」が作曲 →モア複雑な反応「コルティス自作イメージに利用するな」「ビッヒ、腹立つ」 デバク",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cWNWb0ZRNlVfQ19uaVBNWmNBQ2l6UWFKSk9EZ2hCTTA4VGhOQ0ZRMHkyNm91YjB4R29YbzBycG56NF9tZXdmWmNxb21tem5xOUY0ZDVUSmpIM2VLanVaR053?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cWNWb0ZRNlVfQ19uaVBNWmNBQ2l6UWFKSk9EZ2hCTTA4VGhOQ0ZRMHkyNm91YjB4R29YbzBycG56NF9tZXdmWmNxb21tem5xOUY0ZDVUSmpIM2VLanVaR053?oc=5",
-      "source": "デバク",
-      "publishedAt": "2026-10-24T10:36:11+00:00",
-      "date": "2026-10-24T10:36:11+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "c0c95b165fac5ba7803e",
       "title": "Did CORTIS leader Martin 'copy' BTS RM's famous '5% of the trophy' speech? Fans divided over tribute or imitation - Indiatimes",
       "description": "Did CORTIS leader Martin 'copy' BTS RM's famous '5% of the trophy' speech? Fans divided over tribute or imitation Indiatimes",
@@ -749,6 +749,21 @@
       "source": "YouTube",
       "publishedAt": "2026-10-24T09:00:08+00:00",
       "date": "2026-10-24T09:00:08+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "29cc7bed831b8e9a903a",
+      "title": "TXT新曲、超後輩「Cortis」が作曲 →モア複雑な反応「コルティス自作イメージに利用するな」「ビッヒ、腹立つ」 - デバク",
+      "description": "TXT新曲、超後輩「Cortis」が作曲 →モア複雑な反応「コルティス自作イメージに利用するな」「ビッヒ、腹立つ」 デバク",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cWNWb0ZRNlVfQ19uaVBNWmNBQ2l6UWFKSk9EZ2hCTTA4VGhOQ0ZRMHkyNm91YjB4R29YbzBycG56NF9tZXdmWmNxb21tem5xOUY0ZDVUSmpIM2VLanVaR053?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1cWNWb0ZRNlVfQ19uaVBNWmNBQ2l6UWFKSk9EZ2hCTTA4VGhOQ0ZRMHkyNm91YjB4R29YbzBycG56NF9tZXdmWmNxb21tem5xOUY0ZDVUSmpIM2VLanVaR053?oc=5",
+      "source": "デバク",
+      "publishedAt": "2026-10-24T07:00:00+00:00",
+      "date": "2026-10-24T07:00:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -859,21 +874,6 @@
       "member": "GROUP",
       "members": [
         "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "adf35cddeb15ec713853",
-      "title": "코르티스 커뮤니티 포스트 - 🏃‍♂️💨💨 - 제임스 - Weverse",
-      "description": "코르티스 커뮤니티 포스트 - 🏃‍♂️💨💨 - 제임스 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByMF9OOG15WnFGQzdsbVcyLUphdXdxdFZ4bmpjVjZuUzBRNlZOMklFdmJ5N2NQbzRaT0lnb0liUERtYUg5ZmNlTXJEaUFKS3FoRXhJRF9tRTRxV0dwWVJB?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByMF9OOG15WnFGQzdsbVcyLUphdXdxdFZ4bmpjVjZuUzBRNlZOMklFdmJ5N2NQbzRaT0lnb0liUERtYUg5ZmNlTXJEaUFKS3FoRXhJRF9tRTRxV0dwWVJB?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-10-23T03:50:50+00:00",
-      "date": "2026-10-23T03:50:50+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
       ],
       "category": "NEWS"
     },
