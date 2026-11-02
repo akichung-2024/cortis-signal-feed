@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-02T06:09:12.115161+00:00",
+  "updatedAt": "2026-11-02T15:58:27.008164+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "358093b7de6d90b803e5",
+      "title": "코르티스 제임스, ‘2026 KGMA 아티스트 오브 10월' 루키 부문 1위 [일간스포츠X쿠궁] - 일간스포츠",
+      "description": "코르티스 제임스, ‘2026 KGMA 아티스트 오브 10월' 루키 부문 1위 [일간스포츠X쿠궁] 일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nNVJKcGxvVjBnYXQ4bnVrR3piQnI0dFU0N2VicjBLOGhmaU81ZFJRYm9hZ0Q3SklZMjZoMlpINW1VcUROeDN2X3Y1YWN5bWNlUWlHZ3VvbHkyOWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nNVJKcGxvVjBnYXQ4bnVrR3piQnI0dFU0N2VicjBLOGhmaU81ZFJRYm9hZ0Q3SklZMjZoMlpINW1VcUROeDN2X3Y1YWN5bWNlUWlHZ3VvbHkyOWc?oc=5",
+      "source": "일간스포츠",
+      "publishedAt": "2026-11-02T07:42:00+00:00",
+      "date": "2026-11-02T07:42:00+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "10f30c11e83e792bcf8a",
       "title": "내일을 달린다, 코르티스 건호 - Vogue korea",
@@ -621,21 +636,6 @@
       "category": "NEWS"
     },
     {
-      "id": "a19acce62ca57fd4a4bd",
-      "title": "CORTIS’s Martin Receives Scathing Backlash For “Weird” Behavior Toward BTS’s RM - Koreaboo",
-      "description": "CORTIS’s Martin Receives Scathing Backlash For “Weird” Behavior Toward BTS’s RM Koreaboo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkw0N0UtUGFxS1pVcmlxQjFSaWxFTGc4bXF4aHV6ZUJIR0VlWV9GTjNjZk5ESHI5S21sZ1ZnTzNUYnhEd1BqLUE1YWh0ZjZ3akJtaG85b0tTbjR1ODlnTW1YTzhOTEQ4NkxlVXhDRk9NSU1CTkV1elluSUdpajJVOENFZUJzVV9NUkVXWTMwdHdLRGh0MGc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkw0N0UtUGFxS1pVcmlxQjFSaWxFTGc4bXF4aHV6ZUJIR0VlWV9GTjNjZk5ESHI5S21sZ1ZnTzNUYnhEd1BqLUE1YWh0ZjZ3akJtaG85b0tTbjR1ODlnTW1YTzhOTEQ4NkxlVXhDRk9NSU1CTkV1elluSUdpajJVOENFZUJzVV9NUkVXWTMwdHdLRGh0MGc?oc=5",
-      "source": "Koreaboo",
-      "publishedAt": "2026-10-25T12:49:19+00:00",
-      "date": "2026-10-25T12:49:19+00:00",
-      "member": "MARTIN",
-      "members": [
-        "MARTIN"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "90059f58f341c32103cb",
       "title": "CORTIS’s Name On TXT’s Album Stirs Up Massive Backlash - Koreaboo",
       "description": "CORTIS’s Name On TXT’s Album Stirs Up Massive Backlash Koreaboo",
@@ -647,6 +647,21 @@
       "member": "GROUP",
       "members": [
         "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a19acce62ca57fd4a4bd",
+      "title": "CORTIS’s Martin Receives Scathing Backlash For “Weird” Behavior Toward BTS’s RM - Koreaboo",
+      "description": "CORTIS’s Martin Receives Scathing Backlash For “Weird” Behavior Toward BTS’s RM Koreaboo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkw0N0UtUGFxS1pVcmlxQjFSaWxFTGc4bXF4aHV6ZUJIR0VlWV9GTjNjZk5ESHI5S21sZ1ZnTzNUYnhEd1BqLUE1YWh0ZjZ3akJtaG85b0tTbjR1ODlnTW1YTzhOTEQ4NkxlVXhDRk9NSU1CTkV1elluSUdpajJVOENFZUJzVV9NUkVXWTMwdHdLRGh0MGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkw0N0UtUGFxS1pVcmlxQjFSaWxFTGc4bXF4aHV6ZUJIR0VlWV9GTjNjZk5ESHI5S21sZ1ZnTzNUYnhEd1BqLUE1YWh0ZjZ3akJtaG85b0tTbjR1ODlnTW1YTzhOTEQ4NkxlVXhDRk9NSU1CTkV1elluSUdpajJVOENFZUJzVV9NUkVXWTMwdHdLRGh0MGc?oc=5",
+      "source": "Koreaboo",
+      "publishedAt": "2026-10-25T07:00:00+00:00",
+      "date": "2026-10-25T07:00:00+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN"
       ],
       "category": "NEWS"
     },
@@ -1187,21 +1202,6 @@
       "source": "OSEN",
       "publishedAt": "2026-10-22T02:00:00+00:00",
       "date": "2026-10-22T02:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "0b498a32a3a6c4b61ad3",
-      "title": "GD·BTS·코르티스까지…K팝 48인 한자리 모인 전시 - TopStarNews",
-      "description": "GD·BTS·코르티스까지…K팝 48인 한자리 모인 전시 TopStarNews",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pcWlzOHpUZGVEN1VuZ3ZOZVNheHQtcFNuQkJNOUJuUG13clZ2dmVtd1hrM3ZUQS1vWVA4V1VPcGV5d29GZmp0bVdDMnlmYjUzcF9mYUtYbXZIV2xHeXlZY0twUDlCOERBbzRKbzVtZlY5QQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pcWlzOHpUZGVEN1VuZ3ZOZVNheHQtcFNuQkJNOUJuUG13clZ2dmVtd1hrM3ZUQS1vWVA4V1VPcGV5d29GZmp0bVdDMnlmYjUzcF9mYUtYbXZIV2xHeXlZY0twUDlCOERBbzRKbzVtZlY5QQ?oc=5",
-      "source": "TopStarNews",
-      "publishedAt": "2026-10-22T01:53:46+00:00",
-      "date": "2026-10-22T01:53:46+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
