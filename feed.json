@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T10:56:12.693589+00:00",
+  "updatedAt": "2026-11-06T17:59:23.426492+00:00",
   "status": "ok",
   "count": 80,
   "items": [
@@ -15,6 +15,21 @@
       "member": "GROUP",
       "members": [
         "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "adf35cddeb15ec713853",
+      "title": "코르티스 커뮤니티 포스트 - 💥 - 제임스 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - 💥 - 제임스 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxNjk5LXRHc3BQRjRoMlozU0pHQzh4QW0tNWRUUFRraWRTM2tGQ1VHSjl0bTFxVjVqbUlBNjFKUk9XRmJvZm9RNXh2SUxyaXI3MGhwNW00QXBmUEU4NnNz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxNjk5LXRHc3BQRjRoMlozU0pHQzh4QW0tNWRUUFRraWRTM2tGQ1VHSjl0bTFxVjVqbUlBNjFKUk9XRmJvZm9RNXh2SUxyaXI3MGhwNW00QXBmUEU4NnNz?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-06T09:01:59+00:00",
+      "date": "2026-11-06T09:01:59+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
       ],
       "category": "NEWS"
     },
@@ -367,8 +382,8 @@
       "id": "6381b6a11de9076f42a1",
       "title": "지드래곤·BTS·스키즈·코르티스, 이 조합 가능하다고? - 앳스타일",
       "description": "지드래곤·BTS·스키즈·코르티스, 이 조합 가능하다고? 앳스타일",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PVkt6enpvcHFBOTlxaFl5MC1vVWNoUVFoY0VscU45blRBUVBBQ1BvclJvaDBUWjJfZzcyQmk3RTVwNG9SQ0FvbVQxbHlWbVhicFhJSWFIcDlnb0dDTy1seEF3NkJ6WFNqQUHSAW5BVV95cUxOd0pxNTV0eWNGN2g2b1hPa1dWWDBNSS1kV09fR2w5WUV5ckRSR19TdDVobzVaUmVRVTg4d2lnS3c5d3B1NWdZQWpzLXFuRGJCeHNPSmpHcm5hZEhHWGRYcUNfWkgtcmZTR2tXOUIxdw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PVkt6enpvcHFBOTlxaFl5MC1vVWNoUVFoY0VscU45blRBUVBBQ1BvclJvaDBUWjJfZzcyQmk3RTVwNG9SQ0FvbVQxbHlWbVhicFhJSWFIcDlnb0dDTy1seEF3NkJ6WFNqQUHSAW5BVV95cUxOd0pxNTV0eWNGN2g2b1hPa1dWWDBNSS1kV09fR2w5WUV5ckRSR19TdDVobzVaUmVRVTg4d2lnS3c5d3B1NWdZQWpzLXFuRGJCeHNPSmpHcm5hZEhHWGRYcUNfWkgtcmZTR2tXOUIxdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hdXJBczB2cXltSzMzVlVvNmFtbUYtNFlaaU5IZ3RPckk0QmxJaUZ6Y1hVVk5Dd05KbWUyNTBZSGJxZDV4OTdHcWVidTBBM3RERlB6N0Z5V0dqLU0wZGRRWDl3R0JLY2NGb1l30gFuQVVfeXFMTndKcTU1dHljRjdoNm9YT2tXVlgwTUktZFdPX0dsOVlFeXJEUkdfU3Q1aG81WlJlUVU4OHdpZ0t3OXdwdTVnWUFqcy1xbkRiQnhzT0pqR3JuYWRIR1hkWHFDX1pILXJmU0drVzlCMXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hdXJBczB2cXltSzMzVlVvNmFtbUYtNFlaaU5IZ3RPckk0QmxJaUZ6Y1hVVk5Dd05KbWUyNTBZSGJxZDV4OTdHcWVidTBBM3RERlB6N0Z5V0dqLU0wZGRRWDl3R0JLY2NGb1l30gFuQVVfeXFMTndKcTU1dHljRjdoNm9YT2tXVlgwTUktZFdPX0dsOVlFeXJEUkdfU3Q1aG81WlJlUVU4OHdpZ0t3OXdwdTVnWUFqcy1xbkRiQnhzT0pqR3JuYWRIR1hkWHFDX1pILXJmU0drVzlCMXc?oc=5",
       "source": "앳스타일",
       "publishedAt": "2026-11-04T03:00:00+00:00",
       "date": "2026-11-04T03:00:00+00:00",
@@ -575,11 +590,11 @@
     },
     {
       "id": "1d554fa07d432ed1c636",
-      "title": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ - 미주중앙일보",
-      "description": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ 미주중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44VzRiaUtGZzRoSC1WbW1YVFo5U2FyZmE2WlZYaUF2ZDZhbHhGZGJBZEREbFVhMDY0SmxZc2RiVzRyaC1ObFk4UDkwYlZHLWl5VmtPS1dqSHN2VFpDbzhuTDlR?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44VzRiaUtGZzRoSC1WbW1YVFo5U2FyZmE2WlZYaUF2ZDZhbHhGZGJBZEREbFVhMDY0SmxZc2RiVzRyaC1ObFk4UDkwYlZHLWl5VmtPS1dqSHN2VFpDbzhuTDlR?oc=5",
-      "source": "미주중앙일보",
+      "title": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ - OSEN",
+      "description": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43bEktQjNzY3VOa1Rfck1qNm53YVFycnhhdk8xaWxvZFJpUUFNVjFoN3hrcFlRbFpEd3c4eVNwWXpIXzRndE1nckR2Y25oWEZuRVU5NA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43bEktQjNzY3VOa1Rfck1qNm53YVFycnhhdk8xaWxvZFJpUUFNVjFoN3hrcFlRbFpEd3c4eVNwWXpIXzRndE1nckR2Y25oWEZuRVU5NA?oc=5",
+      "source": "OSEN",
       "publishedAt": "2026-11-03T23:49:00+00:00",
       "date": "2026-11-03T23:49:00+00:00",
       "member": "GROUP",
@@ -950,13 +965,13 @@
     },
     {
       "id": "3efbf94e9a2bf0cf9a76",
-      "title": "코르티스, 日 정식 데뷔 전 연말 가요제 뜬다..‘FNS 가요제’ 출연 확정 - 조선일보",
-      "description": "코르티스, 日 정식 데뷔 전 연말 가요제 뜬다..‘FNS 가요제’ 출연 확정 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORjhiOTlDVTBuOUI1UzZoUzdYMkZRblhOaFZDS2otSkdoQ29sSHdQeGp2VS1PTmNGOVl0YXNHQXp3ZTNzMDZvN01CWG1QOXowZDhDYUx3ZjNYbTJPb0ZJc3FlMXhReVdicC12Q29rcVFpOEZ0bHAtOEZwR0lfeGp1bjlXVjYyeU5PUGc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORjhiOTlDVTBuOUI1UzZoUzdYMkZRblhOaFZDS2otSkdoQ29sSHdQeGp2VS1PTmNGOVl0YXNHQXp3ZTNzMDZvN01CWG1QOXowZDhDYUx3ZjNYbTJPb0ZJc3FlMXhReVdicC12Q29rcVFpOEZ0bHAtOEZwR0lfeGp1bjlXVjYyeU5PUGc?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-11-03T00:05:00+00:00",
-      "date": "2026-11-03T00:05:00+00:00",
+      "title": "코르티스, 日 정식 데뷔 전 연말 가요제 뜬다..‘FNS 가요제’ 출연 확정 - OSEN",
+      "description": "코르티스, 日 정식 데뷔 전 연말 가요제 뜬다..‘FNS 가요제’ 출연 확정 OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OeWhkSzJIMERyUFBJTmdPMC1HR2tEZGxET2ktWXdfM0ZZajNteTJHaWhYVGVfcXZxdVRab2ZFaGJOdjVrSGx0bnVMcE1BaWJuTEdsQg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OeWhkSzJIMERyUFBJTmdPMC1HR2tEZGxET2ktWXdfM0ZZajNteTJHaWhYVGVfcXZxdVRab2ZFaGJOdjVrSGx0bnVMcE1BaWJuTEdsQg?oc=5",
+      "source": "OSEN",
+      "publishedAt": "2026-11-03T00:04:00+00:00",
+      "date": "2026-11-03T00:04:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -1054,6 +1069,21 @@
       "category": "NEWS"
     },
     {
+      "id": "eb6266a03244f6a860b7",
+      "title": "코르티스, 日 연말 대표 가요제 빛낸다! 현지 정식 데뷔 전 연말 특집 방송 'FNS 가요제' 출연 - 스타뉴스",
+      "description": "코르티스, 日 연말 대표 가요제 빛낸다! 현지 정식 데뷔 전 연말 특집 방송 'FNS 가요제' 출연 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxRGYwOFM5VkNxZjFET2lCZE1SVjJjQ1hEc2t0SGlaaGF2MmJnOXFXOC1aejA3TGxhVFoteTFUR0FwbDlpNlZSVVJlR3lxMnpRcVZtWVFGQXJVaU1VNmhrNVFvRktUcDJFbWxEZHhtWTJad0Ju?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxRGYwOFM5VkNxZjFET2lCZE1SVjJjQ1hEc2t0SGlaaGF2MmJnOXFXOC1aejA3TGxhVFoteTFUR0FwbDlpNlZSVVJlR3lxMnpRcVZtWVFGQXJVaU1VNmhrNVFvRktUcDJFbWxEZHhtWTJad0Ju?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-02T23:38:35+00:00",
+      "date": "2026-11-02T23:38:35+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "099f0b6e053805e29923",
       "title": "コルティス、日本の年末代表歌謡祭を盛り上げる！ 現地での正式デビュー前の年末特集放送『FNS歌謡私の出演 - 스타뉴스",
       "description": "コルティス、日本の年末代表歌謡祭を盛り上げる！ 現地での正式デビュー前の年末特集放送『FNS歌謡私の出演 스타뉴스",
@@ -1074,21 +1104,6 @@
       "description": "CORTIS to Shine at Japan's Premier Year-End Music Festival! Group Appears on 'FNS Music Festival' Special Broadcast Ahead of Official Local Debut 스타뉴스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1Vm1SNktYVFd2N3ZvaVRSSVJpZ05EeDNHV3VnQ1M2UU5ZSFF6V3g0WGN6RjBoSkxFOEF2Z2dQNEdxd1lHOXVFcHM5YXdjdFpsX01zWGJqa3RCSmVQMFN2dEh5NFcxeWd2M3llU3hGa1kwOHFHWXBNZA?oc=5",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1Vm1SNktYVFd2N3ZvaVRSSVJpZ05EeDNHV3VnQ1M2UU5ZSFF6V3g0WGN6RjBoSkxFOEF2Z2dQNEdxd1lHOXVFcHM5YXdjdFpsX01zWGJqa3RCSmVQMFN2dEh5NFcxeWd2M3llU3hGa1kwOHFHWXBNZA?oc=5",
-      "source": "스타뉴스",
-      "publishedAt": "2026-11-02T23:38:35+00:00",
-      "date": "2026-11-02T23:38:35+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "eb6266a03244f6a860b7",
-      "title": "코르티스, 日 연말 대표 가요제 빛낸다! 현지 정식 데뷔 전 연말 특집 방송 'FNS 가요제' 출연 - 스타뉴스",
-      "description": "코르티스, 日 연말 대표 가요제 빛낸다! 현지 정식 데뷔 전 연말 특집 방송 'FNS 가요제' 출연 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxRGYwOFM5VkNxZjFET2lCZE1SVjJjQ1hEc2t0SGlaaGF2MmJnOXFXOC1aejA3TGxhVFoteTFUR0FwbDlpNlZSVVJlR3lxMnpRcVZtWVFGQXJVaU1VNmhrNVFvRktUcDJFbWxEZHhtWTJad0Ju?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxRGYwOFM5VkNxZjFET2lCZE1SVjJjQ1hEc2t0SGlaaGF2MmJnOXFXOC1aejA3TGxhVFoteTFUR0FwbDlpNlZSVVJlR3lxMnpRcVZtWVFGQXJVaU1VNmhrNVFvRktUcDJFbWxEZHhtWTJad0Ju?oc=5",
       "source": "스타뉴스",
       "publishedAt": "2026-11-02T23:38:35+00:00",
       "date": "2026-11-02T23:38:35+00:00",
@@ -1129,26 +1144,11 @@
       "category": "NEWS"
     },
     {
-      "id": "adf35cddeb15ec713853",
-      "title": "코르티스 커뮤니티 포스트 - 🐼 - 제임스 - Weverse",
-      "description": "코르티스 커뮤니티 포스트 - 🐼 - 제임스 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BMG9PSV9GMXl4ZGpMTlhEeGFzTVVkczFyU1JLZmxYV09uTUIzakFzNnhLeFZMOC1QQzlPdEg3V19XU3liVkF0ZWFsd1pjbkNybnRDT1JWcnpRSG5kQTVB?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BMG9PSV9GMXl4ZGpMTlhEeGFzTVVkczFyU1JLZmxYV09uTUIzakFzNnhLeFZMOC1QQzlPdEg3V19XU3liVkF0ZWFsd1pjbkNybnRDT1JWcnpRSG5kQTVB?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-02T17:51:13+00:00",
-      "date": "2026-11-02T17:51:13+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "62d528f0425e704ccc46",
-      "title": "리센느, 코르티스·하투하 제치고 11월 신인 아이돌그룹 파워 1위 - 싱글리스트",
-      "description": "리센느, 코르티스·하투하 제치고 11월 신인 아이돌그룹 파워 1위 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnMkdmX29GdFZydndEQ1VCX1JXckIzaFNERHd5SkwzckltMVphOVhsUVY2c2d0WnNlZVZ3UGxweWQ2VFJ3SUI1cDFyalRHWW5Bem9lZXU5cVgySC1pV1RTcXVkRWFidw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnMkdmX29GdFZydndEQ1VCX1JXckIzaFNERHd5SkwzckltMVphOVhsUVY2c2d0WnNlZVZ3UGxweWQ2VFJ3SUI1cDFyalRHWW5Bem9lZXU5cVgySC1pV1RTcXVkRWFidw?oc=5",
+      "id": "b993352a9a5b7ba273f2",
+      "title": "코르티스, ‘GREENGREEN’ 빌보드200 '깜짝' 재진입 - 싱글리스트",
+      "description": "코르티스, ‘GREENGREEN’ 빌보드200 '깜짝' 재진입 싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16cFBOemFxcDBPWlNDVVZSTFkyb040dHNCZ0k0a3JESVowN0tzZ3FVUjVuOWQxTHpEQmNFU0ZtSTVJVktZYVlDNFNlUGZQQWNITFd0S212VkZneXVQbFA1UW4taVd5Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16cFBOemFxcDBPWlNDVVZSTFkyb040dHNCZ0k0a3JESVowN0tzZ3FVUjVuOWQxTHpEQmNFU0ZtSTVJVktZYVlDNFNlUGZQQWNITFd0S212VkZneXVQbFA1UW4taVd5Zw?oc=5",
       "source": "싱글리스트",
       "publishedAt": "2026-11-02T08:00:00+00:00",
       "date": "2026-11-02T08:00:00+00:00",
@@ -1159,11 +1159,11 @@
       "category": "NEWS"
     },
     {
-      "id": "b993352a9a5b7ba273f2",
-      "title": "코르티스, ‘GREENGREEN’ 빌보드200 '깜짝' 재진입 - 싱글리스트",
-      "description": "코르티스, ‘GREENGREEN’ 빌보드200 '깜짝' 재진입 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16cFBOemFxcDBPWlNDVVZSTFkyb040dHNCZ0k0a3JESVowN0tzZ3FVUjVuOWQxTHpEQmNFU0ZtSTVJVktZYVlDNFNlUGZQQWNITFd0S212VkZneXVQbFA1UW4taVd5Zw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16cFBOemFxcDBPWlNDVVZSTFkyb040dHNCZ0k0a3JESVowN0tzZ3FVUjVuOWQxTHpEQmNFU0ZtSTVJVktZYVlDNFNlUGZQQWNITFd0S212VkZneXVQbFA1UW4taVd5Zw?oc=5",
+      "id": "62d528f0425e704ccc46",
+      "title": "리센느, 코르티스·하투하 제치고 11월 신인 아이돌그룹 파워 1위 - 싱글리스트",
+      "description": "리센느, 코르티스·하투하 제치고 11월 신인 아이돌그룹 파워 1위 싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnMkdmX29GdFZydndEQ1VCX1JXckIzaFNERHd5SkwzckltMVphOVhsUVY2c2d0WnNlZVZ3UGxweWQ2VFJ3SUI1cDFyalRHWW5Bem9lZXU5cVgySC1pV1RTcXVkRWFidw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnMkdmX29GdFZydndEQ1VCX1JXckIzaFNERHd5SkwzckltMVphOVhsUVY2c2d0WnNlZVZ3UGxweWQ2VFJ3SUI1cDFyalRHWW5Bem9lZXU5cVgySC1pV1RTcXVkRWFidw?oc=5",
       "source": "싱글리스트",
       "publishedAt": "2026-11-02T08:00:00+00:00",
       "date": "2026-11-02T08:00:00+00:00",
