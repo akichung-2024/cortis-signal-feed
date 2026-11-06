@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-11-06T17:59:23.426492+00:00",
+  "updatedAt": "2026-11-06T23:11:29.697944+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "3cfc1771cebc7379ce0c",
+      "title": "[2026 KGMA] 코르티스, ‘베스트 아티스트’ 수상 쾌거 - 일간스포츠",
+      "description": "[2026 KGMA] 코르티스, ‘베스트 아티스트’ 수상 쾌거 일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aDlaTldSUEM0cGVhVEgwUUtUcHVQQUZITVFlUkxKdWVaMDJzMC1Fd0xmMlNza0xINVEwdnc1WEZNeFozWE9DSHFwMWNodmVNQlkyUG9kSm1lb1k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aDlaTldSUEM0cGVhVEgwUUtUcHVQQUZITVFlUkxKdWVaMDJzMC1Fd0xmMlNza0xINVEwdnc1WEZNeFozWE9DSHFwMWNodmVNQlkyUG9kSm1lb1k?oc=5",
+      "source": "일간스포츠",
+      "publishedAt": "2026-11-06T23:00:00+00:00",
+      "date": "2026-11-06T23:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "d9fd1c4e5cabd1fd50d1",
+      "title": "[2026 KGMA] 방탄소년단·블랙핑크·스트레이 키즈·코르티스·영케이·다영·트레저·루시·NCT 위시 유우시·플레어 유…‘아티스트 데이’ 사전 수상 영예 [종합] - 일간스포츠",
+      "description": "[2026 KGMA] 방탄소년단·블랙핑크·스트레이 키즈·코르티스·영케이·다영·트레저·루시·NCT 위시 유우시·플레어 유…‘아티스트 데이’ 사전 수상 영예 [종합] 일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBidFJPOE94djZOZXJUaWRJamYxWU92dWhSMUs2TGUzTUNlNENBVVBROUU2SkZYRS11UU96ZlRjS1hxODdURVlTMXRIdnBMQ1Z1Z1cyUk54bVBBVlk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBidFJPOE94djZOZXJUaWRJamYxWU92dWhSMUs2TGUzTUNlNENBVVBROUU2SkZYRS11UU96ZlRjS1hxODdURVlTMXRIdnBMQ1Z1Z1cyUk54bVBBVlk?oc=5",
+      "source": "일간스포츠",
+      "publishedAt": "2026-11-06T23:00:00+00:00",
+      "date": "2026-11-06T23:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "d5ba7fc165f8a028fb5b",
       "title": "코르티스, ‘GREENGREEN’ 향한 글로벌 팬들의 애틋한 반응…잊지 못할 시간 [하반기 결선] - CBC뉴스",
@@ -1170,36 +1200,6 @@
       "member": "GROUP",
       "members": [
         "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "358093b7de6d90b803e5",
-      "title": "코르티스 제임스, ‘2026 KGMA 아티스트 오브 10월' 루키 부문 1위 [일간스포츠X쿠궁] - 일간스포츠",
-      "description": "코르티스 제임스, ‘2026 KGMA 아티스트 오브 10월' 루키 부문 1위 [일간스포츠X쿠궁] 일간스포츠",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nNVJKcGxvVjBnYXQ4bnVrR3piQnI0dFU0N2VicjBLOGhmaU81ZFJRYm9hZ0Q3SklZMjZoMlpINW1VcUROeDN2X3Y1YWN5bWNlUWlHZ3VvbHkyOWc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nNVJKcGxvVjBnYXQ4bnVrR3piQnI0dFU0N2VicjBLOGhmaU81ZFJRYm9hZ0Q3SklZMjZoMlpINW1VcUROeDN2X3Y1YWN5bWNlUWlHZ3VvbHkyOWc?oc=5",
-      "source": "일간스포츠",
-      "publishedAt": "2026-11-02T07:42:00+00:00",
-      "date": "2026-11-02T07:42:00+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "10f30c11e83e792bcf8a",
-      "title": "내일을 달린다, 코르티스 건호 - Vogue korea",
-      "description": "내일을 달린다, 코르티스 건호 Vogue korea",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOGN0ZUNqYmNxdHV4cUdPc25BdEdaT1ZtMFFSa3lzNkZQTm9STlF5RVFVS3o0Mi1XTWVHVTFIaDdHeWIwcTNtRXAtT283TThMM1dOVWo0TjNEN2djWVBpNHNmaXgwZEIxd0luMGdKYUUtSEZya1U2LUJGeFlJMG5JNjFtVEtBQ0U3NmZWOVpOMFBMOUMwVU9JUFE5bXRDOGRvaU1UakFyU1ZRa25sVlFLM0lCRkE3eF9DX2xLSGxEaHlGWlgtbjRTRzE1M01QVjdnQUdnbUxhelBVZ1VZcGxZeg?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOGN0ZUNqYmNxdHV4cUdPc25BdEdaT1ZtMFFSa3lzNkZQTm9STlF5RVFVS3o0Mi1XTWVHVTFIaDdHeWIwcTNtRXAtT283TThMM1dOVWo0TjNEN2djWVBpNHNmaXgwZEIxd0luMGdKYUUtSEZya1U2LUJGeFlJMG5JNjFtVEtBQ0U3NmZWOVpOMFBMOUMwVU9JUFE5bXRDOGRvaU1UakFyU1ZRa25sVlFLM0lCRkE3eF9DX2xLSGxEaHlGWlgtbjRTRzE1M01QVjdnQUdnbUxhelBVZ1VZcGxZeg?oc=5",
-      "source": "Vogue korea",
-      "publishedAt": "2026-11-02T05:00:48+00:00",
-      "date": "2026-11-02T05:00:48+00:00",
-      "member": "KEONHO",
-      "members": [
-        "KEONHO"
       ],
       "category": "NEWS"
     }
