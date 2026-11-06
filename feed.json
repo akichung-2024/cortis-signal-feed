@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-06T02:29:01.454649+00:00",
+  "updatedAt": "2026-11-06T10:56:12.693589+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "d5ba7fc165f8a028fb5b",
+      "title": "코르티스, ‘GREENGREEN’ 향한 글로벌 팬들의 애틋한 반응…잊지 못할 시간 [하반기 결선] - CBC뉴스",
+      "description": "코르티스, ‘GREENGREEN’ 향한 글로벌 팬들의 애틋한 반응…잊지 못할 시간 [하반기 결선] CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jUkNsRzFlcUVCWFJHY240Nm9iUlJDbjNXSjRqaUV0RWxzaEJpajNkc2t4bllPczdXNTdxMEREWmdOS2ZBQUxwNWd2RFFXMGdWUERXQloyRzlwR3JQWWxKUXI4RWZYS1Iz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jUkNsRzFlcUVCWFJHY240Nm9iUlJDbjNXSjRqaUV0RWxzaEJpajNkc2t4bllPczdXNTdxMEREWmdOS2ZBQUxwNWd2RFFXMGdWUERXQloyRzlwR3JQWWxKUXI4RWZYS1Iz?oc=5",
+      "source": "CBC뉴스",
+      "publishedAt": "2026-11-06T09:48:35+00:00",
+      "date": "2026-11-06T09:48:35+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "d307c123271270079937",
       "title": "[단독]08년생 A2O 라이트 영→코르티스 주훈, 수능 미응시‥시험 치르는 ★는? - 뉴스엔",
@@ -560,13 +575,13 @@
     },
     {
       "id": "1d554fa07d432ed1c636",
-      "title": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ - 조선일보",
-      "description": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRHlSVk41VW9ZVWlCOGhGS3FKMnUwUHBPakRzLXp3aXc2bGZoUEQxSzVXVEFwMVcyazVRRE02dzJVd2dYbTlraUhWUXBtdE40Y01RWS1xcGFHZXZ2ZlNLeTQ2ZTJpOTBsYUQ4c0k1dVI1cTVkTGU2QnQwOWtCOXhqN0ZJbEFMUzdVMUE?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRHlSVk41VW9ZVWlCOGhGS3FKMnUwUHBPakRzLXp3aXc2bGZoUEQxSzVXVEFwMVcyazVRRE02dzJVd2dYbTlraUhWUXBtdE40Y01RWS1xcGFHZXZ2ZlNLeTQ2ZTJpOTBsYUQ4c0k1dVI1cTVkTGU2QnQwOWtCOXhqN0ZJbEFMUzdVMUE?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-11-03T23:54:00+00:00",
-      "date": "2026-11-03T23:54:00+00:00",
+      "title": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ - 미주중앙일보",
+      "description": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ 미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44VzRiaUtGZzRoSC1WbW1YVFo5U2FyZmE2WlZYaUF2ZDZhbHhGZGJBZEREbFVhMDY0SmxZc2RiVzRyaC1ObFk4UDkwYlZHLWl5VmtPS1dqSHN2VFpDbzhuTDlR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44VzRiaUtGZzRoSC1WbW1YVFo5U2FyZmE2WlZYaUF2ZDZhbHhGZGJBZEREbFVhMDY0SmxZc2RiVzRyaC1ObFk4UDkwYlZHLWl5VmtPS1dqSHN2VFpDbzhuTDlR?oc=5",
+      "source": "미주중앙일보",
+      "publishedAt": "2026-11-03T23:49:00+00:00",
+      "date": "2026-11-03T23:49:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -1185,21 +1200,6 @@
       "member": "KEONHO",
       "members": [
         "KEONHO"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "332c0a20b134bc8eeb69",
-      "title": "코르티스, 日 ‘FNS 가요제’ 출연...오리콘 1위·첫 투어 매진 이어 상승세 - 싱글리스트",
-      "description": "코르티스, 日 ‘FNS 가요제’ 출연...오리콘 1위·첫 투어 매진 이어 상승세 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BaUptOWVkM1lodW9BZFBkQ3UyeUl6YUdTOHc1UG9ZVzBqTnZyN2F1eHV2Y1EybXN1MWhYZER3a2hLaFZoMzVXM2JYa2hBOGpKMFBiS0FUY0d5NW5wYm1fcy1JeXpfdw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BaUptOWVkM1lodW9BZFBkQ3UyeUl6YUdTOHc1UG9ZVzBqTnZyN2F1eHV2Y1EybXN1MWhYZER3a2hLaFZoMzVXM2JYa2hBOGpKMFBiS0FUY0d5NW5wYm1fcy1JeXpfdw?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-01T07:00:00+00:00",
-      "date": "2026-11-01T07:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
       ],
       "category": "NEWS"
     }
