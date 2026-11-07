@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-07T16:29:35.751234+00:00",
+  "updatedAt": "2026-11-07T20:54:13.239949+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "adf35cddeb15ec713853",
+      "title": "코르티스 커뮤니티 포스트 - 🥱🥱🥱 - 제임스 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - 🥱🥱🥱 - 제임스 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TWHNla19vcnN2eFI3WDRlcFZfMHdoX3M2eVYxLWdqQzR1cTdlMjZHZFV0eVFsQXA3UE5jandtdzVGNjJxRHZtV2FITmlpc21QdVZEajhfenhRRXd2ZjZZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TWHNla19vcnN2eFI3WDRlcFZfMHdoX3M2eVYxLWdqQzR1cTdlMjZHZFV0eVFsQXA3UE5jandtdzVGNjJxRHZtV2FITmlpc21QdVZEajhfenhRRXd2ZjZZ?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-07T18:02:02+00:00",
+      "date": "2026-11-07T18:02:02+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "838efb9ce1ba115d7188",
       "title": "코르티스 커뮤니티 포스트 - - 건호 - Weverse",
@@ -180,21 +195,6 @@
       "member": "GROUP",
       "members": [
         "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "adf35cddeb15ec713853",
-      "title": "코르티스 커뮤니티 포스트 - 💥 - 제임스 - Weverse",
-      "description": "코르티스 커뮤니티 포스트 - 💥 - 제임스 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxNjk5LXRHc3BQRjRoMlozU0pHQzh4QW0tNWRUUFRraWRTM2tGQ1VHSjl0bTFxVjVqbUlBNjFKUk9XRmJvZm9RNXh2SUxyaXI3MGhwNW00QXBmUEU4NnNz?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxNjk5LXRHc3BQRjRoMlozU0pHQzh4QW0tNWRUUFRraWRTM2tGQ1VHSjl0bTFxVjVqbUlBNjFKUk9XRmJvZm9RNXh2SUxyaXI3MGhwNW00QXBmUEU4NnNz?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-06T09:01:59+00:00",
-      "date": "2026-11-06T09:01:59+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
       ],
       "category": "NEWS"
     },
@@ -1190,11 +1190,11 @@
     },
     {
       "id": "3efbf94e9a2bf0cf9a76",
-      "title": "코르티스, 日 정식 데뷔 전 연말 가요제 뜬다..‘FNS 가요제’ 출연 확정 - OSEN",
-      "description": "코르티스, 日 정식 데뷔 전 연말 가요제 뜬다..‘FNS 가요제’ 출연 확정 OSEN",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OeWhkSzJIMERyUFBJTmdPMC1HR2tEZGxET2ktWXdfM0ZZajNteTJHaWhYVGVfcXZxdVRab2ZFaGJOdjVrSGx0bnVMcE1BaWJuTEdsQg?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OeWhkSzJIMERyUFBJTmdPMC1HR2tEZGxET2ktWXdfM0ZZajNteTJHaWhYVGVfcXZxdVRab2ZFaGJOdjVrSGx0bnVMcE1BaWJuTEdsQg?oc=5",
-      "source": "OSEN",
+      "title": "코르티스, 日 정식 데뷔 전 연말 가요제 뜬다..‘FNS 가요제’ 출연 확정 - Chosunbiz",
+      "description": "코르티스, 日 정식 데뷔 전 연말 가요제 뜬다..‘FNS 가요제’ 출연 확정 Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0lKc2tvMEtzRzd3T1NOaFQ5ZjdfVXB4RFQ4elJyNThuWGdvNGRLMmg0VHl4UTNkUHV5aU5DeFJvYjdieWNVYV9paWowS3huRXVWUXBTVTJOWVJvUlRhRFRyMFo4cnBoY0g5ZmQ5dTBHY1J0R2xOTldSVXI1Mmtlem1Oc0hURldOWmtKRG56RVZUYzTSAacBQVVfeXFMT0pSWURHVEVjYjZYWHZHblROZ0ZKQWdMeXE4bXR4NWJONjdMTVpjMElTdElHc3BRVU11bWgxMnFwcFNTU1JFVnZRZkxURVdvSjBDUGlIRnMycDZBUnRHdWJZZUp0Q2xMZjZ3YzFGN2NnMDZPb3NCRXdTODkxRUx5RDlSLTZYeWRaTlRPblloZVE2Z1BlTlRqVUt2d2JFanFQX0lzVW85dEE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0lKc2tvMEtzRzd3T1NOaFQ5ZjdfVXB4RFQ4elJyNThuWGdvNGRLMmg0VHl4UTNkUHV5aU5DeFJvYjdieWNVYV9paWowS3huRXVWUXBTVTJOWVJvUlRhRFRyMFo4cnBoY0g5ZmQ5dTBHY1J0R2xOTldSVXI1Mmtlem1Oc0hURldOWmtKRG56RVZUYzTSAacBQVVfeXFMT0pSWURHVEVjYjZYWHZHblROZ0ZKQWdMeXE4bXR4NWJONjdMTVpjMElTdElHc3BRVU11bWgxMnFwcFNTU1JFVnZRZkxURVdvSjBDUGlIRnMycDZBUnRHdWJZZUp0Q2xMZjZ3YzFGN2NnMDZPb3NCRXdTODkxRUx5RDlSLTZYeWRaTlRPblloZVE2Z1BlTlRqVUt2d2JFanFQX0lzVW85dEE?oc=5",
+      "source": "Chosunbiz",
       "publishedAt": "2026-11-03T00:04:00+00:00",
       "date": "2026-11-03T00:04:00+00:00",
       "member": "GROUP",
