@@ -1,8 +1,53 @@
 {
-  "updatedAt": "2026-11-08T19:44:19.660446+00:00",
+  "updatedAt": "2026-11-08T23:44:24.126698+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "6f04ed0ecd933e621405",
+      "title": "[빅데이터로본다] 보이그룹 2026년 11월 브랜드평판... 1위 방탄소년단, 2위 에이티즈, 3위 코르티스 - 일간투데이",
+      "description": "[빅데이터로본다] 보이그룹 2026년 11월 브랜드평판... 1위 방탄소년단, 2위 에이티즈, 3위 코르티스 일간투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GcmdLVFJLYi0yV0hNOWlCQlFDdmJWVW9TNnhLQjBfMGJFeGhOVkdoYnBEd2pHWDlxQ2ZBbXIwOEJtYkdZejZDVHY4OUxpOHA1QW85ek1WaTdhNVZsR3U3UEJvWVJvSER4emxF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GcmdLVFJLYi0yV0hNOWlCQlFDdmJWVW9TNnhLQjBfMGJFeGhOVkdoYnBEd2pHWDlxQ2ZBbXIwOEJtYkdZejZDVHY4OUxpOHA1QW85ek1WaTdhNVZsR3U3UEJvWVJvSER4emxF?oc=5",
+      "source": "일간투데이",
+      "publishedAt": "2026-11-08T21:37:00+00:00",
+      "date": "2026-11-08T21:37:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "006ad01100eb5bcf68e8",
+      "title": "2026 가요 시상식, BTS vs 코르티스 2파전이라고?[초점S] - SPOTV NEWS",
+      "description": "2026 가요 시상식, BTS vs 코르티스 2파전이라고?[초점S] SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11NDYtYy1hYVpEUENFdlk1UTkyUUFoTjNCbExfUXVLTmhzYXdVNng0a1BHblNTcUhrcW1sYVhoTGFIV0VNOTNrTXhHeXBOdHFodkd4V0w1OU5ISm5YMmRuWFVKSGpkSm85NU9jVU1Hb2I?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11NDYtYy1hYVpEUENFdlk1UTkyUUFoTjNCbExfUXVLTmhzYXdVNng0a1BHblNTcUhrcW1sYVhoTGFIV0VNOTNrTXhHeXBOdHFodkd4V0w1OU5ISm5YMmRuWFVKSGpkSm85NU9jVU1Hb2I?oc=5",
+      "source": "SPOTV NEWS",
+      "publishedAt": "2026-11-08T21:05:00+00:00",
+      "date": "2026-11-08T21:05:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "04a7f68ff9d689716d78",
+      "title": "CORTIS’s “GREENGREEN” Re-Enters Billboard 200 6 Months After Its Release - Soompi",
+      "description": "CORTIS’s “GREENGREEN” Re-Enters Billboard 200 6 Months After Its Release Soompi",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjJvNDR5QXBabzN1aWFhZnBPU2l2bmFEbmpPMUZhQjRzZXFpeFV6eUY1TkREeFdRRmhROTlmNVFMQW9UUUZRUXppVkhNSmVQMmV2d0pIVl82aERnXzEtdXd3UkUtTW1RQXRjM3hDMnphalNPeW9DSHByS3J6aExXZmpncE5YaFYtY0t2dGxjZWJ0M2EzSDVvdTNSQW02bEFyeTB1TmxRZDd2ZlpNX2xJMw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjJvNDR5QXBabzN1aWFhZnBPU2l2bmFEbmpPMUZhQjRzZXFpeFV6eUY1TkREeFdRRmhROTlmNVFMQW9UUUZRUXppVkhNSmVQMmV2d0pIVl82aERnXzEtdXd3UkUtTW1RQXRjM3hDMnphalNPeW9DSHByS3J6aExXZmpncE5YaFYtY0t2dGxjZWJ0M2EzSDVvdTNSQW02bEFyeTB1TmxRZDd2ZlpNX2xJMw?oc=5",
+      "source": "Soompi",
+      "publishedAt": "2026-11-08T20:07:47+00:00",
+      "date": "2026-11-08T20:07:47+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "cbdcbc22a2dbb579380e",
       "title": "PLAVE, Stray Kids, CORTIS, TWICE, ENHYPEN, ILLIT, BTS, BOYNEXTDOOR, And More Sweep Top Spots On Billboard World Albums Chart - Soompi",
@@ -12,6 +57,21 @@
       "source": "Soompi",
       "publishedAt": "2026-11-08T18:12:02+00:00",
       "date": "2026-11-08T18:12:02+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "d2538269eb8171a404df",
+      "title": "BTS, Blackpink, Stray Kids and CORTIS Win Best Artist at 2026 KGMA as DAY6's Young K Takes Grand Artist - International Business Times Australia",
+      "description": "BTS, Blackpink, Stray Kids and CORTIS Win Best Artist at 2026 KGMA as DAY6's Young K Takes Grand Artist International Business Times Australia",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1WkFCRlpkZXFTX1dqTWJxa3JxaUllR3lMUDY3WlR3dkhPaHRTMG53eVdJNTB3QmFoR29GeUpsc1IyMHVsY0dKeV9sb1N1MmkyTHMyc0h4Y0VrVTQ3bWMzUFJZeXRTRjBndXlkMUxhbHNtVUVIdy1Sbg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1WkFCRlpkZXFTX1dqTWJxa3JxaUllR3lMUDY3WlR3dkhPaHRTMG53eVdJNTB3QmFoR29GeUpsc1IyMHVsY0dKeV9sb1N1MmkyTHMyc0h4Y0VrVTQ3bWMzUFJZeXRTRjBndXlkMUxhbHNtVUVIdy1Sbg?oc=5",
+      "source": "International Business Times Australia",
+      "publishedAt": "2026-11-08T16:15:43+00:00",
+      "date": "2026-11-08T16:15:43+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -60,6 +120,21 @@
       "member": "SEONGHYEON",
       "members": [
         "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "4a2c7a99c1b2292850e6",
+      "title": "Cortis’ Martin Faces Backlash Over Alleged Similarities to BTS’s Rm - IMDb",
+      "description": "Cortis’ Martin Faces Backlash Over Alleged Similarities to BTS’s Rm IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhOTZ2emZXZExicWZnV01aRWRLT3FXMy1MU1AwaTlhVUpWQU1Sd0dyaVZEcnBfeHVuM3RxNzhRR0ZuUnpFamR6dThWVzVmYUhoVHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhOTZ2emZXZExicWZnV01aRWRLT3FXMy1MU1AwaTlhVUpWQU1Sd0dyaVZEcnBfeHVuM3RxNzhRR0ZuUnpFamR6dThWVzVmYUhoVHc?oc=5",
+      "source": "IMDb",
+      "publishedAt": "2026-11-08T07:11:55+00:00",
+      "date": "2026-11-08T07:11:55+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN"
       ],
       "category": "NEWS"
     },
@@ -875,13 +950,13 @@
     },
     {
       "id": "1d554fa07d432ed1c636",
-      "title": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ - OSEN",
-      "description": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ OSEN",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43bEktQjNzY3VOa1Rfck1qNm53YVFycnhhdk8xaWxvZFJpUUFNVjFoN3hrcFlRbFpEd3c4eVNwWXpIXzRndE1nckR2Y25oWEZuRVU5NA?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43bEktQjNzY3VOa1Rfck1qNm53YVFycnhhdk8xaWxvZFJpUUFNVjFoN3hrcFlRbFpEd3c4eVNwWXpIXzRndE1nckR2Y25oWEZuRVU5NA?oc=5",
-      "source": "OSEN",
-      "publishedAt": "2026-11-03T23:49:00+00:00",
-      "date": "2026-11-03T23:49:00+00:00",
+      "title": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ - Chosunbiz",
+      "description": "코르티스, 美 ‘빌보드 200’ 역주행 깜짝 재진입…통산 19주 차트인 ‘기염’ Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUNHOWpqbzR5clVaNS1GNVNmR1k0YWt1SmpXVDZnMkd2U0llbFJFNmtsVjFPWmx2YVNmZmdhYTdSWXQ3YmVmRjFvelhkUi13NUJERzFCWWhrWG1IMXdSSS1KQkJCT0hObDZOQWxpMWNCZHdpYUI0bm1uc21kdzd6WjI4STN4WkQtelk0RjU0VGZjMTTSAacBQVVfeXFMTWNwdVZtbnF4X2dIYzJFcWUzcnJDQ2dnS1hhcENQOEVoRldjclhQdVQ0RHNuV29XODRWNUdjb0pKMXB3TnZaRDRCT09nQjRsanEtM053Mld1aHJ3dzRaQkFpV1hvbXZyNTF1NlpnSFplc3o4bG9LS2JfdWxKeVloWnRfT21Ua2MwUVR4ZWs1aTEwV0dZakl6emtwb2hoaXdWQTdndmZUTUU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUNHOWpqbzR5clVaNS1GNVNmR1k0YWt1SmpXVDZnMkd2U0llbFJFNmtsVjFPWmx2YVNmZmdhYTdSWXQ3YmVmRjFvelhkUi13NUJERzFCWWhrWG1IMXdSSS1KQkJCT0hObDZOQWxpMWNCZHdpYUI0bm1uc21kdzd6WjI4STN4WkQtelk0RjU0VGZjMTTSAacBQVVfeXFMTWNwdVZtbnF4X2dIYzJFcWUzcnJDQ2dnS1hhcENQOEVoRldjclhQdVQ0RHNuV29XODRWNUdjb0pKMXB3TnZaRDRCT09nQjRsanEtM053Mld1aHJ3dzRaQkFpV1hvbXZyNTF1NlpnSFplc3o4bG9LS2JfdWxKeVloWnRfT21Ua2MwUVR4ZWs1aTEwV0dZakl6emtwb2hoaXdWQTdndmZUTUU?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-11-03T23:51:00+00:00",
+      "date": "2026-11-03T23:51:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -1122,81 +1197,6 @@
       "source": "비즈엔터",
       "publishedAt": "2026-11-03T04:00:00+00:00",
       "date": "2026-11-03T04:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "fbcdc8d4ffd0f294aaab",
-      "title": "코르티스, 日 '2026 FNS 가요제' 첫 출연…12월 2일 생방송 무대 - Queen 이코노미퀸",
-      "description": "코르티스, 日 '2026 FNS 가요제' 첫 출연…12월 2일 생방송 무대 Queen 이코노미퀸",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54T1BzYllkd3pEc0s4VXRwaXpJS3lmc3htRlMzQ0x1TlQ4dG9IS0lsS3NrUUZWM2JTRXpHbm95WUhvSHBRU2N1U21lTjlFa1kycTBHbFktU190TExWaG9vcy1iaWI5Nk14aXc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54T1BzYllkd3pEc0s4VXRwaXpJS3lmc3htRlMzQ0x1TlQ4dG9IS0lsS3NrUUZWM2JTRXpHbm95WUhvSHBRU2N1U21lTjlFa1kycTBHbFktU190TExWaG9vcy1iaWI5Nk14aXc?oc=5",
-      "source": "Queen 이코노미퀸",
-      "publishedAt": "2026-11-03T02:16:59+00:00",
-      "date": "2026-11-03T02:16:59+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "7244a464992b9a6b89a9",
-      "title": "코르티스, 日 정식 데뷔 전 연말 특집 'FNS 가요제' 출격 - 뉴스1",
-      "description": "코르티스, 日 정식 데뷔 전 연말 특집 'FNS 가요제' 출격 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yeW1CTE5kX3ZjT3dmZnNKNlpILVFjUnBnVEhPZnBGQmx4YjNVTGo1ejE0OXYxWDJTTTNNYmVPT2pPSGpEX0N0bVloMkV5Y0RqUWlNRGNjdw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yeW1CTE5kX3ZjT3dmZnNKNlpILVFjUnBnVEhPZnBGQmx4YjNVTGo1ejE0OXYxWDJTTTNNYmVPT2pPSGpEX0N0bVloMkV5Y0RqUWlNRGNjdw?oc=5",
-      "source": "뉴스1",
-      "publishedAt": "2026-11-03T02:05:16+00:00",
-      "date": "2026-11-03T02:05:16+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "4d65c6b687facce4e69c",
-      "title": "코르티스, 日 ‘FNS 가요제’ 출연…뜨거운 현지 인기 - 비욘드포스트",
-      "description": "코르티스, 日 ‘FNS 가요제’ 출연…뜨거운 현지 인기 비욘드포스트",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xMUZjZjFhNWRnYVEwZ2NxTmtCUnFwMnJpbFFTdFB3QW1XRHVDMXg0dmE3cGc1WkJWRGRaYTBSX0lHWHlackdIWUlxUE84SFQ1bWw0Ym8ydDRnYnMxRHg4MWx5M2hDYkZJazl1aDQ5X1NEVHZWRzdfMU5TcTc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xMUZjZjFhNWRnYVEwZ2NxTmtCUnFwMnJpbFFTdFB3QW1XRHVDMXg0dmE3cGc1WkJWRGRaYTBSX0lHWHlackdIWUlxUE84SFQ1bWw0Ym8ydDRnYnMxRHg4MWx5M2hDYkZJazl1aDQ5X1NEVHZWRzdfMU5TcTc?oc=5",
-      "source": "비욘드포스트",
-      "publishedAt": "2026-11-03T01:45:00+00:00",
-      "date": "2026-11-03T01:45:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "2a24745b5cf2582d93a8",
-      "title": "코르티스, 日 대표 음악 프로그램 라인업 합류…'FNS 가요제' 출연 확정 - iMBC 연예",
-      "description": "코르티스, 日 대표 음악 프로그램 라인업 합류…'FNS 가요제' 출연 확정 iMBC 연예",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NSWZwSWx3OFFNd1VJOE1lek03MUpBMTllOVVFRnVETlExaWo0WmhzQlRyT2FOeWF3c1YxN1ZOWTlKODZFMmM4ZUZFRlBoNXlFcVpZeTF2XzFVMEFXVzhPUw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NSWZwSWx3OFFNd1VJOE1lek03MUpBMTllOVVFRnVETlExaWo0WmhzQlRyT2FOeWF3c1YxN1ZOWTlKODZFMmM4ZUZFRlBoNXlFcVpZeTF2XzFVMEFXVzhPUw?oc=5",
-      "source": "iMBC 연예",
-      "publishedAt": "2026-11-03T01:34:00+00:00",
-      "date": "2026-11-03T01:34:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "b6676d2996de621619bb",
-      "title": "‘록 인 재팬’서 ‘FNS 가요제’로…코르티스, 日 현지 공략 시동 - 스포츠동아",
-      "description": "‘록 인 재팬’서 ‘FNS 가요제’로…코르티스, 日 현지 공략 시동 스포츠동아",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RczVHaTB1Y1lmSGdQcjBtWkVndlR5VXd2YWVnNmctbFBfa1BzNFZNRWo1ZDNtMkxOdW5JbjVLRjZTN0JGR2ZTazNBbU9vZHl5WmFLSTd3T0RNMTc5Q2lUc2VSbnpiZzBUYmJSYWFn?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RczVHaTB1Y1lmSGdQcjBtWkVndlR5VXd2YWVnNmctbFBfa1BzNFZNRWo1ZDNtMkxOdW5JbjVLRjZTN0JGR2ZTazNBbU9vZHl5WmFLSTd3T0RNMTc5Q2lUc2VSbnpiZzBUYmJSYWFn?oc=5",
-      "source": "스포츠동아",
-      "publishedAt": "2026-11-03T00:45:47+00:00",
-      "date": "2026-11-03T00:45:47+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
