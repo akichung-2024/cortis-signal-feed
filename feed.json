@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-11-08T07:23:34.812529+00:00",
+  "updatedAt": "2026-11-08T15:14:50.837390+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "8983afcbafb344497c7a",
+      "title": "코르티스 위버스 LIVE - 건호 - 건호 - Weverse",
+      "description": "코르티스 위버스 LIVE - 건호 - 건호 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11a1RLdmZQVTdxTXA4UHJISkJZQVFPcmhTbXNWZHhFZlN1V2FKcDN2MkplUjNfYkY5ZU5LN2JBeXgxY1paNGZDNkZMNmtXQVk5ZUlDWWxKVEV1aFFv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11a1RLdmZQVTdxTXA4UHJISkJZQVFPcmhTbXNWZHhFZlN1V2FKcDN2MkplUjNfYkY5ZU5LN2JBeXgxY1paNGZDNkZMNmtXQVk5ZUlDWWxKVEV1aFFv?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-08T13:02:55+00:00",
+      "date": "2026-11-08T13:02:55+00:00",
+      "member": "KEONHO",
+      "members": [
+        "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "519c0d57439abaaf6190",
+      "title": "코르티스 커뮤니티 포스트 - - 성현 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - - 성현 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94OUdwM1M4SUZWV0tRWWdMNzlfc2xJY0cybnFPc2ZBa2pQeXAwc2l2OVhod0xOZEhKXy1ZQW9nVFpaS3RDMWFLeVpsSUJiRnBnXy1ROFR1eERrY0VSWWs4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94OUdwM1M4SUZWV0tRWWdMNzlfc2xJY0cybnFPc2ZBa2pQeXAwc2l2OVhod0xOZEhKXy1ZQW9nVFpaS3RDMWFLeVpsSUJiRnBnXy1ROFR1eERrY0VSWWs4?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-08T12:02:57+00:00",
+      "date": "2026-11-08T12:02:57+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "adf35cddeb15ec713853",
       "title": "코르티스 커뮤니티 포스트 - 🥱🥱🥱 - 제임스 - Weverse",
@@ -162,6 +192,21 @@
       "source": "BNT뉴스",
       "publishedAt": "2026-11-06T23:38:27+00:00",
       "date": "2026-11-06T23:38:27+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "3cfc1771cebc7379ce0c",
+      "title": "[2026 KGMA] 코르티스, ‘베스트 아티스트’ 수상 쾌거 - 일간스포츠",
+      "description": "[2026 KGMA] 코르티스, ‘베스트 아티스트’ 수상 쾌거 일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aDlaTldSUEM0cGVhVEgwUUtUcHVQQUZITVFlUkxKdWVaMDJzMC1Fd0xmMlNza0xINVEwdnc1WEZNeFozWE9DSHFwMWNodmVNQlkyUG9kSm1lb1k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aDlaTldSUEM0cGVhVEgwUUtUcHVQQUZITVFlUkxKdWVaMDJzMC1Fd0xmMlNza0xINVEwdnc1WEZNeFozWE9DSHFwMWNodmVNQlkyUG9kSm1lb1k?oc=5",
+      "source": "일간스포츠",
+      "publishedAt": "2026-11-06T23:00:00+00:00",
+      "date": "2026-11-06T23:00:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -432,21 +477,6 @@
       "source": "아시아타임즈",
       "publishedAt": "2026-11-04T08:24:00+00:00",
       "date": "2026-11-04T08:24:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "3cfc1771cebc7379ce0c",
-      "title": "[2026 KGMA] 코르티스, ‘베스트 아티스트’ 수상 쾌거 - 일간스포츠",
-      "description": "[2026 KGMA] 코르티스, ‘베스트 아티스트’ 수상 쾌거 일간스포츠",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aDlaTldSUEM0cGVhVEgwUUtUcHVQQUZITVFlUkxKdWVaMDJzMC1Fd0xmMlNza0xINVEwdnc1WEZNeFozWE9DSHFwMWNodmVNQlkyUG9kSm1lb1k?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aDlaTldSUEM0cGVhVEgwUUtUcHVQQUZITVFlUkxKdWVaMDJzMC1Fd0xmMlNza0xINVEwdnc1WEZNeFozWE9DSHFwMWNodmVNQlkyUG9kSm1lb1k?oc=5",
-      "source": "일간스포츠",
-      "publishedAt": "2026-11-04T08:00:00+00:00",
-      "date": "2026-11-04T08:00:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -1167,36 +1197,6 @@
       "source": "디스패치",
       "publishedAt": "2026-11-03T00:31:00+00:00",
       "date": "2026-11-03T00:31:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "2b776281ccbdcf6a8f73",
-      "title": "CORTIS to Appear at Japan's FNS Song Festival Before Debut - 조선일보",
-      "description": "CORTIS to Appear at Japan's FNS Song Festival Before Debut 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFVqdThsaFVCcVZqQXVwYmFkX2FFVmk1aGk2U1Rzemk2SnltQklWeC1ZN1FacV8zQV9INTlhTnJ4ZldvamJMSGFCaHl0TlJ2Nnk4UVliWE1XLXEyTkRVdWJQaGlsVFdmM2FZRFB1LWtHcnlUeEduMHZENElfSXVVcmxUNktmWHBIM1F3RlBR?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFVqdThsaFVCcVZqQXVwYmFkX2FFVmk1aGk2U1Rzemk2SnltQklWeC1ZN1FacV8zQV9INTlhTnJ4ZldvamJMSGFCaHl0TlJ2Nnk4UVliWE1XLXEyTkRVdWJQaGlsVFdmM2FZRFB1LWtHcnlUeEduMHZENElfSXVVcmxUNktmWHBIM1F3RlBR?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-11-03T00:10:24+00:00",
-      "date": "2026-11-03T00:10:24+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "3efbf94e9a2bf0cf9a76",
-      "title": "코르티스, 日 정식 데뷔 전 연말 가요제 뜬다..‘FNS 가요제’ 출연 확정 - Chosunbiz",
-      "description": "코르티스, 日 정식 데뷔 전 연말 가요제 뜬다..‘FNS 가요제’ 출연 확정 Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0lKc2tvMEtzRzd3T1NOaFQ5ZjdfVXB4RFQ4elJyNThuWGdvNGRLMmg0VHl4UTNkUHV5aU5DeFJvYjdieWNVYV9paWowS3huRXVWUXBTVTJOWVJvUlRhRFRyMFo4cnBoY0g5ZmQ5dTBHY1J0R2xOTldSVXI1Mmtlem1Oc0hURldOWmtKRG56RVZUYzTSAacBQVVfeXFMT0pSWURHVEVjYjZYWHZHblROZ0ZKQWdMeXE4bXR4NWJONjdMTVpjMElTdElHc3BRVU11bWgxMnFwcFNTU1JFVnZRZkxURVdvSjBDUGlIRnMycDZBUnRHdWJZZUp0Q2xMZjZ3YzFGN2NnMDZPb3NCRXdTODkxRUx5RDlSLTZYeWRaTlRPblloZVE2Z1BlTlRqVUt2d2JFanFQX0lzVW85dEE?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0lKc2tvMEtzRzd3T1NOaFQ5ZjdfVXB4RFQ4elJyNThuWGdvNGRLMmg0VHl4UTNkUHV5aU5DeFJvYjdieWNVYV9paWowS3huRXVWUXBTVTJOWVJvUlRhRFRyMFo4cnBoY0g5ZmQ5dTBHY1J0R2xOTldSVXI1Mmtlem1Oc0hURldOWmtKRG56RVZUYzTSAacBQVVfeXFMT0pSWURHVEVjYjZYWHZHblROZ0ZKQWdMeXE4bXR4NWJONjdMTVpjMElTdElHc3BRVU11bWgxMnFwcFNTU1JFVnZRZkxURVdvSjBDUGlIRnMycDZBUnRHdWJZZUp0Q2xMZjZ3YzFGN2NnMDZPb3NCRXdTODkxRUx5RDlSLTZYeWRaTlRPblloZVE2Z1BlTlRqVUt2d2JFanFQX0lzVW85dEE?oc=5",
-      "source": "Chosunbiz",
-      "publishedAt": "2026-11-03T00:05:00+00:00",
-      "date": "2026-11-03T00:05:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
