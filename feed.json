@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-10T23:24:34.507624+00:00",
+  "updatedAt": "2026-11-11T06:26:56.686046+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "158b948212551a45bb38",
+      "title": "최예나·코르티스·에이티즈, 10월 '아티스트탑텐 K-팝 장르 브랜드' 영예 - 텐아시아",
+      "description": "최예나·코르티스·에이티즈, 10월 '아티스트탑텐 K-팝 장르 브랜드' 영예 텐아시아",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41c29objduMGltOVlNUWVJeUZFWmFqMDJVemJFOUlNTmNITHFfdk1KVGJNbENtLXNBN0lXWnV5ZnpoRGd6NzFqdXJkNnY5NFE0TG5reFhtaTRuUXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41c29objduMGltOVlNUWVJeUZFWmFqMDJVemJFOUlNTmNITHFfdk1KVGJNbENtLXNBN0lXWnV5ZnpoRGd6NzFqdXJkNnY5NFE0TG5reFhtaTRuUXc?oc=5",
+      "source": "텐아시아",
+      "publishedAt": "2026-11-11T04:00:00+00:00",
+      "date": "2026-11-11T04:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "adf35cddeb15ec713853",
       "title": "코르티스 커뮤니티 포스트 - 😵‍💫 - 제임스 - Weverse",
@@ -679,6 +694,21 @@
       "category": "NEWS"
     },
     {
+      "id": "1059929358f3ab35613a",
+      "title": "‘KGMA’ 방탄소년단→코르티스 사전 수상…오늘(7일) 리센느→올데프 출격 - iMBC 연예",
+      "description": "‘KGMA’ 방탄소년단→코르티스 사전 수상…오늘(7일) 리센느→올데프 출격 iMBC 연예",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NUWZ6aG5ROEJYTVJXUF9LQWVoTXBBSVBQXzZiV2lFWUpDVEtTcE1qQnhWdWU5R0xBY2Q3Q2lUajkwd2lWelhPb2h0OHkxaXB0UVh0RUxIdnB4c1hSc1dtcg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NUWZ6aG5ROEJYTVJXUF9LQWVoTXBBSVBQXzZiV2lFWUpDVEtTcE1qQnhWdWU5R0xBY2Q3Q2lUajkwd2lWelhPb2h0OHkxaXB0UVh0RUxIdnB4c1hSc1dtcg?oc=5",
+      "source": "iMBC 연예",
+      "publishedAt": "2026-11-07T07:52:00+00:00",
+      "date": "2026-11-07T07:52:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "1a8bbd8b4384eaa17af2",
       "title": "BTS·블랙핑크→스키즈·코르티스…‘2026 KGMA’ 사전 수상 영예 - 매일경제",
       "description": "BTS·블랙핑크→스키즈·코르티스…‘2026 KGMA’ 사전 수상 영예 매일경제",
@@ -1167,36 +1197,6 @@
       "source": "싱글리스트",
       "publishedAt": "2026-11-04T03:01:44+00:00",
       "date": "2026-11-04T03:01:44+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "6381b6a11de9076f42a1",
-      "title": "지드래곤·BTS·스키즈·코르티스, 이 조합 가능하다고? - 앳스타일",
-      "description": "지드래곤·BTS·스키즈·코르티스, 이 조합 가능하다고? 앳스타일",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hdXJBczB2cXltSzMzVlVvNmFtbUYtNFlaaU5IZ3RPckk0QmxJaUZ6Y1hVVk5Dd05KbWUyNTBZSGJxZDV4OTdHcWVidTBBM3RERlB6N0Z5V0dqLU0wZGRRWDl3R0JLY2NGb1l30gFuQVVfeXFMTndKcTU1dHljRjdoNm9YT2tXVlgwTUktZFdPX0dsOVlFeXJEUkdfU3Q1aG81WlJlUVU4OHdpZ0t3OXdwdTVnWUFqcy1xbkRiQnhzT0pqR3JuYWRIR1hkWHFDX1pILXJmU0drVzlCMXc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hdXJBczB2cXltSzMzVlVvNmFtbUYtNFlaaU5IZ3RPckk0QmxJaUZ6Y1hVVk5Dd05KbWUyNTBZSGJxZDV4OTdHcWVidTBBM3RERlB6N0Z5V0dqLU0wZGRRWDl3R0JLY2NGb1l30gFuQVVfeXFMTndKcTU1dHljRjdoNm9YT2tXVlgwTUktZFdPX0dsOVlFeXJEUkdfU3Q1aG81WlJlUVU4OHdpZ0t3OXdwdTVnWUFqcy1xbkRiQnhzT0pqR3JuYWRIR1hkWHFDX1pILXJmU0drVzlCMXc?oc=5",
-      "source": "앳스타일",
-      "publishedAt": "2026-11-04T03:00:00+00:00",
-      "date": "2026-11-04T03:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "5efb0892d4cd21e70947",
-      "title": "Cortis’ 2nd EP resurfaces on Billboard 200 - The Korea Herald",
-      "description": "Cortis’ 2nd EP resurfaces on Billboard 200 The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRFRfRjJhY0diTTJ6eHFVTXhxdUlGVkhENDd0cnhOR0xnSmwwRDA1cFRKZ0VIOWlWVHo5ODhkc0VMb2Q3T0VudHB4YjhWck5qaXRKTnMtRQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRFRfRjJhY0diTTJ6eHFVTXhxdUlGVkhENDd0cnhOR0xnSmwwRDA1cFRKZ0VIOWlWVHo5ODhkc0VMb2Q3T0VudHB4YjhWck5qaXRKTnMtRQ?oc=5",
-      "source": "The Korea Herald",
-      "publishedAt": "2026-11-04T02:34:42+00:00",
-      "date": "2026-11-04T02:34:42+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
