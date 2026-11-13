@@ -1,8 +1,53 @@
 {
-  "updatedAt": "2026-11-13T00:27:57.805124+00:00",
+  "updatedAt": "2026-11-13T08:00:25.528461+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "bec1a0de8b57c411ffe1",
+      "title": "코르티스 ‘영크크’부터 리센느까지…‘밈’ 타고 음원·음반도 성장 - 동아일보",
+      "description": "코르티스 ‘영크크’부터 리센느까지…‘밈’ 타고 음원·음반도 성장 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBalRNRE9ZWlVkdmFpRlBMdGRlSDZsV2g5ckJhUEMzdG11OUtJZ0haZFY1QkxmanRLOUlvLTJwempoOWU1OEFtLWJHWGlfU1hwa1h6MHdKM3A3TnRVQmNFNm5PQTNxTDlIM0k5UXE4ekVFc3NPRTJWLUJDalN1d9IBZkFVX3lxTE94N280eVdfRGFoY2NleU5aZDUxaVE3NDM1MEp2UGo5WmpFemZ1VU1HWG1xcmVyLXFrSWZ0N1c3ZFBKMG04SWoybF9sNjF5UjBIczZtUlNWTllZUHBadi03dGFjYTJWZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBalRNRE9ZWlVkdmFpRlBMdGRlSDZsV2g5ckJhUEMzdG11OUtJZ0haZFY1QkxmanRLOUlvLTJwempoOWU1OEFtLWJHWGlfU1hwa1h6MHdKM3A3TnRVQmNFNm5PQTNxTDlIM0k5UXE4ekVFc3NPRTJWLUJDalN1d9IBZkFVX3lxTE94N280eVdfRGFoY2NleU5aZDUxaVE3NDM1MEp2UGo5WmpFemZ1VU1HWG1xcmVyLXFrSWZ0N1c3ZFBKMG04SWoybF9sNjF5UjBIczZtUlNWTllZUHBadi03dGFjYTJWZw?oc=5",
+      "source": "동아일보",
+      "publishedAt": "2026-11-13T07:29:29+00:00",
+      "date": "2026-11-13T07:29:29+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "4efdd13bbd7a05270d4a",
+      "title": "[센터엔터] 코르티스, 스포티파이 스트리밍 15억 회 돌파 外 - 연합뉴스TV",
+      "description": "[센터엔터] 코르티스, 스포티파이 스트리밍 15억 회 돌파 外 연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBZXpnMTZzdl9udDBkY29CLWFMVk5aTkdOVV9pSTBSdXJPOVhwNVZnbExfMERUaTEwVTVTRmVSRjhRcjFpek56TVVDTEFmSk1UQVg3QTVjSWlXSlBPSk5SWkVvbncyVWM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBZXpnMTZzdl9udDBkY29CLWFMVk5aTkdOVV9pSTBSdXJPOVhwNVZnbExfMERUaTEwVTVTRmVSRjhRcjFpek56TVVDTEFmSk1UQVg3QTVjSWlXSlBPSk5SWkVvbncyVWM?oc=5",
+      "source": "연합뉴스TV",
+      "publishedAt": "2026-11-13T04:09:00+00:00",
+      "date": "2026-11-13T04:09:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "1ba1336f666c2105ec43",
+      "title": "숏폼 화제성 넘어 음악성으로…그룹 코르티스 미니 2집 'REDRED' 장기 흥행 비결 - 한국사회복지저널",
+      "description": "숏폼 화제성 넘어 음악성으로…그룹 코르티스 미니 2집 'REDRED' 장기 흥행 비결 한국사회복지저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yYnBDVVZNY2xVaXEtSHhQS3YwMjJUNHRVc2hKYVFZZ2VBY09jQXoyckFBbEVTWFE5b19NekdlRkFGY2p6R3h0QkJ5MzdPR3NsUFh0RXJwbkJVdnN3VDQ2UmI0a1QxeVFYd2hB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yYnBDVVZNY2xVaXEtSHhQS3YwMjJUNHRVc2hKYVFZZ2VBY09jQXoyckFBbEVTWFE5b19NekdlRkFGY2p6R3h0QkJ5MzdPR3NsUFh0RXJwbkJVdnN3VDQ2UmI0a1QxeVFYd2hB?oc=5",
+      "source": "한국사회복지저널",
+      "publishedAt": "2026-11-13T01:48:51+00:00",
+      "date": "2026-11-13T01:48:51+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "a7b484b29e77b9614744",
       "title": "'MMA2026' 아일릿·아이브·코르티스, DAY2 특별 무대 예고 - 싱글리스트",
@@ -231,13 +276,13 @@
     },
     {
       "id": "3286d5c305750cf315a6",
-      "title": "코르티스, 스포티파이서 누적 15억 스트리밍 - KBS 뉴스",
-      "description": "코르티스, 스포티파이서 누적 15억 스트리밍 KBS 뉴스 코르티스, 스포티파이 누적 스트리밍 15억 돌파…데뷔 1년 3개월 만 뉴스핌 코르티스 노래만 15억 회 재생..이런 '음원 강자' 또 없다 - 머니투데이 머니투데이 '대세 of 대세'!…코르티스, 스포티파이 '15억 스밍' 돌파 전자신문 440만 장 판매고 비결…코르티스는 ‘수록곡’도 버리지 않는다 스포츠동아 ‘2026년 대세’ 코르티스, 스포티파이 스트리밍 15억 돌파 스포츠경향 코르티스, 역시 '대세' 답네…스포티파이 누적 스트리밍 15억 돌파 뉴스1 코르티스, 스포티파이 스트리밍 15억 돌파..‘음원 강자’ 입증 조선일보 코르티스, 스포티파이 15억 스밍↑…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JZXlDMkZwclREdFBncVNZblllQ2JGVlZJNHFoSDhTNy1SSnZ0MmNrdkhYb2QwTDNPc2hOUEV5bzFsMm5JdFNSa3ctUExadUEwNHVCVklNMzJHS2ptUVc1ZW9jSEJLQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JZXlDMkZwclREdFBncVNZblllQ2JGVlZJNHFoSDhTNy1SSnZ0MmNrdkhYb2QwTDNPc2hOUEV5bzFsMm5JdFNSa3ctUExadUEwNHVCVklNMzJHS2ptUVc1ZW9jSEJLQQ?oc=5",
-      "source": "KBS 뉴스",
-      "publishedAt": "2026-11-12T02:08:00+00:00",
-      "date": "2026-11-12T02:08:00+00:00",
+      "title": "코르티스, 스포티파이서 누적 15억 스트리밍 - 연합뉴스",
+      "description": "코르티스, 스포티파이서 누적 15억 스트리밍 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lT0pOamJhV1hHWGtJWUhxZklNZDlfMzd3azdjdzd5N0ExZzN4YUFScVA3ZmtQd0Rfb09wUGRBN3FlM3d4bDlPcWtvTENRblZ2REVTdHFoTGR2MU3SAWBBVV95cUxNZUc4dEhBdmlsUi1QdUJlcHBybXN2bS1Ncl9Mbm9OXzFQS0ZERmx3aTVCaTloTXlPRzU5TGVDR0dFcFgyMjV3cUR1eFhRRl9udjBKVUUzdlFaYk1PdFVtRW0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lT0pOamJhV1hHWGtJWUhxZklNZDlfMzd3azdjdzd5N0ExZzN4YUFScVA3ZmtQd0Rfb09wUGRBN3FlM3d4bDlPcWtvTENRblZ2REVTdHFoTGR2MU3SAWBBVV95cUxNZUc4dEhBdmlsUi1QdUJlcHBybXN2bS1Ncl9Mbm9OXzFQS0ZERmx3aTVCaTloTXlPRzU5TGVDR0dFcFgyMjV3cUR1eFhRRl9udjBKVUUzdlFaYk1PdFVtRW0?oc=5",
+      "source": "연합뉴스",
+      "publishedAt": "2026-11-12T01:54:18+00:00",
+      "date": "2026-11-12T01:54:18+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -485,21 +530,6 @@
       "category": "NEWS"
     },
     {
-      "id": "27f96fc34ded579c7609",
-      "title": "코르티스, 스포티파이 스트리밍 15억 돌파..‘음원 강자’ 입증 - 조선일보",
-      "description": "코르티스, 스포티파이 스트리밍 15억 돌파..‘음원 강자’ 입증 조선일보 코르티스, 스포티파이 누적 스트리밍 15억 돌파…데뷔 1년 3개월 만 뉴스핌 코르티스, 스포티파이서 누적 15억 스트리밍 연합뉴스 코르티스 노래만 15억 회 재생..이런 '음원 강자' 또 없다 - 머니투데이 머니투데이 '대세 of 대세'!…코르티스, 스포티파이 '15억 스밍' 돌파 전자신문 440만 장 판매고 비결…코르티스는 ‘수록곡’도 버리지 않는다 스포츠동아 ‘2026년 대세’ 코르티스, 스포티파이 스트리밍 15억 돌파 스포츠경향 코르티스, 역시 '대세' 답네…스포티파이 누적 스트리밍 15억 돌파 뉴스1 코르티스, 스포티파이 15억 스밍↑…5년",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVm1GcEwyb0RHT2Vwck1rNUxXSENnelM1NmpPRDJWMUM2TFlvcTJzQVR4c0RoWlVnc1duMVcwSnJpU2Ezd3F4TllKcEFRcjR5Q0dXdjI3ZWRvN3BVcFpmSmZ2Q0thc1RMSHpXWG1iNU5jMjBocTdrSFdUdjNLTGtJaVFSQjdOSW8xalE?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVm1GcEwyb0RHT2Vwck1rNUxXSENnelM1NmpPRDJWMUM2TFlvcTJzQVR4c0RoWlVnc1duMVcwSnJpU2Ezd3F4TllKcEFRcjR5Q0dXdjI3ZWRvN3BVcFpmSmZ2Q0thc1RMSHpXWG1iNU5jMjBocTdrSFdUdjNLTGtJaVFSQjdOSW8xalE?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-11-12T01:18:00+00:00",
-      "date": "2026-11-12T01:18:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "5e3b8daaa77b98e322f4",
       "title": "코르티스, 데뷔 1년 3개월 만에 스포티파이 '15억' 돌파 - 맥스무비",
       "description": "코르티스, 데뷔 1년 3개월 만에 스포티파이 '15억' 돌파 맥스무비",
@@ -523,6 +553,21 @@
       "source": "비욘드포스트",
       "publishedAt": "2026-11-12T01:15:00+00:00",
       "date": "2026-11-12T01:15:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "27f96fc34ded579c7609",
+      "title": "코르티스, 스포티파이 스트리밍 15억 돌파..‘음원 강자’ 입증 - OSEN",
+      "description": "코르티스, 스포티파이 스트리밍 15억 돌파..‘음원 강자’ 입증 OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40NFNHYVppbFlFdXNjcW1ocFE2WktUeFBGekItd2xUR3kxdzhEUjBwUVVnSHJ4YVNQVjhPakF0ZDRtekkxdFJoUHAtWXp5ZHRpN0t1WQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40NFNHYVppbFlFdXNjcW1ocFE2WktUeFBGekItd2xUR3kxdzhEUjBwUVVnSHJ4YVNQVjhPakF0ZDRtekkxdFJoUHAtWXp5ZHRpN0t1WQ?oc=5",
+      "source": "OSEN",
+      "publishedAt": "2026-11-12T01:14:00+00:00",
+      "date": "2026-11-12T01:14:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -655,8 +700,8 @@
       "id": "b13b6f8b6ad273268e19",
       "title": "#SHOWBIZ: Gary Chaw's son Joe reveals hockey connection with CORTIS' James - NST Online",
       "description": "#SHOWBIZ: Gary Chaw's son Joe reveals hockey connection with CORTIS' James NST Online",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2FwZ20tb194RGF2OEQyeEt5TVZmWkpjRkczQ2xmVEVaUGwyXzVBUkZUUXBhLVZkYjdKTHREZzJTeXpzcDJ6bFhLaXl3UlB1TVV0RWg1em9ZRzNBb3p1WFRYVmFxbldrcjVUSU9WRkF6cG9feUR6aUctX0NiRHprdjUxY1FDZGlzUnFYU2Zqa3NZdzFpZGtsaDBWZDVQNGdYMGluSmlZNHV3TnlNM0dscnZUZjdGMjUtMmZ3SV930gHDAUFVX3lxTE1wYjJjVVhFTTZGaEhCZFNWd09kNWduT25zZi1mQzdjRl81QjMtS3BNN3NUaDMyU3ZILVdkQ09tRXlzZXNSekItMzFPZDE5WXpZSWNXTFItYmdTNGN4cC1aVHBwUmZmNnVaVnNoUXdvd3hFZGRVY2ZfOE4tOVh6b2pTSXJoUy1RaWJydE1oM2o3ZWVnMGw1TEpQT0hzQ001ZEQ1bHd6OFdQMFJYUjVYX1hqbnhuZDVWczQxdjhfZERxbkpsaw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2FwZ20tb194RGF2OEQyeEt5TVZmWkpjRkczQ2xmVEVaUGwyXzVBUkZUUXBhLVZkYjdKTHREZzJTeXpzcDJ6bFhLaXl3UlB1TVV0RWg1em9ZRzNBb3p1WFRYVmFxbldrcjVUSU9WRkF6cG9feUR6aUctX0NiRHprdjUxY1FDZGlzUnFYU2Zqa3NZdzFpZGtsaDBWZDVQNGdYMGluSmlZNHV3TnlNM0dscnZUZjdGMjUtMmZ3SV930gHDAUFVX3lxTE1wYjJjVVhFTTZGaEhCZFNWd09kNWduT25zZi1mQzdjRl81QjMtS3BNN3NUaDMyU3ZILVdkQ09tRXlzZXNSekItMzFPZDE5WXpZSWNXTFItYmdTNGN4cC1aVHBwUmZmNnVaVnNoUXdvd3hFZGRVY2ZfOE4tOVh6b2pTSXJoUy1RaWJydE1oM2o3ZWVnMGw1TEpQT0hzQ001ZEQ1bHd6OFdQMFJYUjVYX1hqbnhuZDVWczQxdjhfZERxbkpsaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOTZkRG5qUThDd09IcGROXzl4NFBfbGNfT0hqelZub3NpT3ZvdE1hWWxmYmRmbHF3ckkzUk1xOTFnZ0hweFFXRTdLT2pyNmRBb1hSSy1zMkdTV2xBUmVacWs2b0xuTmRGZko0SHhMS2lWVVNDVjcxMWdac3c0c0dtVnl4eE1QemRrbXgxRWFhMVRncy1abDJmck1ZdURvUjRxOHFlSkxRWGN5N3RTODNFWGhpZ0NXdGpXSXY0STVlNmJnNFEtWU8wdnRIRFlUNWN30gHDAUFVX3lxTE1wYjJjVVhFTTZGaEhCZFNWd09kNWduT25zZi1mQzdjRl81QjMtS3BNN3NUaDMyU3ZILVdkQ09tRXlzZXNSekItMzFPZDE5WXpZSWNXTFItYmdTNGN4cC1aVHBwUmZmNnVaVnNoUXdvd3hFZGRVY2ZfOE4tOVh6b2pTSXJoUy1RaWJydE1oM2o3ZWVnMGw1TEpQT0hzQ001ZEQ1bHd6OFdQMFJYUjVYX1hqbnhuZDVWczQxdjhfZERxbkpsaw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOTZkRG5qUThDd09IcGROXzl4NFBfbGNfT0hqelZub3NpT3ZvdE1hWWxmYmRmbHF3ckkzUk1xOTFnZ0hweFFXRTdLT2pyNmRBb1hSSy1zMkdTV2xBUmVacWs2b0xuTmRGZko0SHhMS2lWVVNDVjcxMWdac3c0c0dtVnl4eE1QemRrbXgxRWFhMVRncy1abDJmck1ZdURvUjRxOHFlSkxRWGN5N3RTODNFWGhpZ0NXdGpXSXY0STVlNmJnNFEtWU8wdnRIRFlUNWN30gHDAUFVX3lxTE1wYjJjVVhFTTZGaEhCZFNWd09kNWduT25zZi1mQzdjRl81QjMtS3BNN3NUaDMyU3ZILVdkQ09tRXlzZXNSekItMzFPZDE5WXpZSWNXTFItYmdTNGN4cC1aVHBwUmZmNnVaVnNoUXdvd3hFZGRVY2ZfOE4tOVh6b2pTSXJoUy1RaWJydE1oM2o3ZWVnMGw1TEpQT0hzQ001ZEQ1bHd6OFdQMFJYUjVYX1hqbnhuZDVWczQxdjhfZERxbkpsaw?oc=5",
       "source": "NST Online",
       "publishedAt": "2026-11-11T06:30:14+00:00",
       "date": "2026-11-11T06:30:14+00:00",
@@ -1155,51 +1200,6 @@
       "source": "스타뉴스",
       "publishedAt": "2026-11-09T00:08:21+00:00",
       "date": "2026-11-09T00:08:21+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "a0acc0c01ed6f5471609",
-      "title": "코르티스, '괴물 신인' 맞네..스포티파이 누적 재생 수 1~3위 장악 [공식] - 스타뉴스",
-      "description": "코르티스, '괴물 신인' 맞네..스포티파이 누적 재생 수 1~3위 장악 [공식] 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ETWIzYm9BOEl6eXhoMXN5MWhYMElPQjZEWWFPZGZwMmxXWnVQSmZZSlY5b3BMb0N6WUNUbng4YWZYbmpkRm9lN1BUUUwySmF5cVBQWkJwUHhmTTBqcC1rc0ZPb2pNajFvRXlzVTFFZTJXSWc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ETWIzYm9BOEl6eXhoMXN5MWhYMElPQjZEWWFPZGZwMmxXWnVQSmZZSlY5b3BMb0N6WUNUbng4YWZYbmpkRm9lN1BUUUwySmF5cVBQWkJwUHhmTTBqcC1rc0ZPb2pNajFvRXlzVTFFZTJXSWc?oc=5",
-      "source": "스타뉴스",
-      "publishedAt": "2026-11-09T00:08:21+00:00",
-      "date": "2026-11-09T00:08:21+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "c863ad8b698edcf881e0",
-      "title": "コルティス、まさに「怪物新人」だね..Spotifyの累計再生回数ランキングで1位から3位を独占 [公式] - 스타뉴스",
-      "description": "コルティス、まさに「怪物新人」だね..Spotifyの累計再生回数ランキングで1位から3位を独占 [公式] 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vaFZ6NW1aTXFiR1JxaW85aFBQQXhJa0p6bERFdjVtWkpTWGdiTG5HMmxiZ0p5VDlqcXYxWWZTaGdKdF8yQUVrdHUtNjRnc0JWZ2FDTzBoai1ERHJfZ2JwYXZid09XQS02WHA1MDNFaE5CVmw5cVZv?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vaFZ6NW1aTXFiR1JxaW85aFBQQXhJa0p6bERFdjVtWkpTWGdiTG5HMmxiZ0p5VDlqcXYxWWZTaGdKdF8yQUVrdHUtNjRnc0JWZ2FDTzBoai1ERHJfZ2JwYXZid09XQS02WHA1MDNFaE5CVmw5cVZv?oc=5",
-      "source": "스타뉴스",
-      "publishedAt": "2026-11-09T00:08:21+00:00",
-      "date": "2026-11-09T00:08:21+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "3f54b3dde74fbd9bfdf3",
-      "title": "코르티스, 스포티파이 누적 재생 1~3위...'레드레드', '고!' 등 - 싱글리스트",
-      "description": "코르티스, 스포티파이 누적 재생 1~3위...'레드레드', '고!' 등 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYNVlwamVlcW1Ib2ozVFFQTEpPekpXUktpb041WXBfaUp6UHp2a3ppNVpqcTdqMC11QThkcHV5NzVtTmNKVmEyeWVBMlB3TWxTZWRZMHFfZVpqYkRpdTFpQ1dKa2JIZw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYNVlwamVlcW1Ib2ozVFFQTEpPekpXUktpb041WXBfaUp6UHp2a3ppNVpqcTdqMC11QThkcHV5NzVtTmNKVmEyeWVBMlB3TWxTZWRZMHFfZVpqYkRpdTFpQ1dKa2JIZw?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-09T00:08:07+00:00",
-      "date": "2026-11-09T00:08:07+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
