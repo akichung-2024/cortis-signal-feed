@@ -1,8 +1,55 @@
 {
-  "updatedAt": "2026-11-13T16:27:38.186683+00:00",
+  "updatedAt": "2026-11-13T22:39:24.300698+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "34f6605026dbee4da07d",
+      "title": "코르티스 마틴·주훈→리센느 제니·메이, 수능보다 무대 위로..08년생 ★들의 선택[스타이슈] - 스타뉴스",
+      "description": "코르티스 마틴·주훈→리센느 제니·메이, 수능보다 무대 위로..08년생 ★들의 선택[스타이슈] 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTNmpzWFZVeVlSZ084QzdxWjhlTWNucWRMTlhfalI0VFVjZC1RVzB2UmI3aFl3cm5nQlZBZGlPQVFHOExCMWRBRnAtU3dYZmdsVlpQOUNPMEhlenlnaElxMHYteTRxb0ZBLUx1U195bjRNLVZU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTNmpzWFZVeVlSZ084QzdxWjhlTWNucWRMTlhfalI0VFVjZC1RVzB2UmI3aFl3cm5nQlZBZGlPQVFHOExCMWRBRnAtU3dYZmdsVlpQOUNPMEhlenlnaElxMHYteTRxb0ZBLUx1U195bjRNLVZU?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-13T21:00:00+00:00",
+      "date": "2026-11-13T21:00:00+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN",
+        "JUHOON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "8f58610a4275c24f5222",
+      "title": "コルティス・マーティン・ジュフン→リセンヌ・ジェニー・メイ、大学入試よりもステージへ..08年生まれ★の選択 [スター・イシュー] - 스타뉴스",
+      "description": "コルティス・マーティン・ジュフン→リセンヌ・ジェニー・メイ、大学入試よりもステージへ..08年生まれ★の選択 [スター・イシュー] 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RUmgzekpYNFFjclpGVzNxazRiNXNXZmYyQ2lraXpNOGxEOC15Qm1DeE04UHVVUUdHSV9XdWhMaElYN0t6Vk9Gclp4ZEVUR2h6Ui05M1hPcy1DajhsZjRpZFdidXJQRzFnYVhrN3lEV2d0NUVHSjZsYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RUmgzekpYNFFjclpGVzNxazRiNXNXZmYyQ2lraXpNOGxEOC15Qm1DeE04UHVVUUdHSV9XdWhMaElYN0t6Vk9Gclp4ZEVUR2h6Ui05M1hPcy1DajhsZjRpZFdidXJQRzFnYVhrN3lEV2d0NUVHSjZsYw?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-13T21:00:00+00:00",
+      "date": "2026-11-13T21:00:00+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN",
+        "JUHOON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "d105965a9a2a76110bab",
+      "title": "CORTIS's Martin and Joo-hoon, Rescene's Jenny and May: Choosing the Stage Over the CSAT… The Decisions of the Class of 2008 [Star Issue] - 스타뉴스",
+      "description": "CORTIS's Martin and Joo-hoon, Rescene's Jenny and May: Choosing the Stage Over the CSAT… The Decisions of the Class of 2008 [Star Issue] 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MV3dQOWVCeHVKR1ZzOVNNMlJnTy01OTVsSFpDVUttODNWVFJERGMwNm1hXzR4dlJsc085WXdGam1yTXJibkU2NHA3dmtYRERZeHZoX1laWU1NVkNIVm9LVlQ4WWJWWEZOUTlDSlQ5aDZ1MkJBTkpZVw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MV3dQOWVCeHVKR1ZzOVNNMlJnTy01OTVsSFpDVUttODNWVFJERGMwNm1hXzR4dlJsc085WXdGam1yTXJibkU2NHA3dmtYRERZeHZoX1laWU1NVkNIVm9LVlQ4WWJWWEZOUTlDSlQ5aDZ1MkJBTkpZVw?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-13T21:00:00+00:00",
+      "date": "2026-11-13T21:00:00+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "aeb87be1bd947d22a073",
       "title": "아이브→코르티스, 'MMA2026' DAY2 출격 - 아시아뉴스통신",
@@ -30,6 +77,21 @@
       "member": "GROUP",
       "members": [
         "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "3ae469274c4c2c7e3d20",
+      "title": "코르티스 커뮤니티 포스트 - - 주훈 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - - 주훈 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EN0FzWlJjNWF6TjZkbFJjTU5qeUJkdldRQVVVNlJDX044TUFDX3diYzBEU3VwYW1JWGwxZFRlbWZJaFc1OGJLaGZGY29jdGtDNmZZemdiNEpQdG82ZWZJ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EN0FzWlJjNWF6TjZkbFJjTU5qeUJkdldRQVVVNlJDX044TUFDX3diYzBEU3VwYW1JWGwxZFRlbWZJaFc1OGJLaGZGY29jdGtDNmZZemdiNEpQdG82ZWZJ?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-13T09:01:08+00:00",
+      "date": "2026-11-13T09:01:08+00:00",
+      "member": "JUHOON",
+      "members": [
+        "JUHOON"
       ],
       "category": "NEWS"
     },
@@ -1140,66 +1202,6 @@
       "source": "조선일보",
       "publishedAt": "2026-11-09T01:28:13+00:00",
       "date": "2026-11-09T01:28:13+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "b8f1d69ec19f7990e68b",
-      "title": "Cortis — K-Pop Boy Group Achieves Over 274 Million Streams - The Korea Daily",
-      "description": "Cortis — K-Pop Boy Group Achieves Over 274 Million Streams The Korea Daily",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BUlNqQXNGbWUwLUM3ZUstUW8zam9ENURKM25TV2NRZHphYmtFUUV6QTIyN1ZjcW9GWjdVX1RxUEd0NTY0bl9KZlBnVGlCNnN1NTRKang4RlB3UlVGdXdzWg?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BUlNqQXNGbWUwLUM3ZUstUW8zam9ENURKM25TV2NRZHphYmtFUUV6QTIyN1ZjcW9GWjdVX1RxUEd0NTY0bl9KZlBnVGlCNnN1NTRKang4RlB3UlVGdXdzWg?oc=5",
-      "source": "The Korea Daily",
-      "publishedAt": "2026-11-09T01:12:15+00:00",
-      "date": "2026-11-09T01:12:15+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "c54ffebd3b5ca382a238",
-      "title": "コルティス『REDRED』2億7400万再生…過去5年にデビューしたボーイズグループで最多 - 조선일보",
-      "description": "コルティス『REDRED』2億7400万再生…過去5年にデビューしたボーイズグループで最多 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZURhUlNGd3ZWMnlnaE1ZM25HT1lJc1JhaTlzeEFseDNxbGVJTk9jdURQbFpxNlBMNzQwOHZ3WHh5WFh6bENjU3hGMFdFRU1UWjBra3lPZEF6b0lPd2ZPd2NfWXZrVHRTN1J1U1F4dk1rdG4wNDJWbWRFOGw2a1l5d3phUU5MdE0?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZURhUlNGd3ZWMnlnaE1ZM25HT1lJc1JhaTlzeEFseDNxbGVJTk9jdURQbFpxNlBMNzQwOHZ3WHh5WFh6bENjU3hGMFdFRU1UWjBra3lPZEF6b0lPd2ZPd2NfWXZrVHRTN1J1U1F4dk1rdG4wNDJWbWRFOGw2a1l5d3phUU5MdE0?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-11-09T00:55:00+00:00",
-      "date": "2026-11-09T00:55:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "2ecefe830fa7a10d0a01",
-      "title": "코르티스, 5년 내 데뷔한 보이그룹 중 압도적 '1위' - OSEN",
-      "description": "코르티스, 5년 내 데뷔한 보이그룹 중 압도적 '1위' OSEN",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RUDVFcTZ2cE5PakJSM0ZaSVZQNE13RVQxWTg5YUl6d24yalRYWmtINE9qRjdfNkthWWJpb0s5U0l2QXd2UDQyaTZKSkdWNnpvSFE4Mw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RUDVFcTZ2cE5PakJSM0ZaSVZQNE13RVQxWTg5YUl6d24yalRYWmtINE9qRjdfNkthWWJpb0s5U0l2QXd2UDQyaTZKSkdWNnpvSFE4Mw?oc=5",
-      "source": "OSEN",
-      "publishedAt": "2026-11-09T00:54:00+00:00",
-      "date": "2026-11-09T00:54:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "0f610f03716739243e75",
-      "title": "코르티스, 최근 5년 내 데뷔 보이그룹 스포티파이 누적 재생 1~3위 싹쓸이 - 톱스타뉴스",
-      "description": "코르티스, 최근 5년 내 데뷔 보이그룹 스포티파이 누적 재생 1~3위 싹쓸이 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EWEVKb2tia0p6RFRxM1BNRlJjQTd2UWROMUdKbTJRSlRxZGk1RWtNZ3Bub2xncGR6R1NzMWFldExrLXpsV3VKdTJxbFdJc2MtQ1dabTNCank2ZjJ6M0xJV2hZa19zVGpET1hLdjlPVlIxdw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EWEVKb2tia0p6RFRxM1BNRlJjQTd2UWROMUdKbTJRSlRxZGk1RWtNZ3Bub2xncGR6R1NzMWFldExrLXpsV3VKdTJxbFdJc2MtQ1dabTNCank2ZjJ6M0xJV2hZa19zVGpET1hLdjlPVlIxdw?oc=5",
-      "source": "톱스타뉴스",
-      "publishedAt": "2026-11-09T00:25:07+00:00",
-      "date": "2026-11-09T00:25:07+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
