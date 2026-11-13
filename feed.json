@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-11-13T08:00:25.528461+00:00",
+  "updatedAt": "2026-11-13T16:27:38.186683+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "aeb87be1bd947d22a073",
+      "title": "아이브→코르티스, 'MMA2026' DAY2 출격 - 아시아뉴스통신",
+      "description": "아이브→코르티스, 'MMA2026' DAY2 출격 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Cc0s4YVAxMDVYamVGbEtNblpzU2RxR0RHSmwyX3IyQVUtZHRpNTdwYWxWNWNUM1FSX3ZYc0prYUFKMlRHNlh1cGVacXYwMTZ1eGhnT2FkNzZNX05zU0s3WDZpQ1JIbm9PdGpzMWE2RW90OENp?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Cc0s4YVAxMDVYamVGbEtNblpzU2RxR0RHSmwyX3IyQVUtZHRpNTdwYWxWNWNUM1FSX3ZYc0prYUFKMlRHNlh1cGVacXYwMTZ1eGhnT2FkNzZNX05zU0s3WDZpQ1JIbm9PdGpzMWE2RW90OENp?oc=5",
+      "source": "아시아뉴스통신",
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "date": "2026-11-13T15:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "e9c4227b9daf7f780c66",
+      "title": "코르티스 ‘FaSHioN’ 명품보다 자신감, 글로벌 팬들 열광 [하반기 결선] - CBC뉴스",
+      "description": "코르티스 ‘FaSHioN’ 명품보다 자신감, 글로벌 팬들 열광 [하반기 결선] CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cW9VamF0aVRBUUpCVTJsV1JXa0N4U0NrSHZvMDhXRTdtYlIwOGd4TEI2djhGal9xN3pLdTFpX3JSRC03eXFib0VRVDAzeExoM3ZUZk0zNnFseG1Yd0pVVEVGeVJEWEU1?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cW9VamF0aVRBUUpCVTJsV1JXa0N4U0NrSHZvMDhXRTdtYlIwOGd4TEI2djhGal9xN3pLdTFpX3JSRC03eXFib0VRVDAzeExoM3ZUZk0zNnFseG1Yd0pVVEVGeVJEWEU1?oc=5",
+      "source": "CBC뉴스",
+      "publishedAt": "2026-11-13T09:19:29+00:00",
+      "date": "2026-11-13T09:19:29+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "bec1a0de8b57c411ffe1",
       "title": "코르티스 ‘영크크’부터 리센느까지…‘밈’ 타고 음원·음반도 성장 - 동아일보",
@@ -12,6 +42,36 @@
       "source": "동아일보",
       "publishedAt": "2026-11-13T07:29:29+00:00",
       "date": "2026-11-13T07:29:29+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c04ed7e0e2e700b2ce36",
+      "title": "Rookie group CORTIS to dominate K-pop in 2026 - Vietnam.vn",
+      "description": "Rookie group CORTIS to dominate K-pop in 2026 Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13ZGpwVUFWZ1FuazQ5SDdmUm5GUmFEbEJXNWJLMW5yTVo3M2FmaHdQeEFFTnZHM1lkcmY3MzR6NmNtOGVDRlphcGEyU1JOWFlQQUpHMHE1M1BrMmg3bm1PRjJQR18tczRZNU9DVnlaM3VwWXNN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13ZGpwVUFWZ1FuazQ5SDdmUm5GUmFEbEJXNWJLMW5yTVo3M2FmaHdQeEFFTnZHM1lkcmY3MzR6NmNtOGVDRlphcGEyU1JOWFlQQUpHMHE1M1BrMmg3bm1PRjJQR18tczRZNU9DVnlaM3VwWXNN?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-13T07:24:23+00:00",
+      "date": "2026-11-13T07:24:23+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "628e2baf3fefab2e0ba2",
+      "title": "新人グループCORTISが2026年にK-POP界を席巻する - Vietnam.vn",
+      "description": "新人グループCORTISが2026年にK-POP界を席巻する Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzQ0JXdlZicEY0cVYwY3ZGdVg4cUpYYktGNjFERWJEcVVrV0l1RENIYlZnUTZhcFhFLWlLTDBPV0Z3WnN5RldZUlVYd3BSblNhYlVZVnNHN1lKTEk5MlMwWnd0OUVVMUVFNlpIRkFHX1VXbkZv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzQ0JXdlZicEY0cVYwY3ZGdVg4cUpYYktGNjFERWJEcVVrV0l1RENIYlZnUTZhcFhFLWlLTDBPV0Z3WnN5RldZUlVYd3BSblNhYlVZVnNHN1lKTEk5MlMwWnd0OUVVMUVFNlpIRkFHX1VXbkZv?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-13T07:12:15+00:00",
+      "date": "2026-11-13T07:12:15+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -42,21 +102,6 @@
       "source": "한국사회복지저널",
       "publishedAt": "2026-11-13T01:48:51+00:00",
       "date": "2026-11-13T01:48:51+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "a7b484b29e77b9614744",
-      "title": "'MMA2026' 아일릿·아이브·코르티스, DAY2 특별 무대 예고 - 싱글리스트",
-      "description": "'MMA2026' 아일릿·아이브·코르티스, DAY2 특별 무대 예고 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXbWdOUjBNMjBIcE5RU3RKc0pDcVJhRkFnQmhscTlQSFhqVVVIa21KdmlaX0EtZ3dhWkliLS1qMmlaUTlQQ0lNYWk4bGEybDFzZTB2V0hZdXBrU2FwYW5pSXRyVFlOZw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXbWdOUjBNMjBIcE5RU3RKc0pDcVJhRkFnQmhscTlQSFhqVVVIa21KdmlaX0EtZ3dhWkliLS1qMmlaUTlQQ0lNYWk4bGEybDFzZTB2V0hZdXBrU2FwYW5pSXRyVFlOZw?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-12T23:44:34+00:00",
-      "date": "2026-11-12T23:44:34+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -275,21 +320,6 @@
       "category": "NEWS"
     },
     {
-      "id": "3286d5c305750cf315a6",
-      "title": "코르티스, 스포티파이서 누적 15억 스트리밍 - 연합뉴스",
-      "description": "코르티스, 스포티파이서 누적 15억 스트리밍 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lT0pOamJhV1hHWGtJWUhxZklNZDlfMzd3azdjdzd5N0ExZzN4YUFScVA3ZmtQd0Rfb09wUGRBN3FlM3d4bDlPcWtvTENRblZ2REVTdHFoTGR2MU3SAWBBVV95cUxNZUc4dEhBdmlsUi1QdUJlcHBybXN2bS1Ncl9Mbm9OXzFQS0ZERmx3aTVCaTloTXlPRzU5TGVDR0dFcFgyMjV3cUR1eFhRRl9udjBKVUUzdlFaYk1PdFVtRW0?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lT0pOamJhV1hHWGtJWUhxZklNZDlfMzd3azdjdzd5N0ExZzN4YUFScVA3ZmtQd0Rfb09wUGRBN3FlM3d4bDlPcWtvTENRblZ2REVTdHFoTGR2MU3SAWBBVV95cUxNZUc4dEhBdmlsUi1QdUJlcHBybXN2bS1Ncl9Mbm9OXzFQS0ZERmx3aTVCaTloTXlPRzU5TGVDR0dFcFgyMjV3cUR1eFhRRl9udjBKVUUzdlFaYk1PdFVtRW0?oc=5",
-      "source": "연합뉴스",
-      "publishedAt": "2026-11-12T01:54:18+00:00",
-      "date": "2026-11-12T01:54:18+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "ebf8da4892adb87cc162",
       "title": "Cortis hits 1.5b on Spotify - The Korea Herald",
       "description": "Cortis hits 1.5b on Spotify The Korea Herald",
@@ -433,6 +463,21 @@
       "source": "JTBC",
       "publishedAt": "2026-11-12T01:39:00+00:00",
       "date": "2026-11-12T01:39:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "730b5c90123873c341d4",
+      "title": "코르티스, 16곡으로 15억 스트리밍 찍었다…데뷔 1년 3개월 만 - 텐아시아",
+      "description": "코르티스, 16곡으로 15억 스트리밍 찍었다…데뷔 1년 3개월 만 텐아시아",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUmNlMkhvc0RsR1AzX25iaVBtck5ySVF0cXFXWFh3UjUtYlZrUmM1WHFieEpwa2ptMko3WEoxV1NtQkRqdG9rQlVvOEcyWHBRd1hBVWVVbXkwNzg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUmNlMkhvc0RsR1AzX25iaVBtck5ySVF0cXFXWFh3UjUtYlZrUmM1WHFieEpwa2ptMko3WEoxV1NtQkRqdG9rQlVvOEcyWHBRd1hBVWVVbXkwNzg?oc=5",
+      "source": "텐아시아",
+      "publishedAt": "2026-11-12T01:33:00+00:00",
+      "date": "2026-11-12T01:33:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -680,6 +725,21 @@
       "category": "NEWS"
     },
     {
+      "id": "3286d5c305750cf315a6",
+      "title": "코르티스, 스포티파이서 누적 15억 스트리밍 - 미주한국일보",
+      "description": "코르티스, 스포티파이서 누적 15억 스트리밍 미주한국일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vREVWdmkyZjRFbEh4eGk3eU9oSXJob21jXzgteXhVM25hRlp4ZlktODA5SEpZdnA2NVRicWNqc2t6aGdUcWdWUllNTEhYeEdnZE1Eb2tn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vREVWdmkyZjRFbEh4eGk3eU9oSXJob21jXzgteXhVM25hRlp4ZlktODA5SEpZdnA2NVRicWNqc2t6aGdUcWdWUllNTEhYeEdnZE1Eb2tn?oc=5",
+      "source": "미주한국일보",
+      "publishedAt": "2026-11-11T13:06:09+00:00",
+      "date": "2026-11-11T13:06:09+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "028945e219a61b024bb1",
       "title": "코르티스 'PYPD BIRTHDAY PARTY'…제임스·건호·성현에 글로벌 팬들 관심 [하반기 결선] - CBC뉴스",
       "description": "코르티스 'PYPD BIRTHDAY PARTY'…제임스·건호·성현에 글로벌 팬들 관심 [하반기 결선] CBC뉴스",
@@ -693,6 +753,21 @@
         "JAMES",
         "SEONGHYEON",
         "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a7b484b29e77b9614744",
+      "title": "'MMA2026' 아일릿·아이브·코르티스, DAY2 특별 무대 예고 - 싱글리스트",
+      "description": "'MMA2026' 아일릿·아이브·코르티스, DAY2 특별 무대 예고 싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXbWdOUjBNMjBIcE5RU3RKc0pDcVJhRkFnQmhscTlQSFhqVVVIa21KdmlaX0EtZ3dhWkliLS1qMmlaUTlQQ0lNYWk4bGEybDFzZTB2V0hZdXBrU2FwYW5pSXRyVFlOZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXbWdOUjBNMjBIcE5RU3RKc0pDcVJhRkFnQmhscTlQSFhqVVVIa21KdmlaX0EtZ3dhWkliLS1qMmlaUTlQQ0lNYWk4bGEybDFzZTB2V0hZdXBrU2FwYW5pSXRyVFlOZw?oc=5",
+      "source": "싱글리스트",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "date": "2026-11-11T08:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     },
@@ -1125,81 +1200,6 @@
       "source": "톱스타뉴스",
       "publishedAt": "2026-11-09T00:25:07+00:00",
       "date": "2026-11-09T00:25:07+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "fc507ef27f4afefe6a78",
-      "title": "코르티스, 스포티파이서 세 곡 나란히 2억 스트리밍…누적 7억8700만 회 돌파 - 한국사회복지저널",
-      "description": "코르티스, 스포티파이서 세 곡 나란히 2억 스트리밍…누적 7억8700만 회 돌파 한국사회복지저널",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Seldub3czaHpLSXFGd1hFTDZlUDd6T094c2hDQzAyRmJsTEhqSURMX2dWeHpneC1KZmM0VlJlbkQxV1h4ZDRLX181dFBIZzVqMmE2T2NocmFDR1BETENHaXFSdVN5amR5U1pF?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Seldub3czaHpLSXFGd1hFTDZlUDd6T094c2hDQzAyRmJsTEhqSURMX2dWeHpneC1KZmM0VlJlbkQxV1h4ZDRLX181dFBIZzVqMmE2T2NocmFDR1BETENHaXFSdVN5amR5U1pF?oc=5",
-      "source": "한국사회복지저널",
-      "publishedAt": "2026-11-09T00:21:13+00:00",
-      "date": "2026-11-09T00:21:13+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "ac5b78cb9b2aa04a92ea",
-      "title": "코르티스, ‘REDRED’ 누적 2억 7400만 회…최근 5년 내 보이그룹 1~3위 석권 - MHN스포츠",
-      "description": "코르티스, ‘REDRED’ 누적 2억 7400만 회…최근 5년 내 보이그룹 1~3위 석권 MHN스포츠",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GLXF2Xzk2dk1xdl9NdERTV1F3eXdJWXVoMG56M3VHUGVoVzd2NzR1UXNSWVhtU3g2MlhfSU41MEl1Um9VWUdNcVN1SGVMQnNWa1FfbmRpaGZGR2doRUcwLUVBYw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GLXF2Xzk2dk1xdl9NdERTV1F3eXdJWXVoMG56M3VHUGVoVzd2NzR1UXNSWVhtU3g2MlhfSU41MEl1Um9VWUdNcVN1SGVMQnNWa1FfbmRpaGZGR2doRUcwLUVBYw?oc=5",
-      "source": "MHN스포츠",
-      "publishedAt": "2026-11-09T00:18:21+00:00",
-      "date": "2026-11-09T00:18:21+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "eea3a3282ce6bb254178",
-      "title": "신곡 뛰고 구보 받치고…코르티스, 세 곡 나란히 2억 스트리밍 - 스포츠동아",
-      "description": "신곡 뛰고 구보 받치고…코르티스, 세 곡 나란히 2억 스트리밍 스포츠동아",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56R01vYTRrQjhBMVlrTEZiZHBLVnFQbU4taGFXdkF4OHNoZ0JOcEVibXQ5U1dsNkpGRUtaUW1URG9MelhqU1RlLVljT1BLU0FfeUtWb1VRVF81bHktUHZOWW1tcFdyekhkMHRrajZ3?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56R01vYTRrQjhBMVlrTEZiZHBLVnFQbU4taGFXdkF4OHNoZ0JOcEVibXQ5U1dsNkpGRUtaUW1URG9MelhqU1RlLVljT1BLU0FfeUtWb1VRVF81bHktUHZOWW1tcFdyekhkMHRrajZ3?oc=5",
-      "source": "스포츠동아",
-      "publishedAt": "2026-11-09T00:15:35+00:00",
-      "date": "2026-11-09T00:15:35+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "fa7c418134094b5bedaf",
-      "title": "코르티스, 데뷔 5년 내 보이그룹 최다 스트리밍 기록 - BNT뉴스",
-      "description": "코르티스, 데뷔 5년 내 보이그룹 최다 스트리밍 기록 BNT뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SVGRhOUd4QWctT0h3VUJFOXk3VWNRdWFma3FxbjR6WjZvNU1sMXlZTWFPOFJQWnJ4VkViaUtKNUxjNFVjZzNhMURtUy1QMEFTaDd6WVlWb3Z5bS1KV05FZmU5Z2c?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SVGRhOUd4QWctT0h3VUJFOXk3VWNRdWFma3FxbjR6WjZvNU1sMXlZTWFPOFJQWnJ4VkViaUtKNUxjNFVjZzNhMURtUy1QMEFTaDd6WVlWb3Z5bS1KV05FZmU5Z2c?oc=5",
-      "source": "BNT뉴스",
-      "publishedAt": "2026-11-09T00:11:42+00:00",
-      "date": "2026-11-09T00:11:42+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "76c966049ad43a129f4a",
-      "title": "CORTIS, truly a \"monster rookie\"… Dominates Spotify cumulative plays in 1st to 3rd place [Official] - 스타뉴스",
-      "description": "CORTIS, truly a \"monster rookie\"… Dominates Spotify cumulative plays in 1st to 3rd place [Official] 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwQ0FFWVNXRm9vSVFfYk1TTWtZZ2trN3c1ZFB0U1RRTkFGd01kRi0wMzM5c2lkM0FBRFZXRG9lUDB6aFZ4RGdSQlU3YW5VR01ha082aVhmeWx0dVNEV19xd1dfS0Y1em5US05paHk3WVdHVE1ZRVJV?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwQ0FFWVNXRm9vSVFfYk1TTWtZZ2trN3c1ZFB0U1RRTkFGd01kRi0wMzM5c2lkM0FBRFZXRG9lUDB6aFZ4RGdSQlU3YW5VR01ha082aVhmeWx0dVNEV19xd1dfS0Y1em5US05paHk3WVdHVE1ZRVJV?oc=5",
-      "source": "스타뉴스",
-      "publishedAt": "2026-11-09T00:08:21+00:00",
-      "date": "2026-11-09T00:08:21+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
