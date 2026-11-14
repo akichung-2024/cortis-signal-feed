@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-14T03:18:58.872599+00:00",
+  "updatedAt": "2026-11-14T11:30:01.665072+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "affa8cfcf66205040dea",
+      "title": "코르티스 스포티파이 15억 스트리밍 돌파…최단 기록 : 연예 - 재경일보",
+      "description": "코르티스 스포티파이 15억 스트리밍 돌파…최단 기록 : 연예 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3RTlSU3FFS2RzMC1sa1JueG9qVWlETERuV3BydEE3SFRBNGRWWWVyYy1GZ3FjSE0xeTZWM3pLWlBDWWpwbnVhVTRyWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3RTlSU3FFS2RzMC1sa1JueG9qVWlETERuV3BydEE3SFRBNGRWWWVyYy1GZ3FjSE0xeTZWM3pLWlBDWWpwbnVhVTRyWQ?oc=5",
+      "source": "재경일보",
+      "publishedAt": "2026-11-14T10:27:44+00:00",
+      "date": "2026-11-14T10:27:44+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "86d0615a0cc9f6afaa0a",
       "title": "코르티스 제임스, 유픽 ‘베스트 댄서’ 투표 1위 - BNT뉴스",
@@ -64,9 +79,9 @@
       "category": "NEWS"
     },
     {
-      "id": "34f6605026dbee4da07d",
-      "title": "코르티스 마틴·주훈→리센느 제니·메이, 수능보다 무대 위로..08년생 ★들의 선택[스타이슈] - 스타뉴스",
-      "description": "코르티스 마틴·주훈→리센느 제니·메이, 수능보다 무대 위로..08년생 ★들의 선택[스타이슈] 스타뉴스",
+      "id": "4d02130bc448464ee85b",
+      "title": "코르티스 마틴·주훈→리센느 제나·메이, 수능보다 무대 위로..08년생 ★들의 선택[스타이슈] - 스타뉴스",
+      "description": "코르티스 마틴·주훈→리센느 제나·메이, 수능보다 무대 위로..08년생 ★들의 선택[스타이슈] 스타뉴스",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTNmpzWFZVeVlSZ084QzdxWjhlTWNucWRMTlhfalI0VFVjZC1RVzB2UmI3aFl3cm5nQlZBZGlPQVFHOExCMWRBRnAtU3dYZmdsVlpQOUNPMEhlenlnaElxMHYteTRxb0ZBLUx1U195bjRNLVZU?oc=5",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTNmpzWFZVeVlSZ084QzdxWjhlTWNucWRMTlhfalI0VFVjZC1RVzB2UmI3aFl3cm5nQlZBZGlPQVFHOExCMWRBRnAtU3dYZmdsVlpQOUNPMEhlenlnaElxMHYteTRxb0ZBLUx1U195bjRNLVZU?oc=5",
       "source": "스타뉴스",
@@ -107,6 +122,22 @@
       "member": "MARTIN",
       "members": [
         "MARTIN"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "34f6605026dbee4da07d",
+      "title": "코르티스 마틴·주훈→리센느 제니·메이, 수능보다 무대 위로..08년생 ★들의 선택[스타이슈] - 스타뉴스",
+      "description": "코르티스 마틴·주훈→리센느 제니·메이, 수능보다 무대 위로..08년생 ★들의 선택[스타이슈] 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTNmpzWFZVeVlSZ084QzdxWjhlTWNucWRMTlhfalI0VFVjZC1RVzB2UmI3aFl3cm5nQlZBZGlPQVFHOExCMWRBRnAtU3dYZmdsVlpQOUNPMEhlenlnaElxMHYteTRxb0ZBLUx1U195bjRNLVZU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTNmpzWFZVeVlSZ084QzdxWjhlTWNucWRMTlhfalI0VFVjZC1RVzB2UmI3aFl3cm5nQlZBZGlPQVFHOExCMWRBRnAtU3dYZmdsVlpQOUNPMEhlenlnaElxMHYteTRxb0ZBLUx1U195bjRNLVZU?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-13T21:00:00+00:00",
+      "date": "2026-11-13T21:00:00+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN",
+        "JUHOON"
       ],
       "category": "NEWS"
     },
@@ -472,21 +503,6 @@
       "category": "NEWS"
     },
     {
-      "id": "25d140cc67f9da245545",
-      "title": "Global trendsetter CORTIS surpasses 1.5 billion cumulative Spotify streams in just one year and three months since debut - 스타뉴스",
-      "description": "Global trendsetter CORTIS surpasses 1.5 billion cumulative Spotify streams in just one year and three months since debut 스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5QXktRkhIcUQ0MVhscTVLX3FTVElXZEF4NWpxWjV5UTloSFI2OHNHNDRYS2VsYlByT1VwU3ZNb211TDczLUdaRjhGdGpxZjNYZHpFNjJuTzNPMll6aExpeTA4N01PNE1Hdk5IWHpIeXZsRExSaFpucQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5QXktRkhIcUQ0MVhscTVLX3FTVElXZEF4NWpxWjV5UTloSFI2OHNHNDRYS2VsYlByT1VwU3ZNb211TDczLUdaRjhGdGpxZjNYZHpFNjJuTzNPMll6aExpeTA4N01PNE1Hdk5IWHpIeXZsRExSaFpucQ?oc=5",
-      "source": "스타뉴스",
-      "publishedAt": "2026-11-12T01:45:23+00:00",
-      "date": "2026-11-12T01:45:23+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "715d3bf6f82696cf66b0",
       "title": "'글로벌 대세' 코르티스, 데뷔 1년 3개월만 스포티파이 누적 15억 돌파 - 스타뉴스",
       "description": "'글로벌 대세' 코르티스, 데뷔 1년 3개월만 스포티파이 누적 15억 돌파 스타뉴스",
@@ -507,6 +523,21 @@
       "description": "「グローバルトレンド」コルティス、デビュー1年3か月でSpotify累計15億を突破 스타뉴스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BYnl0VDYzOXZRV0xCMHc5dk44MXdVQ1pfa1lQS25jVV96QUd3dFl6Qy1mUXl4M0JodTl0ZEFUQWJGWUo1TDZBVllXa01FUVpHaTZHVGd6TkhwZlFNUmloMUs4UVZiaWQzd3FmcTR5cURIQThfb2I5Rw?oc=5",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BYnl0VDYzOXZRV0xCMHc5dk44MXdVQ1pfa1lQS25jVV96QUd3dFl6Qy1mUXl4M0JodTl0ZEFUQWJGWUo1TDZBVllXa01FUVpHaTZHVGd6TkhwZlFNUmloMUs4UVZiaWQzd3FmcTR5cURIQThfb2I5Rw?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-12T01:45:23+00:00",
+      "date": "2026-11-12T01:45:23+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "25d140cc67f9da245545",
+      "title": "Global trendsetter CORTIS surpasses 1.5 billion cumulative Spotify streams in just one year and three months since debut - 스타뉴스",
+      "description": "Global trendsetter CORTIS surpasses 1.5 billion cumulative Spotify streams in just one year and three months since debut 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5QXktRkhIcUQ0MVhscTVLX3FTVElXZEF4NWpxWjV5UTloSFI2OHNHNDRYS2VsYlByT1VwU3ZNb211TDczLUdaRjhGdGpxZjNYZHpFNjJuTzNPMll6aExpeTA4N01PNE1Hdk5IWHpIeXZsRExSaFpucQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5QXktRkhIcUQ0MVhscTVLX3FTVElXZEF4NWpxWjV5UTloSFI2OHNHNDRYS2VsYlByT1VwU3ZNb211TDczLUdaRjhGdGpxZjNYZHpFNjJuTzNPMll6aExpeTA4N01PNE1Hdk5IWHpIeXZsRExSaFpucQ?oc=5",
       "source": "스타뉴스",
       "publishedAt": "2026-11-12T01:45:23+00:00",
       "date": "2026-11-12T01:45:23+00:00",
@@ -622,21 +653,6 @@
       "category": "NEWS"
     },
     {
-      "id": "982b5072c8f22dc0fbb4",
-      "title": "CORTIS surpasses 1.5 billion cumulative Spotify streams, cementing its status as a global sensation - 매일경제",
-      "description": "CORTIS surpasses 1.5 billion cumulative Spotify streams, cementing its status as a global sensation 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oRlVVSnBIU05Odkh1YWFLZ254QjczQ1VHSmdFWnNVWmRwR3NIczFhSzZCU1Nva2Foc1hGV2hPMXdiQ2hxaXQ0eXo1SFVWS0x6?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oRlVVSnBIU05Odkh1YWFLZ254QjczQ1VHSmdFWnNVWmRwR3NIczFhSzZCU1Nva2Foc1hGV2hPMXdiQ2hxaXQ0eXo1SFVWS0x6?oc=5",
-      "source": "매일경제",
-      "publishedAt": "2026-11-12T01:32:13+00:00",
-      "date": "2026-11-12T01:32:13+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "d399f9007c42b2a3db65",
       "title": "코르티스, 스포티파이 누적 스트리밍 15억 돌파…‘글로벌 대세’ 입증 - 매일경제",
       "description": "코르티스, 스포티파이 누적 스트리밍 15억 돌파…‘글로벌 대세’ 입증 매일경제",
@@ -657,6 +673,21 @@
       "description": "コルティス、スポティファイの累計ストリーミング15億回突破…「世界的人気」を証明 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xZjhyZWt2eWJZUDYyX1k2bXotY0gwMnRwbnlyajNYeEhqcy1tNURjOGstSXV1NFQ1cmE5a19iM00zU3Q0ZUM5bEhob0ZjVkRj?oc=5",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xZjhyZWt2eWJZUDYyX1k2bXotY0gwMnRwbnlyajNYeEhqcy1tNURjOGstSXV1NFQ1cmE5a19iM00zU3Q0ZUM5bEhob0ZjVkRj?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-11-12T01:32:13+00:00",
+      "date": "2026-11-12T01:32:13+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "982b5072c8f22dc0fbb4",
+      "title": "CORTIS surpasses 1.5 billion cumulative Spotify streams, cementing its status as a global sensation - 매일경제",
+      "description": "CORTIS surpasses 1.5 billion cumulative Spotify streams, cementing its status as a global sensation 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oRlVVSnBIU05Odkh1YWFLZ254QjczQ1VHSmdFWnNVWmRwR3NIczFhSzZCU1Nva2Foc1hGV2hPMXdiQ2hxaXQ0eXo1SFVWS0x6?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oRlVVSnBIU05Odkh1YWFLZ254QjczQ1VHSmdFWnNVWmRwR3NIczFhSzZCU1Nva2Foc1hGV2hPMXdiQ2hxaXQ0eXo1SFVWS0x6?oc=5",
       "source": "매일경제",
       "publishedAt": "2026-11-12T01:32:13+00:00",
       "date": "2026-11-12T01:32:13+00:00",
@@ -1172,36 +1203,6 @@
       "source": "앳스타일",
       "publishedAt": "2026-11-09T07:55:12+00:00",
       "date": "2026-11-09T07:55:12+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "8621ba7b08a4d11d5fe5",
-      "title": "Three songs, three top spots: K-pop group CORTIS dominate Spotify as ‘REDRED’ closes in on 300 million streams - Malay Mail",
-      "description": "Three songs, three top spots: K-pop group CORTIS dominate Spotify as ‘REDRED’ closes in on 300 million streams Malay Mail",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVW9CRDVBZ1RYSkdZQjlTb0Y2NEdrUmRJNThDQzNiYTI4SFN2bEtuVXZVNWZHaVFGYWNGem9iV3VYa1pkMGxSMW9oN1UxeVNMeDFRYnlxSzFBTmU2blNXc0pwNklsOFhhUGNwSGhRUWZ3Z3g5a0Exa2JQYkhUQWZER3k3UElFeHFmRTNEMDdWWko3TUhOQ3NkeUpQU3h4MEZkclZJV1NQUC1ISHhkSmQ4cmJ0cHNDeXo5dTNuQ3MzY05rUmNuNHZHcEliNlhGbG16a0E2TGpPVE02SFpSWVJWNE9kSHlsbVdFU2lRSkxFdkdrR0JfQVHSAfsBQVVfeXFMTkl4ejAyT2M0a1ZESjZJLVhiZ3QxNEZGT2RBcDBnODJHUVlRWkd0YWxiNlExTkZwUVpGd3VzdUpBZ01rYmhmaTZ2LXJ3NnhpX2RtZHBGWDhRRkFacUlYVExFUzRnWllRR2JPZkdvVkhLLWRnanBqSVFTNVZwaFpGcldUbkRBbXFJZFlFVVA1bHp4aWxnNUEwYVl4b1oxYUcxN29HWTRKWjlUVnpJZ29TRVhPVTk4TVVyYWZta2E2cUpyd3M3OXk0X2dnbUxQdU42WDdiX01YV0hJQUpRdE1nWU54THBreE0tQTkzaGhQRXphM3ZRM01wWGs1b0U?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVW9CRDVBZ1RYSkdZQjlTb0Y2NEdrUmRJNThDQzNiYTI4SFN2bEtuVXZVNWZHaVFGYWNGem9iV3VYa1pkMGxSMW9oN1UxeVNMeDFRYnlxSzFBTmU2blNXc0pwNklsOFhhUGNwSGhRUWZ3Z3g5a0Exa2JQYkhUQWZER3k3UElFeHFmRTNEMDdWWko3TUhOQ3NkeUpQU3h4MEZkclZJV1NQUC1ISHhkSmQ4cmJ0cHNDeXo5dTNuQ3MzY05rUmNuNHZHcEliNlhGbG16a0E2TGpPVE02SFpSWVJWNE9kSHlsbVdFU2lRSkxFdkdrR0JfQVHSAfsBQVVfeXFMTkl4ejAyT2M0a1ZESjZJLVhiZ3QxNEZGT2RBcDBnODJHUVlRWkd0YWxiNlExTkZwUVpGd3VzdUpBZ01rYmhmaTZ2LXJ3NnhpX2RtZHBGWDhRRkFacUlYVExFUzRnWllRR2JPZkdvVkhLLWRnanBqSVFTNVZwaFpGcldUbkRBbXFJZFlFVVA1bHp4aWxnNUEwYVl4b1oxYUcxN29HWTRKWjlUVnpJZ29TRVhPVTk4TVVyYWZta2E2cUpyd3M3OXk0X2dnbUxQdU42WDdiX01YV0hJQUpRdE1nWU54THBreE0tQTkzaGhQRXphM3ZRM01wWGs1b0U?oc=5",
-      "source": "Malay Mail",
-      "publishedAt": "2026-11-09T07:12:38+00:00",
-      "date": "2026-11-09T07:12:38+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "1ba799ec32c589427282",
-      "title": "에이티즈·NCT 위시·스키즈·코르티스→보아·샤이니, 30주년 'SBS 가요대전' - 싱글리스트",
-      "description": "에이티즈·NCT 위시·스키즈·코르티스→보아·샤이니, 30주년 'SBS 가요대전' 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5WnlNU2xxQmJKSk9yTmVmM1BZcVFQSmJBaDNxUmI3T01PTjVLeEk2eHAyZUZjT1V3aTNZaUM3bk5mMmgtR2FoZk5hN0lYUjcxQXdJRm9XWmNPSFhmTUc5RDk2cFpndw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5WnlNU2xxQmJKSk9yTmVmM1BZcVFQSmJBaDNxUmI3T01PTjVLeEk2eHAyZUZjT1V3aTNZaUM3bk5mMmgtR2FoZk5hN0lYUjcxQXdJRm9XWmNPSFhmTUc5RDk2cFpndw?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-09T04:39:05+00:00",
-      "date": "2026-11-09T04:39:05+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
