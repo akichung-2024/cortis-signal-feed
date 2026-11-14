@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-14T18:05:38.580752+00:00",
+  "updatedAt": "2026-11-14T22:26:46.373299+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "bcf3a22c06fdab83edc8",
+      "title": "김희선, 코르티스를 '크리피스'로 착각? 유재석은 \"도넛인 줄\"[놀뭐][★밤TV] - 스타뉴스",
+      "description": "김희선, 코르티스를 '크리피스'로 착각? 유재석은 \"도넛인 줄\"[놀뭐][★밤TV] 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1RCNFFJR1pMWUhzQjd1UW4wdmUtekxjOTlCVnZaYzRCQktsRG9kUEgtTnhhb1h6YThnZEptd3FJZ1JhS1hFWVUyN3Uxa3A2V25meTNaMC1KbWprOXhFSnlIU1lTcXI5WjFKNXNET3M2d3dtb0pGZk41dXU3enBySQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1RCNFFJR1pMWUhzQjd1UW4wdmUtekxjOTlCVnZaYzRCQktsRG9kUEgtTnhhb1h6YThnZEptd3FJZ1JhS1hFWVUyN3Uxa3A2V25meTNaMC1KbWprOXhFSnlIU1lTcXI5WjFKNXNET3M2d3dtb0pGZk41dXU3enBySQ?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-14T21:40:00+00:00",
+      "date": "2026-11-14T21:40:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "830f2d941be25de6b487",
       "title": "코르티스 제임스, 유픽 '베스트 포지션 매치-댄서' 3관왕 등극 - 아시아뉴스통신",
@@ -1188,21 +1203,6 @@
       "source": "Laodong.vn",
       "publishedAt": "2026-11-09T09:41:21+00:00",
       "date": "2026-11-09T09:41:21+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "347d4b654a6da6bbb2eb",
-      "title": "‘영크크 신드롬’ 코르티스, 5년 내 데뷔 보이그룹 노래 최상위권 줄 세우기 - 뉴스엔",
-      "description": "‘영크크 신드롬’ 코르티스, 5년 내 데뷔 보이그룹 노래 최상위권 줄 세우기 뉴스엔",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zV1QyNktmZW16YmZuZnlIZUhLeTMwNE1tczVqX0k5ZElDUDJmTXFtUENhVEJrLW83M1Qxa0w1VjhHTUNZMEYtdHhnYUZfOUFWUWxhVjVrNFBkS2RZNlVOSjdQRkpyT2U0?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zV1QyNktmZW16YmZuZnlIZUhLeTMwNE1tczVqX0k5ZElDUDJmTXFtUENhVEJrLW83M1Qxa0w1VjhHTUNZMEYtdHhnYUZfOUFWUWxhVjVrNFBkS2RZNlVOSjdQRkpyT2U0?oc=5",
-      "source": "뉴스엔",
-      "publishedAt": "2026-11-09T09:29:10+00:00",
-      "date": "2026-11-09T09:29:10+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
