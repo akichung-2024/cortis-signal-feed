@@ -1,15 +1,362 @@
 {
-  "updatedAt": "2026-11-18T04:24:02.501429+00:00",
+  "updatedAt": "2026-11-18T14:01:42.062196+00:00",
   "status": "ok",
   "count": 80,
   "items": [
     {
+      "id": "02f5c24b8f1f68da1256",
+      "title": "CORTIS Departs for MAMA Awards Under Tight Security - 조선일보",
+      "description": "CORTIS Departs for MAMA Awards Under Tight Security 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODhib1VvWUJ1VWpRY1M1X2QxUFZJRTdxakVGVmxtNm1yY21DRi1vRE80R2NqeVFNNmpPYnZ6SDUwWkdlVkR4LU5OVWlfSTltMVBNaWJzbkNlSzk2bnhzWHh0ZmtUZGJYeFc4bXBnbWFkSS1wWWdmUjY1MFJzekhkMXVNQ0RfVHNQYUpweWpB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODhib1VvWUJ1VWpRY1M1X2QxUFZJRTdxakVGVmxtNm1yY21DRi1vRE80R2NqeVFNNmpPYnZ6SDUwWkdlVkR4LU5OVWlfSTltMVBNaWJzbkNlSzk2bnhzWHh0ZmtUZGJYeFc4bXBnbWFkSS1wWWdmUjY1MFJzekhkMXVNQ0RfVHNQYUpweWpB?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-11-18T11:41:57+00:00",
+      "date": "2026-11-18T11:41:57+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b8c35ce6b9377759ba6f",
+      "title": "[Photo] CORTIS’s Keon-ho and Martin exude style - Chosunbiz",
+      "description": "[Photo] CORTIS’s Keon-ho and Martin exude style Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbU96aktvVTNwY3Bhb1U3cFVXNGZVYTR1Ujdpeml3cTNsY0IwaXNPQkVVY3pCNU1RRmVfMFJFNVF3a013RFhkNWozUDRPc3ZtZXpKYVIxSzJ2UGRPbHYySUJDV0RJc1luN3JhQkhnSUZ5N08zeE9hUHlCU09MYkd1T1RlWdIBlwFBVV95cUxQQ05FN21yc0htMVEwRnJtekp2VmVBOW5wSHV2UjdMVmNraDVrMUJONkE0U2ZUOVdKaTRnUm52SWZPQlJUTkhmT0RvODE5X2lMWmxzTEpLMVhaRkRvRHh1dFdwQVdRanV4MURBVHVTWS1JRWRoUHJGRndmbFB0c0t6N2w4c3MyQjdFMG9fM09lRWhpaHREZVhj?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbU96aktvVTNwY3Bhb1U3cFVXNGZVYTR1Ujdpeml3cTNsY0IwaXNPQkVVY3pCNU1RRmVfMFJFNVF3a013RFhkNWozUDRPc3ZtZXpKYVIxSzJ2UGRPbHYySUJDV0RJc1luN3JhQkhnSUZ5N08zeE9hUHlCU09MYkd1T1RlWdIBlwFBVV95cUxQQ05FN21yc0htMVEwRnJtekp2VmVBOW5wSHV2UjdMVmNraDVrMUJONkE0U2ZUOVdKaTRnUm52SWZPQlJUTkhmT0RvODE5X2lMWmxzTEpLMVhaRkRvRHh1dFdwQVdRanV4MURBVHVTWS1JRWRoUHJGRndmbFB0c0t6N2w4c3MyQjdFMG9fM09lRWhpaHREZVhj?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-11-18T11:41:00+00:00",
+      "date": "2026-11-18T11:41:00+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "1fc5d6be4d5686b64c52",
+      "title": "[Photo] CORTIS’ James follows behind security guards - Chosunbiz",
+      "description": "[Photo] CORTIS’ James follows behind security guards Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1lIVUZGQVJ0UDV5U1h0UmU0ZlBLTnRtOE1leW9hZzJUMV9LX2pJaXVNeGt3V3pzTm02SWQ0dlMycTZzYlBBendId3pPYmFaU19YdU1RQXJvSW9YUFcyYV9kSWhyTldDakdISC1fTkNER0hIV0t4YWhubHZEZ050a3pLZ9IBlwFBVV95cUxQS2paMkl4WlVqbVI2cm5lcWI3YjFqUXlEaHpLc3dMX1V3ZnhkMUMyUDBOQmc5WDh5V3VrTDUwQUViTjZWd0pJaHliQXB0eHRDSm0zX2R4YjNPM0lBOTBFQ28yU3I2VjVkSkZ4MkVjdmNZUXlONWtGMzVwY1RabW1taU5FeVpNelY2VHppQXVtOVF4dHU3a0lB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1lIVUZGQVJ0UDV5U1h0UmU0ZlBLTnRtOE1leW9hZzJUMV9LX2pJaXVNeGt3V3pzTm02SWQ0dlMycTZzYlBBendId3pPYmFaU19YdU1RQXJvSW9YUFcyYV9kSWhyTldDakdISC1fTkNER0hIV0t4YWhubHZEZ050a3pLZ9IBlwFBVV95cUxQS2paMkl4WlVqbVI2cm5lcWI3YjFqUXlEaHpLc3dMX1V3ZnhkMUMyUDBOQmc5WDh5V3VrTDUwQUViTjZWd0pJaHliQXB0eHRDSm0zX2R4YjNPM0lBOTBFQ28yU3I2VjVkSkZ4MkVjdmNZUXlONWtGMzVwY1RabW1taU5FeVpNelY2VHppQXVtOVF4dHU3a0lB?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-11-18T11:40:00+00:00",
+      "date": "2026-11-18T11:40:00+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "f8150a48fb0ea5cb2b8a",
+      "title": "코르티스,’철통 경호 속 출국’ [O! STAR 숏폼] - 조선일보",
+      "description": "코르티스,’철통 경호 속 출국’ [O! STAR 숏폼] 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3BOTjV2ZFFWR0xqV1oxUGo5UEYzVy1BM1NkcVNLNVFJbDVTU1hHVmx1MWR5dktnbTE5cGt6OU5lMWlTaHM0Z2otYnVoNGtKZ2lTOHdGbXhPaV9ReGp4a2tJbjI1bGdqNWJJRFlqamdiSVI3cWZicGxfaDFEZXJXMGpmRUZJQVgzUFBSZkFiVQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3BOTjV2ZFFWR0xqV1oxUGo5UEYzVy1BM1NkcVNLNVFJbDVTU1hHVmx1MWR5dktnbTE5cGt6OU5lMWlTaHM0Z2otYnVoNGtKZ2lTOHdGbXhPaV9ReGp4a2tJbjI1bGdqNWJJRFlqamdiSVI3cWZicGxfaDFEZXJXMGpmRUZJQVgzUFBSZkFiVQ?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-11-18T11:36:00+00:00",
+      "date": "2026-11-18T11:36:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "cbf568f10138a6980bf3",
+      "title": "[사진]코르티스 제임스, 고개 숙인채 - 조선일보",
+      "description": "[사진]코르티스 제임스, 고개 숙인채 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0NzN2FIY3NaMjd4RlMydkZ3d2dxY2x0bDM2N3RpV1Z5WlNsYkpmUU5KYVBxWENxalhBbFE4OTZXV0ZzMDBDWGFhZTZEbGJTcUgyWHVBZ1VnMlhCRnlDTkF6ZWlwNy1KUTkzR0lsTDFUUWowY0ZoUkJDNGlXNDFTOEdyMEtWMlJPZTVJa1ptTWw2TzhkSExR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0NzN2FIY3NaMjd4RlMydkZ3d2dxY2x0bDM2N3RpV1Z5WlNsYkpmUU5KYVBxWENxalhBbFE4OTZXV0ZzMDBDWGFhZTZEbGJTcUgyWHVBZ1VnMlhCRnlDTkF6ZWlwNy1KUTkzR0lsTDFUUWowY0ZoUkJDNGlXNDFTOEdyMEtWMlJPZTVJa1ptTWw2TzhkSExR?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-11-18T11:35:00+00:00",
+      "date": "2026-11-18T11:35:00+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "4ddf2b581e570ac3fcec",
+      "title": "[사진]코르티스 성현, 완벽한 비주얼 - 조선일보",
+      "description": "[사진]코르티스 성현, 완벽한 비주얼 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzBlZTdnUXlxbmxyaXZ2aVk3T3otUXZJTFNrQlhoc0hxR2ROdlRxb0s1NnRyNFlGSXRieldpekhycG9QZ2ZJQW0zZ3M3YktqbHhYeTJ3aEtOd0llSWY4endIMmR3NFQtczZjODJqUk1mODhaUThicWg5T0ZpcG1LLXY0TTdWMDdLRW1nQUo1ek1CZFRmVmlZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzBlZTdnUXlxbmxyaXZ2aVk3T3otUXZJTFNrQlhoc0hxR2ROdlRxb0s1NnRyNFlGSXRieldpekhycG9QZ2ZJQW0zZ3M3YktqbHhYeTJ3aEtOd0llSWY4endIMmR3NFQtczZjODJqUk1mODhaUThicWg5T0ZpcG1LLXY0TTdWMDdLRW1nQUo1ek1CZFRmVmlZ?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-11-18T11:35:00+00:00",
+      "date": "2026-11-18T11:35:00+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "062e00b7e255c8a72829",
+      "title": "[사진]코르티스 건호, MAMA 잘 다녀올게요 - Chosunbiz",
+      "description": "[사진]코르티스 건호, MAMA 잘 다녀올게요 Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9lNzB6U3ZyX3FaOS1RVms4ZnZYZEVWSzhmelhhSlBaYTZ0V0R2aDhvampvbms3Z1ZDaTBMSzFhT3cyUklhaHUyRXpjQmoxYmR3b1FrNW1GWm81ZHVfSlE1Qi1rSFBSUUtLb0s1d01kR2lxTUtYejFiNkhUS0xVRkczNFZCcHYwOHpDeDZGaHBJS2hnak82bV95RdIBrwFBVV95cUxPTUlVYXl2a2Q5RmdORHJmX3NVMWtjWncyNzVpaS1SSGNacmJyMlJFUWVLQ0hkU1MyWkx1YTNRRmgzMXlnbGVnLUsybXE3VnZMclc5S3JEUmNqNlJRTW1HRk5BUDNKNldNZTFOcmFVWUhnM2I2UGNtTFB1RjdNSkFEMGpkX2ZLSU1ONHRIS3VabFlmOGh1Nm1saTl4ZHpaa0dKM2dKMktCeGdxWVc3OTRv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9lNzB6U3ZyX3FaOS1RVms4ZnZYZEVWSzhmelhhSlBaYTZ0V0R2aDhvampvbms3Z1ZDaTBMSzFhT3cyUklhaHUyRXpjQmoxYmR3b1FrNW1GWm81ZHVfSlE1Qi1rSFBSUUtLb0s1d01kR2lxTUtYejFiNkhUS0xVRkczNFZCcHYwOHpDeDZGaHBJS2hnak82bV95RdIBrwFBVV95cUxPTUlVYXl2a2Q5RmdORHJmX3NVMWtjWncyNzVpaS1SSGNacmJyMlJFUWVLQ0hkU1MyWkx1YTNRRmgzMXlnbGVnLUsybXE3VnZMclc5S3JEUmNqNlJRTW1HRk5BUDNKNldNZTFOcmFVWUhnM2I2UGNtTFB1RjdNSkFEMGpkX2ZLSU1ONHRIS3VabFlmOGh1Nm1saTl4ZHpaa0dKM2dKMktCeGdxWVc3OTRv?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-11-18T11:34:00+00:00",
+      "date": "2026-11-18T11:34:00+00:00",
+      "member": "KEONHO",
+      "members": [
+        "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "bb3a92fe6152c1d8c547",
+      "title": "[사진]코르티스 성현-마틴, 카리스마 넘치는 MAMA 출국 - OSEN",
+      "description": "[사진]코르티스 성현-마틴, 카리스마 넘치는 MAMA 출국 OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01QUh3UldZZUNBYnNQV0JwMUkxanJkR1IzcFRXUTlpRnRhcHNVLWRmbVJqdkNlbUNZVWV5ajNuSERMclE1U3pwVU1EeHdUSTNucnhz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01QUh3UldZZUNBYnNQV0JwMUkxanJkR1IzcFRXUTlpRnRhcHNVLWRmbVJqdkNlbUNZVWV5ajNuSERMclE1U3pwVU1EeHdUSTNucnhz?oc=5",
+      "source": "OSEN",
+      "publishedAt": "2026-11-18T11:33:00+00:00",
+      "date": "2026-11-18T11:33:00+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN",
+        "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "feaf620fac590450958c",
+      "title": "[사진]코르티스 건호-마틴, 멋짐 폭발 - OSEN",
+      "description": "[사진]코르티스 건호-마틴, 멋짐 폭발 OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zMnEyLU92ZU1HVElSWllVOGo2cmtadXpOZ2RtbVBKOXpBcFNVU2dyU0V2V3psNFV5YW8wUEtsZllOaG1tVzZTQVl1Vi1wVWNKWWJweQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zMnEyLU92ZU1HVElSWllVOGo2cmtadXpOZ2RtbVBKOXpBcFNVU2dyU0V2V3psNFV5YW8wUEtsZllOaG1tVzZTQVl1Vi1wVWNKWWJweQ?oc=5",
+      "source": "OSEN",
+      "publishedAt": "2026-11-18T11:33:00+00:00",
+      "date": "2026-11-18T11:33:00+00:00",
+      "member": "MARTIN",
+      "members": [
+        "MARTIN",
+        "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "3b0539f5296f46c4b743",
+      "title": "코르티스, ‘2026 마마 어워즈’ 참석에 공항에서 느껴지는 인기실감 (출국)[뉴스엔TV] - 뉴스엔",
+      "description": "코르티스, ‘2026 마마 어워즈’ 참석에 공항에서 느껴지는 인기실감 (출국)[뉴스엔TV] 뉴스엔",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80bkhLdjdvclJQRzQtQjVIYTUxUTJRZnM4dzhOcTZLVld0VHF3UFZvRHJpMjV3dFIwRks2LWJvNFAyREpYWHJkSFlOc3lYNk1jUDM1dVMtMnhnREo3NWZabjhSQUNwTkFy?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80bkhLdjdvclJQRzQtQjVIYTUxUTJRZnM4dzhOcTZLVld0VHF3UFZvRHJpMjV3dFIwRks2LWJvNFAyREpYWHJkSFlOc3lYNk1jUDM1dVMtMnhnREo3NWZabjhSQUNwTkFy?oc=5",
+      "source": "뉴스엔",
+      "publishedAt": "2026-11-18T11:13:50+00:00",
+      "date": "2026-11-18T11:13:50+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "904bf7e1df9615ad0605",
+      "title": "[영상] 코르티스, 강렬피지컬 흠뻑 빠져 - RNX뉴스",
+      "description": "[영상] 코르티스, 강렬피지컬 흠뻑 빠져 RNX뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0d2xtbEhvVU1BbGdkZDBqWmF1X1FzcWQzVWNnWnJmb2dlWXJTYkJsdV9RempQOE1qRUdCUU11R0JJWDMwQ21TM1VxejdJb3hKNmg0ZjhZeHdRZWhmVDEwZjNB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0d2xtbEhvVU1BbGdkZDBqWmF1X1FzcWQzVWNnWnJmb2dlWXJTYkJsdV9RempQOE1qRUdCUU11R0JJWDMwQ21TM1VxejdJb3hKNmg0ZjhZeHdRZWhmVDEwZjNB?oc=5",
+      "source": "RNX뉴스",
+      "publishedAt": "2026-11-18T10:51:48+00:00",
+      "date": "2026-11-18T10:51:48+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "34c3b4fda3dc440aa926",
+      "title": "코르티스 'GO! MAMA2026~' [★영상] - 스타뉴스",
+      "description": "코르티스 'GO! MAMA2026~' [★영상] 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JSmNxbFFvX0wwM2d6RUtpWWQxUlJJSTV3bVBZYzJEZEtkalhYOWdINEJxWTllMGpSWXFVSXNNa2NUbzNST3A1Q19GREpsNllGUUlTbFk4RVVDYXVURG1oTk5jbWlaQjRFSjc5a2dubk44dTdE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JSmNxbFFvX0wwM2d6RUtpWWQxUlJJSTV3bVBZYzJEZEtkalhYOWdINEJxWTllMGpSWXFVSXNNa2NUbzNST3A1Q19GREpsNllGUUlTbFk4RVVDYXVURG1oTk5jbWlaQjRFSjc5a2dubk44dTdE?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-18T10:43:39+00:00",
+      "date": "2026-11-18T10:43:39+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "bc041feafbef271bfbfb",
+      "title": "コルティス『GO！ MAMA2026~' [★動画] - 스타뉴스",
+      "description": "コルティス『GO！ MAMA2026~' [★動画] 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLMVU5a0oxWmNDREZvV1k2b25wRVFzaWNjbktjMUJUbDRjRFpzQ05XQ29vSFVCYzJDV3hSQVlTSV9Vajk3M0tGVnNBM2VsVzRQbTl0Mkc4b1U0TGRMV2t4NnlFeFRFV0xCMkl4dXRuMUNQYXdGZHpEMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLMVU5a0oxWmNDREZvV1k2b25wRVFzaWNjbktjMUJUbDRjRFpzQ05XQ29vSFVCYzJDV3hSQVlTSV9Vajk3M0tGVnNBM2VsVzRQbTl0Mkc4b1U0TGRMV2t4NnlFeFRFV0xCMkl4dXRuMUNQYXdGZHpEMA?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-18T10:43:39+00:00",
+      "date": "2026-11-18T10:43:39+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "76e30f9d0994be8b925b",
+      "title": "CORTIS社群貼文 - 내일 수능을 보시는 모든 코어분들께!! 드디어 내 - Weverse",
+      "description": "CORTIS社群貼文 - 내일 수능을 보시는 모든 코어분들께!! 드디어 내 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yMG1aN1V1eE1PMEZZLW1ULWxpMkJ1TG9JblpvcElTYmE3b2ZHbUc3TmNDRWg3NktXTVFnazJEQ1BkdTVRNVEwUXFqcE9VdEFob1B0TjBZVURBTFJTWjhJZUVCYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yMG1aN1V1eE1PMEZZLW1ULWxpMkJ1TG9JblpvcElTYmE3b2ZHbUc3TmNDRWg3NktXTVFnazJEQ1BkdTVRNVEwUXFqcE9VdEFob1B0TjBZVURBTFJTWjhJZUVCYw?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-18T09:05:46+00:00",
+      "date": "2026-11-18T09:05:46+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "8e049a4194df9444ec0b",
+      "title": "코르티스 커뮤니티 포스트 - 내일 수능을 보시는 모든 코어분들께!! 드디 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - 내일 수능을 보시는 모든 코어분들께!! 드디 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81aEx5N3BJMm5PbnVOanpVX0paai04MWFzY1lqckh3djFRaFUtWGJMT042ZTdMcjlXUFY4MzBRTGFZQ05ZenV3UEsyWWV5QXg5MHloS2lOblpWMVpWUDBz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81aEx5N3BJMm5PbnVOanpVX0paai04MWFzY1lqckh3djFRaFUtWGJMT042ZTdMcjlXUFY4MzBRTGFZQ05ZenV3UEsyWWV5QXg5MHloS2lOblpWMVpWUDBz?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-18T08:59:28+00:00",
+      "date": "2026-11-18T08:59:28+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "88f402ca3ca334b6781a",
+      "title": "CORTIS Community Post - 내일 수능을 보시는 모든 코어 - Weverse",
+      "description": "CORTIS Community Post - 내일 수능을 보시는 모든 코어 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oYXNYTDYyMTl3RERsZDg0c3NsQnA4dFJFZGVNUG5kdE44bnFRNUNlTGxYdW1KM2lldVRrNkt0RGhhM1lKQkk3bEg5aEJQdXJ6UE9PRm9vMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oYXNYTDYyMTl3RERsZDg0c3NsQnA4dFJFZGVNUG5kdE44bnFRNUNlTGxYdW1KM2lldVRrNkt0RGhhM1lKQkk3bEg5aEJQdXJ6UE9PRm9vMA?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-18T08:46:54+00:00",
+      "date": "2026-11-18T08:46:54+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "85b66e37ab6d3da2d651",
+      "title": "[LIVE] 코르티스, 무서울꺼 없는 찐대세 - RNX tv - Howl.Link",
+      "description": "[LIVE] 코르티스, 무서울꺼 없는 찐대세 - RNX tv Howl.Link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE16VnljUTFmWnpTUWNYWFNhOFdudS1xVjZ0R0NicUQySEcwcUpXRWg2YlBJdzZNdDQ1ZUJF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE16VnljUTFmWnpTUWNYWFNhOFdudS1xVjZ0R0NicUQySEcwcUpXRWg2YlBJdzZNdDQ1ZUJF?oc=5",
+      "source": "Howl.Link",
+      "publishedAt": "2026-11-18T08:32:49+00:00",
+      "date": "2026-11-18T08:32:49+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "36b905fb3faf7f7f4d7c",
+      "title": "코르티스, 본무대 못지않은 리허설…에너지 폭발 [하반기 결선] - CBC뉴스",
+      "description": "코르티스, 본무대 못지않은 리허설…에너지 폭발 [하반기 결선] CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkak1YOFZhUjE3N1dXQjdYMjNaZ1RoYk5YOVdNT2lxdXFWNTZVOGVjbk14UnBKRU0ydU55Mlc3RWNNbm83R2lZVmRRWXJzSjd2SldDbHBBWkJraU4wcDNsVHJmOHIzVVVw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkak1YOFZhUjE3N1dXQjdYMjNaZ1RoYk5YOVdNT2lxdXFWNTZVOGVjbk14UnBKRU0ydU55Mlc3RWNNbm83R2lZVmRRWXJzSjd2SldDbHBBWkJraU4wcDNsVHJmOHIzVVVw?oc=5",
+      "source": "CBC뉴스",
+      "publishedAt": "2026-11-18T08:15:49+00:00",
+      "date": "2026-11-18T08:15:49+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "6fead94ba70297cabb4a",
+      "title": "코르티스 성현, 팬도라 '1월 최강 생일 랭킹' 1위 등극 - 뉴스1",
+      "description": "코르티스 성현, 팬도라 '1월 최강 생일 랭킹' 1위 등극 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyR2U2bFF3aUNWODVfRUhyMW5ISy12WFJvSEstTFdZTjNrMFg1dmQzeXh4Y0dmeGlQMG1XczFaOFhfUXY2RlV1V0pSeDd2Z3dQbnBZMjRSdGpBTUFkYUFCRThEZGo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyR2U2bFF3aUNWODVfRUhyMW5ISy12WFJvSEstTFdZTjNrMFg1dmQzeXh4Y0dmeGlQMG1XczFaOFhfUXY2RlV1V0pSeDd2Z3dQbnBZMjRSdGpBTUFkYUFCRThEZGo?oc=5",
+      "source": "뉴스1",
+      "publishedAt": "2026-11-18T08:07:36+00:00",
+      "date": "2026-11-18T08:07:36+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a8ac250efebea9db6efb",
+      "title": "하츠투하츠·코르티스·리센느, 수능 안 본다…가수 활동에 집중하는 08년생들 - 일간스포츠",
+      "description": "하츠투하츠·코르티스·리센느, 수능 안 본다…가수 활동에 집중하는 08년생들 일간스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBod0k4LXQ1T3plZDBzOFdKUTRjSDVkZElSclBpZjUtbFJiQUh5a2FyLVZSTU83RnU1MkdsNFQ3WTRPdHYxZUhhb2luZWMxUG5OTGxkU0JfZEpFMU0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBod0k4LXQ1T3plZDBzOFdKUTRjSDVkZElSclBpZjUtbFJiQUh5a2FyLVZSTU83RnU1MkdsNFQ3WTRPdHYxZUhhb2luZWMxUG5OTGxkU0JfZEpFMU0?oc=5",
+      "source": "일간스포츠",
+      "publishedAt": "2026-11-18T07:55:00+00:00",
+      "date": "2026-11-18T07:55:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a9f1025d49876ebef016",
+      "title": "수능 안 보는 K팝 아이돌들…코르티스·리센느 줄줄이 미응시 - 앳스타일",
+      "description": "수능 안 보는 K팝 아이돌들…코르티스·리센느 줄줄이 미응시 앳스타일",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CMDR6djJIZTk5X2E2eW9MOGhGREJBeTNUak9lNmRHOFdpWEFiQ3llbHhEenVnd0dmNENnRmRac2o4NU1ZTTJZeUZTNmZyT3Q3SWhQZ0otVnNaajhIT084TkdSYlRtbXl2OUU00gFuQVVfeXFMTkpPa1NIckpWd3RsUEZFbjZhMGZDVU9qaUNsYjJNVmpINThkOTltdmRsaFAzU3VvRVFZdmM3Smp2VHRBeEl5VTdwLWd3d1RnRERQWVo1NExNZThPRk9PWGxsNEdXY2F1Mm5sSkpuT3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CMDR6djJIZTk5X2E2eW9MOGhGREJBeTNUak9lNmRHOFdpWEFiQ3llbHhEenVnd0dmNENnRmRac2o4NU1ZTTJZeUZTNmZyT3Q3SWhQZ0otVnNaajhIT084TkdSYlRtbXl2OUU00gFuQVVfeXFMTkpPa1NIckpWd3RsUEZFbjZhMGZDVU9qaUNsYjJNVmpINThkOTltdmRsaFAzU3VvRVFZdmM3Smp2VHRBeEl5VTdwLWd3d1RnRERQWVo1NExNZThPRk9PWGxsNEdXY2F1Mm5sSkpuT3c?oc=5",
+      "source": "앳스타일",
+      "publishedAt": "2026-11-18T07:51:04+00:00",
+      "date": "2026-11-18T07:51:04+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "cb10ba1792f991ce94d5",
+      "title": "수능 대신 무대 택한 코르티스·리센느… 08년생 아이돌, 누가 시험 보나 - 한국일보",
+      "description": "수능 대신 무대 택한 코르티스·리센느… 08년생 아이돌, 누가 시험 보나 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CLWdYTnBILTlqeGgybmxCTDRNSGRMZUNGTVN0U2Z1Q1Fhdjl3NUctc000YVBwSERRaUlqdUtWMHJZX3E4VmNIQ0JOWDdiSUI3a1BNeEJfR2VtMnI4UVM4X1M1WFNqWXREb3kzNmhR0gFzQVVfeXFMUDJ4WWRKVVYtWG1aa09lc2pwV3lZNkpwUUhFVElOQnNBb21CenRYQmNLWnBrc2VWX2tkR1BZSVpzcml0U3dnWEFHYm9sd3pfemIxbEZ6aFZqTTFqdzBUbVIwUklZMXo0Wl93Q2hFeVd1NmxWNA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CLWdYTnBILTlqeGgybmxCTDRNSGRMZUNGTVN0U2Z1Q1Fhdjl3NUctc000YVBwSERRaUlqdUtWMHJZX3E4VmNIQ0JOWDdiSUI3a1BNeEJfR2VtMnI4UVM4X1M1WFNqWXREb3kzNmhR0gFzQVVfeXFMUDJ4WWRKVVYtWG1aa09lc2pwV3lZNkpwUUhFVElOQnNBb21CenRYQmNLWnBrc2VWX2tkR1BZSVpzcml0U3dnWEFHYm9sd3pfemIxbEZ6aFZqTTFqdzBUbVIwUklZMXo0Wl93Q2hFeVd1NmxWNA?oc=5",
+      "source": "한국일보",
+      "publishedAt": "2026-11-18T05:39:00+00:00",
+      "date": "2026-11-18T05:39:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b865c9d102cbb5fcc63e",
+      "title": "코르티스, MMA2026 대상 석권… “시상식의 틀을 깼다” (‘MMA2026’) - MHN스포츠",
+      "description": "코르티스, MMA2026 대상 석권… “시상식의 틀을 깼다” (‘MMA2026’) MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpX1pqcldQdmNSMHdtbUV6Z0NCNjk3cTVUbkhIRVBaalVsYzFwcDRwQTl6NVkwRUtxMjdHNVRod2Q3VHNKM1JmU0d0Uk5qQ3NWeVhlXzdJRU9CN3NKRXlUc0Flaw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpX1pqcldQdmNSMHdtbUV6Z0NCNjk3cTVUbkhIRVBaalVsYzFwcDRwQTl6NVkwRUtxMjdHNVRod2Q3VHNKM1JmU0d0Uk5qQ3NWeVhlXzdJRU9CN3NKRXlUc0Flaw?oc=5",
+      "source": "MHN스포츠",
+      "publishedAt": "2026-11-18T03:35:15+00:00",
+      "date": "2026-11-18T03:35:15+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "f7334bd3f9d056ef349d",
-      "title": "코르티스→리센느 미응시..'수능 D-1' 08년생 아이돌의 선택은? [Oh!쎈 이슈] - 미주중앙일보",
-      "description": "코르티스→리센느 미응시..'수능 D-1' 08년생 아이돌의 선택은? [Oh!쎈 이슈] 미주중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56eF9BWTF0aFo1Y2FMaDRWV3d1QXBkallSRlFRR2JtY2ZhdzduMEFRMjJwd1diQmFmd0IxYm9QUUZHcldrZnVDMUNiS2Y1LVROLUlCUTNXa0xqdm42M3R2cHV3?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56eF9BWTF0aFo1Y2FMaDRWV3d1QXBkallSRlFRR2JtY2ZhdzduMEFRMjJwd1diQmFmd0IxYm9QUUZHcldrZnVDMUNiS2Y1LVROLUlCUTNXa0xqdm42M3R2cHV3?oc=5",
-      "source": "미주중앙일보",
+      "title": "코르티스→리센느 미응시..'수능 D-1' 08년생 아이돌의 선택은? [Oh!쎈 이슈] - OSEN",
+      "description": "코르티스→리센느 미응시..'수능 D-1' 08년생 아이돌의 선택은? [Oh!쎈 이슈] OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVeWJPZlB1ZFVJQkV6S3dlMDU5Q3lHR0cxaVdFVmZYamlhMUZpbDUyRWQzM0xqQVRYWnZHTElTdFVXY3NqNWtfZTcyYWl0QW9VdG9pYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVeWJPZlB1ZFVJQkV6S3dlMDU5Q3lHR0cxaVdFVmZYamlhMUZpbDUyRWQzM0xqQVRYWnZHTElTdFVXY3NqNWtfZTcyYWl0QW9VdG9pYw?oc=5",
+      "source": "OSEN",
       "publishedAt": "2026-11-18T02:25:00+00:00",
       "date": "2026-11-18T02:25:00+00:00",
       "member": "GROUP",
@@ -34,6 +381,21 @@
       "category": "NEWS"
     },
     {
+      "id": "6d6b2999da4a5c53237c",
+      "title": "“시상식 틀 깼다”…코르티스, ‘MMA 2026’ 공연 영상 조회수 1위 - 매일경제",
+      "description": "“시상식 틀 깼다”…코르티스, ‘MMA 2026’ 공연 영상 조회수 1위 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwUlJXeVJFRVRWZ0JRUFJ6VDdZREZhUmtLVW5mX0dsME1ZRjRLUTNqYlJyaDFkU0RhVnVPUkY5bVhhLXZTc1ZUTS1pWjY4aTFkY1lR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwUlJXeVJFRVRWZ0JRUFJ6VDdZREZhUmtLVW5mX0dsME1ZRjRLUTNqYlJyaDFkU0RhVnVPUkY5bVhhLXZTc1ZUTS1pWjY4aTFkY1lR?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-11-18T01:23:44+00:00",
+      "date": "2026-11-18T01:23:44+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "89f5c2b4d7c504a1bfe8",
       "title": "「授賞式の枠を打ち破った」…コルティス、「MMA 2026」公演映像の再生回数1位 - 매일경제",
       "description": "「授賞式の枠を打ち破った」…コルティス、「MMA 2026」公演映像の再生回数1位 매일경제",
@@ -42,6 +404,21 @@
       "source": "매일경제",
       "publishedAt": "2026-11-18T01:23:44+00:00",
       "date": "2026-11-18T01:23:44+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "420c8f4dff9e30c5f7df",
+      "title": "CORTIS Performance Video Tops MMA2026 View Count - 조선일보",
+      "description": "CORTIS Performance Video Tops MMA2026 View Count 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSW9JVjZzUTVlbGk3bXlVNnZ2MUVQMzRtN1BjNV9PN0J3TVdjcllBWGM1czU2V0FLYkdNNWpiNTh1UXI3WmJOWWFEX3MzVFFnd2E0Z3JNblJndFNqXzVqck9GVmtiRlZtVmNUb0lGdlRKQUVzVU1meEtORUpsMGxJWVVQUEJoT19MYlNVaTVn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSW9JVjZzUTVlbGk3bXlVNnZ2MUVQMzRtN1BjNV9PN0J3TVdjcllBWGM1czU2V0FLYkdNNWpiNTh1UXI3WmJOWWFEX3MzVFFnd2E0Z3JNblJndFNqXzVqck9GVmtiRlZtVmNUb0lGdlRKQUVzVU1meEtORUpsMGxJWVVQUEJoT19MYlNVaTVn?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-11-18T01:17:23+00:00",
+      "date": "2026-11-18T01:17:23+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -65,11 +442,11 @@
     },
     {
       "id": "4adc20388be97d4076ba",
-      "title": "코르티스, 올해만 벌써 대상 3관왕..'MMA2026' 무대 영상 조회수 1위 - 조선일보",
-      "description": "코르티스, 올해만 벌써 대상 3관왕..'MMA2026' 무대 영상 조회수 1위 조선일보 “시상식 틀 깼다”…코르티스, ‘MMA 2026’ 공연 영상 조회수 1위 매일경제 코르티스 마틴, 남다른 존재감 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGxWTGc1NEV1cF9naFJBQXlMRVJFbVpfcW11OHF1QVdVa0U0QzdrQlpJeVo1YWdzbWI3N1RTYWN4V042cS1FcTBYbUpZZklheXNLMmYzYjBVVTlwZEZoNmtvczF6aEJoYjgwaV8yS0VxV1MwR2NxVGE0LXhQTUZpQWhYMGdYR04zQnc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGxWTGc1NEV1cF9naFJBQXlMRVJFbVpfcW11OHF1QVdVa0U0QzdrQlpJeVo1YWdzbWI3N1RTYWN4V042cS1FcTBYbUpZZklheXNLMmYzYjBVVTlwZEZoNmtvczF6aEJoYjgwaV8yS0VxV1MwR2NxVGE0LXhQTUZpQWhYMGdYR04zQnc?oc=5",
-      "source": "조선일보",
+      "title": "코르티스, 올해만 벌써 대상 3관왕..'MMA2026' 무대 영상 조회수 1위 - OSEN",
+      "description": "코르티스, 올해만 벌써 대상 3관왕..'MMA2026' 무대 영상 조회수 1위 OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYc0lmTG11cHc1SzNLYVBRSlpBNGZfcDVSc2k4cGtzZ1RnMy1HSHExZVZZelhTdWgtZW9uVGtQQjI3ejJvdG9sLVN4UXN6eWxjOGZkWg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYc0lmTG11cHc1SzNLYVBRSlpBNGZfcDVSc2k4cGtzZ1RnMy1HSHExZVZZelhTdWgtZW9uVGtQQjI3ejJvdG9sLVN4UXN6eWxjOGZkWg?oc=5",
+      "source": "OSEN",
       "publishedAt": "2026-11-18T00:56:00+00:00",
       "date": "2026-11-18T00:56:00+00:00",
       "member": "GROUP",
@@ -117,21 +494,6 @@
       "source": "www.newsq.co.kr",
       "publishedAt": "2026-11-18T00:46:38+00:00",
       "date": "2026-11-18T00:46:38+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "b865c9d102cbb5fcc63e",
-      "title": "코르티스, MMA2026 대상 석권… “시상식의 틀을 깼다” (‘MMA2026’) - MHN스포츠",
-      "description": "코르티스, MMA2026 대상 석권… “시상식의 틀을 깼다” (‘MMA2026’) MHN스포츠",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpX1pqcldQdmNSMHdtbUV6Z0NCNjk3cTVUbkhIRVBaalVsYzFwcDRwQTl6NVkwRUtxMjdHNVRod2Q3VHNKM1JmU0d0Uk5qQ3NWeVhlXzdJRU9CN3NKRXlUc0Flaw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpX1pqcldQdmNSMHdtbUV6Z0NCNjk3cTVUbkhIRVBaalVsYzFwcDRwQTl6NVkwRUtxMjdHNVRod2Q3VHNKM1JmU0d0Uk5qQ3NWeVhlXzdJRU9CN3NKRXlUc0Flaw?oc=5",
-      "source": "MHN스포츠",
-      "publishedAt": "2026-11-18T00:42:53+00:00",
-      "date": "2026-11-18T00:42:53+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -295,6 +657,21 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50ZTJKSS14QVFiMjhZSDk4bkNtS1NfU0hxeVlwWS1Md1QtRlBlU09mVE5fY1RvMVE5X09jTGNwNU8xV1JkWTBBcVVEcGl0d3E3Tkx3RzdNakhXd3ZralFZMUVLWmtPWGZybjBvNF9qSFlTOEnSAXhBVV95cUxOeTJQTVZKTUM5ZG1VTHhTUVNZbjgzNGtpZzdJQ0Y1TjJlQ05WMTBJVkFtb2otb0hrdGNFVDYxeFhQUGpGMGhLZTVRQzRnZTFoNnotSXJnQkRSSC1wbXRhLXFXc2hTb1FqU19BdWhpckxGcmhjRVh0QU4?oc=5",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50ZTJKSS14QVFiMjhZSDk4bkNtS1NfU0hxeVlwWS1Md1QtRlBlU09mVE5fY1RvMVE5X09jTGNwNU8xV1JkWTBBcVVEcGl0d3E3Tkx3RzdNakhXd3ZralFZMUVLWmtPWGZybjBvNF9qSFlTOEnSAXhBVV95cUxOeTJQTVZKTUM5ZG1VTHhTUVNZbjgzNGtpZzdJQ0Y1TjJlQ05WMTBJVkFtb2otb0hrdGNFVDYxeFhQUGpGMGhLZTVRQzRnZTFoNnotSXJnQkRSSC1wbXRhLXFXc2hTb1FqU19BdWhpckxGcmhjRVh0QU4?oc=5",
       "source": "머니투데이",
+      "publishedAt": "2026-11-16T22:15:00+00:00",
+      "date": "2026-11-16T22:15:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "07458bd97dbbcb91b968",
+      "title": "코르티스, 완벽주의 부수고 K팝의 선 넘은 이 시대의 '영크크' [K-POP 리포트] - 아이즈(ize)",
+      "description": "코르티스, 완벽주의 부수고 K팝의 선 넘은 이 시대의 '영크크' [K-POP 리포트] 아이즈(ize)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UdXg1a3BfcDc0OGdoYjJvbjlVZ0czZWR6SHhuR3pndnYxeGpzWkUxb2k4cG1OUVNDU09fM1hJcGtTU3h0Y19RX3VULTVFNEN4dlN6S3ZaSFFwOGQ2V29ab2hGd2RuZ9IBakFVX3lxTE1SOFVhSEpnM0Q2a0xmSnc0b3hqajA1MlFvMnhfUE14VHJSUHp1MnJKeGNkYjVtemZrc0Ntb1VfS0RSWXN6TWp3NkJEaG1MUE53U1ctWk1EM2RKc0IxcVhCYkswWncyMWFMOVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UdXg1a3BfcDc0OGdoYjJvbjlVZ0czZWR6SHhuR3pndnYxeGpzWkUxb2k4cG1OUVNDU09fM1hJcGtTU3h0Y19RX3VULTVFNEN4dlN6S3ZaSFFwOGQ2V29ab2hGd2RuZ9IBakFVX3lxTE1SOFVhSEpnM0Q2a0xmSnc0b3hqajA1MlFvMnhfUE14VHJSUHp1MnJKeGNkYjVtemZrc0Ntb1VfS0RSWXN6TWp3NkJEaG1MUE53U1ctWk1EM2RKc0IxcVhCYkswWncyMWFMOVE?oc=5",
+      "source": "아이즈(ize)",
       "publishedAt": "2026-11-16T22:15:00+00:00",
       "date": "2026-11-16T22:15:00+00:00",
       "member": "GROUP",
@@ -822,381 +1199,6 @@
       "source": "스타데일리뉴스",
       "publishedAt": "2026-11-16T00:45:32+00:00",
       "date": "2026-11-16T00:45:32+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "468a38abba3ffbc1f713",
-      "title": "코르티스, MMA2026 대상 포함 총 3관왕… “꿈꿔온 길, 코어분들이 이뤄줬다” (‘MMA2026’) - MHN스포츠",
-      "description": "코르티스, MMA2026 대상 포함 총 3관왕… “꿈꿔온 길, 코어분들이 이뤄줬다” (‘MMA2026’) MHN스포츠",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jMjhuWXhCY3VtcjJxZTFBcE0zN0d3S09MWmdMb1gzYmlRSUtFakJldjlmaW9EMERMZ0RJMVhjVG43eWY2aGN3X1NaSWRXVVNjeUd4TFMxbEFIWkk3ZEF5ZTlpbw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jMjhuWXhCY3VtcjJxZTFBcE0zN0d3S09MWmdMb1gzYmlRSUtFakJldjlmaW9EMERMZ0RJMVhjVG43eWY2aGN3X1NaSWRXVVNjeUd4TFMxbEFIWkk3ZEF5ZTlpbw?oc=5",
-      "source": "MHN스포츠",
-      "publishedAt": "2026-11-16T00:44:29+00:00",
-      "date": "2026-11-16T00:44:29+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "c6c8c70a848a6a74e4ba",
-      "title": "「MMA 2026」得獎名單出爐！BTS橫掃6獎、IVE奪年度最佳歌曲，CORTIS首登場就拿大賞| 韓星網 - LINE TODAY",
-      "description": "「MMA 2026」得獎名單出爐！BTS橫掃6獎、IVE奪年度最佳歌曲，CORTIS首登場就拿大賞| 韓星網 LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLVGNxcmctRGxMWDFjX3I2RzJKUFlhby1fQnRvcXVoQ0VYd3BTTGIwQWxJWkhKSVg0YW43bnBEZGQtb2V2LWdJdDdnNlk1VmpsZW1NVVRn?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLVGNxcmctRGxMWDFjX3I2RzJKUFlhby1fQnRvcXVoQ0VYd3BTTGIwQWxJWkhKSVg0YW43bnBEZGQtb2V2LWdJdDdnNlk1VmpsZW1NVVRn?oc=5",
-      "source": "LINE TODAY",
-      "publishedAt": "2026-11-16T00:40:40+00:00",
-      "date": "2026-11-16T00:40:40+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "36f370dbe93b04730df0",
-      "title": "코르티스, 'MMA2026' 올해의 레코드 대상 등 3관왕 \"코어가 우리 꿈 이뤄줬다\" - 싱글리스트",
-      "description": "코르티스, 'MMA2026' 올해의 레코드 대상 등 3관왕 \"코어가 우리 꿈 이뤄줬다\" 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WEx3aHV6bWYxaFYzU3pBMkVmN3NLSEhpVTBiS3ZhQS1QdnBJM1dqWC1lcmh1dGZ5NXAyNGlSbElUMUJYSXNLSWpoc0FWbFdKeE5EN2VTV0NOTHNpSzFIR2ExbG1Jdw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WEx3aHV6bWYxaFYzU3pBMkVmN3NLSEhpVTBiS3ZhQS1QdnBJM1dqWC1lcmh1dGZ5NXAyNGlSbElUMUJYSXNLSWpoc0FWbFdKeE5EN2VTV0NOTHNpSzFIR2ExbG1Jdw?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-16T00:34:04+00:00",
-      "date": "2026-11-16T00:34:04+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "8ad6c89bbe21fbd2eeee",
-      "title": "코르티스, ‘MMA2026’ 대상 ‘올해의 레코드’ 수상 - BNT뉴스",
-      "description": "코르티스, ‘MMA2026’ 대상 ‘올해의 레코드’ 수상 BNT뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0b2VHVXJQSTg3QlVGUUNDZkl1Wk9YQjJxS1lVSWQyV18xdW9DeXFkd0NTYmZaMjRITUNtSENVTzE5elBsVlQ5cEhwQzRRamRSREkxeWFvOGxqVUlzaFFaZF9XcDA?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0b2VHVXJQSTg3QlVGUUNDZkl1Wk9YQjJxS1lVSWQyV18xdW9DeXFkd0NTYmZaMjRITUNtSENVTzE5elBsVlQ5cEhwQzRRamRSREkxeWFvOGxqVUlzaFFaZF9XcDA?oc=5",
-      "source": "BNT뉴스",
-      "publishedAt": "2026-11-16T00:33:50+00:00",
-      "date": "2026-11-16T00:33:50+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "bd423da67838bd14e973",
-      "title": "방탄소년단, MMA2026 대상 2개·6관왕…에스파·아이브·코르티스도 대상 - 파이낸셜뉴스",
-      "description": "방탄소년단, MMA2026 대상 2개·6관왕…에스파·아이브·코르티스도 대상 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1seU9rWkJlaUVxbkhRbHJGLXVHU2NEcjVUcDBMekNiUU9qdFBmbXlpMmxLVF9oM0dTaVhQU1ViRzVMNkw4SENIYkhqeWpPT3B0TUI0dmlTR2Vvdw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1seU9rWkJlaUVxbkhRbHJGLXVHU2NEcjVUcDBMekNiUU9qdFBmbXlpMmxLVF9oM0dTaVhQU1ViRzVMNkw4SENIYkhqeWpPT3B0TUI0dmlTR2Vvdw?oc=5",
-      "source": "파이낸셜뉴스",
-      "publishedAt": "2026-11-15T23:28:42+00:00",
-      "date": "2026-11-15T23:28:42+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "f4df637f9c28e80e38e1",
-      "title": "방탄소년단, 6관왕으로 'MMA 2026' 휩쓸었다…아이브 눈물·코르티스 첫 대상 [종합] - 텐아시아",
-      "description": "방탄소년단, 6관왕으로 'MMA 2026' 휩쓸었다…아이브 눈물·코르티스 첫 대상 [종합] 텐아시아",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1U3RaVm1IclNTZ0tVaGVQS216QkVnaHJCd0tLc2dMQ1ZFZ0tDWWRlYjBnQlpUVERsVTBBVUgxWXBpX1BRVUNBN3NhS3BLc2RqLWhzY1RNSFlfTEU?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1U3RaVm1IclNTZ0tVaGVQS216QkVnaHJCd0tLc2dMQ1ZFZ0tDWWRlYjBnQlpUVERsVTBBVUgxWXBpX1BRVUNBN3NhS3BLc2RqLWhzY1RNSFlfTEU?oc=5",
-      "source": "텐아시아",
-      "publishedAt": "2026-11-15T23:00:00+00:00",
-      "date": "2026-11-15T23:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "fa033da0d447b3ae585d",
-      "title": "방탄소년단·에스파·아이브·코르티스, MMA2026 대상 수상 - 조이뉴스24",
-      "description": "방탄소년단·에스파·아이브·코르티스, MMA2026 대상 수상 조이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DRm9pa1dGUnQwY0Q2elJGQjAzLTJQX1g4WWZtZlc3cHJzLWUwaVIzOGo2Q0JKX3pqTmRpNG14MnloYi1taE11MWp6dTlFRjg?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DRm9pa1dGUnQwY0Q2elJGQjAzLTJQX1g4WWZtZlc3cHJzLWUwaVIzOGo2Q0JKX3pqTmRpNG14MnloYi1taE11MWp6dTlFRjg?oc=5",
-      "source": "조이뉴스24",
-      "publishedAt": "2026-11-15T22:53:00+00:00",
-      "date": "2026-11-15T22:53:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "1a13a826ec30f3d01040",
-      "title": "방탄소년단, \\'MMA 2026\\' 6관왕… 아이브·코르티스·에스파 대상 영예 - 티브이데일리",
-      "description": "방탄소년단, \\'MMA 2026\\' 6관왕… 아이브·코르티스·에스파 대상 영예 티브이데일리",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xWW9ha3FPM2Q0QVFVMDQ3TzEwLVVIUTdMZ041Sm1lZkdUNGxZVkxqOU1FWXhNTHVPMDFFUktIYklHQ1dqZWxJYW4yMUpUMXh6b0MxLUpoUDB3Rld0eHdqSDdFMlBwQlpXclY4?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xWW9ha3FPM2Q0QVFVMDQ3TzEwLVVIUTdMZ041Sm1lZkdUNGxZVkxqOU1FWXhNTHVPMDFFUktIYklHQ1dqZWxJYW4yMUpUMXh6b0MxLUpoUDB3Rld0eHdqSDdFMlBwQlpXclY4?oc=5",
-      "source": "티브이데일리",
-      "publishedAt": "2026-11-15T22:48:53+00:00",
-      "date": "2026-11-15T22:48:53+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "b25d6d259de9a6b1ae18",
-      "title": "방탄소년단, MMA 2026 대상 2개 포함 6관왕…아이브 5관왕·코르티스 3관왕 - 싱글리스트",
-      "description": "방탄소년단, MMA 2026 대상 2개 포함 6관왕…아이브 5관왕·코르티스 3관왕 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PMFN5a0dCX2kxY2JyVDlIWjZXdkdVZlp2alhiNWUxZkdGSDEwbU9sSnF6S3FhTUhCMGNDUHJVTGktdnZfLWVlZUd1N0tIbVJmY194QS1mR2dOdUN2alhOcmhsWWdFZw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PMFN5a0dCX2kxY2JyVDlIWjZXdkdVZlp2alhiNWUxZkdGSDEwbU9sSnF6S3FhTUhCMGNDUHJVTGktdnZfLWVlZUd1N0tIbVJmY194QS1mR2dOdUN2alhOcmhsWWdFZw?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-15T21:58:41+00:00",
-      "date": "2026-11-15T21:58:41+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "169556183c09a1942f05",
-      "title": "방탄소년단(BTS), MMA2026(2026 멜론뮤직어워드) 대상 2개 포함 6관왕…아이브 5관왕·코르티스 3관왕 - 한국강사신문",
-      "description": "방탄소년단(BTS), MMA2026(2026 멜론뮤직어워드) 대상 2개 포함 6관왕…아이브 5관왕·코르티스 3관왕 한국강사신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfekplWm5NQlNPRmticUtDWHlGaGkzbTVMQVV3MFRSWEEwelh5SG9nWDlScmUwMkhyb1FHVldMYTRNX0lKVFd1NFNLSmFfS2htam1PRmp1VGhyX1BvU1U0aWoxakxsVnh4ZzZ1T0JoR3U?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfekplWm5NQlNPRmticUtDWHlGaGkzbTVMQVV3MFRSWEEwelh5SG9nWDlScmUwMkhyb1FHVldMYTRNX0lKVFd1NFNLSmFfS2htam1PRmp1VGhyX1BvU1U0aWoxakxsVnh4ZzZ1T0JoR3U?oc=5",
-      "source": "한국강사신문",
-      "publishedAt": "2026-11-15T21:18:48+00:00",
-      "date": "2026-11-15T21:18:48+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "78a1b270df00eaa46d16",
-      "title": "ILLIT, IVE, Stray Kids, CORTIS, ENHYPEN, K/DA, BTS, NMIXX, And More Sweep Top Spots On Billboard World Albums Chart - Soompi",
-      "description": "ILLIT, IVE, Stray Kids, CORTIS, ENHYPEN, K/DA, BTS, NMIXX, And More Sweep Top Spots On Billboard World Albums Chart Soompi",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajM2VVd1OVhfeHo4WlNsb2hTLUthekxfcWs1Wjh4SDZqOU5XWl9BWWF6YzRic0lHdW4wU2p1MjZWazBQS01QWkJ1TmhoTmJJN3F4OEw3WHEzWllKZzZFTFNQdVlTZUdUcFlZUWtrUDkyMnd1bXJKV2Q5X2R2OG5DRjA2WW5YYWh2Nkoyc29QNTZ1ZlN3RmVpelRZLU5iTGQyYUgxc0ZYclpKV293QzhCMjdNUjBHWktnZm9MMW5acXVqRXhUNFA1U2lRdVdDZ29zR0xfa1VNQTNYSjFsQWZDak1vYw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajM2VVd1OVhfeHo4WlNsb2hTLUthekxfcWs1Wjh4SDZqOU5XWl9BWWF6YzRic0lHdW4wU2p1MjZWazBQS01QWkJ1TmhoTmJJN3F4OEw3WHEzWllKZzZFTFNQdVlTZUdUcFlZUWtrUDkyMnd1bXJKV2Q5X2R2OG5DRjA2WW5YYWh2Nkoyc29QNTZ1ZlN3RmVpelRZLU5iTGQyYUgxc0ZYclpKV293QzhCMjdNUjBHWktnZm9MMW5acXVqRXhUNFA1U2lRdVdDZ29zR0xfa1VNQTNYSjFsQWZDak1vYw?oc=5",
-      "source": "Soompi",
-      "publishedAt": "2026-11-15T21:05:21+00:00",
-      "date": "2026-11-15T21:05:21+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "6fa46b66c06db6100868",
-      "title": "BTS, 멜론뮤직어워드 6관왕…아이브·코르티스·에스파 대상 - 아시아경제",
-      "description": "BTS, 멜론뮤직어워드 6관왕…아이브·코르티스·에스파 대상 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iVWtxWkZsS2tadXByb3NhcUtyUEZVblV4UEhTT0xLeWlaOUZXd2xDX2Y0dmwzb1Q1bGxfWHhrOUF0VTFfSzNBWXMwZnROeEMyVExPSzFCckFia1dpYmwwYQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iVWtxWkZsS2tadXByb3NhcUtyUEZVblV4UEhTT0xLeWlaOUZXd2xDX2Y0dmwzb1Q1bGxfWHhrOUF0VTFfSzNBWXMwZnROeEMyVExPSzFCckFia1dpYmwwYQ?oc=5",
-      "source": "아시아경제",
-      "publishedAt": "2026-11-15T21:00:00+00:00",
-      "date": "2026-11-15T21:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "2aab1145ace309fc3616",
-      "title": "[포토] 코르티스 주훈 '헝클어진 웨이브 헤어...도트 스카프의 프렌치 시크' - 싱글리스트",
-      "description": "[포토] 코르티스 주훈 '헝클어진 웨이브 헤어...도트 스카프의 프렌치 시크' 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83b0JpS2VxRmlCaW81TVJYTGNHdnB3WUF5a1VSWXA2UlFsZ1dDV0lHMnh2YVNEODNKMGQyWkZ6N3pORFBheHN2REU5RHAxaV9aUGJXRXNLMm42bEhrbF9OcTViTlBtUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83b0JpS2VxRmlCaW81TVJYTGNHdnB3WUF5a1VSWXA2UlFsZ1dDV0lHMnh2YVNEODNKMGQyWkZ6N3pORFBheHN2REU5RHAxaV9aUGJXRXNLMm42bEhrbF9OcTViTlBtUQ?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-15T20:29:23+00:00",
-      "date": "2026-11-15T20:29:23+00:00",
-      "member": "JUHOON",
-      "members": [
-        "JUHOON"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "275dd19b46dd80b2b39a",
-      "title": "[포토] 코르티스 성현 '순정만화 찢고 나온 청초한 비주얼' - 싱글리스트",
-      "description": "[포토] 코르티스 성현 '순정만화 찢고 나온 청초한 비주얼' 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1aXloU3pEUVJKb0dJR2lIX0tBeTBWbDI2clpaM3Axd01Eejl6ajg4bUo1WXFNNXUxT1JqQ1E3RERnMmUyTlZwY2xBYUNQUEcwZlBJNGdycnY0eG1kZGF1emExcjFsQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1aXloU3pEUVJKb0dJR2lIX0tBeTBWbDI2clpaM3Axd01Eejl6ajg4bUo1WXFNNXUxT1JqQ1E3RERnMmUyTlZwY2xBYUNQUEcwZlBJNGdycnY0eG1kZGF1emExcjFsQQ?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-15T20:26:58+00:00",
-      "date": "2026-11-15T20:26:58+00:00",
-      "member": "SEONGHYEON",
-      "members": [
-        "SEONGHYEON"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "d9525f86c96bfb14a97f",
-      "title": "[포토] 코르티스 건호 '시크한 밀리터리 룩...햇살 같은 미소' - 싱글리스트",
-      "description": "[포토] 코르티스 건호 '시크한 밀리터리 룩...햇살 같은 미소' 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90b1lPWlJ2RWpmakIwMklfZUM1c0J3dXNZb1RhVHlvNjJxSU1LZkl0aEtENHNIU3EydU1ua3BZWFJtYWE1ODA5bk4tWnRaU1dnTXFrTzdUc0QzWTZrWUxWS1ZWOVRvQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90b1lPWlJ2RWpmakIwMklfZUM1c0J3dXNZb1RhVHlvNjJxSU1LZkl0aEtENHNIU3EydU1ua3BZWFJtYWE1ODA5bk4tWnRaU1dnTXFrTzdUc0QzWTZrWUxWS1ZWOVRvQQ?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-15T20:25:24+00:00",
-      "date": "2026-11-15T20:25:24+00:00",
-      "member": "KEONHO",
-      "members": [
-        "KEONHO"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "f2dc1fed5b8fb3f9c681",
-      "title": "[포토] 코르티스 마틴 '올백 웨트 머리에 가죽 재킷 조합' - 싱글리스트",
-      "description": "[포토] 코르티스 마틴 '올백 웨트 머리에 가죽 재킷 조합' 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BSHU2R3NINEFwT0ZyNUpsV0ViRmdfVlNtbnplcmZMRUlwUjk5dDNWYksxcVJFQ0hPM2JVOG1JS3BFQXJrM0R2UkkwR3JvbGEzOEtodkI1SE5YMmMwTEg5SHp5SFh6QQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BSHU2R3NINEFwT0ZyNUpsV0ViRmdfVlNtbnplcmZMRUlwUjk5dDNWYksxcVJFQ0hPM2JVOG1JS3BFQXJrM0R2UkkwR3JvbGEzOEtodkI1SE5YMmMwTEg5SHp5SFh6QQ?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-15T20:21:59+00:00",
-      "date": "2026-11-15T20:21:59+00:00",
-      "member": "MARTIN",
-      "members": [
-        "MARTIN"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "69084a8d0d656b5bf812",
-      "title": "[포토] 코르티스 제임스 '레더 코트에 선글라스로 완성한 레트로 시크' - 싱글리스트",
-      "description": "[포토] 코르티스 제임스 '레더 코트에 선글라스로 완성한 레트로 시크' 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xYVczWE5aR0d3YVJtTkE5eF8wbzBGZF9QS1JzYlgydzBEWVVlanlSbTJFSWk0dzMxbW94dFFyRFhSRHhoYXZUNmVIaFQ0ck1vVjVEemNiNlp0ekg5bUJDb0RibHJxUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xYVczWE5aR0d3YVJtTkE5eF8wbzBGZF9QS1JzYlgydzBEWVVlanlSbTJFSWk0dzMxbW94dFFyRFhSRHhoYXZUNmVIaFQ0ck1vVjVEemNiNlp0ekg5bUJDb0RibHJxUQ?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-15T20:19:52+00:00",
-      "date": "2026-11-15T20:19:52+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "5ddae73e96a37e632084",
-      "title": "방탄소년단, \"MMA 2026\" 6관왕…코르티스·아이브도 대상 영예 - 스포츠월드",
-      "description": "방탄소년단, \"MMA 2026\" 6관왕…코르티스·아이브도 대상 영예 스포츠월드",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51Uks0N3BSWVE2QnFlcWRidnRBZTl1MUcxeVA2SjI0NGdMWEI4MWlFNkhzYkFHTC04RmstZXJNMFBxV1B2cmlRS0pEYnd4eG94UkJSQjU1M2lGQlJkMG9wMWd3?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51Uks0N3BSWVE2QnFlcWRidnRBZTl1MUcxeVA2SjI0NGdMWEI4MWlFNkhzYkFHTC04RmstZXJNMFBxV1B2cmlRS0pEYnd4eG94UkJSQjU1M2lGQlJkMG9wMWd3?oc=5",
-      "source": "스포츠월드",
-      "publishedAt": "2026-11-15T20:05:00+00:00",
-      "date": "2026-11-15T20:05:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "53807926b9ae7552f02b",
-      "title": "코르티스가 멜론 뮤직 어워드에서 첫 주요 상을 수상했습니다. - Vietnam.vn",
-      "description": "코르티스가 멜론 뮤직 어워드에서 첫 주요 상을 수상했습니다. Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdEpwR0JGeXQyNW1GdHI2YzdxaUoxZTJuRUNwT2xlOEZscGNDTHYyNlV4cWFveFMxZ2xaWG9zX085eW0tQmFyUm9zeDBONXV2aXJzZmZRNUJqTU52R3NVbFhIUmowZ1FHMGJHUVNhVktGQ0lqc0NrZTRrT2xmaFJJSnV1Wkd3am8xQ3lMRWhCMVdSQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdEpwR0JGeXQyNW1GdHI2YzdxaUoxZTJuRUNwT2xlOEZscGNDTHYyNlV4cWFveFMxZ2xaWG9zX085eW0tQmFyUm9zeDBONXV2aXJzZmZRNUJqTU52R3NVbFhIUmowZ1FHMGJHUVNhVktGQ0lqc0NrZTRrT2xmaFJJSnV1Wkd3am8xQ3lMRWhCMVdSQQ?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-15T17:51:41+00:00",
-      "date": "2026-11-15T17:51:41+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "df74f540e7b0eb552b22",
-      "title": "방탄소년단, 'MMA2026' 대상 2개 포함 6관왕, 아이브 5관왕·코르티스 3관왕 - https://www.frame-less.co.kr/",
-      "description": "방탄소년단, 'MMA2026' 대상 2개 포함 6관왕, 아이브 5관왕·코르티스 3관왕 https://www.frame-less.co.kr/",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNGF3bmF4dlRoclp6YUdLUm9sUTFiM3dFYUF3WmtkeEx3eVIzQVkzSzU3NTA1SklkVkU1Z2ZEeGh3RHdMaE5JNHNuRkhkTExmMk9SZVA0cnEyM3oySnB5bXpCd2l3TjZfZFlHSlJB?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNGF3bmF4dlRoclp6YUdLUm9sUTFiM3dFYUF3WmtkeEx3eVIzQVkzSzU3NTA1SklkVkU1Z2ZEeGh3RHdMaE5JNHNuRkhkTExmMk9SZVA0cnEyM3oySnB5bXpCd2l3TjZfZFlHSlJB?oc=5",
-      "source": "https://www.frame-less.co.kr/",
-      "publishedAt": "2026-11-15T17:45:06+00:00",
-      "date": "2026-11-15T17:45:06+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "5c1456683ca655044526",
-      "title": "방탄소년단, 'MMA2026' 대상 2개 포함 6관왕, 아이브 5관왕·코르티스 3관왕 - www.frame-less.co.kr",
-      "description": "방탄소년단, 'MMA2026' 대상 2개 포함 6관왕, 아이브 5관왕·코르티스 3관왕 www.frame-less.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNGF3bmF4dlRoclp6YUdLUm9sUTFiM3dFYUF3WmtkeEx3eVIzQVkzSzU3NTA1SklkVkU1Z2ZEeGh3RHdMaE5JNHNuRkhkTExmMk9SZVA0cnEyM3oySnB5bXpCd2l3TjZfZFlHSlJB?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNGF3bmF4dlRoclp6YUdLUm9sUTFiM3dFYUF3WmtkeEx3eVIzQVkzSzU3NTA1SklkVkU1Z2ZEeGh3RHdMaE5JNHNuRkhkTExmMk9SZVA0cnEyM3oySnB5bXpCd2l3TjZfZFlHSlJB?oc=5",
-      "source": "www.frame-less.co.kr",
-      "publishedAt": "2026-11-15T17:45:06+00:00",
-      "date": "2026-11-15T17:45:06+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "6c04206c73562ab0f6f6",
-      "title": "방탄소년단·아이브·코르티스, ‘MMA 2026’ 대상 품에 안았다… 화려한 피날레 [종합] - BNT뉴스",
-      "description": "방탄소년단·아이브·코르티스, ‘MMA 2026’ 대상 품에 안았다… 화려한 피날레 [종합] BNT뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvN21CTWozTlNVWDNvMk53YWlyV1psbkd5WWlqZmlVa1ZMdE9nbUVHYjExU0tJY3FHUFBQTmhwcU9XaUMyXy1UM29ZU29xdEwxWVNhampQa2s1QnBZN0RnVUJnM1c?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvN21CTWozTlNVWDNvMk53YWlyV1psbkd5WWlqZmlVa1ZMdE9nbUVHYjExU0tJY3FHUFBQTmhwcU9XaUMyXy1UM29ZU29xdEwxWVNhampQa2s1QnBZN0RnVUJnM1c?oc=5",
-      "source": "BNT뉴스",
-      "publishedAt": "2026-11-15T16:53:11+00:00",
-      "date": "2026-11-15T16:53:11+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "a055a8495dbbcbb5b9b9",
-      "title": "MMA 2026 Day 2: BTS, CORTIS And IVE Win Big – Full Winners List Inside - Times Now",
-      "description": "MMA 2026 Day 2: BTS, CORTIS And IVE Win Big – Full Winners List Inside Times Now",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV1RBMU90dzF3UGpwc3lIUzd4Q2dHYVFXb2FhNkQwWm5vd0ZCVVc5ckNjeWhnek9aNFdNak1hTTFFS2h5bXY4VXlaOHF0OWJUcW5jUWt4aHFtdGh2a21DSjZWQmcydkJBdG1XWjZTUkJOZ0Q1MnZzaEM0azhmQVlZdUp2UE50MEdGVUZ1U0Y4TGdvSW9hRHhYU1I4eW1vQW13SHc1aGpsdDNnbU0yOGpHYlpybTQzWURVTjhHVWRKQlN0MmV5ak82OVVaMmpWSXNyTFBTSlFn0gHbAUFVX3lxTE8wcWlOcEJzQUNjN3IyN0JTakUzdV9aTVE2VDFmcVFrMDZvSl9aWUFqUGlwbzJBQ0JVbFAtdjZ5NVNnU2xJOHAySWV1bmZVS1dMQmVTOGExNVVGX3JSbnA2eDdzeTdyNXpfRU5ERjd0R2hjenFZOS1zOTNBY0tfd1cyWWZFemQzQU1vRVZjcVl2cXlTdzk4VFBfaGg4UkRvOUQxZVlvTWJlRDhBeGYyUjVhdV96czlzOFR1NGsyN29vOU51RWwtRTExdTZ6ck5LZlFFNWQ3b2NzamtTMA?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV1RBMU90dzF3UGpwc3lIUzd4Q2dHYVFXb2FhNkQwWm5vd0ZCVVc5ckNjeWhnek9aNFdNak1hTTFFS2h5bXY4VXlaOHF0OWJUcW5jUWt4aHFtdGh2a21DSjZWQmcydkJBdG1XWjZTUkJOZ0Q1MnZzaEM0azhmQVlZdUp2UE50MEdGVUZ1U0Y4TGdvSW9hRHhYU1I4eW1vQW13SHc1aGpsdDNnbU0yOGpHYlpybTQzWURVTjhHVWRKQlN0MmV5ak82OVVaMmpWSXNyTFBTSlFn0gHbAUFVX3lxTE8wcWlOcEJzQUNjN3IyN0JTakUzdV9aTVE2VDFmcVFrMDZvSl9aWUFqUGlwbzJBQ0JVbFAtdjZ5NVNnU2xJOHAySWV1bmZVS1dMQmVTOGExNVVGX3JSbnA2eDdzeTdyNXpfRU5ERjd0R2hjenFZOS1zOTNBY0tfd1cyWWZFemQzQU1vRVZjcVl2cXlTdzk4VFBfaGg4UkRvOUQxZVlvTWJlRDhBeGYyUjVhdV96czlzOFR1NGsyN29vOU51RWwtRTExdTZ6ck5LZlFFNWQ3b2NzamtTMA?oc=5",
-      "source": "Times Now",
-      "publishedAt": "2026-11-15T16:38:25+00:00",
-      "date": "2026-11-15T16:38:25+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "addb6bb270f014bc94b6",
-      "title": "방탄소년단, 'MMA 2026' 대상 포함 6관왕…코르티스·아이브·에스파도 大賞 - 뉴시스",
-      "description": "방탄소년단, 'MMA 2026' 대상 포함 6관왕…코르티스·아이브·에스파도 大賞 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUURIV3lrWVZRVXRfSjNEZEQzY2NEeUdMRG1fdnBQWW9TNTFqMG1QQ3MyZ3BSc0x5NUkwUmFKSDJVdENnbGdGanBpRTdGdUUtOTlUTzZkVG9mSDFhM25rQtIBeEFVX3lxTE5tZVpUVmVRWFVhOW5xMDB6ek1VUGp3OGM4bFJiT3FBXzFFbFZBcmRYOVgxbllVT1hFOXE5cTBLQVhLeUYxbnlTVEVLem5JYVFZSEUxYnZSZkJ2UkR6TXhnYTN1RVN5V3ZXQjA2Q2VBWkxqX3AwLWYyQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUURIV3lrWVZRVXRfSjNEZEQzY2NEeUdMRG1fdnBQWW9TNTFqMG1QQ3MyZ3BSc0x5NUkwUmFKSDJVdENnbGdGanBpRTdGdUUtOTlUTzZkVG9mSDFhM25rQtIBeEFVX3lxTE5tZVpUVmVRWFVhOW5xMDB6ek1VUGp3OGM4bFJiT3FBXzFFbFZBcmRYOVgxbllVT1hFOXE5cTBLQVhLeUYxbnlTVEVLem5JYVFZSEUxYnZSZkJ2UkR6TXhnYTN1RVN5V3ZXQjA2Q2VBWkxqX3AwLWYyQQ?oc=5",
-      "source": "뉴시스",
-      "publishedAt": "2026-11-15T15:00:00+00:00",
-      "date": "2026-11-15T15:00:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "3739b1dcae7f823bcf0c",
-      "title": "'K팝 연결 완성' MMA2026 성료, 방탄소년단 6관왕·아이브·코르티스 대상(종합) - 뉴스컬처",
-      "description": "'K팝 연결 완성' MMA2026 성료, 방탄소년단 6관왕·아이브·코르티스 대상(종합) 뉴스컬처",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0QXZBYlk4ajBXVWZoNGpMZ2FxWENDcUdQTWkyTm1OOVhTLWNrRGdOdmlGVGxpQjd2VmFINnViY2NkYlRnMjlwSVcxZDJkS3NCVERuZkFkS3JTbkFkVHpEMWVwYVhKdw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0QXZBYlk4ajBXVWZoNGpMZ2FxWENDcUdQTWkyTm1OOVhTLWNrRGdOdmlGVGxpQjd2VmFINnViY2NkYlRnMjlwSVcxZDJkS3NCVERuZkFkS3JTbkFkVHpEMWVwYVhKdw?oc=5",
-      "source": "뉴스컬처",
-      "publishedAt": "2026-11-15T15:00:00+00:00",
-      "date": "2026-11-15T15:00:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
