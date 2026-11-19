@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-19T13:12:32.408865+00:00",
+  "updatedAt": "2026-11-19T21:37:41.459001+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "983a3b255766dcf58e43",
+      "title": "지승현 “코르티스가 말랑이를 팔아?” 영크크 설명에 결국 세대차이(편스토랑) - 뉴스엔",
+      "description": "지승현 “코르티스가 말랑이를 팔아?” 영크크 설명에 결국 세대차이(편스토랑) 뉴스엔",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kdjhuR1RSZTVGcUNDUlBZd3VVNUFGeHBrWlhCdURhQlJzS05GQnJYejFYTThqdEVkZmJCeU03UjRHZXROQlFVbGV0WGRUYTFFejZfZGNBU2hHUndiRlRjSGVNam1tRmFy?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kdjhuR1RSZTVGcUNDUlBZd3VVNUFGeHBrWlhCdURhQlJzS05GQnJYejFYTThqdEVkZmJCeU03UjRHZXROQlFVbGV0WGRUYTFFejZfZGNBU2hHUndiRlRjSGVNam1tRmFy?oc=5",
+      "source": "뉴스엔",
+      "publishedAt": "2026-11-19T15:03:16+00:00",
+      "date": "2026-11-19T15:03:16+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "af4ab14ab8a5e18c2539",
       "title": "CORTISコミュニティの投稿 - 💭 - SEONGHYEON - Weverse",
@@ -57,6 +72,66 @@
       "source": "스타뉴스",
       "publishedAt": "2026-11-19T12:51:44+00:00",
       "date": "2026-11-19T12:51:44+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "daedda4fbe1f169a6227",
+      "title": "CORTIS Community Post - 💭 - SEONGHYEON - Weverse",
+      "description": "CORTIS Community Post - 💭 - SEONGHYEON Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByZVVhenFXRUFNaGFHM3JsS3JzQ19LRXNycll1c215UXk3VllVaTZyU1NtT0pycjV2UF9MUUdrWFJ2MERfU2oyNDNRQ1J2OEdwZWFsci0zVQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByZVVhenFXRUFNaGFHM3JsS3JzQ19LRXNycll1c215UXk3VllVaTZyU1NtT0pycjV2UF9MUUdrWFJ2MERfU2oyNDNRQ1J2OEdwZWFsci0zVQ?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-19T12:39:30+00:00",
+      "date": "2026-11-19T12:39:30+00:00",
+      "member": "SEONGHYEON",
+      "members": [
+        "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "7653bfc55e861cc49228",
+      "title": "CORTIS社区帖子 - 수능생 코어 여러분!! 모두들 정말 고생 많으셨습 - Weverse",
+      "description": "CORTIS社区帖子 - 수능생 코어 여러분!! 모두들 정말 고생 많으셨습 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLT0FCbEFSb3g3NnVVbjV3VzVyNjBZT3VJZTJoazZIOWNfZTJOWU9PanRtZk1SYXk5Sl9uTjRPbC1CMVRMWHJXSXdtYnBJTGpXMjhSQXZLSHJETUZVWjNkSWx5cw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLT0FCbEFSb3g3NnVVbjV3VzVyNjBZT3VJZTJoazZIOWNfZTJOWU9PanRtZk1SYXk5Sl9uTjRPbC1CMVRMWHJXSXdtYnBJTGpXMjhSQXZLSHJETUZVWjNkSWx5cw?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-19T11:01:02+00:00",
+      "date": "2026-11-19T11:01:02+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "33372f9b3a8cccf83a57",
+      "title": "CORTISコミュニティの投稿 - 수능생 코어 여러분!! 모두들 정말 고생 - Weverse",
+      "description": "CORTISコミュニティの投稿 - 수능생 코어 여러분!! 모두들 정말 고생 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kcUVPSjZzNzZTSlZacFZSbDBPSFR0MXd1M3liQkhQX1NlR29GNG1EaGxFdk1zaF9vVGZwSjFVMFRjdWpxaFpjQXhxLU53Ql94Q21wZWl5VkNPcUlXYzVn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kcUVPSjZzNzZTSlZacFZSbDBPSFR0MXd1M3liQkhQX1NlR29GNG1EaGxFdk1zaF9vVGZwSjFVMFRjdWpxaFpjQXhxLU53Ql94Q21wZWl5VkNPcUlXYzVn?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-19T10:39:10+00:00",
+      "date": "2026-11-19T10:39:10+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "85ebe41d90ece3e8141b",
+      "title": "CORTIS Community Post - 수능생 코어 여러분!! 모두들 - Weverse",
+      "description": "CORTIS Community Post - 수능생 코어 여러분!! 모두들 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15ZDUya1d5eFFsdm13WFlicEU4Rmx3VW5uTGJ6U3pDcWdIODJ4RnZtcVRLOVdpMFJSSVUyUHNTOXR6RHBrMWZDUHZMTFpsenAtVEEybVFNMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15ZDUya1d5eFFsdm13WFlicEU4Rmx3VW5uTGJ6U3pDcWdIODJ4RnZtcVRLOVdpMFJSSVUyUHNTOXR6RHBrMWZDUHZMTFpsenAtVEEybVFNMA?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-19T10:39:06+00:00",
+      "date": "2026-11-19T10:39:06+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -169,9 +244,9 @@
       "category": "NEWS"
     },
     {
-      "id": "59fded53e6123842b8c5",
-      "title": "CORTIS and BABYMONSTER are not taking it… Which idols are sitting the CSAT? - 머니투데이",
-      "description": "CORTIS and BABYMONSTER are not taking it… Which idols are sitting the CSAT? 머니투데이",
+      "id": "381df69962220addca9e",
+      "title": "Which K-pop idols are taking the college entrance exam? Cortis and BabyMonster sit it out - 머니투데이",
+      "description": "Which K-pop idols are taking the college entrance exam? Cortis and BabyMonster sit it out 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85eDZaVmNFNHZoTjczYVFGVGRtWWZXU01tLUpxeUh3NjZxek4wbGd4LVFGWUNOZXViZnMyUjBwZHZpcWpqMVItNmlNOWVMbGFLUDlfSTEyT2xqYWVxbUFLTzBnWmtCZVhHcmZlUHdZcVpHM0RwbEs0?oc=5",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85eDZaVmNFNHZoTjczYVFGVGRtWWZXU01tLUpxeUh3NjZxek4wbGd4LVFGWUNOZXViZnMyUjBwZHZpcWpqMVItNmlNOWVMbGFLUDlfSTEyT2xqYWVxbUFLTzBnWmtCZVhHcmZlUHdZcVpHM0RwbEs0?oc=5",
       "source": "머니투데이",
@@ -189,6 +264,21 @@
       "description": "코르티스·베이비몬스터는 안 본다…수능 치르는 아이돌 누구? - 머니투데이 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTY3em13cFZGbzBmc1JXTFJ4TXVFX3BuV2xUOWNYQVdWVldKWERWd1gxRmJsa28zYnlBMHRXdFJBRTZNQU8yUzBfRVRRS2RZcDI2WHVqcVR4cUZSbjhKV29FTGZER1pPS1h5bXJIZGJvTm9yYVdrQjZrNXEwX0pSb9IBhgFBVV95cUxNMTBNVnpCMXl0NTFfZllrU05FUnJJYVpXdUZZbF9vdC12V082OXNYX19RU2Q5NmdCY194UW9nVnFxYkdIanViZkcyZWwzTnJrNk52NzlPcUNHdXNlNkU5RGhoQ0FBd19uODY4TC1iMGlYNEZldGU5UDd6aHlVODV6QU5hb0N4dw?oc=5",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTY3em13cFZGbzBmc1JXTFJ4TXVFX3BuV2xUOWNYQVdWVldKWERWd1gxRmJsa28zYnlBMHRXdFJBRTZNQU8yUzBfRVRRS2RZcDI2WHVqcVR4cUZSbjhKV29FTGZER1pPS1h5bXJIZGJvTm9yYVdrQjZrNXEwX0pSb9IBhgFBVV95cUxNMTBNVnpCMXl0NTFfZllrU05FUnJJYVpXdUZZbF9vdC12V082OXNYX19RU2Q5NmdCY194UW9nVnFxYkdIanViZkcyZWwzTnJrNk52NzlPcUNHdXNlNkU5RGhoQ0FBd19uODY4TC1iMGlYNEZldGU5UDd6aHlVODV6QU5hb0N4dw?oc=5",
+      "source": "머니투데이",
+      "publishedAt": "2026-11-19T01:26:18+00:00",
+      "date": "2026-11-19T01:26:18+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "59fded53e6123842b8c5",
+      "title": "CORTIS and BABYMONSTER are not taking it… Which idols are sitting the CSAT? - 머니투데이",
+      "description": "CORTIS and BABYMONSTER are not taking it… Which idols are sitting the CSAT? 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85eDZaVmNFNHZoTjczYVFGVGRtWWZXU01tLUpxeUh3NjZxek4wbGd4LVFGWUNOZXViZnMyUjBwZHZpcWpqMVItNmlNOWVMbGFLUDlfSTEyT2xqYWVxbUFLTzBnWmtCZVhHcmZlUHdZcVpHM0RwbEs0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85eDZaVmNFNHZoTjczYVFGVGRtWWZXU01tLUpxeUh3NjZxek4wbGd4LVFGWUNOZXViZnMyUjBwZHZpcWpqMVItNmlNOWVMbGFLUDlfSTEyT2xqYWVxbUFLTzBnWmtCZVhHcmZlUHdZcVpHM0RwbEs0?oc=5",
       "source": "머니투데이",
       "publishedAt": "2026-11-19T01:26:18+00:00",
       "date": "2026-11-19T01:26:18+00:00",
@@ -334,21 +424,6 @@
       "category": "NEWS"
     },
     {
-      "id": "f8150a48fb0ea5cb2b8a",
-      "title": "코르티스,’철통 경호 속 출국’ [O! STAR 숏폼] - 조선일보",
-      "description": "코르티스,’철통 경호 속 출국’ [O! STAR 숏폼] 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3BOTjV2ZFFWR0xqV1oxUGo5UEYzVy1BM1NkcVNLNVFJbDVTU1hHVmx1MWR5dktnbTE5cGt6OU5lMWlTaHM0Z2otYnVoNGtKZ2lTOHdGbXhPaV9ReGp4a2tJbjI1bGdqNWJJRFlqamdiSVI3cWZicGxfaDFEZXJXMGpmRUZJQVgzUFBSZkFiVQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3BOTjV2ZFFWR0xqV1oxUGo5UEYzVy1BM1NkcVNLNVFJbDVTU1hHVmx1MWR5dktnbTE5cGt6OU5lMWlTaHM0Z2otYnVoNGtKZ2lTOHdGbXhPaV9ReGp4a2tJbjI1bGdqNWJJRFlqamdiSVI3cWZicGxfaDFEZXJXMGpmRUZJQVgzUFBSZkFiVQ?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-11-18T11:36:00+00:00",
-      "date": "2026-11-18T11:36:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "7a945b9d9639ed2bd66e",
       "title": "[사진]코르티스 주훈, 칼바람 맞으며 - Chosunbiz",
       "description": "[사진]코르티스 주훈, 칼바람 맞으며 Chosunbiz",
@@ -360,6 +435,21 @@
       "member": "JUHOON",
       "members": [
         "JUHOON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "f8150a48fb0ea5cb2b8a",
+      "title": "코르티스,’철통 경호 속 출국’ [O! STAR 숏폼] - Chosunbiz",
+      "description": "코르티스,’철통 경호 속 출국’ [O! STAR 숏폼] Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakhUUXVxYVdKZm1idmZxNmh5SUNhbm5ZY1IwbGR4VnNDM0h1eWdfd3ZmUDF3cVNwYk9DNHdIMzE3X1dzQnltWmlISHpzMWEtNllESVJOV05oUmd6RWUxQnVjOWFhc0dDemFWNFMyN2F3R0d0a3lnR1l2NjZnY0ZtU21XS0I1aUJudl9kOTlveGR5WjjSAacBQVVfeXFMTlBMODBQdnVGbXBIX1FsQ01HQUh0bkV0Y0JkRWl6OVUwSE9WNFdRaGNqQ3hjYUt0NGc4Q25NYWJzMThYMi1peXJGaGJabktiYWZXbTM3cmpYZXQtOU54ZWZxcDNBblRESUJpMWFaT3R4M0N1SVBFRmdiRnZhVFJDeEsyS0VuUHFzMmR2QUQ5UGE2QXNBR2tPcUhuSGQzS0lGY2sydl82LW8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakhUUXVxYVdKZm1idmZxNmh5SUNhbm5ZY1IwbGR4VnNDM0h1eWdfd3ZmUDF3cVNwYk9DNHdIMzE3X1dzQnltWmlISHpzMWEtNllESVJOV05oUmd6RWUxQnVjOWFhc0dDemFWNFMyN2F3R0d0a3lnR1l2NjZnY0ZtU21XS0I1aUJudl9kOTlveGR5WjjSAacBQVVfeXFMTlBMODBQdnVGbXBIX1FsQ01HQUh0bkV0Y0JkRWl6OVUwSE9WNFdRaGNqQ3hjYUt0NGc4Q25NYWJzMThYMi1peXJGaGJabktiYWZXbTM3cmpYZXQtOU54ZWZxcDNBblRESUJpMWFaT3R4M0N1SVBFRmdiRnZhVFJDeEsyS0VuUHFzMmR2QUQ5UGE2QXNBR2tPcUhuSGQzS0lGY2sydl82LW8?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-11-18T11:36:00+00:00",
+      "date": "2026-11-18T11:36:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     },
@@ -410,6 +500,21 @@
       "category": "NEWS"
     },
     {
+      "id": "77e785967715c7e13abc",
+      "title": "[사진]코르티스 제임스, 힙하게 - OSEN",
+      "description": "[사진]코르티스 제임스, 힙하게 OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBycWdqMzFMOEV2bjBsMXVIc3ExcTlwaF9OdWQ5YW5Tb3piV2c2UEY0SXUtSVZ6bXJvbG5uNVhqYkFLT25YQW5MbVNCRVNmV201eUdadA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBycWdqMzFMOEV2bjBsMXVIc3ExcTlwaF9OdWQ5YW5Tb3piV2c2UEY0SXUtSVZ6bXJvbG5uNVhqYkFLT25YQW5MbVNCRVNmV201eUdadA?oc=5",
+      "source": "OSEN",
+      "publishedAt": "2026-11-18T11:33:00+00:00",
+      "date": "2026-11-18T11:33:00+00:00",
+      "member": "JAMES",
+      "members": [
+        "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "bb3a92fe6152c1d8c547",
       "title": "[사진]코르티스 성현-마틴, 카리스마 넘치는 MAMA 출국 - OSEN",
       "description": "[사진]코르티스 성현-마틴, 카리스마 넘치는 MAMA 출국 OSEN",
@@ -431,21 +536,6 @@
       "description": "[사진]코르티스 제임스, 고개 숙인채 OSEN",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtMGs1eno2cTZmSjJ1TTVxTl9kSVYySjJOd0VmX3BYUUhMa21kMklDa2F1aHl5cG1sNC1CVjZWUzlrd0pHQWpKSVRSQkdQcmhnNXVLSA?oc=5",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtMGs1eno2cTZmSjJ1TTVxTl9kSVYySjJOd0VmX3BYUUhMa21kMklDa2F1aHl5cG1sNC1CVjZWUzlrd0pHQWpKSVRSQkdQcmhnNXVLSA?oc=5",
-      "source": "OSEN",
-      "publishedAt": "2026-11-18T11:33:00+00:00",
-      "date": "2026-11-18T11:33:00+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "77e785967715c7e13abc",
-      "title": "[사진]코르티스 제임스, 힙하게 - OSEN",
-      "description": "[사진]코르티스 제임스, 힙하게 OSEN",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBycWdqMzFMOEV2bjBsMXVIc3ExcTlwaF9OdWQ5YW5Tb3piV2c2UEY0SXUtSVZ6bXJvbG5uNVhqYkFLT25YQW5MbVNCRVNmV201eUdadA?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBycWdqMzFMOEV2bjBsMXVIc3ExcTlwaF9OdWQ5YW5Tb3piV2c2UEY0SXUtSVZ6bXJvbG5uNVhqYkFLT25YQW5MbVNCRVNmV201eUdadA?oc=5",
       "source": "OSEN",
       "publishedAt": "2026-11-18T11:33:00+00:00",
       "date": "2026-11-18T11:33:00+00:00",
@@ -719,6 +809,21 @@
       "source": "OSEN",
       "publishedAt": "2026-11-18T02:25:00+00:00",
       "date": "2026-11-18T02:25:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "0f211a492f38e0573cd1",
+      "title": "수능 패스, 본업 올인…리센느→코르티스까지 ‘미응시’ 택한 08년생 아이돌들 [종합] - TV리포트",
+      "description": "수능 패스, 본업 올인…리센느→코르티스까지 ‘미응시’ 택한 08년생 아이돌들 [종합] TV리포트",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SR2MzZXE4QWhORFBuNmVxZ2ZoSFhkQTl4dExudXpNb2RldlZTWHpaSEJtY0RlNmtrb19DQkVwSzJtQ3p1Vk5aNEs1VHRPekV6bmNfSzVHZHc0Y01r0gFiQVVfeXFMTXhWVWVLZE1rTWtRRzlSbUViUWxxUXBiZS1tV2FaeE5lMjE1amxlUko0Y1djTVRlbmI1eF9oc3FUajlpSTJyeGNneGRjdzN3V3JTbUlOdHhteHJxaDBMQ3JlRkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SR2MzZXE4QWhORFBuNmVxZ2ZoSFhkQTl4dExudXpNb2RldlZTWHpaSEJtY0RlNmtrb19DQkVwSzJtQ3p1Vk5aNEs1VHRPekV6bmNfSzVHZHc0Y01r0gFiQVVfeXFMTXhWVWVLZE1rTWtRRzlSbUViUWxxUXBiZS1tV2FaeE5lMjE1amxlUko0Y1djTVRlbmI1eF9oc3FUajlpSTJyeGNneGRjdzN3V3JTbUlOdHhteHJxaDBMQ3JlRkE?oc=5",
+      "source": "TV리포트",
+      "publishedAt": "2026-11-18T02:04:14+00:00",
+      "date": "2026-11-18T02:04:14+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -1097,111 +1202,6 @@
       "member": "JAMES",
       "members": [
         "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "27eb19587da200f75d1e",
-      "title": "[HD포토] 코르티스 제임스, ‘불타는 조명은 RED RED’ (2026 멜론뮤직어워드) - 톱스타뉴스",
-      "description": "[HD포토] 코르티스 제임스, ‘불타는 조명은 RED RED’ (2026 멜론뮤직어워드) 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PcWpTamJSOTV4WUNiTFFpX3A3bjR1a2VuZjgzX2xUOUl3d1NhYmVXYnItQVFHZzBKWUQ1d1ZWRTFSdG16OVN6M25UZkRWNDlpMlg2aEVDUVJXMGZXVUxPbkZlTHZMQ3JQVUpJYWVmS2RIQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PcWpTamJSOTV4WUNiTFFpX3A3bjR1a2VuZjgzX2xUOUl3d1NhYmVXYnItQVFHZzBKWUQ1d1ZWRTFSdG16OVN6M25UZkRWNDlpMlg2aEVDUVJXMGZXVUxPbkZlTHZMQ3JQVUpJYWVmS2RIQQ?oc=5",
-      "source": "톱스타뉴스",
-      "publishedAt": "2026-11-16T11:45:00+00:00",
-      "date": "2026-11-16T11:45:00+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "13a17f3bbf34333ecffd",
-      "title": "코르티스 커뮤니티 포스트 - Shout out to 코어!!! 코어들 이 - Weverse",
-      "description": "코르티스 커뮤니티 포스트 - Shout out to 코어!!! 코어들 이 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EMmg0U3p1VUVCS3RIVWYxQmY5dzUySGJUTHNzWGt1ZlhGNEdBeGQ1cXVyX0dHXy1uRFVyb0ViRjFqUzctVE9qd01LeUlXOHNGNnZ1UnVMbUd5c2NvRmU4?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EMmg0U3p1VUVCS3RIVWYxQmY5dzUySGJUTHNzWGt1ZlhGNEdBeGQ1cXVyX0dHXy1uRFVyb0ViRjFqUzctVE9qd01LeUlXOHNGNnZ1UnVMbUd5c2NvRmU4?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-16T11:01:01+00:00",
-      "date": "2026-11-16T11:01:01+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "a6fdf67452af2b3ec36b",
-      "title": "[셀럽포토]코르티스 \\'자유로운 영혼\\' - 셀럽미디어",
-      "description": "[셀럽포토]코르티스 \\'자유로운 영혼\\' 셀럽미디어",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wdFVodzJlb0txeWcxbDJsc2FoUjFRcmxBUVdMb29CNXlQN2pqNzN1NlBSNlFBaU1lcW1aTVV3SkMyWWxBdVdUUjdpcy0yREJ6Yk85eDhKczNJSnlac3JXR3R5NW9rQ0xodG1N?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wdFVodzJlb0txeWcxbDJsc2FoUjFRcmxBUVdMb29CNXlQN2pqNzN1NlBSNlFBaU1lcW1aTVV3SkMyWWxBdVdUUjdpcy0yREJ6Yk85eDhKczNJSnlac3JXR3R5NW9rQ0xodG1N?oc=5",
-      "source": "셀럽미디어",
-      "publishedAt": "2026-11-16T09:38:53+00:00",
-      "date": "2026-11-16T09:38:53+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "29c315a893fbb9c52d19",
-      "title": "다섯 명이 MMA를 통째로 삼켰다…코르티스, “콘서트야?” 반응 터진 무대에 팬들 빠졌다 [Oh!쎈 이슈] - OSEN",
-      "description": "다섯 명이 MMA를 통째로 삼켰다…코르티스, “콘서트야?” 반응 터진 무대에 팬들 빠졌다 [Oh!쎈 이슈] OSEN",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DM190VFhVeVZ2bUp2amJkSUxWRUdjQUpHbE1pd01wSTRpemZJb3JaSUd0YnhHUER0Qzl1bzlMZFBhQ25wSjdrbmtFZ0NxUnNmWTZTQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DM190VFhVeVZ2bUp2amJkSUxWRUdjQUpHbE1pd01wSTRpemZJb3JaSUd0YnhHUER0Qzl1bzlMZFBhQ25wSjdrbmtFZ0NxUnNmWTZTQQ?oc=5",
-      "source": "OSEN",
-      "publishedAt": "2026-11-16T09:30:00+00:00",
-      "date": "2026-11-16T09:30:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "248bd5902a2d38b23b18",
-      "title": "Post de la Comunidad CORTIS - 우리의 이야기를 들 - Weverse",
-      "description": "Post de la Comunidad CORTIS - 우리의 이야기를 들 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41c2F4V25hTkk1aVlib2txX2J3cGlhUXdicmR6bDhsdHFYX0draF9jR0pGQUJfeWpSYXFiU0tuRUU4aTU3cExERTZZa1I0b0ZGUmZxMTdVZXZwMHBqTG5B?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41c2F4V25hTkk1aVlib2txX2J3cGlhUXdicmR6bDhsdHFYX0draF9jR0pGQUJfeWpSYXFiU0tuRUU4aTU3cExERTZZa1I0b0ZGUmZxMTdVZXZwMHBqTG5B?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-16T09:02:44+00:00",
-      "date": "2026-11-16T09:02:44+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "20337280576ab6eee6ea",
-      "title": "코르티스 위버스 LIVE - 주훈 - 주훈 - Weverse",
-      "description": "코르티스 위버스 LIVE - 주훈 - 주훈 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuQ1V3MU9tWXdXRG1wekVGRXlmcWN4dXNWZHdlNmpVNmx1SkgxOElOclBBNjQweXJzTDdTb0lyN0ptczZCT2Y2SzlySHoyY0xKQkdsNHpBTjlUVldL?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuQ1V3MU9tWXdXRG1wekVGRXlmcWN4dXNWZHdlNmpVNmx1SkgxOElOclBBNjQweXJzTDdTb0lyN0ptczZCT2Y2SzlySHoyY0xKQkdsNHpBTjlUVldL?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-16T09:02:39+00:00",
-      "date": "2026-11-16T09:02:39+00:00",
-      "member": "JUHOON",
-      "members": [
-        "JUHOON"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "98bcfa7dfe395f29753b",
-      "title": "CORTIS Community Post - 우리의 이야기를 들어주셔서 고 - Weverse",
-      "description": "CORTIS Community Post - 우리의 이야기를 들어주셔서 고 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwcXBoX2RDN3FsN2dBTEljRl9iYnl1MC1NMkQ3c1ByNUhQdDNXR2FNT0xucXRqRG5Kcmx3VEhqekhUcVgwYU9YUjhTRUl0dlA1eHI1RUFfTQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwcXBoX2RDN3FsN2dBTEljRl9iYnl1MC1NMkQ3c1ByNUhQdDNXR2FNT0xucXRqRG5Kcmx3VEhqekhUcVgwYU9YUjhTRUl0dlA1eHI1RUFfTQ?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-16T09:02:38+00:00",
-      "date": "2026-11-16T09:02:38+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
       ],
       "category": "NEWS"
     }
