@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-19T21:37:41.459001+00:00",
+  "updatedAt": "2026-11-20T03:19:11.946917+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "5336d3e2e60ed8b2eca7",
+      "title": "今年最も話題を呼んだ新人グループCORTIS、『MMA2026』初出演で大賞「今年のレコード」ほか3冠獲得！「より素敵な姿をお見せしていきたい」 - USENの音楽情報サイト",
+      "description": "今年最も話題を呼んだ新人グループCORTIS、『MMA2026』初出演で大賞「今年のレコード」ほか3冠獲得！「より素敵な姿をお見せしていきたい」 USENの音楽情報サイト",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qU0RvU2ZTZWN2NThsd3JESHMwZWVfSDRoUDJwd3R1bHk0dFA4bkZyOUVRSTlkUng1MS1mRHI3Nm1MWGZoYlF5T1E5Ny1qMEV1WFBXdVNzZWFib0JMRDlDV2swaHRIcVU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qU0RvU2ZTZWN2NThsd3JESHMwZWVfSDRoUDJwd3R1bHk0dFA4bkZyOUVRSTlkUng1MS1mRHI3Nm1MWGZoYlF5T1E5Ny1qMEV1WFBXdVNzZWFib0JMRDlDV2swaHRIcVU?oc=5",
+      "source": "USENの音楽情報サイト",
+      "publishedAt": "2026-11-20T01:04:14+00:00",
+      "date": "2026-11-20T01:04:14+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "983a3b255766dcf58e43",
       "title": "지승현 “코르티스가 말랑이를 팔아?” 영크크 설명에 결국 세대차이(편스토랑) - 뉴스엔",
@@ -424,21 +439,6 @@
       "category": "NEWS"
     },
     {
-      "id": "7a945b9d9639ed2bd66e",
-      "title": "[사진]코르티스 주훈, 칼바람 맞으며 - Chosunbiz",
-      "description": "[사진]코르티스 주훈, 칼바람 맞으며 Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWxkbXV4VmZFMnRkcnY5Z2tvbm9uQzdsRDlNQjgxNDlycFNEVC1RVi11WDNMMG55bEY0RXhGelR5cWlWRXNnMHJ0RTNEanMza0FKQlQtR2lEVTVkSTRUSVF5RVM2M2M5QzFsc0VGcmJpLUNlYi05cHZ3aE5jaEU5b1pyNHNiRmtkMnRpMXY5RWdqUXFWT2hqQkhCUdIBrwFBVV95cUxOV1hmSExyZ1dWSFo1ekVZSmxKYUZkSE1RbUVjX3BUQkxwTGtMQUlrLUdObV9sOE5fSXRYQzNzbXFGeVJZYXZ4V1ByMEhIMjVEejFCTkJPZlFUOWpoUU56NUJIV0FfQzZlbGVaaXV1V2QwRk1uQWx2QkN5cTBPalhEMjdLR3dwc2d3RmlPZFNYVzBaN2lvZ2QtZGdMcEI3Wlg0Qm9PYlZab2FKVTNJakRJ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWxkbXV4VmZFMnRkcnY5Z2tvbm9uQzdsRDlNQjgxNDlycFNEVC1RVi11WDNMMG55bEY0RXhGelR5cWlWRXNnMHJ0RTNEanMza0FKQlQtR2lEVTVkSTRUSVF5RVM2M2M5QzFsc0VGcmJpLUNlYi05cHZ3aE5jaEU5b1pyNHNiRmtkMnRpMXY5RWdqUXFWT2hqQkhCUdIBrwFBVV95cUxOV1hmSExyZ1dWSFo1ekVZSmxKYUZkSE1RbUVjX3BUQkxwTGtMQUlrLUdObV9sOE5fSXRYQzNzbXFGeVJZYXZ4V1ByMEhIMjVEejFCTkJPZlFUOWpoUU56NUJIV0FfQzZlbGVaaXV1V2QwRk1uQWx2QkN5cTBPalhEMjdLR3dwc2d3RmlPZFNYVzBaN2lvZ2QtZGdMcEI3Wlg0Qm9PYlZab2FKVTNJakRJ?oc=5",
-      "source": "Chosunbiz",
-      "publishedAt": "2026-11-18T11:36:00+00:00",
-      "date": "2026-11-18T11:36:00+00:00",
-      "member": "JUHOON",
-      "members": [
-        "JUHOON"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "f8150a48fb0ea5cb2b8a",
       "title": "코르티스,’철통 경호 속 출국’ [O! STAR 숏폼] - Chosunbiz",
       "description": "코르티스,’철통 경호 속 출국’ [O! STAR 숏폼] Chosunbiz",
@@ -485,21 +485,6 @@
       "category": "NEWS"
     },
     {
-      "id": "062e00b7e255c8a72829",
-      "title": "[사진]코르티스 건호, MAMA 잘 다녀올게요 - Chosunbiz",
-      "description": "[사진]코르티스 건호, MAMA 잘 다녀올게요 Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9lNzB6U3ZyX3FaOS1RVms4ZnZYZEVWSzhmelhhSlBaYTZ0V0R2aDhvampvbms3Z1ZDaTBMSzFhT3cyUklhaHUyRXpjQmoxYmR3b1FrNW1GWm81ZHVfSlE1Qi1rSFBSUUtLb0s1d01kR2lxTUtYejFiNkhUS0xVRkczNFZCcHYwOHpDeDZGaHBJS2hnak82bV95RdIBrwFBVV95cUxPTUlVYXl2a2Q5RmdORHJmX3NVMWtjWncyNzVpaS1SSGNacmJyMlJFUWVLQ0hkU1MyWkx1YTNRRmgzMXlnbGVnLUsybXE3VnZMclc5S3JEUmNqNlJRTW1HRk5BUDNKNldNZTFOcmFVWUhnM2I2UGNtTFB1RjdNSkFEMGpkX2ZLSU1ONHRIS3VabFlmOGh1Nm1saTl4ZHpaa0dKM2dKMktCeGdxWVc3OTRv?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9lNzB6U3ZyX3FaOS1RVms4ZnZYZEVWSzhmelhhSlBaYTZ0V0R2aDhvampvbms3Z1ZDaTBMSzFhT3cyUklhaHUyRXpjQmoxYmR3b1FrNW1GWm81ZHVfSlE1Qi1rSFBSUUtLb0s1d01kR2lxTUtYejFiNkhUS0xVRkczNFZCcHYwOHpDeDZGaHBJS2hnak82bV95RdIBrwFBVV95cUxPTUlVYXl2a2Q5RmdORHJmX3NVMWtjWncyNzVpaS1SSGNacmJyMlJFUWVLQ0hkU1MyWkx1YTNRRmgzMXlnbGVnLUsybXE3VnZMclc5S3JEUmNqNlJRTW1HRk5BUDNKNldNZTFOcmFVWUhnM2I2UGNtTFB1RjdNSkFEMGpkX2ZLSU1ONHRIS3VabFlmOGh1Nm1saTl4ZHpaa0dKM2dKMktCeGdxWVc3OTRv?oc=5",
-      "source": "Chosunbiz",
-      "publishedAt": "2026-11-18T11:34:00+00:00",
-      "date": "2026-11-18T11:34:00+00:00",
-      "member": "KEONHO",
-      "members": [
-        "KEONHO"
-      ],
-      "category": "NEWS"
-    },
-    {
       "id": "77e785967715c7e13abc",
       "title": "[사진]코르티스 제임스, 힙하게 - OSEN",
       "description": "[사진]코르티스 제임스, 힙하게 OSEN",
@@ -511,6 +496,36 @@
       "member": "JAMES",
       "members": [
         "JAMES"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "7a945b9d9639ed2bd66e",
+      "title": "[사진]코르티스 주훈, 칼바람 맞으며 - OSEN",
+      "description": "[사진]코르티스 주훈, 칼바람 맞으며 OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aVnpOU3c5S0pfOFR0Wm9BQ3A3M3l0MHFna2MyX0xWSHctSDhkMlM0OFdEQ2dmVHFIa2J5VzlDbThfUC16MGkzM1NWRUxfYzNOc1JSdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aVnpOU3c5S0pfOFR0Wm9BQ3A3M3l0MHFna2MyX0xWSHctSDhkMlM0OFdEQ2dmVHFIa2J5VzlDbThfUC16MGkzM1NWRUxfYzNOc1JSdw?oc=5",
+      "source": "OSEN",
+      "publishedAt": "2026-11-18T11:33:00+00:00",
+      "date": "2026-11-18T11:33:00+00:00",
+      "member": "JUHOON",
+      "members": [
+        "JUHOON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "062e00b7e255c8a72829",
+      "title": "[사진]코르티스 건호, MAMA 잘 다녀올게요 - OSEN",
+      "description": "[사진]코르티스 건호, MAMA 잘 다녀올게요 OSEN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lQVhyOTNYd2ZmRDJxQTlaWE01ellZMWYwbVNPN1pXekJxTFlnSGRWZEU5eXhENk5NYnd5bGY1M2NVYlZJc244T1Zzdk9GcVNmb2tYVA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lQVhyOTNYd2ZmRDJxQTlaWE01ellZMWYwbVNPN1pXekJxTFlnSGRWZEU5eXhENk5NYnd5bGY1M2NVYlZJc244T1Zzdk9GcVNmb2tYVA?oc=5",
+      "source": "OSEN",
+      "publishedAt": "2026-11-18T11:33:00+00:00",
+      "date": "2026-11-18T11:33:00+00:00",
+      "member": "KEONHO",
+      "members": [
+        "KEONHO"
       ],
       "category": "NEWS"
     },
@@ -737,6 +752,21 @@
       "member": "SEONGHYEON",
       "members": [
         "SEONGHYEON"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "8cca0e768b538f0ecdea",
+      "title": "CORTIS, RESCENE members among K-pop idols skipping college entrance exam to focus on careers - The Korea Times",
+      "description": "CORTIS, RESCENE members among K-pop idols skipping college entrance exam to focus on careers The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR1RQRm12Q0hvNlV2cldWclU0Q0ZPSFk2elBkM0wwV1FzVHVGWnNBTGNTWDRkX3dyVGxoS2diclhBbUFVLVBiaU1GRkJIWXc3U2lTTE1hRThOQ0dCdmt5RDVBdnhqR2xEbG0zQUtES3hPNWJ2LTVMeEJza1hBbm9ERVBweGtMQWlyZE5tUTdDTGJHblJXYjBoNVpnTE1zV3k4bDFFcDU4d2c0UzE2Y0MwbmpibUM4SGM3WWl6MHNfSnMtVTBnMW1vYkhHYzQ2U3NvckdCTDFUMExnN1l5Wjlnb9IB4AFBVV95cUxOR1RQRm12Q0hvNlV2cldWclU0Q0ZPSFk2elBkM0wwV1FzVHVGWnNBTGNTWDRkX3dyVGxoS2diclhBbUFVLVBiaU1GRkJIWXc3U2lTTE1hRThOQ0dCdmt5RDVBdnhqR2xEbG0zQUtES3hPNWJ2LTVMeEJza1hBbm9ERVBweGtMQWlyZE5tUTdDTGJHblJXYjBoNVpnTE1zV3k4bDFFcDU4d2c0UzE2Y0MwbmpibUM4SGM3WWl6MHNfSnMtVTBnMW1vYkhHYzQ2U3NvckdCTDFUMExnN1l5Wjlnbw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR1RQRm12Q0hvNlV2cldWclU0Q0ZPSFk2elBkM0wwV1FzVHVGWnNBTGNTWDRkX3dyVGxoS2diclhBbUFVLVBiaU1GRkJIWXc3U2lTTE1hRThOQ0dCdmt5RDVBdnhqR2xEbG0zQUtES3hPNWJ2LTVMeEJza1hBbm9ERVBweGtMQWlyZE5tUTdDTGJHblJXYjBoNVpnTE1zV3k4bDFFcDU4d2c0UzE2Y0MwbmpibUM4SGM3WWl6MHNfSnMtVTBnMW1vYkhHYzQ2U3NvckdCTDFUMExnN1l5Wjlnb9IB4AFBVV95cUxOR1RQRm12Q0hvNlV2cldWclU0Q0ZPSFk2elBkM0wwV1FzVHVGWnNBTGNTWDRkX3dyVGxoS2diclhBbUFVLVBiaU1GRkJIWXc3U2lTTE1hRThOQ0dCdmt5RDVBdnhqR2xEbG0zQUtES3hPNWJ2LTVMeEJza1hBbm9ERVBweGtMQWlyZE5tUTdDTGJHblJXYjBoNVpnTE1zV3k4bDFFcDU4d2c0UzE2Y0MwbmpibUM4SGM3WWl6MHNfSnMtVTBnMW1vYkhHYzQ2U3NvckdCTDFUMExnN1l5Wjlnbw?oc=5",
+      "source": "The Korea Times",
+      "publishedAt": "2026-11-18T07:57:03+00:00",
+      "date": "2026-11-18T07:57:03+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     },
@@ -1172,36 +1202,6 @@
       "member": "GROUP",
       "members": [
         "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "3e620147b0961a242800",
-      "title": "IVE Wonyoung and CORTIS's Contrasting Behavior At \"Melon Music Awards\" Trigger Intense Debate - Koreaboo",
-      "description": "IVE Wonyoung and CORTIS's Contrasting Behavior At \"Melon Music Awards\" Trigger Intense Debate Koreaboo",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGd6bVhKeUFzbkpOMWJYY2l6blFDTV9ERV9NdllBNjF6emRoaVM3X0swaDVpcVVnZ2dGY0VxbWZ3Sk9RREFQeXFFTDRnYTBsdEpwMWZaT0lHeGx1b0JsYmRvRWw4OEt5RHVDMUhDa201M1BKTlM1MjhUVTAwb1V2WWJOaTR1MEZqMWlBWjk3R1VDMXFReWZYazd2VnpRQ0xGb2RDeEt5anl4V0VzNUlIaUZKQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGd6bVhKeUFzbkpOMWJYY2l6blFDTV9ERV9NdllBNjF6emRoaVM3X0swaDVpcVVnZ2dGY0VxbWZ3Sk9RREFQeXFFTDRnYTBsdEpwMWZaT0lHeGx1b0JsYmRvRWw4OEt5RHVDMUhDa201M1BKTlM1MjhUVTAwb1V2WWJOaTR1MEZqMWlBWjk3R1VDMXFReWZYazd2VnpRQ0xGb2RDeEt5anl4V0VzNUlIaUZKQQ?oc=5",
-      "source": "Koreaboo",
-      "publishedAt": "2026-11-16T12:15:28+00:00",
-      "date": "2026-11-16T12:15:28+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "544abc8a8d68acf707f5",
-      "title": "[HD포토] 코르티스 제임스, ‘나 좀 멋진듯’ (2026 멜론뮤직어워드) - 톱스타뉴스",
-      "description": "[HD포토] 코르티스 제임스, ‘나 좀 멋진듯’ (2026 멜론뮤직어워드) 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zb2NYWV94d1gzOTMzTE1TUkdPU0djYkJOQnYzb2FYMEtJV1FDYWViTWs5TUNxeGpBV3VDd0Nuc2NPb0ZtQlRwVF94WFBLT1VMbU1EN0E0MkdLUktjcm9pSVF0V3J1WmZWb2UtLWJXcEFpUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zb2NYWV94d1gzOTMzTE1TUkdPU0djYkJOQnYzb2FYMEtJV1FDYWViTWs5TUNxeGpBV3VDd0Nuc2NPb0ZtQlRwVF94WFBLT1VMbU1EN0E0MkdLUktjcm9pSVF0V3J1WmZWb2UtLWJXcEFpUQ?oc=5",
-      "source": "톱스타뉴스",
-      "publishedAt": "2026-11-16T11:45:00+00:00",
-      "date": "2026-11-16T11:45:00+00:00",
-      "member": "JAMES",
-      "members": [
-        "JAMES"
       ],
       "category": "NEWS"
     }
