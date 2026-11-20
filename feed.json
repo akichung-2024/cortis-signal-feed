@@ -1,8 +1,83 @@
 {
-  "updatedAt": "2026-11-20T12:56:22.450212+00:00",
+  "updatedAt": "2026-11-20T21:07:40.812538+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "86515304691fc518cc85",
+      "title": "CORTIS Community Post - 1일차 끝났네~ 우리 친구들 - Weverse",
+      "description": "CORTIS Community Post - 1일차 끝났네~ 우리 친구들 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZSWVZdlZTTzlqWmxZelhPLTFZOG9nVmxoZllhbVhKOXFIWjJVcFRvTGhSWnFqanUyckk0STItaVpkejdYWE9ESmgyRkRaa24wLWFfb3dfQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZSWVZdlZTTzlqWmxZelhPLTFZOG9nVmxoZllhbVhKOXFIWjJVcFRvTGhSWnFqanUyckk0STItaVpkejdYWE9ESmgyRkRaa24wLWFfb3dfQQ?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-20T18:00:36+00:00",
+      "date": "2026-11-20T18:00:36+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "70c9edd5cae738837c2a",
+      "title": "코르티스 커뮤니티 포스트 - 저희의 두번 째 MAMA 본무대 전부터 상으로 시작하게 해준 코어들에게 감사를!!! - 건호 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - 저희의 두번 째 MAMA 본무대 전부터 상으로 시작하게 해준 코어들에게 감사를!!! - 건호 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JN2VmNDlsTy1YMDYxRmFfR1hjRmx6U0xtZEhJZ291Vlp6eW9GQTRROXBNWjQzaEp3SWNnN2hVd2lERnlCNFVQdUNoS1lfMUR5dWxWdkRXNlIyTGwtV2dz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JN2VmNDlsTy1YMDYxRmFfR1hjRmx6U0xtZEhJZ291Vlp6eW9GQTRROXBNWjQzaEp3SWNnN2hVd2lERnlCNFVQdUNoS1lfMUR5dWxWdkRXNlIyTGwtV2dz?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-20T15:49:40+00:00",
+      "date": "2026-11-20T15:49:40+00:00",
+      "member": "KEONHO",
+      "members": [
+        "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "491aa2993a84841e4025",
+      "title": "CORTIS Community Post - 저희의 두번 째 MAMA 본무대 전부터 상으로 시작하게 해준 코어들에게 감사를!!! - KEONHO - Weverse",
+      "description": "CORTIS Community Post - 저희의 두번 째 MAMA 본무대 전부터 상으로 시작하게 해준 코어들에게 감사를!!! - KEONHO Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsLUxYMkxwX0Y4VFl1d3haczhlOFpwZG5FdC1DckZnZU1jLU5uX2tWMThJTGZCUXdub2J4T21QenBDUnJqbmFCT1ZIQ2hDVXNMd2t0RlVvNA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsLUxYMkxwX0Y4VFl1d3haczhlOFpwZG5FdC1DckZnZU1jLU5uX2tWMThJTGZCUXdub2J4T21QenBDUnJqbmFCT1ZIQ2hDVXNMd2t0RlVvNA?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-20T15:23:33+00:00",
+      "date": "2026-11-20T15:23:33+00:00",
+      "member": "KEONHO",
+      "members": [
+        "KEONHO"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "42196be1cfee1b424c91",
+      "title": "엔하이픈·아일릿·코르티스·튜이드까지…하이브, ‘팬스 초이스’ 싹쓸이 (‘2026 MAMA’) - TV리포트",
+      "description": "엔하이픈·아일릿·코르티스·튜이드까지…하이브, ‘팬스 초이스’ 싹쓸이 (‘2026 MAMA’) TV리포트",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oUV90Vi1kWldhekZDZUlaWUdLZHQwOTVMTVlNTEtyVVk5cGRfVElza254SUhrbWJOVV9pZXpEejJGR2NTWEVfLVAyTzczNUp4SWVPdEwzV1d6eENyZkHSAWNBVV95cUxNb2FkdTk5UXNSZHczNFNZVXRIM1cwSFlXREo5endIaWdrQnFnZnRpNkJxekNVaTBreU9rQmN2R2h0N21FQnFTSXI0ZkdhMmF5OXowd1B5QTh2U0R3cUFlVGRZYzg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oUV90Vi1kWldhekZDZUlaWUdLZHQwOTVMTVlNTEtyVVk5cGRfVElza254SUhrbWJOVV9pZXpEejJGR2NTWEVfLVAyTzczNUp4SWVPdEwzV1d6eENyZkHSAWNBVV95cUxNb2FkdTk5UXNSZHczNFNZVXRIM1cwSFlXREo5endIaWdrQnFnZnRpNkJxekNVaTBreU9rQmN2R2h0N21FQnFTSXI0ZkdhMmF5OXowd1B5QTh2U0R3cUFlVGRZYzg?oc=5",
+      "source": "TV리포트",
+      "publishedAt": "2026-11-20T15:16:12+00:00",
+      "date": "2026-11-20T15:16:12+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c4cbf1029b349b57b3e9",
+      "title": "'왼손잡이'로 세대 대통합…패닉, 코르티스→우즈와 '명곡 재해석' 특급 컬래버[2026 MAMA] - SPOTV NEWS",
+      "description": "'왼손잡이'로 세대 대통합…패닉, 코르티스→우즈와 '명곡 재해석' 특급 컬래버[2026 MAMA] SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yVnFjZUR4MWtITS12NTRGTTJpYnNtYnVySWtSejJ3Z2VLVjZFLW9zX0kteFMybHQ0X3l5aHJkbXFjMzFvVDJlR3JKZXpIYVRWZXlFQXprS1l2QmxGaER2bFFFWWdKdkVNLU5rQ2NoWkM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yVnFjZUR4MWtITS12NTRGTTJpYnNtYnVySWtSejJ3Z2VLVjZFLW9zX0kteFMybHQ0X3l5aHJkbXFjMzFvVDJlR3JKZXpIYVRWZXlFQXprS1l2QmxGaER2bFFFWWdKdkVNLU5rQ2NoWkM?oc=5",
+      "source": "SPOTV NEWS",
+      "publishedAt": "2026-11-20T11:43:45+00:00",
+      "date": "2026-11-20T11:43:45+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "57164824cac5f0d18827",
       "title": "코르티스·튜이드, 팬심 제대로 통했다…'팬스 초이스' 트로피 품에 [2026 MAMA] - 텐아시아",
@@ -1014,11 +1089,11 @@
       "category": "NEWS"
     },
     {
-      "id": "89f5c2b4d7c504a1bfe8",
-      "title": "「授賞式の枠を打ち破った」…コルティス、「MMA 2026」公演映像の再生回数1位 - 매일경제",
-      "description": "「授賞式の枠を打ち破った」…コルティス、「MMA 2026」公演映像の再生回数1位 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfNUJtckhKZWxhMmthdjZqQ3hJT3VFdGtUSVRMdFprb0pYOTVqa1dHYXg4Z2M3VnZEdDJpX2RWSVZDMDdkNi0tRS00ZER3LW1t?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfNUJtckhKZWxhMmthdjZqQ3hJT3VFdGtUSVRMdFprb0pYOTVqa1dHYXg4Z2M3VnZEdDJpX2RWSVZDMDdkNi0tRS00ZER3LW1t?oc=5",
+      "id": "6d6b2999da4a5c53237c",
+      "title": "“시상식 틀 깼다”…코르티스, ‘MMA 2026’ 공연 영상 조회수 1위 - 매일경제",
+      "description": "“시상식 틀 깼다”…코르티스, ‘MMA 2026’ 공연 영상 조회수 1위 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwUlJXeVJFRVRWZ0JRUFJ6VDdZREZhUmtLVW5mX0dsME1ZRjRLUTNqYlJyaDFkU0RhVnVPUkY5bVhhLXZTc1ZUTS1pWjY4aTFkY1lR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwUlJXeVJFRVRWZ0JRUFJ6VDdZREZhUmtLVW5mX0dsME1ZRjRLUTNqYlJyaDFkU0RhVnVPUkY5bVhhLXZTc1ZUTS1pWjY4aTFkY1lR?oc=5",
       "source": "매일경제",
       "publishedAt": "2026-11-18T01:23:44+00:00",
       "date": "2026-11-18T01:23:44+00:00",
@@ -1029,11 +1104,11 @@
       "category": "NEWS"
     },
     {
-      "id": "6d6b2999da4a5c53237c",
-      "title": "“시상식 틀 깼다”…코르티스, ‘MMA 2026’ 공연 영상 조회수 1위 - 매일경제",
-      "description": "“시상식 틀 깼다”…코르티스, ‘MMA 2026’ 공연 영상 조회수 1위 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwUlJXeVJFRVRWZ0JRUFJ6VDdZREZhUmtLVW5mX0dsME1ZRjRLUTNqYlJyaDFkU0RhVnVPUkY5bVhhLXZTc1ZUTS1pWjY4aTFkY1lR?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwUlJXeVJFRVRWZ0JRUFJ6VDdZREZhUmtLVW5mX0dsME1ZRjRLUTNqYlJyaDFkU0RhVnVPUkY5bVhhLXZTc1ZUTS1pWjY4aTFkY1lR?oc=5",
+      "id": "89f5c2b4d7c504a1bfe8",
+      "title": "「授賞式の枠を打ち破った」…コルティス、「MMA 2026」公演映像の再生回数1位 - 매일경제",
+      "description": "「授賞式の枠を打ち破った」…コルティス、「MMA 2026」公演映像の再生回数1位 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfNUJtckhKZWxhMmthdjZqQ3hJT3VFdGtUSVRMdFprb0pYOTVqa1dHYXg4Z2M3VnZEdDJpX2RWSVZDMDdkNi0tRS00ZER3LW1t?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfNUJtckhKZWxhMmthdjZqQ3hJT3VFdGtUSVRMdFprb0pYOTVqa1dHYXg4Z2M3VnZEdDJpX2RWSVZDMDdkNi0tRS00ZER3LW1t?oc=5",
       "source": "매일경제",
       "publishedAt": "2026-11-18T01:23:44+00:00",
       "date": "2026-11-18T01:23:44+00:00",
@@ -1127,81 +1202,6 @@
       "source": "www.newsq.co.kr",
       "publishedAt": "2026-11-18T00:46:38+00:00",
       "date": "2026-11-18T00:46:38+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "9002eb7f7a2c907e7b73",
-      "title": "［韓流］アイドルの大学受験は？ CORTISやRESCENEなど「活動専念組」多数 - Yahoo!ニュース",
-      "description": "［韓流］アイドルの大学受験は？ CORTISやRESCENEなど「活動専念組」多数 Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MUC1xOFRkY1c5bnNiWW9kbjRCUVBmYmh6OXQwM3hnMW45aHRkbTlvT0QtZkdacVJoT2NENHpxVEFia3dxTXBlM0NqRjVNTGlEOWVOWUt6dHNtc3g4bkhuc24yTmJzdW10d0FvbmRpRmRzZW1raG84c05jYURxeUE?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MUC1xOFRkY1c5bnNiWW9kbjRCUVBmYmh6OXQwM3hnMW45aHRkbTlvT0QtZkdacVJoT2NENHpxVEFia3dxTXBlM0NqRjVNTGlEOWVOWUt6dHNtc3g4bkhuc24yTmJzdW10d0FvbmRpRmRzZW1raG84c05jYURxeUE?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-18T00:39:03+00:00",
-      "date": "2026-11-18T00:39:03+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "3e2a40f5bf01f33d6e62",
-      "title": "코르티스, ‘MMA2026’ 현장 영상 조회 수 1위…시상식도 뒤흔든 무대 - 톱스타뉴스",
-      "description": "코르티스, ‘MMA2026’ 현장 영상 조회 수 1위…시상식도 뒤흔든 무대 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwdC1sWjZjYW9WR2xfTFlUdlIyb1MyVXBwQkpzYTI1dlZGbVU5RVY2ZVAxcmdlQ284VTl6aUMxeGFyMlhkRHRjUDU2TmRfckY5RW1sMUdyZXNaX2pXdEc1SnR5d0tvVnloc2ZMQmdUcGZ1QQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwdC1sWjZjYW9WR2xfTFlUdlIyb1MyVXBwQkpzYTI1dlZGbVU5RVY2ZVAxcmdlQ284VTl6aUMxeGFyMlhkRHRjUDU2TmRfckY5RW1sMUdyZXNaX2pXdEc1SnR5d0tvVnloc2ZMQmdUcGZ1QQ?oc=5",
-      "source": "톱스타뉴스",
-      "publishedAt": "2026-11-18T00:38:09+00:00",
-      "date": "2026-11-18T00:38:09+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "6cb9599ba075b92d4217",
-      "title": "코르티스, ‘MMA2026’ 무대 영상 조회 수 1위 - BNT뉴스",
-      "description": "코르티스, ‘MMA2026’ 무대 영상 조회 수 1위 BNT뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RT0xFX1pMQ29sSzZ1WjNnXzRORy1ULVEwbG1ZY0JselRoQzA1aE91UjBPcUF3dnZ2dkFVOW9yamFIdkkzVVV4QmswQ1F6MDRTeGFOYlVlZGNzV0t5YWJ6aGtEU2Q?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RT0xFX1pMQ29sSzZ1WjNnXzRORy1ULVEwbG1ZY0JselRoQzA1aE91UjBPcUF3dnZ2dkFVOW9yamFIdkkzVVV4QmswQ1F6MDRTeGFOYlVlZGNzV0t5YWJ6aGtEU2Q?oc=5",
-      "source": "BNT뉴스",
-      "publishedAt": "2026-11-18T00:35:58+00:00",
-      "date": "2026-11-18T00:35:58+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "803822a16a08ba9ef022",
-      "title": "코르티스, 'MMA2026' 무대 조회수 470만뷰 돌파 눈앞 - 싱글리스트",
-      "description": "코르티스, 'MMA2026' 무대 조회수 470만뷰 돌파 눈앞 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RY0lTTmJFUDdOcy1fZmpGMDhaSklLbndUX1JETUlQV1p2MkJEY0VHR25lWXpDd2lVajJPVlNLRlVmVFlLY0N4dUVFLTlKRVl2Nm1vcGItVmJGVmhLSkFMZUxVM3FyQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RY0lTTmJFUDdOcy1fZmpGMDhaSklLbndUX1JETUlQV1p2MkJEY0VHR25lWXpDd2lVajJPVlNLRlVmVFlLY0N4dUVFLTlKRVl2Nm1vcGItVmJGVmhLSkFMZUxVM3FyQQ?oc=5",
-      "source": "싱글리스트",
-      "publishedAt": "2026-11-18T00:35:12+00:00",
-      "date": "2026-11-18T00:35:12+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "e23a5fe7d4334eb75913",
-      "title": "코르티스부터 베이비몬스터까지, 수능 안 치는 08년생들 : 연예 - 재경일보",
-      "description": "코르티스부터 베이비몬스터까지, 수능 안 치는 08년생들 : 연예 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jY05fWGxOdTdHQXNnTWNqbGtyR0RYMS1GSFdmdFVrcFVEa05ZWVY4TFVjcmZjSE8zRktZX3h6THMzTERJWjJZNGl4Zw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jY05fWGxOdTdHQXNnTWNqbGtyR0RYMS1GSFdmdFVrcFVEa05ZWVY4TFVjcmZjSE8zRktZX3h6THMzTERJWjJZNGl4Zw?oc=5",
-      "source": "재경일보",
-      "publishedAt": "2026-11-17T22:21:00+00:00",
-      "date": "2026-11-17T22:21:00+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
