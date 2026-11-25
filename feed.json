@@ -1,8 +1,473 @@
 {
-  "updatedAt": "2026-11-24T21:13:40.460065+00:00",
+  "updatedAt": "2026-11-25T04:16:17.800540+00:00",
   "status": "ok",
   "count": 80,
   "items": [
+    {
+      "id": "36ac3dc9c507b2d454c4",
+      "title": "CORTIS社群貼文 - 코어들 벌써 1주년이라니!! 시간이 정말 빠른 것 - Weverse",
+      "description": "CORTIS社群貼文 - 코어들 벌써 1주년이라니!! 시간이 정말 빠른 것 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PUElvVWNnM210X0haamhjQ3lnRjVqZG5oZ2owRlRZUUpBSlpJR2ozR09wM1pNWExRYXlQYmlpZk14OFNndHNWckl1MTd5R2RNeW1Gb0JuRUI4TXJYcldsR3d3VQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PUElvVWNnM210X0haamhjQ3lnRjVqZG5oZ2owRlRZUUpBSlpJR2ozR09wM1pNWExRYXlQYmlpZk14OFNndHNWckl1MTd5R2RNeW1Gb0JuRUI4TXJYcldsR3d3VQ?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-25T03:02:28+00:00",
+      "date": "2026-11-25T03:02:28+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "9b4975397ec224986793",
+      "title": "Post de la Comunidad CORTIS - 코어들 벌써 1주년 - Weverse",
+      "description": "Post de la Comunidad CORTIS - 코어들 벌써 1주년 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NbmtpYlZ1S1Y1T1B6M0F4azR6NWY2cXNScUVFdHRQYVZpOXBGdEtWbVJaM01mcENqdmthMkNuNzdpZGs5clhicEd1b0xiVUttcm5hR21HSkY4Z3dsTFpr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NbmtpYlZ1S1Y1T1B6M0F4azR6NWY2cXNScUVFdHRQYVZpOXBGdEtWbVJaM01mcENqdmthMkNuNzdpZGs5clhicEd1b0xiVUttcm5hR21HSkY4Z3dsTFpr?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-25T03:02:26+00:00",
+      "date": "2026-11-25T03:02:26+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b62137d4254df74918c9",
+      "title": "CORTIS社区帖子 - 코어 이제 1년이 됐네요 힘든 일들도 기쁜 일들도 - Weverse",
+      "description": "CORTIS社区帖子 - 코어 이제 1년이 됐네요 힘든 일들도 기쁜 일들도 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQW1WVGZ2MzViSXJUVXhNTjNLWGxLbktleGNCcjNPTldtdmpHWWRhSkczeXhMd0lRTTcwR20wdjM1d2xtc3A1TjlETjBsRTh3UG04OW5TWTlpdUFVYUZHaXBwNA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQW1WVGZ2MzViSXJUVXhNTjNLWGxLbktleGNCcjNPTldtdmpHWWRhSkczeXhMd0lRTTcwR20wdjM1d2xtc3A1TjlETjBsRTh3UG04OW5TWTlpdUFVYUZHaXBwNA?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-25T03:02:26+00:00",
+      "date": "2026-11-25T03:02:26+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "7d5dd6c47162f3f70732",
+      "title": "CORTISコミュニティの投稿 - 코어 이제 1년이 됐네요 힘든 일들도 기 - Weverse",
+      "description": "CORTISコミュニティの投稿 - 코어 이제 1년이 됐네요 힘든 일들도 기 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lSURndHhndWM3WVNtTUZRYnV2YURLZ2xLNXZ5THdJTjF5THEzRDRkX2hNQU9kSTg0UWZDZnJRakluNUtwaGNmTmd5dU5acDBxTkt1QU1IdWUzMEZjZnkw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lSURndHhndWM3WVNtTUZRYnV2YURLZ2xLNXZ5THdJTjF5THEzRDRkX2hNQU9kSTg0UWZDZnJRakluNUtwaGNmTmd5dU5acDBxTkt1QU1IdWUzMEZjZnkw?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-25T03:02:25+00:00",
+      "date": "2026-11-25T03:02:25+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "fbd8cbbf20030397ce6e",
+      "title": "CORTIS社群貼文 - 코어 이제 1년이 됐네요 힘든 일들도 기쁜 일들도 - Weverse",
+      "description": "CORTIS社群貼文 - 코어 이제 1년이 됐네요 힘든 일들도 기쁜 일들도 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vZzAtazM3OVNLeURhV0J5dXl5THEwSi1ZMjh5SzFLVkxnMUlCbFBNX3pNdHcwQkQ5TjFhY0ozZ0pWbW9oeVpOVDRTb3BTcjlpRXY3YjU2Nm4zSmdMYldjaHdQTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vZzAtazM3OVNLeURhV0J5dXl5THEwSi1ZMjh5SzFLVkxnMUlCbFBNX3pNdHcwQkQ5TjFhY0ozZ0pWbW9oeVpOVDRTb3BTcjlpRXY3YjU2Nm4zSmdMYldjaHdQTQ?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-25T03:02:24+00:00",
+      "date": "2026-11-25T03:02:24+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "8f3f2986d327cde8e2aa",
+      "title": "CORTISコミュニティの投稿 - 코어들 벌써 1주년이라니!! 시간이 정말 - Weverse",
+      "description": "CORTISコミュニティの投稿 - 코어들 벌써 1주년이라니!! 시간이 정말 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTHZnenRQWHpzYUJPVnNfcjA3XzNJeTRCR3BMYUhkQUNGb3lKRzZ6c1BmcDRHbS1zT2ctUjZ3MDQyWDZaUC1DYmRSdmZwUGU0NS1oalhyM0poM0x4Vzh3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTHZnenRQWHpzYUJPVnNfcjA3XzNJeTRCR3BMYUhkQUNGb3lKRzZ6c1BmcDRHbS1zT2ctUjZ3MDQyWDZaUC1DYmRSdmZwUGU0NS1oalhyM0poM0x4Vzh3?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-25T03:02:24+00:00",
+      "date": "2026-11-25T03:02:24+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "f963ff0f26830fcab59e",
+      "title": "CORTIS社区帖子 - 코어들 벌써 1주년이라니!! 시간이 정말 빠른 것 - Weverse",
+      "description": "CORTIS社区帖子 - 코어들 벌써 1주년이라니!! 시간이 정말 빠른 것 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mVm0yelNMczVqUE8zTDZEckZiZzduUGFpSVJhR3ExckN4SUo0MUJlWlQ4dlVyV2VwZGhuVWRFX3ZnZ1YtSm54SUp5Z3REUG1ZeC1HdnlrS2ZYR096ZmxLNWZnRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mVm0yelNMczVqUE8zTDZEckZiZzduUGFpSVJhR3ExckN4SUo0MUJlWlQ4dlVyV2VwZGhuVWRFX3ZnZ1YtSm54SUp5Z3REUG1ZeC1HdnlrS2ZYR096ZmxLNWZnRQ?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-25T03:00:26+00:00",
+      "date": "2026-11-25T03:00:26+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "31c7251c1716fac69d35",
+      "title": "CORTIS Community Post - 코어들 벌써 1주년이라니!! - Weverse",
+      "description": "CORTIS Community Post - 코어들 벌써 1주년이라니!! Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Mc0ZWRkswXzRHQ1RsUWF2Tlp2NVVUckFWemw5Q190bEdabms3WEkxdUtKM0hMeGUzMWp2MVhKbVpCd2JMclhaWXpmbENvaThsdDBOU2cxQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Mc0ZWRkswXzRHQ1RsUWF2Tlp2NVVUckFWemw5Q190bEdabms3WEkxdUtKM0hMeGUzMWp2MVhKbVpCd2JMclhaWXpmbENvaThsdDBOU2cxQQ?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-25T02:42:33+00:00",
+      "date": "2026-11-25T02:42:33+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "0bf7494ac0a29cf91120",
+      "title": "코르티스, 데뷔 1년 3개월 만에 日 GQ 시상식 수상…K-팝 그룹 최단기 - 스포츠월드",
+      "description": "코르티스, 데뷔 1년 3개월 만에 日 GQ 시상식 수상…K-팝 그룹 최단기 스포츠월드",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuV0otNV9yNVhQLTQyTm00bHRNaHNiQ3VGdWZZelpVbWVib0FLS2QzNExsVDJKZVB4RXRBZjJvRXg0X3Q2UE9mTG5vTEJkMHUwSFVLQVlYeV9CVmN5S1drOG5B?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuV0otNV9yNVhQLTQyTm00bHRNaHNiQ3VGdWZZelpVbWVib0FLS2QzNExsVDJKZVB4RXRBZjJvRXg0X3Q2UE9mTG5vTEJkMHUwSFVLQVlYeV9CVmN5S1drOG5B?oc=5",
+      "source": "스포츠월드",
+      "publishedAt": "2026-11-25T02:30:00+00:00",
+      "date": "2026-11-25T02:30:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "3e4a761a0a00c3eb04ae",
+      "title": "코르티스 커뮤니티 포스트 - 코어들 벌써 1주년이라니!! 시간이 정말 빠 - Weverse",
+      "description": "코르티스 커뮤니티 포스트 - 코어들 벌써 1주년이라니!! 시간이 정말 빠 Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sZVVyWnN5aWJjN3N6Rm9sNXhJYnBYZUNzY2FmRDJfcndOVXo0R1hNSm82bzBERC1qUERFUHVvbThzaGdsUGFlTGNkRWtrdFpUdkRiNHlwT3N3M0RhMVhV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sZVVyWnN5aWJjN3N6Rm9sNXhJYnBYZUNzY2FmRDJfcndOVXo0R1hNSm82bzBERC1qUERFUHVvbThzaGdsUGFlTGNkRWtrdFpUdkRiNHlwT3N3M0RhMVhV?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-25T02:28:42+00:00",
+      "date": "2026-11-25T02:28:42+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "ffa08fc98c0f03dcd077",
+      "title": "코르티스, '팬앤스타 X 아이돌챔프' 첫 이달의 뉴스타 1위 '영예' - 더팩트",
+      "description": "코르티스, '팬앤스타 X 아이돌챔프' 첫 이달의 뉴스타 1위 '영예' 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83N19OYkJfSUdWMDRWYkRQNG5lamtwX2dyX3VQWVNkbFF3YW0yYkxORTViVW5UZFAzclVrM25IbXZoMnQyV2NpTjlZMFpmYXlXbnF5cVpvUjFoQmRtakhtWkVUQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83N19OYkJfSUdWMDRWYkRQNG5lamtwX2dyX3VQWVNkbFF3YW0yYkxORTViVW5UZFAzclVrM25IbXZoMnQyV2NpTjlZMFpmYXlXbnF5cVpvUjFoQmRtakhtWkVUQQ?oc=5",
+      "source": "더팩트",
+      "publishedAt": "2026-11-25T02:23:39+00:00",
+      "date": "2026-11-25T02:23:39+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "69fdd9f13858c64bb631",
+      "title": "CORTIS Makes History with GQ Japan Award in Record Time - 조선일보",
+      "description": "CORTIS Makes History with GQ Japan Award in Record Time 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHFyaXdjekgzSTlBd0hDN0w4eVlWOUk5Ni1RdFZabnJYY1B4aFh4WHVBMWtVSmhKamRkVkMyVnFQZ0FVc0NlOGJjalNxUWV1cF8tMHhFWDRSWExPa2diSEdTdWZ3WUVHUV9jVDRZdTJ1NnI0U3MtQ3Z3MkhKelhxNE1kR21UVE50amhsd3p3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHFyaXdjekgzSTlBd0hDN0w4eVlWOUk5Ni1RdFZabnJYY1B4aFh4WHVBMWtVSmhKamRkVkMyVnFQZ0FVc0NlOGJjalNxUWV1cF8tMHhFWDRSWExPa2diSEdTdWZ3WUVHUV9jVDRZdTJ1NnI0U3MtQ3Z3MkhKelhxNE1kR21UVE50amhsd3p3?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-11-25T02:11:58+00:00",
+      "date": "2026-11-25T02:11:58+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c23f7f5275a43d85cb8e",
+      "title": "CORTIS, 'GQ Japan' Rookie Award…\"Shortest Time Among K-pop Groups in History\" - DIPE.CO.KR",
+      "description": "CORTIS, 'GQ Japan' Rookie Award…\"Shortest Time Among K-pop Groups in History\" DIPE.CO.KR",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1GNkhpTEhGVTNIM3ZOZ3M1MVhaakh3dnRhNmpGUWpET1lnZFNOSnJqLWRQTU42ZWxvTXY5cUVMZFRUVjNG?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1GNkhpTEhGVTNIM3ZOZ3M1MVhaakh3dnRhNmpGUWpET1lnZFNOSnJqLWRQTU42ZWxvTXY5cUVMZFRUVjNG?oc=5",
+      "source": "DIPE.CO.KR",
+      "publishedAt": "2026-11-25T02:10:00+00:00",
+      "date": "2026-11-25T02:10:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "9808d51e0426e0641183",
+      "title": "코르티스, 'GQ재팬' 신인상…\"역대 K팝 그룹, 최단기 영예\" - 디스패치",
+      "description": "코르티스, 'GQ재팬' 신인상…\"역대 K팝 그룹, 최단기 영예\" 디스패치",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNT2hka0stV0o1MFZKRHQwbHJJLXlGRnkwajNhcmFyNThoeVc1bFRIMUM3a0VGdTNKQlZ0ZUpTT3g4SkREVWxiS2dn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNT2hka0stV0o1MFZKRHQwbHJJLXlGRnkwajNhcmFyNThoeVc1bFRIMUM3a0VGdTNKQlZ0ZUpTT3g4SkREVWxiS2dn?oc=5",
+      "source": "디스패치",
+      "publishedAt": "2026-11-25T02:09:00+00:00",
+      "date": "2026-11-25T02:09:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a0e3d5eaac388788d2c2",
+      "title": "CORTIS（コルティス）、日本のGQ「ブレイクスルー・グローバル・アーティスト」に選出 - 매일경제",
+      "description": "CORTIS（コルティス）、日本のGQ「ブレイクスルー・グローバル・アーティスト」に選出 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kRkVCeU45czVUQl94VzFycHdwLUhuY2xvb3ZZN0M2aEZVcm9zWTNscGZKdW5zYTBtTFpsN09aSW5sTXRERkI3U2tfQmdkZWFk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kRkVCeU45czVUQl94VzFycHdwLUhuY2xvb3ZZN0M2aEZVcm9zWTNscGZKdW5zYTBtTFpsN09aSW5sTXRERkI3U2tfQmdkZWFk?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-11-25T02:08:05+00:00",
+      "date": "2026-11-25T02:08:05+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a90a2ca32660b525ce7a",
+      "title": "CORTIS wins GQ Japan award 15 months after debut and sweeps 4 grand prizes - Chosunbiz",
+      "description": "CORTIS wins GQ Japan award 15 months after debut and sweeps 4 grand prizes Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN09Md1A5c3hCS1JTdGJDeWN2RnZudkdaNWcxWHNIRTZsY053b1BlSEduU1A3U3VMT1h1eTdmNjh2cVBhbVo4TGVfekgzai1tZHFxeDlUa05BOE9JZGZJdTJtbTk5T1pRN0tMNXRpbFJROGtxcFBHUFJ1NDFBa2tXOC0wVFg3ckgw0gGcAUFVX3lxTE81TEVHSUNrcndPU2dEQWNuSFotbnRZeTExU3N4NUowQ1J3MEhldVhKMWt0UFdKNnFUa1JKTjlVbFVLWG96Z2gtS3p3dlNONVh1azdJUDlPbmp1NGlhVlBRcVVEUzVjTTVjYzRYTWZSMVhQY0tYSWl1S0NzU09iUEo4NHltaEktSV9LSE8xQndrQVQ2a3dZZW4wV21YTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN09Md1A5c3hCS1JTdGJDeWN2RnZudkdaNWcxWHNIRTZsY053b1BlSEduU1A3U3VMT1h1eTdmNjh2cVBhbVo4TGVfekgzai1tZHFxeDlUa05BOE9JZGZJdTJtbTk5T1pRN0tMNXRpbFJROGtxcFBHUFJ1NDFBa2tXOC0wVFg3ckgw0gGcAUFVX3lxTE81TEVHSUNrcndPU2dEQWNuSFotbnRZeTExU3N4NUowQ1J3MEhldVhKMWt0UFdKNnFUa1JKTjlVbFVLWG96Z2gtS3p3dlNONVh1azdJUDlPbmp1NGlhVlBRcVVEUzVjTTVjYzRYTWZSMVhQY0tYSWl1S0NzU09iUEo4NHltaEktSV9LSE8xQndrQVQ2a3dZZW4wV21YTQ?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-11-25T02:00:00+00:00",
+      "date": "2026-11-25T02:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "8975bb5695b4354fe45c",
+      "title": "코르티스, 데뷔 1년 3개월 만에 일냈다..MAMA 대상 이어 일본 GQ까지 접수 - Chosunbiz",
+      "description": "코르티스, 데뷔 1년 3개월 만에 일냈다..MAMA 대상 이어 일본 GQ까지 접수 Chosunbiz ‘무대가 내 집’ 코르티스, MMA 이어 MAMA도 휘저었다…日 매체 “돔 전체를 놀이터로” OSEN 코르티스, 일본 GQ ‘브레이크스루 글로벌 아티스트’ 선정 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRmh1bUxUemhQbGZscDhmUXlHcG9WUEJTUnJ2OUN1WVpLRjhjdDNic3ZMaFh6djhnRlBGeGdlRzBCOFdodXAtb2JRWlVsOWl2RzRJS3JIcXhGdFZnVUdITlFOWTZwQ3lwdUV1UWducEJLRGZsWEx0bEJtcmxXd09kU09HSnFLTlpSb0tJd0Q0bmlydHPSAacBQVVfeXFMTVk5OTJCME5qS3RqM3A2QjlUUVo4MS1zbF9tdEtDNUNPNnFnYXdWSk0wSHhlRkgtUDFmWk1WdHZfZTM3LWRlY19zelgyQVM1UDcyVEEzQW83NGpibXVwMGt6REthR0dJQmNnWFVrRk9GcmpueV81ZWxSU0U0RE4zQW1YNHllZDFfMEpOc0otT0hsb1RjdHJZSFJtTXl4QmFtb1dHWkpQek0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRmh1bUxUemhQbGZscDhmUXlHcG9WUEJTUnJ2OUN1WVpLRjhjdDNic3ZMaFh6djhnRlBGeGdlRzBCOFdodXAtb2JRWlVsOWl2RzRJS3JIcXhGdFZnVUdITlFOWTZwQ3lwdUV1UWducEJLRGZsWEx0bEJtcmxXd09kU09HSnFLTlpSb0tJd0Q0bmlydHPSAacBQVVfeXFMTVk5OTJCME5qS3RqM3A2QjlUUVo4MS1zbF9tdEtDNUNPNnFnYXdWSk0wSHhlRkgtUDFmWk1WdHZfZTM3LWRlY19zelgyQVM1UDcyVEEzQW83NGpibXVwMGt6REthR0dJQmNnWFVrRk9GcmpueV81ZWxSU0U0RE4zQW1YNHllZDFfMEpOc0otT0hsb1RjdHJZSFJtTXl4QmFtb1dHWkpQek0?oc=5",
+      "source": "Chosunbiz",
+      "publishedAt": "2026-11-25T01:58:00+00:00",
+      "date": "2026-11-25T01:58:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a648cff48de4062d4f81",
+      "title": "코르티스, 대상 받고 겹경사⋯日 GQ ‘브레이크스루 글로벌 아티스트’ 선정 - 이투데이",
+      "description": "코르티스, 대상 받고 겹경사⋯日 GQ ‘브레이크스루 글로벌 아티스트’ 선정 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSmNWZkIxelJYNWhFVmt1dEFKSUNmb3RjenFKUmo2R2hLb1Azd25tT2FsTlZqdUVjcVRTYXB1WEV4MGQxMXZaMEdONkxBU2hvZWlGOA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSmNWZkIxelJYNWhFVmt1dEFKSUNmb3RjenFKUmo2R2hLb1Azd25tT2FsTlZqdUVjcVRTYXB1WEV4MGQxMXZaMEdONkxBU2hvZWlGOA?oc=5",
+      "source": "이투데이",
+      "publishedAt": "2026-11-25T01:58:00+00:00",
+      "date": "2026-11-25T01:58:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "41ac0f51c6a51f85a41b",
+      "title": "CORTIS、デビュー1年3カ月で快挙…MAMA大賞に続きGQ JAPANも受賞 - 조선일보",
+      "description": "CORTIS、デビュー1年3カ月で快挙…MAMA大賞に続きGQ JAPANも受賞 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNam9jc0JNYWlPMjdkaVNzdlR5b2ROY3pnSVZwRW0xSDh0M3ZVQUJEdmN2Q0RFM01LanpqdVA4MVk4MnFSd2Vfc0dGOGxTaFNaWUFuNV9ZbjhmdGRNaUczVENTUUc4OUJVZVdRZ0NSMnFXelRMclFnNlZlcDJPQTJBVkhaWGtvRTA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNam9jc0JNYWlPMjdkaVNzdlR5b2ROY3pnSVZwRW0xSDh0M3ZVQUJEdmN2Q0RFM01LanpqdVA4MVk4MnFSd2Vfc0dGOGxTaFNaWUFuNV9ZbjhmdGRNaUczVENTUUc4OUJVZVdRZ0NSMnFXelRMclFnNlZlcDJPQTJBVkhaWGtvRTA?oc=5",
+      "source": "조선일보",
+      "publishedAt": "2026-11-25T01:58:00+00:00",
+      "date": "2026-11-25T01:58:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "d5a98b58a74e7f9857f1",
+      "title": "코르티스, 일본서 또 일냈다…대상 싹쓸이 후 겹경사 - 뉴스엔",
+      "description": "코르티스, 일본서 또 일냈다…대상 싹쓸이 후 겹경사 뉴스엔",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jV1c3SkRWeWdzemdxTU5KcGFQd0FTSkEyZERQR3dwTmZ6U0JMYXQzZE11SlExbGNiNi1LeC1UVW5RNnFCbjZ0OVJUejVIRTl5cXhUSmN2eS1Pc29wS21aREh4NEpwUmRx?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jV1c3SkRWeWdzemdxTU5KcGFQd0FTSkEyZERQR3dwTmZ6U0JMYXQzZE11SlExbGNiNi1LeC1UVW5RNnFCbjZ0OVJUejVIRTl5cXhUSmN2eS1Pc29wS21aREh4NEpwUmRx?oc=5",
+      "source": "뉴스엔",
+      "publishedAt": "2026-11-25T01:46:28+00:00",
+      "date": "2026-11-25T01:46:28+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c2d5b0aea9e5305078aa",
+      "title": "[공식]코르티스, 일본 GQ '브레이크스루 아티스트' 수상 \"코어 덕분\" - 스타뉴스",
+      "description": "[공식]코르티스, 일본 GQ '브레이크스루 아티스트' 수상 \"코어 덕분\" 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KWjlSaWQ0eDluZkhvZi1Zazl1bWRtcjROelpqUG5CUWdsVVhxU1FlSG0tTVVtc0doSk95b0lEbUVJckFkbS1YSFFSMkFmVGlLV2RTMUtjX0ZRbVpFU2R4MzNuT29nQlpuekFIdGxnS25RSjd1?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KWjlSaWQ0eDluZkhvZi1Zazl1bWRtcjROelpqUG5CUWdsVVhxU1FlSG0tTVVtc0doSk95b0lEbUVJckFkbS1YSFFSMkFmVGlLV2RTMUtjX0ZRbVpFU2R4MzNuT29nQlpuekFIdGxnS25RSjd1?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-25T01:45:32+00:00",
+      "date": "2026-11-25T01:45:32+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "cb0a46b7bfd8f0878f18",
+      "title": "[公式] コルティス、日本のGQ「ブレイクスルーアーティスト」受賞「コアのおかげ」 - 스타뉴스",
+      "description": "[公式] コルティス、日本のGQ「ブレイクスルーアーティスト」受賞「コアのおかげ」 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NT1lLWDU4My1kWFpQNnF4NEtwZVNNSV93cms2bWRkbDlkdVZ0R2hLQWVLS2p4a2lRQVdLMU5DSUQ4eTJSY2NvNTRQTGlqZTBLRkR6aW1sNXNCLUx5dUxmTFJLeTZLZ3haTjdRb21qUTVRLWRZczlFUw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NT1lLWDU4My1kWFpQNnF4NEtwZVNNSV93cms2bWRkbDlkdVZ0R2hLQWVLS2p4a2lRQVdLMU5DSUQ4eTJSY2NvNTRQTGlqZTBLRkR6aW1sNXNCLUx5dUxmTFJLeTZLZ3haTjdRb21qUTVRLWRZczlFUw?oc=5",
+      "source": "스타뉴스",
+      "publishedAt": "2026-11-25T01:45:32+00:00",
+      "date": "2026-11-25T01:45:32+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "ed89d0d10fff9505425a",
+      "title": "코르티스, K팝 그룹 중 역대 최단기 수상… \"영광스러운 상 감사\" - MHN스포츠",
+      "description": "코르티스, K팝 그룹 중 역대 최단기 수상… \"영광스러운 상 감사\" MHN스포츠",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHdGVibDhib1F6ZVdxRUs4ckNzdlJWbXFDTEtZRVdBcm1pZzV2aVJCSENPM0NDbTRfdGpDUFFid0JobG56RFdhSVgzSC1jREZyLUdJREl5X1FxdlRDaXExV1dicw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHdGVibDhib1F6ZVdxRUs4ckNzdlJWbXFDTEtZRVdBcm1pZzV2aVJCSENPM0NDbTRfdGpDUFFid0JobG56RFdhSVgzSC1jREZyLUdJREl5X1FxdlRDaXExV1dicw?oc=5",
+      "source": "MHN스포츠",
+      "publishedAt": "2026-11-25T01:45:13+00:00",
+      "date": "2026-11-25T01:45:13+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c249b9b9a83450682d51",
+      "title": "코르티스, 데뷔 1년 3개월 만에 대상 4관왕 … 일본 GQ도 주목한 글로벌 신예 - 뉴데일리",
+      "description": "코르티스, 데뷔 1년 3개월 만에 대상 4관왕 … 일본 GQ도 주목한 글로벌 신예 뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BT3kxeFpJWWI2RmdSUjR0akNhVWJCR2Q4SjZocEZsVDdacFNGUkdQTXl2R09oRU5BM3VhSnU0Z0llRUdDVXRHUVB1LXJWVkVPZkIwRXRCNWQwalU3M0g2cVplVjBhTFl2cEpKdjdiSHUtT25mZV9yMW5EWdIBgAFBVV95cUxQWVNYbnNqRUhtTVVLS2tYQm1XOE9DTzlTUFJLeUl2SUtoNzU3SkdaeVdRcjB3S0hKYm9sNUhpYWJCOU5SRmNib09GejNzUm1wU3ZYWkt3NjVQa3dkMmNCR2RiUk1DUUNZN0hJWVV6SF8zNUE4U2E0aDZQWXU2dU5pdA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BT3kxeFpJWWI2RmdSUjR0akNhVWJCR2Q4SjZocEZsVDdacFNGUkdQTXl2R09oRU5BM3VhSnU0Z0llRUdDVXRHUVB1LXJWVkVPZkIwRXRCNWQwalU3M0g2cVplVjBhTFl2cEpKdjdiSHUtT25mZV9yMW5EWdIBgAFBVV95cUxQWVNYbnNqRUhtTVVLS2tYQm1XOE9DTzlTUFJLeUl2SUtoNzU3SkdaeVdRcjB3S0hKYm9sNUhpYWJCOU5SRmNib09GejNzUm1wU3ZYWkt3NjVQa3dkMmNCR2RiUk1DUUNZN0hJWVV6SF8zNUE4U2E0aDZQWXU2dU5pdA?oc=5",
+      "source": "뉴데일리",
+      "publishedAt": "2026-11-25T01:40:00+00:00",
+      "date": "2026-11-25T01:40:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b81985f9d2c917fcaff0",
+      "title": "코르티스, 日 'GQ 올해의 인물' 수상…K팝 그룹 최단기 기록 - 싱글리스트",
+      "description": "코르티스, 日 'GQ 올해의 인물' 수상…K팝 그룹 최단기 기록 싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zb2hYTkdNS3h6LS1yUFBxSm1pZmplZjRHM2FZelp5ejRGa3E0eWFYcFdJcmM1X2ZLc1lJbzRGSGp3ZkFnTjE2Y2dPdzV6WlJPVzBzTDhBZDRibF90TTlibkRLeS10Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zb2hYTkdNS3h6LS1yUFBxSm1pZmplZjRHM2FZelp5ejRGa3E0eWFYcFdJcmM1X2ZLc1lJbzRGSGp3ZkFnTjE2Y2dPdzV6WlJPVzBzTDhBZDRibF90TTlibkRLeS10Zw?oc=5",
+      "source": "싱글리스트",
+      "publishedAt": "2026-11-25T01:34:57+00:00",
+      "date": "2026-11-25T01:34:57+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "c9427c3954d85d2f1c29",
+      "title": "코르티스, 일본 GQ '브레이크스루 글로벌 아티스트' 선정 - BNT뉴스",
+      "description": "코르티스, 일본 GQ '브레이크스루 글로벌 아티스트' 선정 BNT뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1dFppVWxSejVOalFhbkp3b1VfaWQxT1dpYnNhVEJxQ2xGZDFFRkdhR21oS0o1blhmRkcydWp1cDJReWRUZ3VRdEFobm1EVk5zNzR5a2Ftc0p5d3g4UWdSTlZvR3U?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1dFppVWxSejVOalFhbkp3b1VfaWQxT1dpYnNhVEJxQ2xGZDFFRkdhR21oS0o1blhmRkcydWp1cDJReWRUZ3VRdEFobm1EVk5zNzR5a2Ftc0p5d3g4UWdSTlZvR3U?oc=5",
+      "source": "BNT뉴스",
+      "publishedAt": "2026-11-25T01:34:44+00:00",
+      "date": "2026-11-25T01:34:44+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "bddc45534598de4a3441",
+      "title": "\"하이브, BTS 다음 타자가 중요…캣츠아이·코르티스 티켓 파워에 눈길\" - 파이낸셜뉴스",
+      "description": "\"하이브, BTS 다음 타자가 중요…캣츠아이·코르티스 티켓 파워에 눈길\" 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YazZkU0JEQlkwMTZ3cTVGRVR6SThfem1xMHZkaDU3Q0pQMnhlUVZFLThYTWROa21LS21NTWgyTDlFb2tKY2puVUUtSktwLXloWS1KbUdkUi03UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YazZkU0JEQlkwMTZ3cTVGRVR6SThfem1xMHZkaDU3Q0pQMnhlUVZFLThYTWROa21LS21NTWgyTDlFb2tKY2puVUUtSktwLXloWS1KbUdkUi03UQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "publishedAt": "2026-11-25T00:39:16+00:00",
+      "date": "2026-11-25T00:39:16+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "0657954338308fe2eb44",
+      "title": "코르티스, 전세계 팬덤 '코어' 1주년 틱톡 라이브 25일 진행 - 이데일리",
+      "description": "코르티스, 전세계 팬덤 '코어' 1주년 틱톡 라이브 25일 진행 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXlHaHphM3ExN01BUXBZZ0JqRktISS04NlJpQjB3Rm8wVF8yNnNHSE1IQ2NKWkJjWWNlbm5LaURNWWNJTWFsNnhhYXNlLUoteXZkQUdENzMwSXIwZUFKbktMODVzV3ItbVA0bzlMdF9aQnd3QUxSaU1fZVpfc2Rrag?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXlHaHphM3ExN01BUXBZZ0JqRktISS04NlJpQjB3Rm8wVF8yNnNHSE1IQ2NKWkJjWWNlbm5LaURNWWNJTWFsNnhhYXNlLUoteXZkQUdENzMwSXIwZUFKbktMODVzV3ItbVA0bzlMdF9aQnd3QUxSaU1fZVpfc2Rrag?oc=5",
+      "source": "이데일리",
+      "publishedAt": "2026-11-24T23:39:30+00:00",
+      "date": "2026-11-24T23:39:30+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "1cd7e8970c275a68384b",
+      "title": "코르티스, 틱톡 전용 검색 허브까지 연다…팬덤 1주년 특급 이벤트 - 스포츠동아",
+      "description": "코르티스, 틱톡 전용 검색 허브까지 연다…팬덤 1주년 특급 이벤트 스포츠동아",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85eEItMEQzMmNYSU1fWkpkRlhrcmxiMXI2SEhhM1prT0VhenRzZlZRMVloM09xdjdiOXpRVERzZE5QTW51X1UwLXB3Q0l3N2RtbllEMDVKbUR0Rm1ha3FqZWh3eXVmaVVxTmNfODhR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85eEItMEQzMmNYSU1fWkpkRlhrcmxiMXI2SEhhM1prT0VhenRzZlZRMVloM09xdjdiOXpRVERzZE5QTW51X1UwLXB3Q0l3N2RtbllEMDVKbUR0Rm1ha3FqZWh3eXVmaVVxTmNfODhR?oc=5",
+      "source": "스포츠동아",
+      "publishedAt": "2026-11-24T23:33:02+00:00",
+      "date": "2026-11-24T23:33:02+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "7419d903295eef7a1ddd",
+      "title": "CORTISがブレイクスルー・グローバル・アーティスト賞を受賞！──「GQ MEN OF THE YEAR 2026」 - GQ Japan",
+      "description": "CORTISがブレイクスルー・グローバル・アーティスト賞を受賞！──「GQ MEN OF THE YEAR 2026」 GQ Japan",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9icDh1cTNIa01LNmgwU2RzamJ3UVoxQTF1N1VUYWdQbk5OSDVaZTY0WjAtQnhIWVBOeWduVGRoQU8tTDBuV242Y2JGR1BNQlVJLTFDTVJXZDlaZkdRUnFMZGQxRUpxUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9icDh1cTNIa01LNmgwU2RzamJ3UVoxQTF1N1VUYWdQbk5OSDVaZTY0WjAtQnhIWVBOeWduVGRoQU8tTDBuV242Y2JGR1BNQlVJLTFDTVJXZDlaZkdRUnFMZGQxRUpxUQ?oc=5",
+      "source": "GQ Japan",
+      "publishedAt": "2026-11-24T23:00:00+00:00",
+      "date": "2026-11-24T23:00:00+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "f82b6c2ea0af08650f28",
+      "title": "MAMA Awards 2026 Recap: IVE, ENHYPEN, CORTIS, & More Share How They Felt at the Awards | All Access - Billboard",
+      "description": "MAMA Awards 2026 Recap: IVE, ENHYPEN, CORTIS, & More Share How They Felt at the Awards | All Access Billboard",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVBDMk0tdktHeG9vMHVmdFktOWxIN3poanZLWnMyWnZPVVJjaGNmYUNxcGRRd2dGX19VaEROaElvWWVZbEZ6VTBMdGtPWEE1aVM0R0tVbXpVemJJVDdUQS1ab0Q3R2xKMEpxbEcyMENRcTB4MUlRLXpWN0hfRGhicTlVdWkweXRJNzJFc2ExUDE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVBDMk0tdktHeG9vMHVmdFktOWxIN3poanZLWnMyWnZPVVJjaGNmYUNxcGRRd2dGX19VaEROaElvWWVZbEZ6VTBMdGtPWEE1aVM0R0tVbXpVemJJVDdUQS1ab0Q3R2xKMEpxbEcyMENRcTB4MUlRLXpWN0hfRGhicTlVdWkweXRJNzJFc2ExUDE?oc=5",
+      "source": "Billboard",
+      "publishedAt": "2026-11-24T22:21:43+00:00",
+      "date": "2026-11-24T22:21:43+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
     {
       "id": "da526eeab83064eddf2c",
       "title": "Post de la Comunidad CORTIS - 코어 1주년 축하합 - Weverse",
@@ -42,6 +507,21 @@
       "source": "Weverse",
       "publishedAt": "2026-11-24T17:01:25+00:00",
       "date": "2026-11-24T17:01:25+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "fc1ea475d9a54f376ab1",
+      "title": "CORTIS Community Post - 코어 1주년 축하합니다❤️‍� - Weverse",
+      "description": "CORTIS Community Post - 코어 1주년 축하합니다❤️‍� Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OUFRpN0VHZkpFMTMzU09WdVNPNUVYYl90NVV6eFB5aml1QU1YVkJISkJPQmJjbDJLOWhjVjd4XzBkZ1ZIS1BOZmM2NkJORVZ4OTVveER4bw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OUFRpN0VHZkpFMTMzU09WdVNPNUVYYl90NVV6eFB5aml1QU1YVkJISkJPQmJjbDJLOWhjVjd4XzBkZ1ZIS1BOZmM2NkJORVZ4OTVveER4bw?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-24T17:01:20+00:00",
+      "date": "2026-11-24T17:01:20+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -192,6 +672,36 @@
       "source": "Weverse",
       "publishedAt": "2026-11-24T16:01:43+00:00",
       "date": "2026-11-24T16:01:43+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "a7f36dcd9526cfbd2122",
+      "title": "CORTIS Community Post - 코어 1주년 생일 축하합니다! - Weverse",
+      "description": "CORTIS Community Post - 코어 1주년 생일 축하합니다! Weverse",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmdWNpMGFrajNrTktJWWZkcS14XzdIY2wzS3RjQXViZ0FBV3NqTnZTTm5Ob0pSczhpenRXeXppQnhGaTYwMTktOXN3bHRJd2phX0ZuR3NHUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmdWNpMGFrajNrTktJWWZkcS14XzdIY2wzS3RjQXViZ0FBV3NqTnZTTm5Ob0pSczhpenRXeXppQnhGaTYwMTktOXN3bHRJd2phX0ZuR3NHUQ?oc=5",
+      "source": "Weverse",
+      "publishedAt": "2026-11-24T15:06:22+00:00",
+      "date": "2026-11-24T15:06:22+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "af9c591f1c760b942f05",
+      "title": "[2026 MAMA] 公式パフォ再生数ランキング：1位Bigbang(560万), 2位ベビモン(530万), 3位ILLIT(440万), 4位Cortis(380万)...最下位は「INI」(21万) - デバク",
+      "description": "[2026 MAMA] 公式パフォ再生数ランキング：1位Bigbang(560万), 2位ベビモン(530万), 3位ILLIT(440万), 4位Cortis(380万)...最下位は「INI」(21万) デバク",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NeWdCQ2pBTXoycW5PRUlqU1h3VEduWER0ZDFwb0FkOVV4YjFlLVpqTDRIQVp3Y0xVYXR6cnhSR1lOcUQ2Y2s4X29qUjlKalpyZmJLWEtVQklmWlA0M1dPNFJkdzU1MUZwc2JrUHEwV2FqckE4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NeWdCQ2pBTXoycW5PRUlqU1h3VEduWER0ZDFwb0FkOVV4YjFlLVpqTDRIQVp3Y0xVYXR6cnhSR1lOcUQ2Y2s4X29qUjlKalpyZmJLWEtVQklmWlA0M1dPNFJkdzU1MUZwc2JrUHEwV2FqckE4?oc=5",
+      "source": "デバク",
+      "publishedAt": "2026-11-24T13:24:08+00:00",
+      "date": "2026-11-24T13:24:08+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
@@ -379,6 +889,21 @@
       "category": "NEWS"
     },
     {
+      "id": "29356194176aa5f1fbc2",
+      "title": "'K-Pop: The Debut' official trailer out; features music by BTS, CORTIS, ENHYPEN, TWICE, aespa and more - Business Upturn",
+      "description": "'K-Pop: The Debut' official trailer out; features music by BTS, CORTIS, ENHYPEN, TWICE, aespa and more Business Upturn",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNl83X1FBRm1DN1U4TzgzVkZveXVhRTQtdWh5YmxJQ0ZBVkFCQkZlNGdjUjZhampteThBYk1kWk1qcGxNUVpGVmFWUHo0T25lUEdHdERkLVpRMTFUV0xjQmx0dTdRWjdyMnBSX1VrcDNmYUFBM09HMWVLellsb0Fvb0pCRHlCWUI1YVk5bk9zNWpOdTZ6U0ZoZl9RMmhqQU84cUtDYk95THF6UTlZVXFCdHYxaGpvVzJNMFZqcVRnNlJnR0pxdm5VcmFhUlVQTDdvTTNHRWtyclM2Z0x2blg3dnd6eFhXdkRYZUduVnpn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNl83X1FBRm1DN1U4TzgzVkZveXVhRTQtdWh5YmxJQ0ZBVkFCQkZlNGdjUjZhampteThBYk1kWk1qcGxNUVpGVmFWUHo0T25lUEdHdERkLVpRMTFUV0xjQmx0dTdRWjdyMnBSX1VrcDNmYUFBM09HMWVLellsb0Fvb0pCRHlCWUI1YVk5bk9zNWpOdTZ6U0ZoZl9RMmhqQU84cUtDYk95THF6UTlZVXFCdHYxaGpvVzJNMFZqcVRnNlJnR0pxdm5VcmFhUlVQTDdvTTNHRWtyclM2Z0x2blg3dnd6eFhXdkRYZUduVnpn?oc=5",
+      "source": "Business Upturn",
+      "publishedAt": "2026-11-23T15:16:24+00:00",
+      "date": "2026-11-23T15:16:24+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
+      ],
+      "category": "NEWS"
+    },
+    {
       "id": "29d47187428a388ab63e",
       "title": "BTS, CORTIS and BIGBANG lead winners at MAMA Awards 2026 - The Daily Star",
       "description": "BTS, CORTIS and BIGBANG lead winners at MAMA Awards 2026 The Daily Star",
@@ -405,6 +930,21 @@
       "member": "MARTIN",
       "members": [
         "MARTIN"
+      ],
+      "category": "NEWS"
+    },
+    {
+      "id": "b1c6aa903741e751e0b8",
+      "title": "BTS Takes Home Five Awards At 2026 Mama Awards, While CORTIS Wins Song Of The Year! - Hype.MY",
+      "description": "BTS Takes Home Five Awards At 2026 Mama Awards, While CORTIS Wins Song Of The Year! Hype.MY",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3FzakQzLTU0NGhuM3BnNXdtMlZLbHFkUmRHMUhxRnV5U09lcXlXZWNzM1czMW83RmpYUW1IeHl2b2pXT0tEbl80WUdqd0d4UHNVNjZjblJTOTlfSmxfUXlSZ0JMamMtZG5vcnpOVHhtbkJfTVVWb0NiTS1nVGgzV1FvZGZrdzBrLXZ5WktwNXpVZTdhUkJwdnROT25sTzg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3FzakQzLTU0NGhuM3BnNXdtMlZLbHFkUmRHMUhxRnV5U09lcXlXZWNzM1czMW83RmpYUW1IeHl2b2pXT0tEbl80WUdqd0d4UHNVNjZjblJTOTlfSmxfUXlSZ0JMamMtZG5vcnpOVHhtbkJfTVVWb0NiTS1nVGgzV1FvZGZrdzBrLXZ5WktwNXpVZTdhUkJwdnROT25sTzg?oc=5",
+      "source": "Hype.MY",
+      "publishedAt": "2026-11-23T08:42:36+00:00",
+      "date": "2026-11-23T08:42:36+00:00",
+      "member": "GROUP",
+      "members": [
+        "GROUP"
       ],
       "category": "NEWS"
     },
@@ -657,546 +1197,6 @@
       "source": "EPN엔피나우",
       "publishedAt": "2026-11-22T11:39:26+00:00",
       "date": "2026-11-22T11:39:26+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "8b3147d4e7502722b877",
-      "title": "CORTIS、MAMAで初の大賞！「REDRED」が年間最優秀楽曲に BTS５冠、BIGBANG３冠 - KPOP monster",
-      "description": "CORTIS、MAMAで初の大賞！「REDRED」が年間最優秀楽曲に BTS５冠、BIGBANG３冠 KPOP monster",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9va0RpV2VVNjhJMHoyTlZNV1VxVkZqRGdyN0JZS3IzQTNYUWlmTlNSNjVjSVdEbzV0b3FoRkx6cnZsQ3dwWlJFclpYLTI?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9va0RpV2VVNjhJMHoyTlZNV1VxVkZqRGdyN0JZS3IzQTNYUWlmTlNSNjVjSVdEbzV0b3FoRkx6cnZsQ3dwWlJFclpYLTI?oc=5",
-      "source": "KPOP monster",
-      "publishedAt": "2026-11-22T10:28:28+00:00",
-      "date": "2026-11-22T10:28:28+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "f54af5962ed2fae5d690",
-      "title": "CORTIS wins Daesang with self-composed song, the mark of a new generation of idols - Laodong.vn",
-      "description": "CORTIS wins Daesang with self-composed song, the mark of a new generation of idols Laodong.vn",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0pnRnRyWkVPeGM2N0lHLWJqVlhNOWNFMkhnempLNV9sQ3ZHR3VmR3hSVXdGLVQ1TWdzVElvODBsbkdjblFtc3BPaHVzWjVLdzkwWWp4Z2xpVDljUF8tYmVhX2FsOHVkNnowQWhna0xRQk9pVXpBT3h3eHktQ1VMLWJWbTlvWWt3SHB0eWRRc182QlA3OUxZT01FbHJpekVKdUlmOVNfVjVJNnFqOTZ6UjY2cTQ2LWpSTDl4anhoR2xxaGVhUzhQcHNkbw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0pnRnRyWkVPeGM2N0lHLWJqVlhNOWNFMkhnempLNV9sQ3ZHR3VmR3hSVXdGLVQ1TWdzVElvODBsbkdjblFtc3BPaHVzWjVLdzkwWWp4Z2xpVDljUF8tYmVhX2FsOHVkNnowQWhna0xRQk9pVXpBT3h3eHktQ1VMLWJWbTlvWWt3SHB0eWRRc182QlA3OUxZT01FbHJpekVKdUlmOVNfVjVJNnFqOTZ6UjY2cTQ2LWpSTDl4anhoR2xxaGVhUzhQcHNkbw?oc=5",
-      "source": "Laodong.vn",
-      "publishedAt": "2026-11-22T09:25:48+00:00",
-      "date": "2026-11-22T09:25:48+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "8a374e6cc672c5909dae",
-      "title": "《MAMA 2026》CORTIS奪年度歌曲獎 BTS 缺席仍連掃五獎成大贏家 - 巴士的報",
-      "description": "《MAMA 2026》CORTIS奪年度歌曲獎 BTS 缺席仍連掃五獎成大贏家 巴士的報",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQY1JUcWJsYkVJNHJQSWZpbkgyYnptdVZXVHF6OFRwVVRUVWpmeE9XTzVjOTdya25MQXVMNlF1ajFqaUtZTDM5VTYtUG91cUxsS0NBTHBubUt3MVJvdGRnZFNIVzU3QjVrR3R6OGc0MzJxalVhQVhlUXdFcUI1VDk1akR0MTN1UXdvZ0o5OU40aFdlRlRvNUJpeEtoajEzaXdZQXdqU0FLWE5mRmJLTnNqcDNjNm5FYkI0VzBvb0ktbGN2Snk0alRKTWNfZURfdnEzV1YzXzlMR3N0WkdkMGMzSmNweHBUcTNWZEZPbXJ1M3RSZ1E0NEdjY3pXN25wUUdCTXNZLWRNeldkTVYyX19aOHNVTmplNnFISFRIQWNBWkdrMWhneV9JbWc4eW4wVXFlc1lFbTFNM3ltRTd3LUhXLThtSEM5VElLLW1ZZEl4cWVBZEVZbjZHQ0ZhdGN5LUhDVWhB?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQY1JUcWJsYkVJNHJQSWZpbkgyYnptdVZXVHF6OFRwVVRUVWpmeE9XTzVjOTdya25MQXVMNlF1ajFqaUtZTDM5VTYtUG91cUxsS0NBTHBubUt3MVJvdGRnZFNIVzU3QjVrR3R6OGc0MzJxalVhQVhlUXdFcUI1VDk1akR0MTN1UXdvZ0o5OU40aFdlRlRvNUJpeEtoajEzaXdZQXdqU0FLWE5mRmJLTnNqcDNjNm5FYkI0VzBvb0ktbGN2Snk0alRKTWNfZURfdnEzV1YzXzlMR3N0WkdkMGMzSmNweHBUcTNWZEZPbXJ1M3RSZ1E0NEdjY3pXN25wUUdCTXNZLWRNeldkTVYyX19aOHNVTmplNnFISFRIQWNBWkdrMWhneV9JbWc4eW4wVXFlc1lFbTFNM3ltRTd3LUhXLThtSEM5VElLLW1ZZEl4cWVBZEVZbjZHQ0ZhdGN5LUhDVWhB?oc=5",
-      "source": "巴士的報",
-      "publishedAt": "2026-11-22T08:11:06+00:00",
-      "date": "2026-11-22T08:11:06+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "75e845d734f69e90c914",
-      "title": "&TEAM, Stray Kids, BOYNEXTDOOR, CLOSE YOUR EYES, LE SSERAFIM, CORTIS, EVAN, And More Earn Circle Million And Platinum Certifications - Soompi",
-      "description": "&TEAM, Stray Kids, BOYNEXTDOOR, CLOSE YOUR EYES, LE SSERAFIM, CORTIS, EVAN, And More Earn Circle Million And Platinum Certifications Soompi",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUjBaZmZ5T3NNY3RnU05WRExoVmY3RERvaUZ6MThxSHBkUzJpQWRyUFBKenJTZzlwMFNMbklWTU5yS3NpUlZJYjNkODVPbTRYVDk2NjlodmN2N0hqd1BLQnY3STV5c2ZnNzhqdnJTTEhSdHk2Zk1nTlBwVDBlRVU1VXFpbDN2SmJuY29LRjZnc3BZeG8zNXhRdjB3cnI2ZUxkUU9CSnlwelcwUTRtSzcxNW96cDltRlFESnRRbFU0a3dRd0RLOFZTajl3WkN6aWZ5QUg0S2RyQW5qcGdLN0xVdVJHdnBvSHNSTEwyVDFRd29KYUktWlRZVnBn?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUjBaZmZ5T3NNY3RnU05WRExoVmY3RERvaUZ6MThxSHBkUzJpQWRyUFBKenJTZzlwMFNMbklWTU5yS3NpUlZJYjNkODVPbTRYVDk2NjlodmN2N0hqd1BLQnY3STV5c2ZnNzhqdnJTTEhSdHk2Zk1nTlBwVDBlRVU1VXFpbDN2SmJuY29LRjZnc3BZeG8zNXhRdjB3cnI2ZUxkUU9CSnlwelcwUTRtSzcxNW96cDltRlFESnRRbFU0a3dRd0RLOFZTajl3WkN6aWZ5QUg0S2RyQW5qcGdLN0xVdVJHdnBvSHNSTEwyVDFRd29KYUktWlRZVnBn?oc=5",
-      "source": "Soompi",
-      "publishedAt": "2026-11-22T07:30:31+00:00",
-      "date": "2026-11-22T07:30:31+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "722c09642545681de294",
-      "title": "BTSはMAMAで5つの賞を受賞し、Cortisは今年の歌賞を受賞した。 - Vietnam.vn",
-      "description": "BTSはMAMAで5つの賞を受賞し、Cortisは今年の歌賞を受賞した。 Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVpiS1d0N1o2UE9BOW5TOWhKZ2JlcGRwTmRJZU1ZVTcyM0NTVWF6N0FNNGQtNFlGenNtOVZiSEM3aVhrVC15bnNqQk4waUxfUjhXaDJqZGQ5ZWM1Y1Q2aHZrdXBhNWtlY05hTmpDcFhMeTVaU1JWVDYxMl9oa2hqd2ZZT25BZy1SaW9TVUZ4ZUxGUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVpiS1d0N1o2UE9BOW5TOWhKZ2JlcGRwTmRJZU1ZVTcyM0NTVWF6N0FNNGQtNFlGenNtOVZiSEM3aVhrVC15bnNqQk4waUxfUjhXaDJqZGQ5ZWM1Y1Q2aHZrdXBhNWtlY05hTmpDcFhMeTVaU1JWVDYxMl9oa2hqd2ZZT25BZy1SaW9TVUZ4ZUxGUQ?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-22T05:27:16+00:00",
-      "date": "2026-11-22T05:27:16+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "24c15d71a5522b1d0085",
-      "title": "HYBE's BTS, Cortis and Enhypen reign at 2026 MAMA Awards - Korea JoongAng Daily",
-      "description": "HYBE's BTS, Cortis and Enhypen reign at 2026 MAMA Awards Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblY4SnBBSmh0dkVfU2ZsQnhWTmMzanVKNWJ2aDhhT1BGeWJ2N0otVkJ0NGNkTnp6N1RDX0VfYlIxSjNxWmlBZ1dtX1A2VHJHLUdPQzdNb1lUbFJacS15NVkyeGVNQzlsNE8tNEZjZ3hxZTlNYmYxM0ljR2lpcndCTHlDRURYQ0doVGNCcXpSOXFXcGhuS1E4WmhRY2hTUEVmZ0lIMTBOZVRxbE1ZLWc4b2h3?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblY4SnBBSmh0dkVfU2ZsQnhWTmMzanVKNWJ2aDhhT1BGeWJ2N0otVkJ0NGNkTnp6N1RDX0VfYlIxSjNxWmlBZ1dtX1A2VHJHLUdPQzdNb1lUbFJacS15NVkyeGVNQzlsNE8tNEZjZ3hxZTlNYmYxM0ljR2lpcndCTHlDRURYQ0doVGNCcXpSOXFXcGhuS1E4WmhRY2hTUEVmZ0lIMTBOZVRxbE1ZLWc4b2h3?oc=5",
-      "source": "Korea JoongAng Daily",
-      "publishedAt": "2026-11-22T05:20:35+00:00",
-      "date": "2026-11-22T05:20:35+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "5653d1d0530d567bb52b",
-      "title": "BTS reigns, labelmates Cortis and Enhypen soar at 2026 MAMA Awards - Korea JoongAng Daily",
-      "description": "BTS reigns, labelmates Cortis and Enhypen soar at 2026 MAMA Awards Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSE1XZG5QVEQyUlg4Q25ucmNZREtFSnE5TUxkZ1BlYlctZzk1Yi1YQTVPLUxNZXpaTzQ3V29LSW9tLXVtUmw0QV9MSHZGZG1UVnVLNGRZZHlJWFo0UnFaRlBQYzg4MmdfV3JteU1ZWnlZRFRuUWstaXlmMFlGMHo1cGRSYVVJamd3RTRlcnlveDc2cTd5bmMxbHZFZU5vaXltV0JrSVU3alBldnVJai14d1RTWnpZdUNQZURPMWZvM0E?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSE1XZG5QVEQyUlg4Q25ucmNZREtFSnE5TUxkZ1BlYlctZzk1Yi1YQTVPLUxNZXpaTzQ3V29LSW9tLXVtUmw0QV9MSHZGZG1UVnVLNGRZZHlJWFo0UnFaRlBQYzg4MmdfV3JteU1ZWnlZRFRuUWstaXlmMFlGMHo1cGRSYVVJamd3RTRlcnlveDc2cTd5bmMxbHZFZU5vaXltV0JrSVU3alBldnVJai14d1RTWnpZdUNQZURPMWZvM0E?oc=5",
-      "source": "Korea JoongAng Daily",
-      "publishedAt": "2026-11-22T05:20:35+00:00",
-      "date": "2026-11-22T05:20:35+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "fa5ad81299565ee52689",
-      "title": "CORTIS、デビュー約1年で大賞受賞＆4冠の快挙 - ニコニコニュース",
-      "description": "CORTIS、デビュー約1年で大賞受賞＆4冠の快挙 ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YTzNmNTRfcDlGeG5Pc2xvZTNNNUNqQnRNclh2eFJaR3RBRE9qNVZveFNIWUJDcXRZbVg1UmFhcmlKV1Vxam5JSkxoUEs4WTVVX1ZKTm1VSGhjMk1QRmZ1VlVBSnB6MEhCc1NCbkRnLUpab1VqNGVDZzJBRQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YTzNmNTRfcDlGeG5Pc2xvZTNNNUNqQnRNclh2eFJaR3RBRE9qNVZveFNIWUJDcXRZbVg1UmFhcmlKV1Vxam5JSkxoUEs4WTVVX1ZKTm1VSGhjMk1QRmZ1VlVBSnB6MEhCc1NCbkRnLUpab1VqNGVDZzJBRQ?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-22T05:18:22+00:00",
-      "date": "2026-11-22T05:18:22+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "7225f53d51b9fe0614e6",
-      "title": "《2026 MAMA》第二天得獎名單！BTS、CORTIS雙雙抱回大賞，BIGBANG出道20週年一舉奪3獎 - KSD 韓星網",
-      "description": "《2026 MAMA》第二天得獎名單！BTS、CORTIS雙雙抱回大賞，BIGBANG出道20週年一舉奪3獎 KSD 韓星網",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10QVctRVZ4TVRISUJEQXc5ZDJXdDZQRU1uTnFMbkwzaXYzQWl6R0NfZXBBNWEtaDZmUzFtdzlqYXF2ZHQxbG1CVUFlZ2d0ajVoMTU5b2ZvYnfSAVdBVV95cUxOb2hjRXBmZXctbjhDdnRrbU1xcHJIamhGVWhzUy1LZXhIS0dhTFhpNFpBcy1FTGhXejFmcXljeXlHVjNmWVlkNVRuSDVzNmlZRGN3VGpEOXM?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10QVctRVZ4TVRISUJEQXc5ZDJXdDZQRU1uTnFMbkwzaXYzQWl6R0NfZXBBNWEtaDZmUzFtdzlqYXF2ZHQxbG1CVUFlZ2d0ajVoMTU5b2ZvYnfSAVdBVV95cUxOb2hjRXBmZXctbjhDdnRrbU1xcHJIamhGVWhzUy1LZXhIS0dhTFhpNFpBcy1FTGhXejFmcXljeXlHVjNmWVlkNVRuSDVzNmlZRGN3VGpEOXM?oc=5",
-      "source": "KSD 韓星網",
-      "publishedAt": "2026-11-22T05:15:00+00:00",
-      "date": "2026-11-22T05:15:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "cea2af6fe5623c6f47ff",
-      "title": "CORTIS、デビュー約1年で大賞受賞＆4冠の快挙 ゴンホの関西弁スピーチに感動の声殺到「ほんまにありがとね、ほんまに愛してる」【2026 MAMA授賞式2日目】（モデルプレス） - Yahoo!ニュース",
-      "description": "CORTIS、デビュー約1年で大賞受賞＆4冠の快挙 ゴンホの関西弁スピーチに感動の声殺到「ほんまにありがとね、ほんまに愛してる」【2026 MAMA授賞式2日目】（モデルプレス） Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tOGk5MHB3MTl2ZlJzNkduZUNBajZyZE1yTGtvNDJJaWtDU0EyaE1RM3lFUm41aGwwbDN6V1lZb0xkVDRLMWpfQktVNEN1bU9adUJDTlZ6Z0FOZ21faEFzX1NZS0lkUWNEcXNWbjNsZUNyWEdMbXNKRWFWZjF2Wk0?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tOGk5MHB3MTl2ZlJzNkduZUNBajZyZE1yTGtvNDJJaWtDU0EyaE1RM3lFUm41aGwwbDN6V1lZb0xkVDRLMWpfQktVNEN1bU9adUJDTlZ6Z0FOZ21faEFzX1NZS0lkUWNEcXNWbjNsZUNyWEdMbXNKRWFWZjF2Wk0?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T05:07:19+00:00",
-      "date": "2026-11-22T05:07:19+00:00",
-      "member": "KEONHO",
-      "members": [
-        "KEONHO"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "681a2c831f7ea79cb2a7",
-      "title": "CORTIS、デビュー約1年で大賞受賞＆4冠の快挙 ゴンホの関西弁スピーチに感動の声殺到「ほんまにありがとね、ほんまに愛してる」【2026 MAMA授賞式2日目】 - モデルプレス",
-      "description": "CORTIS、デビュー約1年で大賞受賞＆4冠の快挙 ゴンホの関西弁スピーチに感動の声殺到「ほんまにありがとね、ほんまに愛してる」【2026 MAMA授賞式2日目】 モデルプレス",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eG9mTG5SYnJFYTFvbUtFZm9MSHhKNWlBaFE0Y3JZa3BLYUpxSG0yNUUzX0hnNi01SWd0cXh6T21wdmc2dTg1d3dfd0tHQdIBSkFVX3lxTE5acVFEVmg1SThnNUNwazZkTkhpWkwxWUJ1UENna2taek9nTGxVUDNnUE1STlIta2tVc3lyazRpZzBHQk1nVW5pOE5B?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eG9mTG5SYnJFYTFvbUtFZm9MSHhKNWlBaFE0Y3JZa3BLYUpxSG0yNUUzX0hnNi01SWd0cXh6T21wdmc2dTg1d3dfd0tHQdIBSkFVX3lxTE5acVFEVmg1SThnNUNwazZkTkhpWkwxWUJ1UENna2taek9nTGxVUDNnUE1STlIta2tVc3lyazRpZzBHQk1nVW5pOE5B?oc=5",
-      "source": "モデルプレス",
-      "publishedAt": "2026-11-22T05:07:18+00:00",
-      "date": "2026-11-22T05:07:18+00:00",
-      "member": "KEONHO",
-      "members": [
-        "KEONHO"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "52dfcfcbd7e0f478cd34",
-      "title": "Cortis wins Song of the Year at 2026 MAMA Awards - Manila Bulletin",
-      "description": "Cortis wins Song of the Year at 2026 MAMA Awards Manila Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUVjdmlGSzlLVkd4N1drYlVUWHhqa1dqcGxfYzFjUHNoYXkxMGxiZ0pwSjl0M2VkWUhzZnVCU0RsQ0Z1MGxmN1BXOTlVeTE5bXkyRGhOdFFmZzRmY1IyR0o4MmFvVEhwd0xoMFJHc0lyTEFBNDlJaW5ENTBhVGFfSk8xbw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUVjdmlGSzlLVkd4N1drYlVUWHhqa1dqcGxfYzFjUHNoYXkxMGxiZ0pwSjl0M2VkWUhzZnVCU0RsQ0Z1MGxmN1BXOTlVeTE5bXkyRGhOdFFmZzRmY1IyR0o4MmFvVEhwd0xoMFJHc0lyTEFBNDlJaW5ENTBhVGFfSk8xbw?oc=5",
-      "source": "Manila Bulletin",
-      "publishedAt": "2026-11-22T04:52:55+00:00",
-      "date": "2026-11-22T04:52:55+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "b07d7125ddf8fca2e2a3",
-      "title": "BTS and CORTIS win top prizes at 2026 MAMA Awards - Kursiv Media Узбекистан",
-      "description": "BTS and CORTIS win top prizes at 2026 MAMA Awards Kursiv Media Узбекистан",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2xVcEgydGlfS0ViQTdfUG5uTWNBSGFHWXp3MV9hWFBmczZkWGFoaXMtUWJHdDlpWG9sdzhaS2gyVjVUaUg1T0xJREQ3SkJYX0djQ0t1anh2N1hmS0tzUkt4WjdsMFlWcWF4ZmdtN3dxRDdmNTV1SnNvZHdmTThpb1prelBGYzd5Z05uR2pZLUh6QlNHNHlXU3Y2UGhCNlFSRThXdGsyT3NGUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2xVcEgydGlfS0ViQTdfUG5uTWNBSGFHWXp3MV9hWFBmczZkWGFoaXMtUWJHdDlpWG9sdzhaS2gyVjVUaUg1T0xJREQ3SkJYX0djQ0t1anh2N1hmS0tzUkt4WjdsMFlWcWF4ZmdtN3dxRDdmNTV1SnNvZHdmTThpb1prelBGYzd5Z05uR2pZLUh6QlNHNHlXU3Y2UGhCNlFSRThXdGsyT3NGUQ?oc=5",
-      "source": "Kursiv Media Узбекистан",
-      "publishedAt": "2026-11-22T04:47:06+00:00",
-      "date": "2026-11-22T04:47:06+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "567b7a9e18d7ef2ecfff",
-      "title": "CORTIS社群貼文 - 보이십니까 대상이!! 우리 작년엔 신인상을 받았던 - Weverse",
-      "description": "CORTIS社群貼文 - 보이십니까 대상이!! 우리 작년엔 신인상을 받았던 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tZXJaZklRaHFMZlhXT1o4LUZucjRtNnljUzlmT0J2LUZzM3BXTW9VcHN5WUh5T2xLY0prNjZldkt3T3NqSTJXRGNTNld1dU02amZoOEVKZk01dTh6dFB1NXluYw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tZXJaZklRaHFMZlhXT1o4LUZucjRtNnljUzlmT0J2LUZzM3BXTW9VcHN5WUh5T2xLY0prNjZldkt3T3NqSTJXRGNTNld1dU02amZoOEVKZk01dTh6dFB1NXluYw?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-22T04:14:02+00:00",
-      "date": "2026-11-22T04:14:02+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "519c03d52ac72e7b99f3",
-      "title": "CORTISコミュニティの投稿 - 보이십니까 대상이!! 우리 작년엔 신인상 - Weverse",
-      "description": "CORTISコミュニティの投稿 - 보이십니까 대상이!! 우리 작년엔 신인상 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53RWxCZGRtdndkNUtCaXBPWVVURmVGMlR0VFd6YUFpeVNKSWV6c0ltUXpka3dPLVNYcVJ3bzhUUWFPOWo3T3BaQ05jbUViQVUwa2tMMnpqa0FWZFpIRExF?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53RWxCZGRtdndkNUtCaXBPWVVURmVGMlR0VFd6YUFpeVNKSWV6c0ltUXpka3dPLVNYcVJ3bzhUUWFPOWo3T3BaQ05jbUViQVUwa2tMMnpqa0FWZFpIRExF?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-22T04:13:46+00:00",
-      "date": "2026-11-22T04:13:46+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "f87632f3db55a7435cfb",
-      "title": "CORTIS Community Post - 보이십니까 대상이!! 우리 작 - Weverse",
-      "description": "CORTIS Community Post - 보이십니까 대상이!! 우리 작 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82TjQwTk5pbVIxd2N6ZUM5dGpOMVdXZXppTVlMUDJqTGU2OFlrdERycW1mbm90Y3dhRjJPQTBoUlJzVEV2NHF6dm9fa1FDN0dTTkt4dnZUbw?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82TjQwTk5pbVIxd2N6ZUM5dGpOMVdXZXppTVlMUDJqTGU2OFlrdERycW1mbm90Y3dhRjJPQTBoUlJzVEV2NHF6dm9fa1FDN0dTTkt4dnZUbw?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-22T04:12:35+00:00",
-      "date": "2026-11-22T04:12:35+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "1cfd4f5f99b79c8dc983",
-      "title": "코르티스 커뮤니티 포스트 - 보이십니까 대상이!! 우리 작년엔 신인상을 - Weverse",
-      "description": "코르티스 커뮤니티 포스트 - 보이십니까 대상이!! 우리 작년엔 신인상을 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wWHFFQVIzR3J3ZWJHUXhEWUI0b0ZtWEtEelhXM1cwVFNkMmV6VkhIQVRuSjZNb1g4RldvdGc1bEkxMFRUSFlFMFV6MjhoS3lGckpqaWZiN3UxbVduTVFv?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wWHFFQVIzR3J3ZWJHUXhEWUI0b0ZtWEtEelhXM1cwVFNkMmV6VkhIQVRuSjZNb1g4RldvdGc1bEkxMFRUSFlFMFV6MjhoS3lGckpqaWZiN3UxbVduTVFv?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-22T04:12:10+00:00",
-      "date": "2026-11-22T04:12:10+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "308efea7b7fff3223dd9",
-      "title": "Post de la Comunidad CORTIS - 보이십니까 대상이! - Weverse",
-      "description": "Post de la Comunidad CORTIS - 보이십니까 대상이! Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yTTdVMGNnUHNELWxHSnJET3dCc05NSHd4VjYweVdnZ2ZaVXcwTTE5c29CdEVaMUdFM1pINWtnbHVBaEFhT2w5MmtMMTh5TTVNTFhOSDN5cXlWTjFmcWdR?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yTTdVMGNnUHNELWxHSnJET3dCc05NSHd4VjYweVdnZ2ZaVXcwTTE5c29CdEVaMUdFM1pINWtnbHVBaEFhT2w5MmtMMTh5TTVNTFhOSDN5cXlWTjFmcWdR?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-22T04:11:50+00:00",
-      "date": "2026-11-22T04:11:50+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "d332ca8961425114998a",
-      "title": "CORTIS社区帖子 - 보이십니까 대상이!! 우리 작년엔 신인상을 받았던 - Weverse",
-      "description": "CORTIS社区帖子 - 보이십니까 대상이!! 우리 작년엔 신인상을 받았던 Weverse",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kS0dSNWpOaVFtRzlUSkU1YkpEZ3BpcUs3THV1eXJhOTcySUVBNG5qcVhld0g0Ml95VnJabUhhMzV5bDg0UDlReVRzQVNTYWhPYlJhY3BCWGlPanpSR3drS2Z5UQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kS0dSNWpOaVFtRzlUSkU1YkpEZ3BpcUs3THV1eXJhOTcySUVBNG5qcVhld0g0Ml95VnJabUhhMzV5bDg0UDlReVRzQVNTYWhPYlJhY3BCWGlPanpSR3drS2Z5UQ?oc=5",
-      "source": "Weverse",
-      "publishedAt": "2026-11-22T04:11:39+00:00",
-      "date": "2026-11-22T04:11:39+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "2838ea9d500dd1efca50",
-      "title": "방탄소년단·코르티스, ‘2026 마마 어워즈’ 대상…하이브 4개 대상 석권 - 중앙일보",
-      "description": "방탄소년단·코르티스, ‘2026 마마 어워즈’ 대상…하이브 4개 대상 석권 중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxMGRULVp1S0NTcndXWl80QXZvdjg4U2F0NVNXbldNdmZYYWNsRlV0Q1F1eWtMZ2FvRE52dXFHQWJYa0pPcm9yTWpheU9JOEN1Y0tRUVF3?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxMGRULVp1S0NTcndXWl80QXZvdjg4U2F0NVNXbldNdmZYYWNsRlV0Q1F1eWtMZ2FvRE52dXFHQWJYa0pPcm9yTWpheU9JOEN1Y0tRUVF3?oc=5",
-      "source": "중앙일보",
-      "publishedAt": "2026-11-22T03:41:23+00:00",
-      "date": "2026-11-22T03:41:23+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "7e61b407a03cf80006e9",
-      "title": "［韓流］ILLITとCORTIS 日本レコ大で受賞 - 聯合ニュース",
-      "description": "［韓流］ILLITとCORTIS 日本レコ大で受賞 聯合ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FcTJybEptRkpBdUg5NTQ0U05yaGR6RlZ2eTVPWGNtUk5qdmUtenFTR1NySzlFczVEcEJycERvaGx2a0g0V290THhlVGd5SXdhV3IzWHM2TUwzQQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FcTJybEptRkpBdUg5NTQ0U05yaGR6RlZ2eTVPWGNtUk5qdmUtenFTR1NySzlFczVEcEJycERvaGx2a0g0V290THhlVGd5SXdhV3IzWHM2TUwzQQ?oc=5",
-      "source": "聯合ニュース",
-      "publishedAt": "2026-11-22T02:52:42+00:00",
-      "date": "2026-11-22T02:52:42+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "3a57808ab663aeb06d76",
-      "title": "[종합]하이브, '마마' 대상 싹쓸이…BTS·코르티스·엔하이픈 정상, 빅뱅은 20년 저력 - 조선일보",
-      "description": "[종합]하이브, '마마' 대상 싹쓸이…BTS·코르티스·엔하이픈 정상, 빅뱅은 20년 저력 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOTVQckdwZTZ0MEpzQm5uTWNVc3dydE05UDFlX1dad2NDQmZDU3RKMjAzRWFPc042TjQwaHdJR2NkLWlNbmxuRmNiaFVSNmNvTUQ1bWRJdEpsZ1k2d25sUnhleU41ODZaM1ppU0syanBpdDRSczdYUUgyVDVMdG1ZX3JkbExpcE00U0E?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOTVQckdwZTZ0MEpzQm5uTWNVc3dydE05UDFlX1dad2NDQmZDU3RKMjAzRWFPc042TjQwaHdJR2NkLWlNbmxuRmNiaFVSNmNvTUQ1bWRJdEpsZ1k2d25sUnhleU41ODZaM1ppU0syanBpdDRSczdYUUgyVDVMdG1ZX3JkbExpcE00U0E?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-11-22T02:31:00+00:00",
-      "date": "2026-11-22T02:31:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "39cd2ab3634f7d97f03f",
-      "title": "［韓流］音楽授賞式MAMA大賞にBTSとCORTIS 3冠のビッグバンは新曲披露 - 聯合ニュース",
-      "description": "［韓流］音楽授賞式MAMA大賞にBTSとCORTIS 3冠のビッグバンは新曲披露 聯合ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pWWFLZFFVRHFDaXJnTl9wT3hVZWxoRlEwbVpLcnZlNjdEcG5RM0hMSC1qMWpheDRJbG10R2JVMU9ZVENFelE0ZFVlZEhFTE40bzRzbHRWeFExUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pWWFLZFFVRHFDaXJnTl9wT3hVZWxoRlEwbVpLcnZlNjdEcG5RM0hMSC1qMWpheDRJbG10R2JVMU9ZVENFelE0ZFVlZEhFTE40bzRzbHRWeFExUQ?oc=5",
-      "source": "聯合ニュース",
-      "publishedAt": "2026-11-22T02:17:28+00:00",
-      "date": "2026-11-22T02:17:28+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "9f5f1bd65198f82483c8",
-      "title": "Was Hwasa 'forced' to film CORTIS' performance at MAMA 2026? Viral video sparks uproar among K-pop fans - Indiatimes",
-      "description": "Was Hwasa 'forced' to film CORTIS' performance at MAMA 2026? Viral video sparks uproar among K-pop fans Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNX0dWdGxNRE4zUXp3alYyLVQwR19kZjkxVlloSGRhMExZa05WZWJXTWYwVDdvR3k1VWpBVUs2aTN6a0pITEFmQ0U0cEY4VU1DUzVGRTJDczdjRnV5cGhZa1NKU0tXVEtlNUxyNElVNWx4amVTcS1SZ3Zvc1FyZkVwcjQ5cW5PLTRKdWRVZldEQ3p0ZFAxeFRTWGo2MHNTZjh1c3JBU0FXWkRfSjk5VHk4NXRnRDNBNzZqSlVrSmh6VUpjMXRXZDdPbEh0MHBhSWRNRGp5ZThJNEhoTk5Hd3NVODQ0TzBFQUZGZ05aNVFaXzJsYUVQ0gH6AUFVX3lxTFA0ZTBYaFh2VXVXMkZkMEtVMDZsUHFDV2pJbkFZdVYyby15bEpqWWdWbjZFbzNFNGxteGRzbDdPNThNUnY0N2ltNTZ1SUtaZUpFc1l3VnFNYkRBd0F0V0ZTY01yT1pRNzZwWHFzMFl4RW92Si1pU1RKd3p2em5kdkc3bjhGYWl2cEhoaGlzcU02aWZPNndwTDB4ZDF2cU9zbmV3RnNVbTNmdjZkOXJnMXBBS0U1ck1BVFVzbnBUVG1qRGlnd2ZsS2lJTHkwRlprLWU0LVd2NkNfeVd6bnVjTnY5bmNiT1B1TUFsLS1JSDFaT29VYXVLUXVRVGc?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNX0dWdGxNRE4zUXp3alYyLVQwR19kZjkxVlloSGRhMExZa05WZWJXTWYwVDdvR3k1VWpBVUs2aTN6a0pITEFmQ0U0cEY4VU1DUzVGRTJDczdjRnV5cGhZa1NKU0tXVEtlNUxyNElVNWx4amVTcS1SZ3Zvc1FyZkVwcjQ5cW5PLTRKdWRVZldEQ3p0ZFAxeFRTWGo2MHNTZjh1c3JBU0FXWkRfSjk5VHk4NXRnRDNBNzZqSlVrSmh6VUpjMXRXZDdPbEh0MHBhSWRNRGp5ZThJNEhoTk5Hd3NVODQ0TzBFQUZGZ05aNVFaXzJsYUVQ0gH6AUFVX3lxTFA0ZTBYaFh2VXVXMkZkMEtVMDZsUHFDV2pJbkFZdVYyby15bEpqWWdWbjZFbzNFNGxteGRzbDdPNThNUnY0N2ltNTZ1SUtaZUpFc1l3VnFNYkRBd0F0V0ZTY01yT1pRNzZwWHFzMFl4RW92Si1pU1RKd3p2em5kdkc3bjhGYWl2cEhoaGlzcU02aWZPNndwTDB4ZDF2cU9zbmV3RnNVbTNmdjZkOXJnMXBBS0U1ck1BVFVzbnBUVG1qRGlnd2ZsS2lJTHkwRlprLWU0LVd2NkNfeVd6bnVjTnY5bmNiT1B1TUFsLS1JSDFaT29VYXVLUXVRVGc?oc=5",
-      "source": "Indiatimes",
-      "publishedAt": "2026-11-22T02:12:14+00:00",
-      "date": "2026-11-22T02:12:14+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "d8a57e45965b635bfe81",
-      "title": "‘MAMA’ 대상 36개 중 30개···BTS부터 코르티스까지 하이브 올해도 싹쓸이 [가요판] - 스포츠경향",
-      "description": "‘MAMA’ 대상 36개 중 30개···BTS부터 코르티스까지 하이브 올해도 싹쓸이 [가요판] 스포츠경향",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90eVlkNGxYeGhkSzFSbTRvU2k2WmVsTjAxaTk1TklxcUl3ZGt0N1FEazMyMVlJbS03YkpHTkk5amY5VVF3STBOQjlMbEZtVUJTd3JocXFmUHlTSzkzcXfSAWNBVV95cUxOMFRMUzBLZWNtXzhrSFhfa1JpWk5pLXFwT3EyXzhGdlFFM1NDZzcxeks0T0UxWlFzSU91cDJEZ0Jlem51eHU1LWNFT1otVnl2bXA2U0Q0dnNUaFM5SnE4VlIwM3M?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90eVlkNGxYeGhkSzFSbTRvU2k2WmVsTjAxaTk1TklxcUl3ZGt0N1FEazMyMVlJbS03YkpHTkk5amY5VVF3STBOQjlMbEZtVUJTd3JocXFmUHlTSzkzcXfSAWNBVV95cUxOMFRMUzBLZWNtXzhrSFhfa1JpWk5pLXFwT3EyXzhGdlFFM1NDZzcxeks0T0UxWlFzSU91cDJEZ0Jlem51eHU1LWNFT1otVnl2bXA2U0Q0dnNUaFM5SnE4VlIwM3M?oc=5",
-      "source": "스포츠경향",
-      "publishedAt": "2026-11-22T02:08:00+00:00",
-      "date": "2026-11-22T02:08:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "f11d95596ef41eb81e8d",
-      "title": "BTS reign supreme at 2026 MAMAs, but Cortis steal the spotlight with Song of the Year win - Yahoo",
-      "description": "BTS reign supreme at 2026 MAMAs, but Cortis steal the spotlight with Song of the Year win Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDJkY1prUGhCdTdhTEpydXhULWlNdjgwX0NJcW5JTC1OTVVVWWlqbVFwSFFzTXhKUUpLXzU4MF9DOXBleE1kUmlyT0hqdzJBSjFxYWZvLXdYU3ZrdUJYYWJReXVRLXU2UkRONFFhUHhfNTFLazdZbmFDdzZrcHp2dA?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDJkY1prUGhCdTdhTEpydXhULWlNdjgwX0NJcW5JTC1OTVVVWWlqbVFwSFFzTXhKUUpLXzU4MF9DOXBleE1kUmlyT0hqdzJBSjFxYWZvLXdYU3ZrdUJYYWJReXVRLXU2UkRONFFhUHhfNTFLazdZbmFDdzZrcHp2dA?oc=5",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-22T01:48:00+00:00",
-      "date": "2026-11-22T01:48:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "7f1401c9c7a2df3b495e",
-      "title": "HYBE Sweeps MAMA Grand Prizes... BTS, CORTIS and ENHYPEN Lead, While BIGBANG Shows 20 Years of Staying Power - 스포츠조선",
-      "description": "HYBE Sweeps MAMA Grand Prizes... BTS, CORTIS and ENHYPEN Lead, While BIGBANG Shows 20 Years of Staying Power 스포츠조선",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvLS01TVFYQUpndnZIQUZ3Ym5ONG1zS3dnZXY3V2lkUmVJaUo3dFpDTllwb1Vmd0cza3lYUTBXMGtZODEwZUUyOWl6T0lDZUgxTmY0OVJUU3J3ZkpSU3ZXUFFEcDdrU2k3XzdHUktBdHpubGpCYU15VkpzdUNZUQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvLS01TVFYQUpndnZIQUZ3Ym5ONG1zS3dnZXY3V2lkUmVJaUo3dFpDTllwb1Vmd0cza3lYUTBXMGtZODEwZUUyOWl6T0lDZUgxTmY0OVJUU3J3ZkpSU3ZXUFFEcDdrU2k3XzdHUktBdHpubGpCYU15VkpzdUNZUQ?oc=5",
-      "source": "스포츠조선",
-      "publishedAt": "2026-11-22T01:20:43+00:00",
-      "date": "2026-11-22T01:20:43+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "6a9b53a271252286907b",
-      "title": "BTS 대상 2개·코르티스 첫 대상…MAMA 빛낸 신구 K팝 - 서울컬처",
-      "description": "BTS 대상 2개·코르티스 첫 대상…MAMA 빛낸 신구 K팝 서울컬처",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1USnR3TXFfamt1WDdEUWFQNjN4YmQ2cnVsVnFEbFR5YkEzUGRmUUNkNkhuWnpzR2ZYbWkxZmVXcUVicDFBX2doR01YWmVYeS0tRWloaXY3SUIwNFd4a0poWWpZSGt4ZGlZUEVmWDhuckk?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1USnR3TXFfamt1WDdEUWFQNjN4YmQ2cnVsVnFEbFR5YkEzUGRmUUNkNkhuWnpzR2ZYbWkxZmVXcUVicDFBX2doR01YWmVYeS0tRWloaXY3SUIwNFd4a0poWWpZSGt4ZGlZUEVmWDhuckk?oc=5",
-      "source": "서울컬처",
-      "publishedAt": "2026-11-22T01:03:00+00:00",
-      "date": "2026-11-22T01:03:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "15fdbb928c73620ccd00",
-      "title": "‘MAMA’ 9만명의 축제···방탄소년단 대상 2개, 코르티스 ‘올해의 노래’ - 스포츠경향",
-      "description": "‘MAMA’ 9만명의 축제···방탄소년단 대상 2개, 코르티스 ‘올해의 노래’ 스포츠경향",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkNG83eTlyV2JldzJjUTRuNDBiYmNuMC0wNmlrXzVZUDFRYkJCejdQVFBKeUxfMEk1UHVUZFRBeUkxOUxyU19LM3l0T2ZDLWtUenJyQTBIXzR6THF2WFHSAWNBVV95cUxOeVF1OXpZeGNJYmtyTGxfLWtSUGZCTUZobEN0Z2g2cU1mMWhqWE5wWlQxTENEM19CeGc1MjVzcXFheFRSa1hBd0VObHMwM3JPN2R1dXJjZlhsTl9zMGpscjFsRlk?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkNG83eTlyV2JldzJjUTRuNDBiYmNuMC0wNmlrXzVZUDFRYkJCejdQVFBKeUxfMEk1UHVUZFRBeUkxOUxyU19LM3l0T2ZDLWtUenJyQTBIXzR6THF2WFHSAWNBVV95cUxOeVF1OXpZeGNJYmtyTGxfLWtSUGZCTUZobEN0Z2g2cU1mMWhqWE5wWlQxTENEM19CeGc1MjVzcXFheFRSa1hBd0VObHMwM3JPN2R1dXJjZlhsTl9zMGpscjFsRlk?oc=5",
-      "source": "스포츠경향",
-      "publishedAt": "2026-11-22T00:51:00+00:00",
-      "date": "2026-11-22T00:51:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "800d4f852cfcc202eed3",
-      "title": "코르티스, 데뷔 1년여 만에 ‘2026 MAMA’ 대상 포함 4관왕 쾌거 - CBC뉴스",
-      "description": "코르티스, 데뷔 1년여 만에 ‘2026 MAMA’ 대상 포함 4관왕 쾌거 CBC뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzZ1BlM3RteWc4bHQxNVR5dm5xT0RFY1c3VWJyVUNoUGtiaVdaTC1nUzJVTnhZM0lQcGUtOVhPbkZCVnlwZkxlS1o1V2J5eGhodWp2ckVCQzJRSDVQOUpLTDFxRkFoWlRF?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzZ1BlM3RteWc4bHQxNVR5dm5xT0RFY1c3VWJyVUNoUGtiaVdaTC1nUzJVTnhZM0lQcGUtOVhPbkZCVnlwZkxlS1o1V2J5eGhodWp2ckVCQzJRSDVQOUpLTDFxRkFoWlRF?oc=5",
-      "source": "CBC뉴스",
-      "publishedAt": "2026-11-22T00:49:35+00:00",
-      "date": "2026-11-22T00:49:35+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "92bca617560b436a615e",
-      "title": "빅뱅부터 코르티스까지…‘2026 마마’ 9만 관객 열광 - 애드뉴스인천",
-      "description": "빅뱅부터 코르티스까지…‘2026 마마’ 9만 관객 열광 애드뉴스인천",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCZ2tmYlNkeDVxMVIxMG5tNDZWcmlRaVVZcTRmcW5QRFl4YUVILWtsdUpmMmlIelZWeThSa0locXZJaEVXNGZ3MlRTZ2lPYUx3RVl4b0xtRTdJMXFFb2FxZTNJbUN2cHMzeFNr?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCZ2tmYlNkeDVxMVIxMG5tNDZWcmlRaVVZcTRmcW5QRFl4YUVILWtsdUpmMmlIelZWeThSa0locXZJaEVXNGZ3MlRTZ2lPYUx3RVl4b0xtRTdJMXFFb2FxZTNJbUN2cHMzeFNr?oc=5",
-      "source": "애드뉴스인천",
-      "publishedAt": "2026-11-22T00:42:00+00:00",
-      "date": "2026-11-22T00:42:00+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "e0c66667f2c6b12914af",
-      "title": "CORTIS’ Martin Calls Panic “Legends” After Their “Left-Handed” Performance | MAMA Awards 2026 - Billboard",
-      "description": "CORTIS’ Martin Calls Panic “Legends” After Their “Left-Handed” Performance | MAMA Awards 2026 Billboard",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2tSeVVBZWZldnZrZUNnenY5amJnNGlpZzdnb0tNMGNrakxocGpKRTQ4NzJLRTBxZzFjSFMxQS1ya2J6d0x3aHlMWS12YmVYcXhiaVQ0SjFTQTNGc0NMWmZBNkltLXdXS2I4NWcxQVZSLVJVYmdTbXdVakNzRFk2NkVDMVVBUmVDSlZpUDc1RHE3V0NNcXZOb1lqVnl2OGhCX2xLdzJQeE44MHNKVHRFeGRqOA?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2tSeVVBZWZldnZrZUNnenY5amJnNGlpZzdnb0tNMGNrakxocGpKRTQ4NzJLRTBxZzFjSFMxQS1ya2J6d0x3aHlMWS12YmVYcXhiaVQ0SjFTQTNGc0NMWmZBNkltLXdXS2I4NWcxQVZSLVJVYmdTbXdVakNzRFk2NkVDMVVBUmVDSlZpUDc1RHE3V0NNcXZOb1lqVnl2OGhCX2xLdzJQeE44MHNKVHRFeGRqOA?oc=5",
-      "source": "Billboard",
-      "publishedAt": "2026-11-22T00:33:45+00:00",
-      "date": "2026-11-22T00:33:45+00:00",
-      "member": "MARTIN",
-      "members": [
-        "MARTIN"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "1d1dd01e23386314b5ed",
-      "title": "코르티스·BTS·엔하이픈, 감격의 대상…방탄소년단은 5관왕(종합) [2026 MAMA] - 뉴스1",
-      "description": "코르티스·BTS·엔하이픈, 감격의 대상…방탄소년단은 5관왕(종합) [2026 MAMA] 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51VlpuM0JQd3hlWjVDemFtamlYTW91RWdYcG5RRnVCT25JV0U1RHdOdk9fSnBhVUpDelRGTGdjTl9hNlNIUGJDSnlubFNIbC1UYmE3b1ppWQ?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51VlpuM0JQd3hlWjVDemFtamlYTW91RWdYcG5RRnVCT25JV0U1RHdOdk9fSnBhVUpDelRGTGdjTl9hNlNIUGJDSnlubFNIbC1UYmE3b1ppWQ?oc=5",
-      "source": "뉴스1",
-      "publishedAt": "2026-11-22T00:29:48+00:00",
-      "date": "2026-11-22T00:29:48+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "61fe28990c032484455b",
-      "title": "CORTIS Wins Four Awards, Including Grand Prize, at 2026 MAMA - 조선일보",
-      "description": "CORTIS Wins Four Awards, Including Grand Prize, at 2026 MAMA 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1ZaM1NDWktqeXYySmZxbktSOEF1OHFEOWxoUTU0SWxEMmVRVFJGVFFCc0pPVEYxa0V3Y0s0YWtzamtRYkRmNmV0MjF5Yk5FYlFkTUM3Wk02bVZkcTJOTDJ4aVVFSGVuc3hxUk52YTJaUjFhdHgxNWRpVnlvLWJWRzRVUXIwc0JkazhjZGFR?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1ZaM1NDWktqeXYySmZxbktSOEF1OHFEOWxoUTU0SWxEMmVRVFJGVFFCc0pPVEYxa0V3Y0s0YWtzamtRYkRmNmV0MjF5Yk5FYlFkTUM3Wk02bVZkcTJOTDJ4aVVFSGVuc3hxUk52YTJaUjFhdHgxNWRpVnlvLWJWRzRVUXIwc0JkazhjZGFR?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-11-22T00:29:39+00:00",
-      "date": "2026-11-22T00:29:39+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "c64e408862755cbec3ec",
-      "title": "CORTIS — 2026 MAMA 4-Crown Winner & Grand Prize Triumph - The Korea Daily",
-      "description": "CORTIS — 2026 MAMA 4-Crown Winner & Grand Prize Triumph The Korea Daily",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NRnhVZWFjY21kd2Z6eTVPWkNkbm15U1FxT0FTN0V4c1gxZkFSWXBwMzY5T0NySm9OX0dyZmZGR2ZvbnNaUjdHNnY0SG9YcVpRcVdwdkUwemotZHd6LVBGYXhNa05waVNhV3c?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NRnhVZWFjY21kd2Z6eTVPWkNkbm15U1FxT0FTN0V4c1gxZkFSWXBwMzY5T0NySm9OX0dyZmZGR2ZvbnNaUjdHNnY0SG9YcVpRcVdwdkUwemotZHd6LVBGYXhNa05waVNhV3c?oc=5",
-      "source": "The Korea Daily",
-      "publishedAt": "2026-11-22T00:13:46+00:00",
-      "date": "2026-11-22T00:13:46+00:00",
-      "member": "GROUP",
-      "members": [
-        "GROUP"
-      ],
-      "category": "NEWS"
-    },
-    {
-      "id": "b0af0510e23fa30f3afb",
-      "title": "코르티스, 데뷔 1년 만에 ‘MAMA’ 정상 우뚝…‘레드레드’로 올해의 노래 수상 - 스포츠동아",
-      "description": "코르티스, 데뷔 1년 만에 ‘MAMA’ 정상 우뚝…‘레드레드’로 올해의 노래 수상 스포츠동아",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sODBmY2N4UV9CdFBFUHl4RW9Tc0hIdGlHU0JrdmJrU0NYS2lJVG1jTGVRYm9NVEpuNXVCakNTSUlEYThzaWpQY1N1YVZmTkFDUTduNUVxRmQ5cjJfdDBodWtfMFRNUEFWRVUtc3Jn?oc=5",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sODBmY2N4UV9CdFBFUHl4RW9Tc0hIdGlHU0JrdmJrU0NYS2lJVG1jTGVRYm9NVEpuNXVCakNTSUlEYThzaWpQY1N1YVZmTkFDUTduNUVxRmQ5cjJfdDBodWtfMFRNUEFWRVUtc3Jn?oc=5",
-      "source": "스포츠동아",
-      "publishedAt": "2026-11-21T23:50:28+00:00",
-      "date": "2026-11-21T23:50:28+00:00",
       "member": "GROUP",
       "members": [
         "GROUP"
